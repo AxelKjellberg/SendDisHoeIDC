@@ -1,0 +1,7462 @@
+fileFormatVersion: 2
+guid: 6bdec94c51289416e9eef213f5a2c0b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3321217131520958723
+    second: Transfers_0
+  - first:
+      213: -4856172524109423643
+    second: Transfers_1
+  - first:
+      213: 5980150703692915503
+    second: Transfers_2
+  - first:
+      213: 9068151863942714982
+    second: Transfers_3
+  - first:
+      213: -4157568576141877834
+    second: Transfers_4
+  - first:
+      213: -1253439482077323449
+    second: Transfers_5
+  - first:
+      213: 7050682701146131200
+    second: Transfers_6
+  - first:
+      213: 9134736930983675660
+    second: Transfers_7
+  - first:
+      213: 3513343942489723754
+    second: Transfers_8
+  - first:
+      213: -633671498099396663
+    second: Transfers_9
+  - first:
+      213: 6965663743626634463
+    second: Transfers_10
+  - first:
+      213: -6282761256809171592
+    second: Transfers_11
+  - first:
+      213: 6105027839686490967
+    second: Transfers_12
+  - first:
+      213: -8215521165254592529
+    second: Transfers_13
+  - first:
+      213: -1210187477367399730
+    second: Transfers_14
+  - first:
+      213: -2019675972936557496
+    second: Transfers_15
+  - first:
+      213: 2208100049602859125
+    second: Transfers_16
+  - first:
+      213: -2071819176328253903
+    second: Transfers_17
+  - first:
+      213: 142794345317619653
+    second: Transfers_18
+  - first:
+      213: 4168650911423585361
+    second: Transfers_19
+  - first:
+      213: -683272411468365369
+    second: Transfers_20
+  - first:
+      213: -2645903891266680221
+    second: Transfers_21
+  - first:
+      213: -4247464924302360176
+    second: Transfers_22
+  - first:
+      213: 5665436099663743862
+    second: Transfers_23
+  - first:
+      213: -4050132595832989257
+    second: Transfers_24
+  - first:
+      213: 4849115221733325381
+    second: Transfers_25
+  - first:
+      213: -8737375226707749169
+    second: Transfers_26
+  - first:
+      213: 1984112577287435831
+    second: Transfers_27
+  - first:
+      213: 6897870612011514303
+    second: Transfers_28
+  - first:
+      213: -8489950617057276147
+    second: Transfers_29
+  - first:
+      213: -8117635900499777519
+    second: Transfers_30
+  - first:
+      213: 6770981634810266892
+    second: Transfers_31
+  - first:
+      213: 7078978804075357241
+    second: Transfers_32
+  - first:
+      213: 8480608179236271962
+    second: Transfers_33
+  - first:
+      213: -7831269873463298901
+    second: Transfers_34
+  - first:
+      213: 6549321914378953965
+    second: Transfers_35
+  - first:
+      213: -7912691641886485725
+    second: Transfers_36
+  - first:
+      213: -7662756193179955873
+    second: Transfers_37
+  - first:
+      213: 2671422433359011329
+    second: Transfers_38
+  - first:
+      213: -1379706760793809092
+    second: Transfers_39
+  - first:
+      213: 5570528780341505013
+    second: Transfers_40
+  - first:
+      213: -4253945461220583619
+    second: Transfers_41
+  - first:
+      213: -4325006365803180540
+    second: Transfers_42
+  - first:
+      213: 2519271652817438593
+    second: Transfers_43
+  - first:
+      213: -2816133084246217649
+    second: Transfers_44
+  - first:
+      213: 1609841189889319591
+    second: Transfers_45
+  - first:
+      213: 3842496524642858141
+    second: Transfers_46
+  - first:
+      213: -1200298559180792669
+    second: Transfers_47
+  - first:
+      213: 2194071685930857874
+    second: Transfers_48
+  - first:
+      213: 850848014431911560
+    second: Transfers_49
+  - first:
+      213: 3432573504493313602
+    second: Transfers_50
+  - first:
+      213: 4829701918494402002
+    second: Transfers_51
+  - first:
+      213: -90809632199004532
+    second: Transfers_52
+  - first:
+      213: -4683596645000806112
+    second: Transfers_53
+  - first:
+      213: -4833523427146886544
+    second: Transfers_54
+  - first:
+      213: -5449826488343511627
+    second: Transfers_55
+  - first:
+      213: 4669114296531618312
+    second: Transfers_56
+  - first:
+      213: 2611911935590509188
+    second: Transfers_57
+  - first:
+      213: -5811794392162654275
+    second: Transfers_58
+  - first:
+      213: -4116226306304999773
+    second: Transfers_59
+  - first:
+      213: -1611578846680701026
+    second: Transfers_60
+  - first:
+      213: 8042861723160128819
+    second: Transfers_61
+  - first:
+      213: -6300091683790940703
+    second: Transfers_62
+  - first:
+      213: -3016028988252349877
+    second: Transfers_63
+  - first:
+      213: -3509604223790419175
+    second: Transfers_64
+  - first:
+      213: 5358635672284958247
+    second: Transfers_65
+  - first:
+      213: -3054069438928760761
+    second: Transfers_66
+  - first:
+      213: -9180706655264945233
+    second: Transfers_67
+  - first:
+      213: -3272367605390647871
+    second: Transfers_68
+  - first:
+      213: -8999861124379255250
+    second: Transfers_69
+  - first:
+      213: 5055493295748638518
+    second: Transfers_70
+  - first:
+      213: 9092035023998251823
+    second: Transfers_71
+  - first:
+      213: 4908333512949636563
+    second: Transfers_72
+  - first:
+      213: 4741214845597097608
+    second: Transfers_73
+  - first:
+      213: 6331860814673595430
+    second: Transfers_74
+  - first:
+      213: -5156378548274752258
+    second: Transfers_75
+  - first:
+      213: -7544267702081260770
+    second: Transfers_76
+  - first:
+      213: -7790105223569417912
+    second: Transfers_77
+  - first:
+      213: 5800895094587646748
+    second: Transfers_78
+  - first:
+      213: 7068100761986061146
+    second: Transfers_79
+  - first:
+      213: -2494489757794416883
+    second: Transfers_80
+  - first:
+      213: -2747921461408414962
+    second: Transfers_81
+  - first:
+      213: -7913150959622313999
+    second: Transfers_82
+  - first:
+      213: -8283840602678197367
+    second: Transfers_83
+  - first:
+      213: 881279299878494640
+    second: Transfers_84
+  - first:
+      213: -6543734756485606672
+    second: Transfers_85
+  - first:
+      213: 7610246167614776533
+    second: Transfers_86
+  - first:
+      213: -2480089820073618315
+    second: Transfers_87
+  - first:
+      213: -6492865575147060560
+    second: Transfers_88
+  - first:
+      213: -4409800934880649632
+    second: Transfers_89
+  - first:
+      213: 3180736002819584071
+    second: Transfers_90
+  - first:
+      213: 8521911645755783219
+    second: Transfers_91
+  - first:
+      213: -6002081449285041550
+    second: Transfers_92
+  - first:
+      213: -3872481816153072531
+    second: Transfers_93
+  - first:
+      213: -798798445716198287
+    second: Transfers_94
+  - first:
+      213: -9107090823308010423
+    second: Transfers_95
+  - first:
+      213: -7906771888153835136
+    second: Transfers_96
+  - first:
+      213: -3646973496250643667
+    second: Transfers_97
+  - first:
+      213: -3736265432014852587
+    second: Transfers_98
+  - first:
+      213: -8997138539509754784
+    second: Transfers_99
+  - first:
+      213: 5459160610719198298
+    second: Transfers_100
+  - first:
+      213: -939024063900321000
+    second: Transfers_101
+  - first:
+      213: -2532202445106565097
+    second: Transfers_102
+  - first:
+      213: 5862040398920617759
+    second: Transfers_103
+  - first:
+      213: -3815994341515458480
+    second: Transfers_104
+  - first:
+      213: 1332542828548219526
+    second: Transfers_105
+  - first:
+      213: 5926104943023402425
+    second: Transfers_106
+  - first:
+      213: -70230169211471427
+    second: Transfers_107
+  - first:
+      213: 1791891511606469732
+    second: Transfers_108
+  - first:
+      213: -5589744756668114462
+    second: Transfers_109
+  - first:
+      213: 5139781866373333380
+    second: Transfers_110
+  - first:
+      213: 8235465317702099420
+    second: Transfers_111
+  - first:
+      213: -6755270972564474879
+    second: Transfers_112
+  - first:
+      213: -2432468314028878870
+    second: Transfers_113
+  - first:
+      213: -852922386702178215
+    second: Transfers_114
+  - first:
+      213: -4391987868727661245
+    second: Transfers_115
+  - first:
+      213: -5795824084273595455
+    second: Transfers_116
+  - first:
+      213: -1173740889439284237
+    second: Transfers_117
+  - first:
+      213: 3277800646096927859
+    second: Transfers_118
+  - first:
+      213: -1048774012460708568
+    second: Transfers_119
+  - first:
+      213: 4930018265681537079
+    second: Transfers_120
+  - first:
+      213: 4142881968413712876
+    second: Transfers_121
+  - first:
+      213: -5527644511325474918
+    second: Transfers_122
+  - first:
+      213: 6472341941617593915
+    second: Transfers_123
+  - first:
+      213: -9188326838400751880
+    second: Transfers_124
+  - first:
+      213: 5625072782958155672
+    second: Transfers_125
+  - first:
+      213: 3488279321026226719
+    second: Transfers_126
+  - first:
+      213: 7908657076393806291
+    second: Transfers_127
+  - first:
+      213: -1184616508710875288
+    second: Transfers_128
+  - first:
+      213: -3901345513008246954
+    second: Transfers_129
+  - first:
+      213: 3483160106790404326
+    second: Transfers_130
+  - first:
+      213: 9191618229916845877
+    second: Transfers_131
+  - first:
+      213: 4931223034874897452
+    second: Transfers_132
+  - first:
+      213: 7475796161098373963
+    second: Transfers_133
+  - first:
+      213: -5225331460000501065
+    second: Transfers_134
+  - first:
+      213: 7178475849057811210
+    second: Transfers_135
+  - first:
+      213: 7754256604368978137
+    second: Transfers_136
+  - first:
+      213: 2671164506030097319
+    second: Transfers_137
+  - first:
+      213: 2141043318358161558
+    second: Transfers_138
+  - first:
+      213: -1242971872866040760
+    second: Transfers_139
+  - first:
+      213: 9146331055972939142
+    second: Transfers_140
+  - first:
+      213: -1465793946764265229
+    second: Transfers_141
+  - first:
+      213: -7678401103118780796
+    second: Transfers_142
+  - first:
+      213: 8837275570396534989
+    second: Transfers_143
+  - first:
+      213: 3517563309852505212
+    second: Transfers_144
+  - first:
+      213: 5016971135815357744
+    second: Transfers_145
+  - first:
+      213: 2336554885256183464
+    second: Transfers_146
+  - first:
+      213: -7910729656769237377
+    second: Transfers_147
+  - first:
+      213: 1588402635811803054
+    second: Transfers_148
+  - first:
+      213: -2670207099438263888
+    second: Transfers_149
+  - first:
+      213: -6317367371108321895
+    second: Transfers_150
+  - first:
+      213: 5683420138507058324
+    second: Transfers_151
+  - first:
+      213: 8500857763549128297
+    second: Transfers_152
+  - first:
+      213: 2210549057749945731
+    second: Transfers_153
+  - first:
+      213: -7285094763419180222
+    second: Transfers_154
+  - first:
+      213: 2548962128786469295
+    second: Transfers_155
+  - first:
+      213: 6669783654931596231
+    second: Transfers_156
+  - first:
+      213: 816836852605934652
+    second: Transfers_157
+  - first:
+      213: -4876814981305417801
+    second: Transfers_158
+  - first:
+      213: -346625407933523425
+    second: Transfers_159
+  - first:
+      213: -8717906140628191837
+    second: Transfers_160
+  - first:
+      213: 5384775480659641880
+    second: Transfers_161
+  - first:
+      213: 4882475515421926915
+    second: Transfers_162
+  - first:
+      213: -8133819023460027663
+    second: Transfers_163
+  - first:
+      213: 3704870342246425529
+    second: Transfers_164
+  - first:
+      213: -9049076044636885875
+    second: Transfers_165
+  - first:
+      213: -4716191405298696624
+    second: Transfers_166
+  - first:
+      213: 5612506950749992112
+    second: Transfers_167
+  - first:
+      213: 4832427997571877079
+    second: Transfers_168
+  - first:
+      213: 4949216554884383891
+    second: Transfers_169
+  - first:
+      213: 3421115604187702188
+    second: Transfers_170
+  - first:
+      213: -7050259369908868775
+    second: Transfers_171
+  - first:
+      213: -180102562169646466
+    second: Transfers_172
+  - first:
+      213: 7463332382460075134
+    second: Transfers_173
+  - first:
+      213: 5803102303250483029
+    second: Transfers_174
+  - first:
+      213: -4620786975874514746
+    second: Transfers_175
+  - first:
+      213: -7109228616630898301
+    second: Transfers_176
+  - first:
+      213: 4924315675355145870
+    second: Transfers_177
+  - first:
+      213: 3551070449759117672
+    second: Transfers_178
+  - first:
+      213: 18070132988032535
+    second: Transfers_179
+  - first:
+      213: -4379030025636803968
+    second: Transfers_180
+  - first:
+      213: 5775701709994136677
+    second: Transfers_181
+  - first:
+      213: -4476263444362038998
+    second: Transfers_182
+  - first:
+      213: -4330901269147336772
+    second: Transfers_183
+  - first:
+      213: -7744286191086824905
+    second: Transfers_184
+  - first:
+      213: -3536486513049578991
+    second: Transfers_185
+  - first:
+      213: 6934537336194092151
+    second: Transfers_186
+  - first:
+      213: 2867614500215017278
+    second: Transfers_187
+  - first:
+      213: -4725026312373098431
+    second: Transfers_188
+  - first:
+      213: -1195316147455442497
+    second: Transfers_189
+  - first:
+      213: -8814904457288796964
+    second: Transfers_190
+  - first:
+      213: -7365420272621317926
+    second: Transfers_191
+  - first:
+      213: -3474192646508500515
+    second: Transfers_192
+  - first:
+      213: 8645531705413678066
+    second: Transfers_193
+  - first:
+      213: 83053281725547374
+    second: Transfers_194
+  - first:
+      213: 833427832159643611
+    second: Transfers_195
+  - first:
+      213: -8717767533134687327
+    second: Transfers_196
+  - first:
+      213: -7495237157911488689
+    second: Transfers_197
+  - first:
+      213: -5111487839391957178
+    second: Transfers_198
+  - first:
+      213: 984856624923914104
+    second: Transfers_199
+  - first:
+      213: 772235342633999879
+    second: Transfers_200
+  - first:
+      213: 103346007906683537
+    second: Transfers_201
+  - first:
+      213: 3013243233373675669
+    second: Transfers_202
+  - first:
+      213: 8322576445637852787
+    second: Transfers_203
+  - first:
+      213: -322732920903475586
+    second: Transfers_204
+  - first:
+      213: -6187723950719423780
+    second: Transfers_205
+  - first:
+      213: -7750901823937370112
+    second: Transfers_206
+  - first:
+      213: 3934320755511399901
+    second: Transfers_207
+  - first:
+      213: -5890374138017121348
+    second: Transfers_208
+  - first:
+      213: -4125239421314686393
+    second: Transfers_209
+  - first:
+      213: -7938319273378050776
+    second: Transfers_210
+  - first:
+      213: -8060785754420607967
+    second: Transfers_211
+  - first:
+      213: 3028951746909682793
+    second: Transfers_212
+  - first:
+      213: 7012314283188339791
+    second: Transfers_213
+  - first:
+      213: -1230577437222944490
+    second: Transfers_214
+  - first:
+      213: -3036374705245396790
+    second: Transfers_215
+  - first:
+      213: -7328528493198071854
+    second: Transfers_216
+  - first:
+      213: 3902979274078780788
+    second: Transfers_217
+  - first:
+      213: 4210026454129991444
+    second: Transfers_218
+  - first:
+      213: 7797241326870026173
+    second: Transfers_219
+  - first:
+      213: -4404232577533058915
+    second: Transfers_220
+  - first:
+      213: -7759374519344673809
+    second: Transfers_221
+  - first:
+      213: 1680764562421780412
+    second: Transfers_222
+  - first:
+      213: -1584987300642843787
+    second: Transfers_223
+  - first:
+      213: 2692732668344267995
+    second: Transfers_224
+  - first:
+      213: -6360895106834320531
+    second: Transfers_225
+  - first:
+      213: 1826862802777134089
+    second: Transfers_226
+  - first:
+      213: 425594439746323291
+    second: Transfers_227
+  - first:
+      213: 8288153161650605985
+    second: Transfers_228
+  - first:
+      213: -3831321366359262825
+    second: Transfers_229
+  - first:
+      213: 7463437793681787203
+    second: Transfers_230
+  - first:
+      213: -1750836358333168232
+    second: Transfers_231
+  - first:
+      213: -3836479144558796168
+    second: Transfers_232
+  - first:
+      213: 39677960251821052
+    second: Transfers_233
+  - first:
+      213: -3731377313871005842
+    second: Transfers_234
+  - first:
+      213: -677370178968133714
+    second: Transfers_235
+  - first:
+      213: -5524090556064232472
+    second: Transfers_236
+  - first:
+      213: 8474592207887891463
+    second: Transfers_237
+  - first:
+      213: -9017640644731242940
+    second: Transfers_238
+  - first:
+      213: -6636574408670369375
+    second: Transfers_239
+  - first:
+      213: 6853770031935705721
+    second: Transfers_240
+  - first:
+      213: -2769422323924698539
+    second: Transfers_241
+  - first:
+      213: 801336646619393079
+    second: Transfers_242
+  - first:
+      213: 9025704309632378159
+    second: Transfers_243
+  - first:
+      213: -8435697453597768302
+    second: Transfers_244
+  - first:
+      213: 2485614086437733657
+    second: Transfers_245
+  - first:
+      213: -1680767836483255174
+    second: Transfers_246
+  - first:
+      213: 7230184407132817920
+    second: Transfers_247
+  - first:
+      213: 2564314730026000401
+    second: Transfers_248
+  - first:
+      213: 4691809277871311581
+    second: Transfers_249
+  - first:
+      213: 4466625265603241651
+    second: Transfers_250
+  - first:
+      213: -2494537036410376262
+    second: Transfers_251
+  - first:
+      213: 2917321241230841876
+    second: Transfers_252
+  - first:
+      213: -8602106324880756196
+    second: Transfers_253
+  - first:
+      213: -6579736670198894680
+    second: Transfers_254
+  - first:
+      213: -483503328072704363
+    second: Transfers_255
+  - first:
+      213: -1274712539959462068
+    second: Transfers_256
+  - first:
+      213: -8617279954384505159
+    second: Transfers_257
+  - first:
+      213: -3929243042736324980
+    second: Transfers_258
+  - first:
+      213: 4400623384592220864
+    second: Transfers_259
+  - first:
+      213: -3617136906890599577
+    second: Transfers_260
+  - first:
+      213: -3462924202720691027
+    second: Transfers_261
+  - first:
+      213: -5825778200804861340
+    second: Transfers_262
+  - first:
+      213: -5517990478686279070
+    second: Transfers_263
+  - first:
+      213: -7191819987531267777
+    second: Transfers_264
+  - first:
+      213: 7233080964577355433
+    second: Transfers_265
+  - first:
+      213: 2498607295520268472
+    second: Transfers_266
+  - first:
+      213: -4622581859924716701
+    second: Transfers_267
+  - first:
+      213: 4875376024206768061
+    second: Transfers_268
+  - first:
+      213: 4702651681863143367
+    second: Transfers_269
+  - first:
+      213: -6561430060302093848
+    second: Transfers_270
+  - first:
+      213: 7798161777889403049
+    second: Transfers_271
+  - first:
+      213: 6539412018626861114
+    second: Transfers_272
+  - first:
+      213: -7116212335457824942
+    second: Transfers_273
+  - first:
+      213: -5019036891402896120
+    second: Transfers_274
+  - first:
+      213: -2176825481560507658
+    second: Transfers_275
+  - first:
+      213: -2652058079124431725
+    second: Transfers_276
+  - first:
+      213: 6560147287541479416
+    second: Transfers_277
+  - first:
+      213: 7415798089220637949
+    second: Transfers_278
+  - first:
+      213: 3918175166701450090
+    second: Transfers_279
+  - first:
+      213: 5352369977948418877
+    second: Transfers_280
+  - first:
+      213: 4402056827408287455
+    second: Transfers_281
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Transfers_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1247
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe50cd8d9aa8e1d0800000000000000
+      internalID: -3321217131520958723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1259
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb127481d86b9cb0800000000000000
+      internalID: -4856172524109423643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1259
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f232bec7163cdf250800000000000000
+      internalID: 5980150703692915503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1257
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6661a9b331c88dd70800000000000000
+      internalID: 9068151863942714982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1259
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd9cb168695d46c0800000000000000
+      internalID: -4157568576141877834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1258
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd45b9e63ea9ee0800000000000000
+      internalID: -1253439482077323449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1259
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b8ec18f8e09d160800000000000000
+      internalID: 7050682701146131200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1257
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c078cef37da15ce70800000000000000
+      internalID: 9134736930983675660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1259
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63ded183b7e1c030800000000000000
+      internalID: 3513343942489723754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1257
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfee7b312fb437f0800000000000000
+      internalID: -633671498099396663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1247
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4eea7e4420ba060800000000000000
+      internalID: 6965663743626634463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1257
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8757d47ace52fc8a0800000000000000
+      internalID: -6282761256809171592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1235
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b3260797a69b450800000000000000
+      internalID: 6105027839686490967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1257
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7fb44270b9cfd80800000000000000
+      internalID: -8215521165254592529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1257
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad3e3b6ec843fe0800000000000000
+      internalID: -1210187477367399730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1235
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c99bf376ba8f3e0800000000000000
+      internalID: -2019675972936557496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1257
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570d91dcb4fb4ae10800000000000000
+      internalID: 2208100049602859125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1257
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eac14af6b6f33e0800000000000000
+      internalID: -2071819176328253903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1257
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7579453be4bf100800000000000000
+      internalID: 142794345317619653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1257
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd200eae50ad930800000000000000
+      internalID: 4168650911423585361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1257
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c18a95ac578486f0800000000000000
+      internalID: -683272411468365369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1259
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac933fd6cd74bd0800000000000000
+      internalID: -2645903891266680221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_22
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 1308
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c607c729fd05c0800000000000000
+      internalID: -4247464924302360176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_23
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1274
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bc12aad1caf9e40800000000000000
+      internalID: 5665436099663743862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1163
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d424dcd90bc7c0800000000000000
+      internalID: -4050132595832989257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1163
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aba5a3a948b4340800000000000000
+      internalID: 4849115221733325381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1164
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc659ce168b9eb680800000000000000
+      internalID: -8737375226707749169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1163
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7363a9370ebf88b10800000000000000
+      internalID: 1984112577287435831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1164
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97d8f66c82abf50800000000000000
+      internalID: 6897870612011514303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1163
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f41bd35e2ad2a80800000000000000
+      internalID: -8489950617057276147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1163
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118a0c6582d585f80800000000000000
+      internalID: -8117635900499777519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c054f833ceb57fd50800000000000000
+      internalID: 6770981634810266892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1163
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9346e6d57b59d3260800000000000000
+      internalID: 7078978804075357241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1164
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5776a2f43c21b570800000000000000
+      internalID: 8480608179236271962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1164
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4700cba8db15390800000000000000
+      internalID: -7831269873463298901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1163
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de42d32d49dd3ea50800000000000000
+      internalID: 6549321914378953965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1164
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323572cffd8703290800000000000000
+      internalID: -7912691641886485725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1164
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d851167db68a590800000000000000
+      internalID: -7662756193179955873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1163
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e9f51ac8cc21520800000000000000
+      internalID: 2671422433359011329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1164
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1ea4d20c4adce0800000000000000
+      internalID: -1379706760793809092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1163
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb685b696e7e4d40800000000000000
+      internalID: 5570528780341505013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1163
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37df023423f6f4c0800000000000000
+      internalID: -4253945461220583619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1163
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e8ffa00ad7af3c0800000000000000
+      internalID: -4325006365803180540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18705e6783046f220800000000000000
+      internalID: 2519271652817438593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1163
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c674161e51be8d0800000000000000
+      internalID: -2816133084246217649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1163
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2252c680e475610800000000000000
+      internalID: 1609841189889319591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1163
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94b2021b3a435530800000000000000
+      internalID: 3842496524642858141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1164
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac9d93e1dea75fe0800000000000000
+      internalID: -1200298559180792669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1164
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295b6abd298e27e10800000000000000
+      internalID: 2194071685930857874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1171
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e7f0ad2c1decb00800000000000000
+      internalID: 850848014431911560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1163
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eddb07a63f2af20800000000000000
+      internalID: 3432573504493313602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1164
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5a1e65e4c860340800000000000000
+      internalID: 4829701918494402002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_52
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1183
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e2892ee116dbef0800000000000000
+      internalID: -90809632199004532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1163
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02104878aa5800fb0800000000000000
+      internalID: -4683596645000806112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_54
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1163
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07291675d00ebecb0800000000000000
+      internalID: -4833523427146886544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1155
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd35caeea35e54b0800000000000000
+      internalID: -5449826488343511627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a0774f6b60cc040800000000000000
+      internalID: 4669114296531618312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_57
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1163
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa97121106f3420800000000000000
+      internalID: 2611911935590509188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7a983eacb585fa0800000000000000
+      internalID: -5811794392162654275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1085
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae729dabf930e6c0800000000000000
+      internalID: -4116226306304999773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1077
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e972014d39582a9e0800000000000000
+      internalID: -1611578846680701026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1077
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dab82df1cfd9f60800000000000000
+      internalID: 8042861723160128819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1085
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59f3f2ef39198a0800000000000000
+      internalID: -6300091683790940703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1085
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a10f26d99e426d0800000000000000
+      internalID: -3016028988252349877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913f2ca9d816b4fc0800000000000000
+      internalID: -3509604223790419175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1085
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e084fa0c2bd5a40800000000000000
+      internalID: 5358635672284958247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1085
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7405645c604cd95d0800000000000000
+      internalID: -3054069438928760761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1084
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4ed140f3979080800000000000000
+      internalID: -9180706655264945233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1084
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd13a20073692d0800000000000000
+      internalID: -3272367605390647871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1077
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ed68d9df11a1380800000000000000
+      internalID: -8999861124379255250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1077
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63767790e58b82640800000000000000
+      internalID: 5055493295748638518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1084
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2373d2cea56d2e70800000000000000
+      internalID: 9092035023998251823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1084
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd12861357ed1440800000000000000
+      internalID: 4908333512949636563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1085
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9f9338cd2cc140800000000000000
+      internalID: 4741214845597097608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1084
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cc5d10dd94fd750800000000000000
+      internalID: 6331860814673595430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef493aea70dd078b0800000000000000
+      internalID: -5156378548274752258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 867
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137ef60f706d4790800000000000000
+      internalID: -7544267702081260770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_77
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 867
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849da3aa29cf3e390800000000000000
+      internalID: -7790105223569417912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_78
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 867
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e334aa5be08050800000000000000
+      internalID: 5800895094587646748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_79
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 867
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53d8d2d130f61260800000000000000
+      internalID: 7068100761986061146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_80
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 903
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0740da18cac16dd0800000000000000
+      internalID: -2494489757794416883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_81
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 867
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03441e6dfb6dd9d0800000000000000
+      internalID: -2747921461408414962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_82
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 866
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7abadb027de2290800000000000000
+      internalID: -7913150959622313999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_83
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 867
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983886d8cd2e90d80800000000000000
+      internalID: -8283840602678197367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_84
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 867
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1a921aadeea3c00800000000000000
+      internalID: 881279299878494640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_85
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 866
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25c4fb8ebff25a0800000000000000
+      internalID: -6543734756485606672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_86
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 861
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e4f191960d9960800000000000000
+      internalID: 7610246167614776533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_87
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 866
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574137fd273f49dd0800000000000000
+      internalID: -2480089820073618315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_88
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 866
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b24ffaf825b4e5a0800000000000000
+      internalID: -6492865575147060560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_89
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 867
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ed042f96d3dc2c0800000000000000
+      internalID: -4409800934880649632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_90
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 861
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7407b54da8e342c20800000000000000
+      internalID: 3180736002819584071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 867
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338b984ad79e34670800000000000000
+      internalID: 8521911645755783219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 866
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2724766e8b254bca0800000000000000
+      internalID: -6002081449285041550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_93
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 867
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c59053e4e224ac0800000000000000
+      internalID: -3872481816153072531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 866
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ca3fbbb091ae4f0800000000000000
+      internalID: -798798445716198287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 866
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c918bc52d1d9180800000000000000
+      internalID: -9107090823308010423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_96
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 867
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089cb8e0cd0854290800000000000000
+      internalID: -7906771888153835136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_97
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 855
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b47ba7de8536dc0800000000000000
+      internalID: -3646973496250643667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_98
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 855
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eee2a926e162cc0800000000000000
+      internalID: -3736265432014852587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_99
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 867
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0645b8dca2eb32380800000000000000
+      internalID: -8997138539509754784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_100
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 866
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ce8bdc6a5d2cb40800000000000000
+      internalID: 5459160610719198298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_101
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 867
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7dabc69ae7f2f0800000000000000
+      internalID: -939024063900321000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_102
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 866
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7103c08da4fcbdcd0800000000000000
+      internalID: -2532202445106565097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_103
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 866
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f07a43fa62a5150800000000000000
+      internalID: 5862040398920617759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_104
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 867
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05802194d5dda0bc0800000000000000
+      internalID: -3815994341515458480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_105
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 866
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6826c9774a42e7210800000000000000
+      internalID: 1332542828548219526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_106
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 866
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bda89e3c01cd3250800000000000000
+      internalID: 5926104943023402425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_107
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 867
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db972af780e760ff0800000000000000
+      internalID: -70230169211471427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_108
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 866
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464675106d31ed810800000000000000
+      internalID: 1791891511606469732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_109
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 867
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d1b172cc3d62b0800000000000000
+      internalID: -5589744756668114462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_110
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 866
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4814d20306c245740800000000000000
+      internalID: 5139781866373333380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_111
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 866
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1eea5b2104a4270800000000000000
+      internalID: 8235465317702099420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_112
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 867
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10479c667d47042a0800000000000000
+      internalID: -6755270972564474879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_113
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 866
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35ae6c4f22e3ed0800000000000000
+      internalID: -2432468314028878870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_114
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 867
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95863a7bb9fc924f0800000000000000
+      internalID: -852922386702178215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_115
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 866
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da9aa9d468c03c0800000000000000
+      internalID: -4391987868727661245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_116
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 855
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbf734f3b8119fa0800000000000000
+      internalID: -5795824084273595455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_117
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 866
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3de9a31e806bfe0800000000000000
+      internalID: -1173740889439284237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_118
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 867
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c372332561d7d20800000000000000
+      internalID: 3277800646096927859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 4776
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d4e91a7910271f0800000000000000
+      internalID: -1048774012460708568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738a2260e71fa6440800000000000000
+      internalID: 4930018265681537079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 677
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1aba943397e7930800000000000000
+      internalID: 4142881968413712876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_122
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 641
+        width: 154
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9faec98a9cd943b0800000000000000
+      internalID: -5527644511325474918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_123
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 680
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e8af634b062d950800000000000000
+      internalID: 6472341941617593915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 681
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f66fec1c618c7080800000000000000
+      internalID: -9188326838400751880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 680
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89750f7a4e5401e40800000000000000
+      internalID: 5625072782958155672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_126
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 681
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aeb1f8f8bd86030800000000000000
+      internalID: 3488279321026226719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_127
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 704
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d905d885b131cd60800000000000000
+      internalID: 7908657076393806291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_128
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 680
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f893bcf856f8fe0800000000000000
+      internalID: -1184616508710875288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_129
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f44171de2abd9c0800000000000000
+      internalID: -3901345513008246954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_130
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 619
+        width: 1194
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0cd0d99aba65030800000000000000
+      internalID: 3483160106790404326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_131
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 623
+        width: 969
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537c231b4103f8f70800000000000000
+      internalID: 9191618229916845877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_132
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 676
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2421f539393f6440800000000000000
+      internalID: 4931223034874897452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_133
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 677
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b5f73000d5fb760800000000000000
+      internalID: 7475796161098373963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_134
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 681
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b23ffcd8b4eb77b0800000000000000
+      internalID: -5225331460000501065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bbfc360c11f9360800000000000000
+      internalID: 7178475849057811210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_136
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 430
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0c3a04c47ac9b60800000000000000
+      internalID: 7754256604368978137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_137
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 430
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a34e8e37f1e11520800000000000000
+      internalID: 2671164506030097319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_138
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 439
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6983677ed8386bd10800000000000000
+      internalID: 2141043318358161558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_139
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844840ccaa310cee0800000000000000
+      internalID: -1242971872866040760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_140
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 439
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685f365d2ab4eee70800000000000000
+      internalID: 9146331055972939142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_141
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 438
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8b239eb2478abe0800000000000000
+      internalID: -1465793946764265229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_142
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 439
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48633ade0e6d07590800000000000000
+      internalID: -7678401103118780796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_143
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 439
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc819b33f4f44aa70800000000000000
+      internalID: 8837275570396534989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_144
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 439
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74b4b68135e0d030800000000000000
+      internalID: 3517563309852505212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_145
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 439
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03599aebaacdf9540800000000000000
+      internalID: 5016971135815357744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_146
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 463
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aef5edd94c1d6020800000000000000
+      internalID: 2336554885256183464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_147
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 438
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e2f1e3a41773290800000000000000
+      internalID: -7910729656769237377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_148
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 439
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf4bd318c32b0610800000000000000
+      internalID: 1588402635811803054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_149
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 438
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b191495ac481fad0800000000000000
+      internalID: -2670207099438263888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_150
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 438
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995f179c8d33458a0800000000000000
+      internalID: -6317367371108321895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_151
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 439
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cb30101809fde40800000000000000
+      internalID: 5683420138507058324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_152
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 439
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966a772b81d19f570800000000000000
+      internalID: 8500857763549128297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_153
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 439
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d82c1f7a27dae10800000000000000
+      internalID: 2210549057749945731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_154
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 457
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243675729e426ea90800000000000000
+      internalID: -7285094763419180222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_155
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 442
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1bd381d8bbf5320800000000000000
+      internalID: 2548962128786469295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_156
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 443
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c387e865e4df8c50800000000000000
+      internalID: 6669783654931596231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_157
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 442
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c56072accf55b00800000000000000
+      internalID: 816836852605934652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_158
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 442
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfbcfbec92125cb0800000000000000
+      internalID: -4876814981305417801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_159
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 443
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5ff9270a803bf0800000000000000
+      internalID: -346625407933523425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_160
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 442
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f8a6fd86c30780800000000000000
+      internalID: -8717906140628191837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_161
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81683f715c09aba40800000000000000
+      internalID: 5384775480659641880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_162
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 443
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3062441ec9902c340800000000000000
+      internalID: 4882475515421926915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_163
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 442
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2b95761bede1f80800000000000000
+      internalID: -8133819023460027663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_164
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 442
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b36a7072f75a6330800000000000000
+      internalID: 3704870342246425529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_165
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 443
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cebed08493b6280800000000000000
+      internalID: -9049076044636885875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_166
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ebb6287e8bc8eb0800000000000000
+      internalID: -4716191405298696624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_167
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 443
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b43ddad551a3ed40800000000000000
+      internalID: 5612506950749992112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_168
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 457
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d88ce519ab301340800000000000000
+      internalID: 4832427997571877079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_169
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 439
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394cd5e0c362fa440800000000000000
+      internalID: 4949216554884383891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_170
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36723248e3a7f20800000000000000
+      internalID: 3421115604187702188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_171
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 462
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959663af472782e90800000000000000
+      internalID: -7050259369908868775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_172
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 439
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729db68ca5208df0800000000000000
+      internalID: -180102562169646466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_173
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 439
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cd3396245139760800000000000000
+      internalID: 7463332382460075134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_174
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 438
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5570f747cc2c88050800000000000000
+      internalID: 5803102303250483029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_175
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08f383abaafdfb0800000000000000
+      internalID: -4620786975874514746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_176
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 439
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3817cae4d32f65d90800000000000000
+      internalID: -7109228616630898301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_177
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 438
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e866e6f340fa65440800000000000000
+      internalID: 4924315675355145870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_178
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861674a72cfe74130800000000000000
+      internalID: 3551070449759117672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_179
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 439
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716bbc1b0b2304000800000000000000
+      internalID: 18070132988032535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_180
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 438
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a062d846f8a33c0800000000000000
+      internalID: -4379030025636803968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_181
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 457
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56411d0ba1a672050800000000000000
+      internalID: 5775701709994136677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_182
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 441
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21fbb51d1e11e1c0800000000000000
+      internalID: -4476263444362038998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_183
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 439
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf3f27ed3c85e3c0800000000000000
+      internalID: -4330901269147336772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_184
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 462
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7329e4d7db4c68490800000000000000
+      internalID: -7744286191086824905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_185
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 439
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11258b4e040ebeec0800000000000000
+      internalID: -3536486513049578991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_186
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 438
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c488d67fc6c3060800000000000000
+      internalID: 6934537336194092151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_187
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 439
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f4316d130dbc720800000000000000
+      internalID: 2867614500215017278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_188
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a0a86a955d6eb0800000000000000
+      internalID: -4725026312373098431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_189
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 438
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb141a40c42696fe0800000000000000
+      internalID: -1195316147455442497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_190
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 438
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd43b46791b2ba580800000000000000
+      internalID: -8814904457288796964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_191
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 457
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad012f42945c8c990800000000000000
+      internalID: -7365420272621317926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_192
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 438
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9269fe13039cfc0800000000000000
+      internalID: -3474192646508500515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_193
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 438
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f33f83b7491bf770800000000000000
+      internalID: 8645531705413678066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_194
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 438
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638eaa0580172100800000000000000
+      internalID: 83053281725547374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_195
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 438
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7acc9923ee09b00800000000000000
+      internalID: 833427832159643611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_196
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3d2190e94440780800000000000000
+      internalID: -8717767533134687327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_197
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 457
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47906f24819bf790800000000000000
+      internalID: -7495237157911488689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_198
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 438
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f305354e85019b0800000000000000
+      internalID: -5111487839391957178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_199
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 439
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa743e1e9eaad00800000000000000
+      internalID: 984856624923914104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_200
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e93b0e3f787ba00800000000000000
+      internalID: 772235342633999879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_201
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 438
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8b3a85a82f6100800000000000000
+      internalID: 103346007906683537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_202
+      rect:
+        serializedVersion: 2
+        x: 4443
+        y: 438
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590661381c031d920800000000000000
+      internalID: 3013243233373675669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_203
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ef642be2bbf7370800000000000000
+      internalID: 8322576445637852787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_204
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 438
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e593c4e1c658bf0800000000000000
+      internalID: -322732920903475586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_205
+      rect:
+        serializedVersion: 2
+        x: 4533
+        y: 457
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda213dc9d9c02aa0800000000000000
+      internalID: -6187723950719423780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_206
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 455
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008294f6bd34f6490800000000000000
+      internalID: -7750901823937370112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_207
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 435
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd514b8d1e3899630800000000000000
+      internalID: 3934320755511399901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_208
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 435
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb77551eef214ea0800000000000000
+      internalID: -5890374138017121348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_209
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 435
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a91f4a9430c6c0800000000000000
+      internalID: -4125239421314686393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_210
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 435
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d0aac0eac65d190800000000000000
+      internalID: -7938319273378050776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_211
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 435
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1240b317016522090800000000000000
+      internalID: -8060785754420607967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_212
+      rect:
+        serializedVersion: 2
+        x: 4533
+        y: 435
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cb954d09ff80a20800000000000000
+      internalID: 3028951746909682793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_213
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44c6de00beb05160800000000000000
+      internalID: 7012314283188339791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_214
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 439
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61147b9375c1ceee0800000000000000
+      internalID: -1230577437222944490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 4725
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0edd00b41acd5d0800000000000000
+      internalID: -3036374705245396790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_216
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 247
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7a994e926db4a90800000000000000
+      internalID: -7328528493198071854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_217
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 246
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d7d2d88fa2a2630800000000000000
+      internalID: 3902979274078780788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_218
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 246
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f5a6d11c40d6a30800000000000000
+      internalID: 4210026454129991444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_219
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 247
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7551cdcad553c60800000000000000
+      internalID: 7797241326870026173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_220
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 247
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9060fb2ec501e2c0800000000000000
+      internalID: -4404232577533058915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_221
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 246
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb4e3f4cf9215490800000000000000
+      internalID: -7759374519344673809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_222
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 247
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0736e676435710800000000000000
+      internalID: 1680764562421780412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_223
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 279
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5739dab927ef00ae0800000000000000
+      internalID: -1584987300642843787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_224
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 246
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4ffbb58128e5520800000000000000
+      internalID: 2692732668344267995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_225
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 246
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63be9f0a9f89b7a0800000000000000
+      internalID: -6360895106834320531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_226
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 247
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d7ec3a025a5910800000000000000
+      internalID: 1826862802777134089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_227
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 246
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53067753e308e500800000000000000
+      internalID: 425594439746323291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_228
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0734536f650370800000000000000
+      internalID: 8288153161650605985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_229
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799bac9348964dac0800000000000000
+      internalID: -3831321366359262825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_230
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c0af5125739760800000000000000
+      internalID: 7463437793681787203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_231
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 247
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89586b1cb97c3b7e0800000000000000
+      internalID: -1750836358333168232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_232
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e0686b8612cac0800000000000000
+      internalID: -3836479144558796168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_233
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 246
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbc83605e6fc8000800000000000000
+      internalID: 39677960251821052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_234
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 246
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6774cb4a1c773cc0800000000000000
+      internalID: -3731377313871005842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_235
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 247
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf592d396f7996f0800000000000000
+      internalID: -677370178968133714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_236
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 247
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb83ba38ec7653b0800000000000000
+      internalID: -5524090556064232472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_237
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c737776bccb9570800000000000000
+      internalID: 8474592207887891463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_238
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 246
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4467ba27c97ead280800000000000000
+      internalID: -9017640644731242940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 4725
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a921c5ccb626e3a0800000000000000
+      internalID: -6636574408670369375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_240
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 43
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972debdf78b7d1f50800000000000000
+      internalID: 6853770031935705721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_241
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a7e65c1190199d0800000000000000
+      internalID: -2769422323924698539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_242
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 42
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c60473f6bee1b00800000000000000
+      internalID: 801336646619393079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_243
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 43
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25a957df3eb14d70800000000000000
+      internalID: 9025704309632378159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_244
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29543a53cd16eea80800000000000000
+      internalID: -8435697453597768302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_245
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 43
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91504de97dcae7220800000000000000
+      internalID: 2485614086437733657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_246
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 42
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74838cce86bca8e0800000000000000
+      internalID: -1680767836483255174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_247
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 43
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a48bf3966c65460800000000000000
+      internalID: 7230184407132817920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_248
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 42
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110608f19a6469320800000000000000
+      internalID: 2564314730026000401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_249
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddac6611ea7ac1140800000000000000
+      internalID: 4691809277871311581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_250
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e01d8304acfd30800000000000000
+      internalID: 4466625265603241651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_251
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf24b138cf916dd0800000000000000
+      internalID: -2494537036410376262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_252
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 10
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418144756386c7820800000000000000
+      internalID: 2917321241230841876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_253
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 10
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1277599fdd2f9880800000000000000
+      internalID: -8602106324880756196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_254
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afee210c5410b4a0800000000000000
+      internalID: -6579736670198894680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_255
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 11
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed18ae8404a49f0800000000000000
+      internalID: -483503328072704363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_256
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 10
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47faf8d2bf4f4ee0800000000000000
+      internalID: -1274712539959462068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_257
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 10
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b631dca985496880800000000000000
+      internalID: -8617279954384505159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_258
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb68945468879c0800000000000000
+      internalID: -3929243042736324980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_259
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 37
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c285ec17a7221d30800000000000000
+      internalID: 4400623384592220864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_260
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 43
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a4d8c5295dcdc0800000000000000
+      internalID: -3617136906890599577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_261
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 37
+        width: 148
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacfab4f8c831ffc0800000000000000
+      internalID: -3462924202720691027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_262
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 43
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46adfc8b79da62fa0800000000000000
+      internalID: -5825778200804861340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_263
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 43
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aaaeb25e82c63b0800000000000000
+      internalID: -5517990478686279070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_264
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 42
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3105a243d5813c90800000000000000
+      internalID: -7191819987531267777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_265
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 42
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6e54590d0116460800000000000000
+      internalID: 7233080964577355433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_266
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 42
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b06faad816dca220800000000000000
+      internalID: 2498607295520268472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_267
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 37
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d5063a4a49dfb0800000000000000
+      internalID: -4622581859924716701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_268
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 43
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7fc45c9a0d8a340800000000000000
+      internalID: 4875376024206768061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_269
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 37
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf88d7f9cc234140800000000000000
+      internalID: 4702651681863143367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_270
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 42
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1bf15cf1e11f4a0800000000000000
+      internalID: -6561430060302093848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_271
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0602012d2a83c60800000000000000
+      internalID: 7798161777889403049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_272
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a389c2a6598a0ca50800000000000000
+      internalID: 6539412018626861114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_273
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f88ce85922e3d90800000000000000
+      internalID: -7116212335457824942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_274
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d795d0a8cc85ab0800000000000000
+      internalID: -5019036891402896120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_275
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa319102cc5ac1e0800000000000000
+      internalID: -2176825481560507658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_276
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c551e6a3ff13bd0800000000000000
+      internalID: -2652058079124431725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_277
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 10
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7f62c63335a0b50800000000000000
+      internalID: 6560147287541479416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_278
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4440252153ae660800000000000000
+      internalID: 7415798089220637949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_279
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 11
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633ff20e87206630800000000000000
+      internalID: 3918175166701450090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_280
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 10
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33b41a0320774a40800000000000000
+      internalID: 5352369977948418877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transfers_281
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 10
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd601c68c5f371d30800000000000000
+      internalID: 4402056827408287455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Transfers_0: -3321217131520958723
+      Transfers_1: -4856172524109423643
+      Transfers_10: 6965663743626634463
+      Transfers_100: 5459160610719198298
+      Transfers_101: -939024063900321000
+      Transfers_102: -2532202445106565097
+      Transfers_103: 5862040398920617759
+      Transfers_104: -3815994341515458480
+      Transfers_105: 1332542828548219526
+      Transfers_106: 5926104943023402425
+      Transfers_107: -70230169211471427
+      Transfers_108: 1791891511606469732
+      Transfers_109: -5589744756668114462
+      Transfers_11: -6282761256809171592
+      Transfers_110: 5139781866373333380
+      Transfers_111: 8235465317702099420
+      Transfers_112: -6755270972564474879
+      Transfers_113: -2432468314028878870
+      Transfers_114: -852922386702178215
+      Transfers_115: -4391987868727661245
+      Transfers_116: -5795824084273595455
+      Transfers_117: -1173740889439284237
+      Transfers_118: 3277800646096927859
+      Transfers_119: -1048774012460708568
+      Transfers_12: 6105027839686490967
+      Transfers_120: 4930018265681537079
+      Transfers_121: 4142881968413712876
+      Transfers_122: -5527644511325474918
+      Transfers_123: 6472341941617593915
+      Transfers_124: -9188326838400751880
+      Transfers_125: 5625072782958155672
+      Transfers_126: 3488279321026226719
+      Transfers_127: 7908657076393806291
+      Transfers_128: -1184616508710875288
+      Transfers_129: -3901345513008246954
+      Transfers_13: -8215521165254592529
+      Transfers_130: 3483160106790404326
+      Transfers_131: 9191618229916845877
+      Transfers_132: 4931223034874897452
+      Transfers_133: 7475796161098373963
+      Transfers_134: -5225331460000501065
+      Transfers_135: 7178475849057811210
+      Transfers_136: 7754256604368978137
+      Transfers_137: 2671164506030097319
+      Transfers_138: 2141043318358161558
+      Transfers_139: -1242971872866040760
+      Transfers_14: -1210187477367399730
+      Transfers_140: 9146331055972939142
+      Transfers_141: -1465793946764265229
+      Transfers_142: -7678401103118780796
+      Transfers_143: 8837275570396534989
+      Transfers_144: 3517563309852505212
+      Transfers_145: 5016971135815357744
+      Transfers_146: 2336554885256183464
+      Transfers_147: -7910729656769237377
+      Transfers_148: 1588402635811803054
+      Transfers_149: -2670207099438263888
+      Transfers_15: -2019675972936557496
+      Transfers_150: -6317367371108321895
+      Transfers_151: 5683420138507058324
+      Transfers_152: 8500857763549128297
+      Transfers_153: 2210549057749945731
+      Transfers_154: -7285094763419180222
+      Transfers_155: 2548962128786469295
+      Transfers_156: 6669783654931596231
+      Transfers_157: 816836852605934652
+      Transfers_158: -4876814981305417801
+      Transfers_159: -346625407933523425
+      Transfers_16: 2208100049602859125
+      Transfers_160: -8717906140628191837
+      Transfers_161: 5384775480659641880
+      Transfers_162: 4882475515421926915
+      Transfers_163: -8133819023460027663
+      Transfers_164: 3704870342246425529
+      Transfers_165: -9049076044636885875
+      Transfers_166: -4716191405298696624
+      Transfers_167: 5612506950749992112
+      Transfers_168: 4832427997571877079
+      Transfers_169: 4949216554884383891
+      Transfers_17: -2071819176328253903
+      Transfers_170: 3421115604187702188
+      Transfers_171: -7050259369908868775
+      Transfers_172: -180102562169646466
+      Transfers_173: 7463332382460075134
+      Transfers_174: 5803102303250483029
+      Transfers_175: -4620786975874514746
+      Transfers_176: -7109228616630898301
+      Transfers_177: 4924315675355145870
+      Transfers_178: 3551070449759117672
+      Transfers_179: 18070132988032535
+      Transfers_18: 142794345317619653
+      Transfers_180: -4379030025636803968
+      Transfers_181: 5775701709994136677
+      Transfers_182: -4476263444362038998
+      Transfers_183: -4330901269147336772
+      Transfers_184: -7744286191086824905
+      Transfers_185: -3536486513049578991
+      Transfers_186: 6934537336194092151
+      Transfers_187: 2867614500215017278
+      Transfers_188: -4725026312373098431
+      Transfers_189: -1195316147455442497
+      Transfers_19: 4168650911423585361
+      Transfers_190: -8814904457288796964
+      Transfers_191: -7365420272621317926
+      Transfers_192: -3474192646508500515
+      Transfers_193: 8645531705413678066
+      Transfers_194: 83053281725547374
+      Transfers_195: 833427832159643611
+      Transfers_196: -8717767533134687327
+      Transfers_197: -7495237157911488689
+      Transfers_198: -5111487839391957178
+      Transfers_199: 984856624923914104
+      Transfers_2: 5980150703692915503
+      Transfers_20: -683272411468365369
+      Transfers_200: 772235342633999879
+      Transfers_201: 103346007906683537
+      Transfers_202: 3013243233373675669
+      Transfers_203: 8322576445637852787
+      Transfers_204: -322732920903475586
+      Transfers_205: -6187723950719423780
+      Transfers_206: -7750901823937370112
+      Transfers_207: 3934320755511399901
+      Transfers_208: -5890374138017121348
+      Transfers_209: -4125239421314686393
+      Transfers_21: -2645903891266680221
+      Transfers_210: -7938319273378050776
+      Transfers_211: -8060785754420607967
+      Transfers_212: 3028951746909682793
+      Transfers_213: 7012314283188339791
+      Transfers_214: -1230577437222944490
+      Transfers_215: -3036374705245396790
+      Transfers_216: -7328528493198071854
+      Transfers_217: 3902979274078780788
+      Transfers_218: 4210026454129991444
+      Transfers_219: 7797241326870026173
+      Transfers_22: -4247464924302360176
+      Transfers_220: -4404232577533058915
+      Transfers_221: -7759374519344673809
+      Transfers_222: 1680764562421780412
+      Transfers_223: -1584987300642843787
+      Transfers_224: 2692732668344267995
+      Transfers_225: -6360895106834320531
+      Transfers_226: 1826862802777134089
+      Transfers_227: 425594439746323291
+      Transfers_228: 8288153161650605985
+      Transfers_229: -3831321366359262825
+      Transfers_23: 5665436099663743862
+      Transfers_230: 7463437793681787203
+      Transfers_231: -1750836358333168232
+      Transfers_232: -3836479144558796168
+      Transfers_233: 39677960251821052
+      Transfers_234: -3731377313871005842
+      Transfers_235: -677370178968133714
+      Transfers_236: -5524090556064232472
+      Transfers_237: 8474592207887891463
+      Transfers_238: -9017640644731242940
+      Transfers_239: -6636574408670369375
+      Transfers_24: -4050132595832989257
+      Transfers_240: 6853770031935705721
+      Transfers_241: -2769422323924698539
+      Transfers_242: 801336646619393079
+      Transfers_243: 9025704309632378159
+      Transfers_244: -8435697453597768302
+      Transfers_245: 2485614086437733657
+      Transfers_246: -1680767836483255174
+      Transfers_247: 7230184407132817920
+      Transfers_248: 2564314730026000401
+      Transfers_249: 4691809277871311581
+      Transfers_25: 4849115221733325381
+      Transfers_250: 4466625265603241651
+      Transfers_251: -2494537036410376262
+      Transfers_252: 2917321241230841876
+      Transfers_253: -8602106324880756196
+      Transfers_254: -6579736670198894680
+      Transfers_255: -483503328072704363
+      Transfers_256: -1274712539959462068
+      Transfers_257: -8617279954384505159
+      Transfers_258: -3929243042736324980
+      Transfers_259: 4400623384592220864
+      Transfers_26: -8737375226707749169
+      Transfers_260: -3617136906890599577
+      Transfers_261: -3462924202720691027
+      Transfers_262: -5825778200804861340
+      Transfers_263: -5517990478686279070
+      Transfers_264: -7191819987531267777
+      Transfers_265: 7233080964577355433
+      Transfers_266: 2498607295520268472
+      Transfers_267: -4622581859924716701
+      Transfers_268: 4875376024206768061
+      Transfers_269: 4702651681863143367
+      Transfers_27: 1984112577287435831
+      Transfers_270: -6561430060302093848
+      Transfers_271: 7798161777889403049
+      Transfers_272: 6539412018626861114
+      Transfers_273: -7116212335457824942
+      Transfers_274: -5019036891402896120
+      Transfers_275: -2176825481560507658
+      Transfers_276: -2652058079124431725
+      Transfers_277: 6560147287541479416
+      Transfers_278: 7415798089220637949
+      Transfers_279: 3918175166701450090
+      Transfers_28: 6897870612011514303
+      Transfers_280: 5352369977948418877
+      Transfers_281: 4402056827408287455
+      Transfers_29: -8489950617057276147
+      Transfers_3: 9068151863942714982
+      Transfers_30: -8117635900499777519
+      Transfers_31: 6770981634810266892
+      Transfers_32: 7078978804075357241
+      Transfers_33: 8480608179236271962
+      Transfers_34: -7831269873463298901
+      Transfers_35: 6549321914378953965
+      Transfers_36: -7912691641886485725
+      Transfers_37: -7662756193179955873
+      Transfers_38: 2671422433359011329
+      Transfers_39: -1379706760793809092
+      Transfers_4: -4157568576141877834
+      Transfers_40: 5570528780341505013
+      Transfers_41: -4253945461220583619
+      Transfers_42: -4325006365803180540
+      Transfers_43: 2519271652817438593
+      Transfers_44: -2816133084246217649
+      Transfers_45: 1609841189889319591
+      Transfers_46: 3842496524642858141
+      Transfers_47: -1200298559180792669
+      Transfers_48: 2194071685930857874
+      Transfers_49: 850848014431911560
+      Transfers_5: -1253439482077323449
+      Transfers_50: 3432573504493313602
+      Transfers_51: 4829701918494402002
+      Transfers_52: -90809632199004532
+      Transfers_53: -4683596645000806112
+      Transfers_54: -4833523427146886544
+      Transfers_55: -5449826488343511627
+      Transfers_56: 4669114296531618312
+      Transfers_57: 2611911935590509188
+      Transfers_58: -5811794392162654275
+      Transfers_59: -4116226306304999773
+      Transfers_6: 7050682701146131200
+      Transfers_60: -1611578846680701026
+      Transfers_61: 8042861723160128819
+      Transfers_62: -6300091683790940703
+      Transfers_63: -3016028988252349877
+      Transfers_64: -3509604223790419175
+      Transfers_65: 5358635672284958247
+      Transfers_66: -3054069438928760761
+      Transfers_67: -9180706655264945233
+      Transfers_68: -3272367605390647871
+      Transfers_69: -8999861124379255250
+      Transfers_7: 9134736930983675660
+      Transfers_70: 5055493295748638518
+      Transfers_71: 9092035023998251823
+      Transfers_72: 4908333512949636563
+      Transfers_73: 4741214845597097608
+      Transfers_74: 6331860814673595430
+      Transfers_75: -5156378548274752258
+      Transfers_76: -7544267702081260770
+      Transfers_77: -7790105223569417912
+      Transfers_78: 5800895094587646748
+      Transfers_79: 7068100761986061146
+      Transfers_8: 3513343942489723754
+      Transfers_80: -2494489757794416883
+      Transfers_81: -2747921461408414962
+      Transfers_82: -7913150959622313999
+      Transfers_83: -8283840602678197367
+      Transfers_84: 881279299878494640
+      Transfers_85: -6543734756485606672
+      Transfers_86: 7610246167614776533
+      Transfers_87: -2480089820073618315
+      Transfers_88: -6492865575147060560
+      Transfers_89: -4409800934880649632
+      Transfers_9: -633671498099396663
+      Transfers_90: 3180736002819584071
+      Transfers_91: 8521911645755783219
+      Transfers_92: -6002081449285041550
+      Transfers_93: -3872481816153072531
+      Transfers_94: -798798445716198287
+      Transfers_95: -9107090823308010423
+      Transfers_96: -7906771888153835136
+      Transfers_97: -3646973496250643667
+      Transfers_98: -3736265432014852587
+      Transfers_99: -8997138539509754784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

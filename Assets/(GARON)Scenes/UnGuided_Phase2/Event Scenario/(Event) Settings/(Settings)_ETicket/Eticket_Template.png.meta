@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: 1687deac4cfba46ffbd247b61cf09e67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3139292865646602840
+    second: Eticket_Template_0
+  - first:
+      213: -1976568066890813008
+    second: Eticket_Template_1
+  - first:
+      213: -4139112716017509378
+    second: Eticket_Template_2
+  - first:
+      213: -2938501898050847886
+    second: Eticket_Template_3
+  - first:
+      213: -3192905539382892349
+    second: Eticket_Template_4
+  - first:
+      213: -2114002233005470148
+    second: Eticket_Template_5
+  - first:
+      213: 8642676841519450669
+    second: Eticket_Template_6
+  - first:
+      213: 7440552126410016970
+    second: Eticket_Template_7
+  - first:
+      213: -4945021264356878173
+    second: Eticket_Template_8
+  - first:
+      213: -250957372855614020
+    second: Eticket_Template_9
+  - first:
+      213: 9189468668268975311
+    second: Eticket_Template_10
+  - first:
+      213: -6895815536185655208
+    second: Eticket_Template_11
+  - first:
+      213: -655118013175246641
+    second: Eticket_Template_12
+  - first:
+      213: -3640289398105438779
+    second: Eticket_Template_13
+  - first:
+      213: -8652595127108231588
+    second: Eticket_Template_14
+  - first:
+      213: 2382386181190720020
+    second: Eticket_Template_15
+  - first:
+      213: -7124865784438786814
+    second: Eticket_Template_16
+  - first:
+      213: -5428862699651727406
+    second: Eticket_Template_17
+  - first:
+      213: 1402566910744472986
+    second: Eticket_Template_18
+  - first:
+      213: -3871112010760401869
+    second: Eticket_Template_19
+  - first:
+      213: -7189962269665075836
+    second: Eticket_Template_20
+  - first:
+      213: -2205207828981069386
+    second: Eticket_Template_21
+  - first:
+      213: 1795336563793798927
+    second: Eticket_Template_22
+  - first:
+      213: -7658990017377602023
+    second: Eticket_Template_23
+  - first:
+      213: -3556112401428340125
+    second: Eticket_Template_24
+  - first:
+      213: -5819786623220067525
+    second: Eticket_Template_25
+  - first:
+      213: -2052878757960118762
+    second: Eticket_Template_26
+  - first:
+      213: 8066969520463518931
+    second: Eticket_Template_27
+  - first:
+      213: -927834311976000507
+    second: Eticket_Template_28
+  - first:
+      213: -6991924162602925017
+    second: Eticket_Template_29
+  - first:
+      213: 5870059043478720124
+    second: Eticket_Template_30
+  - first:
+      213: 8406987116842453642
+    second: Eticket_Template_31
+  - first:
+      213: -3359697534314417894
+    second: Eticket_Template_32
+  - first:
+      213: 578914396851526422
+    second: Eticket_Template_33
+  - first:
+      213: -5352757579686116330
+    second: Eticket_Template_34
+  - first:
+      213: 5270079246279362092
+    second: Eticket_Template_35
+  - first:
+      213: 3797510765459048733
+    second: Eticket_Template_36
+  - first:
+      213: 6200934342399801786
+    second: Eticket_Template_37
+  - first:
+      213: 7004526247318424175
+    second: Eticket_Template_38
+  - first:
+      213: 2258574671730511771
+    second: Eticket_Template_39
+  - first:
+      213: -4081771271639210377
+    second: Eticket_Template_40
+  - first:
+      213: -2293145478296940937
+    second: Eticket_Template_41
+  - first:
+      213: 4860716965477666769
+    second: Eticket_Template_42
+  - first:
+      213: -5863726965780688565
+    second: Eticket_Template_43
+  - first:
+      213: 984840261213953575
+    second: Eticket_Template_44
+  - first:
+      213: 8484591232518421916
+    second: Eticket_Template_45
+  - first:
+      213: 2251897124980540939
+    second: Eticket_Template_46
+  - first:
+      213: -7616500632871426296
+    second: Eticket_Template_47
+  - first:
+      213: 240193828647471552
+    second: Eticket_Template_48
+  - first:
+      213: -3036564943420443553
+    second: Eticket_Template_49
+  - first:
+      213: -1881477953540701018
+    second: Eticket_Template_50
+  - first:
+      213: -3952739892021534265
+    second: Eticket_Template_51
+  - first:
+      213: 5564517088468891303
+    second: Eticket_Template_52
+  - first:
+      213: 2173510115827343205
+    second: Eticket_Template_53
+  - first:
+      213: -4920426145048887807
+    second: Eticket_Template_54
+  - first:
+      213: 4899200654308907574
+    second: Eticket_Template_55
+  - first:
+      213: 7818879834278506337
+    second: Eticket_Template_56
+  - first:
+      213: -7370065166915686034
+    second: Eticket_Template_57
+  - first:
+      213: 3633796257786629917
+    second: Eticket_Template_58
+  - first:
+      213: 9072796307975408682
+    second: Eticket_Template_59
+  - first:
+      213: 5850195076363320812
+    second: Eticket_Template_60
+  - first:
+      213: 8518199884092153101
+    second: Eticket_Template_61
+  - first:
+      213: 6658376338877392895
+    second: Eticket_Template_62
+  - first:
+      213: 6507179624883499771
+    second: Eticket_Template_63
+  - first:
+      213: 988211299668132473
+    second: Eticket_Template_64
+  - first:
+      213: -1284650615026916081
+    second: Eticket_Template_65
+  - first:
+      213: 7042817395249017272
+    second: Eticket_Template_66
+  - first:
+      213: 7219988311814319552
+    second: Eticket_Template_67
+  - first:
+      213: 3913966804184724293
+    second: Eticket_Template_68
+  - first:
+      213: -5239101401635173211
+    second: Eticket_Template_69
+  - first:
+      213: -8397505477692452373
+    second: Eticket_Template_70
+  - first:
+      213: -5667965465221639086
+    second: Eticket_Template_71
+  - first:
+      213: 2175841023900324413
+    second: Eticket_Template_72
+  - first:
+      213: -3224628112691244143
+    second: Eticket_Template_73
+  - first:
+      213: -7408996073756735718
+    second: Eticket_Template_74
+  - first:
+      213: 4822186089117254147
+    second: Eticket_Template_75
+  - first:
+      213: 3497527475186295394
+    second: Eticket_Template_76
+  - first:
+      213: 2741664604949295007
+    second: Eticket_Template_77
+  - first:
+      213: 9013582343709937546
+    second: Eticket_Template_78
+  - first:
+      213: -8795372205787932558
+    second: Eticket_Template_79
+  - first:
+      213: 7490147255222583945
+    second: Eticket_Template_80
+  - first:
+      213: 3656639399633770364
+    second: Eticket_Template_81
+  - first:
+      213: -6679157898922602594
+    second: Eticket_Template_82
+  - first:
+      213: -1639303663862025169
+    second: Eticket_Template_83
+  - first:
+      213: 6072990324141017133
+    second: Eticket_Template_84
+  - first:
+      213: 3940488324685517910
+    second: Eticket_Template_85
+  - first:
+      213: -8524545077583374602
+    second: Eticket_Template_86
+  - first:
+      213: -3389498307649831173
+    second: Eticket_Template_87
+  - first:
+      213: -2053400703724449543
+    second: Eticket_Template_88
+  - first:
+      213: -1237568966522132123
+    second: Eticket_Template_89
+  - first:
+      213: 8417979790692681544
+    second: Eticket_Template_90
+  - first:
+      213: -6407234436194858028
+    second: Eticket_Template_91
+  - first:
+      213: -1186065694247242620
+    second: Eticket_Template_92
+  - first:
+      213: 2080376390734531062
+    second: Eticket_Template_93
+  - first:
+      213: -3182684845810176323
+    second: Eticket_Template_94
+  - first:
+      213: 8214675479306660813
+    second: Eticket_Template_95
+  - first:
+      213: -7375620531865998658
+    second: Eticket_Template_96
+  - first:
+      213: 6708953325816942584
+    second: Eticket_Template_97
+  - first:
+      213: 3491022879913181320
+    second: Eticket_Template_98
+  - first:
+      213: 578935616978955299
+    second: Eticket_Template_99
+  - first:
+      213: -856353174779587780
+    second: Eticket_Template_100
+  - first:
+      213: -6755326226999694927
+    second: Eticket_Template_101
+  - first:
+      213: -4751336650971960092
+    second: Eticket_Template_102
+  - first:
+      213: 4988011727360748397
+    second: Eticket_Template_103
+  - first:
+      213: -6186341799822748087
+    second: Eticket_Template_104
+  - first:
+      213: -3727215594024474498
+    second: Eticket_Template_105
+  - first:
+      213: 2418997439251742681
+    second: Eticket_Template_106
+  - first:
+      213: 3184793430786137942
+    second: Eticket_Template_107
+  - first:
+      213: -2169166064299216782
+    second: Eticket_Template_108
+  - first:
+      213: 5966554557935424569
+    second: Eticket_Template_109
+  - first:
+      213: 5802095490207747098
+    second: Eticket_Template_110
+  - first:
+      213: -8562397646828082612
+    second: Eticket_Template_111
+  - first:
+      213: -8460813538741041688
+    second: Eticket_Template_112
+  - first:
+      213: -6867116703953858601
+    second: Eticket_Template_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eticket_Template_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1131
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa8c68a32019b20800000000000000
+      internalID: 3139292865646602840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1143
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1b792c0d1d194e0800000000000000
+      internalID: -1976568066890813008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1143
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb597c2aeaee86c0800000000000000
+      internalID: -4139112716017509378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1141
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b3ed2b7185837d0800000000000000
+      internalID: -2938501898050847886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1143
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8a4b3245580b3d0800000000000000
+      internalID: -3192905539382892349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1142
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e83576b2e89a2e0800000000000000
+      internalID: -2114002233005470148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1143
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0347ebc4f0f770800000000000000
+      internalID: 8642676841519450669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1141
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8427bbcb6224760800000000000000
+      internalID: 7440552126410016970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1143
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a851432c51cf5bb0800000000000000
+      internalID: -4945021264356878173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1141
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb50d29599b648cf0800000000000000
+      internalID: -250957372855614020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1131
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc411ced01d878f70800000000000000
+      internalID: 9189468668268975311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1141
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850c8013e442d40a0800000000000000
+      internalID: -6895815536185655208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1119
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0dab253ad88e6f0800000000000000
+      internalID: -655118013175246641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1141
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c50e4a54181b7dc0800000000000000
+      internalID: -3640289398105438779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1141
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e1077439ecbe780800000000000000
+      internalID: -8652595127108231588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1119
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1caffb9fef0120800000000000000
+      internalID: 2382386181190720020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1141
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f03671546f1d90800000000000000
+      internalID: -7124865784438786814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1141
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dff3e4532ec8a4b0800000000000000
+      internalID: -5428862699651727406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1141
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d24a89c2be67310800000000000000
+      internalID: 1402566910744472986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1141
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cc0e0e22c074ac0800000000000000
+      internalID: -3871112010760401869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1141
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dd628e86f183c90800000000000000
+      internalID: -7189962269665075836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1143
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b94ca9c9278561e0800000000000000
+      internalID: -2205207828981069386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_22
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 1192
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f072339b7115ae810800000000000000
+      internalID: 1795336563793798927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_23
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1158
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916f1f3882dc5b590800000000000000
+      internalID: -7658990017377602023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1047
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362a08bac9626aec0800000000000000
+      internalID: -3556112401428340125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1047
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33d56696e6fb3fa0800000000000000
+      internalID: -5819786623220067525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1048
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e87d075a5b283e0800000000000000
+      internalID: -2052878757960118762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1047
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc9129c902a3ff60800000000000000
+      internalID: 8066969520463518931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1048
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046040fb9baf13f0800000000000000
+      internalID: -927834311976000507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1047
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240597d402b7fe90800000000000000
+      internalID: -6991924162602925017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1047
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e4e116993a67150800000000000000
+      internalID: 5870059043478720124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1036
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a0eaa9d3e9ba470800000000000000
+      internalID: 8406987116842453642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1047
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11fe6a94e4ff51d0800000000000000
+      internalID: -3359697534314417894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1048
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bd1b3a397b80800800000000000000
+      internalID: 578914396851526422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1048
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6148706675f27b5b0800000000000000
+      internalID: -5352757579686116330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1047
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26c3a40725132940800000000000000
+      internalID: 5270079246279362092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1048
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1988edcbe773b430800000000000000
+      internalID: 3797510765459048733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1048
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9b2423ee42e0650800000000000000
+      internalID: 6200934342399801786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1047
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a8057a283153160800000000000000
+      internalID: 7004526247318424175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1048
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f013f82b1185f10800000000000000
+      internalID: 2258574671730511771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1047
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776ec8397a2aa57c0800000000000000
+      internalID: -4081771271639210377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1047
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e41db465c1d20e0800000000000000
+      internalID: -2293145478296940937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1047
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc201b35cb47340800000000000000
+      internalID: 4860716965477666769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1067
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4153c8546bdf9ea0800000000000000
+      internalID: -5863726965780688565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1047
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e192aeffadaad00800000000000000
+      internalID: 984840261213953575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1047
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d77aec5c25fb570800000000000000
+      internalID: 8484591232518421916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1047
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06403d0188504f10800000000000000
+      internalID: 2251897124980540939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1048
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80729224701cc4690800000000000000
+      internalID: -7616500632871426296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1048
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c906c9b307555300800000000000000
+      internalID: 240193828647471552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1055
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54350ab544fbd5d0800000000000000
+      internalID: -3036564943420443553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1047
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a44a7e05c5a3e5e0800000000000000
+      internalID: -1881477953540701018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1048
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c16a8eb20c0529c0800000000000000
+      internalID: -3952739892021534265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_52
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1067
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a677c45fc2293d40800000000000000
+      internalID: 5564517088468891303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1047
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5b914febd92e10800000000000000
+      internalID: 2173510115827343205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_54
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1047
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ef0d89d7227bbb0800000000000000
+      internalID: -4920426145048887807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1039
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a917bb9057df340800000000000000
+      internalID: 4899200654308907574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1047
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fa2a778cd328c60800000000000000
+      internalID: 7818879834278506337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_57
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1047
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61b28a67c448b990800000000000000
+      internalID: -7370065166915686034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f048b9176dd6230800000000000000
+      internalID: 3633796257786629917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 969
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c89502c2c09ed70800000000000000
+      internalID: 9072796307975408682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 961
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedff512d61103150800000000000000
+      internalID: 5850195076363320812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 961
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1619c9a9b63670800000000000000
+      internalID: 8518199884092153101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 969
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff727aba00e476c50800000000000000
+      internalID: 6658376338877392895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 969
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf237de64652e4a50800000000000000
+      internalID: 6507179624883499771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 993
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720fb7f0f4d6bd00800000000000000
+      internalID: 988211299668132473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 969
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0565de62110c2ee0800000000000000
+      internalID: -1284650615026916081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 969
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b172c54b1d1db160800000000000000
+      internalID: 7042817395249017272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 968
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd2a20dd1d823460800000000000000
+      internalID: 7219988311814319552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 968
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f9124214315630800000000000000
+      internalID: 3913966804184724293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 961
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acc84d7809fa47b0800000000000000
+      internalID: -5239101401635173211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 961
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be19eba8241167b80800000000000000
+      internalID: -8397505477692452373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 968
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254584680775751b0800000000000000
+      internalID: -5667965465221639086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 968
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d321d4512e3223e10800000000000000
+      internalID: 2175841023900324413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 969
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193dc4af0d1df33d0800000000000000
+      internalID: -3224628112691244143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 968
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1747715355fd2990800000000000000
+      internalID: -7408996073756735718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 4780
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020aa2f2b8dbe240800000000000000
+      internalID: 4822186089117254147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 295
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e5ae35b6b98030800000000000000
+      internalID: 3497527475186295394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_77
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 315
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fa347ae695c0620800000000000000
+      internalID: 2741664604949295007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_78
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 315
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4096b26da61d70800000000000000
+      internalID: 9013582343709937546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_79
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 314
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2789aa6249f80f580800000000000000
+      internalID: -8795372205787932558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_80
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 315
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c8ee7e3952f760800000000000000
+      internalID: 7490147255222583945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_81
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 306
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c775ed6092efeb230800000000000000
+      internalID: 3656639399633770364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_82
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 314
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f49f3574dde43a0800000000000000
+      internalID: -6679157898922602594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_83
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 315
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24f18cc0060049e0800000000000000
+      internalID: -1639303663862025169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_84
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 315
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d284fc21688974450800000000000000
+      internalID: 6072990324141017133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_85
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 315
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6545472f04d6fa630800000000000000
+      internalID: 3940488324685517910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_86
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 314
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f696daba6bb2b980800000000000000
+      internalID: -8524545077583374602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_87
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 315
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7ebd5f3516f0d0800000000000000
+      internalID: -3389498307649831173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_88
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 306
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f097f870fad083e0800000000000000
+      internalID: -2053400703724449543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_89
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 314
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569a665f49543dee0800000000000000
+      internalID: -1237568966522132123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_90
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 315
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84787aee40ca2d470800000000000000
+      internalID: 8417979790692681544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_91
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 277
+        width: 708
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db84fd2a3ee417a0800000000000000
+      internalID: -6407234436194858028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_92
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 277
+        width: 708
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484bd1ef88f3a8fe0800000000000000
+      internalID: -1186065694247242620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_93
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 277
+        width: 708
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f947d81e4bfedc10800000000000000
+      internalID: 2080376390734531062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 4725
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe277dcef4d4d3d0800000000000000
+      internalID: -3182684845810176323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4725
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb6f2143d3600270800000000000000
+      internalID: 8214675479306660813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_96
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaac08343884a990800000000000000
+      internalID: -7375620531865998658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_97
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 95
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff8ef7118dfa1d50800000000000000
+      internalID: 6708953325816942584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_98
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8808cf320da927030800000000000000
+      internalID: 3491022879913181320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_99
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 94
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c2ad550eac80800800000000000000
+      internalID: 578935616978955299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_100
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 95
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c331cfe135f9d14f0800000000000000
+      internalID: -856353174779587780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_101
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 86
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9adc976924042a0800000000000000
+      internalID: -6755326226999694927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_102
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 94
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eca5865d7cdf0eb0800000000000000
+      internalID: -4751336650971960092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_103
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 95
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6be1d80d3af83540800000000000000
+      internalID: 4988011727360748397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_104
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 95
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9461a62e8e2b52aa0800000000000000
+      internalID: -6186341799822748087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_105
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78efd43a25464cc0800000000000000
+      internalID: -3727215594024474498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_106
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 94
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dffd27ca51029120800000000000000
+      internalID: 2418997439251742681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_107
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 95
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f510560c8a23c20800000000000000
+      internalID: 3184793430786137942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_108
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 86
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270fc9e05f295e1e0800000000000000
+      internalID: -2169166064299216782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_109
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 94
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9349abe12c57dc250800000000000000
+      internalID: 5966554557935424569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_110
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 95
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c8ab68b1f258050800000000000000
+      internalID: 5802095490207747098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_111
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 61
+        width: 708
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aeb2ba4b04c2980800000000000000
+      internalID: -8562397646828082612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_112
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 61
+        width: 708
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e54680f9e6259a80800000000000000
+      internalID: -8460813538741041688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eticket_Template_113
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 61
+        width: 708
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfcda5cdb913b0a0800000000000000
+      internalID: -6867116703953858601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eticket_Template_0: 3139292865646602840
+      Eticket_Template_1: -1976568066890813008
+      Eticket_Template_10: 9189468668268975311
+      Eticket_Template_100: -856353174779587780
+      Eticket_Template_101: -6755326226999694927
+      Eticket_Template_102: -4751336650971960092
+      Eticket_Template_103: 4988011727360748397
+      Eticket_Template_104: -6186341799822748087
+      Eticket_Template_105: -3727215594024474498
+      Eticket_Template_106: 2418997439251742681
+      Eticket_Template_107: 3184793430786137942
+      Eticket_Template_108: -2169166064299216782
+      Eticket_Template_109: 5966554557935424569
+      Eticket_Template_11: -6895815536185655208
+      Eticket_Template_110: 5802095490207747098
+      Eticket_Template_111: -8562397646828082612
+      Eticket_Template_112: -8460813538741041688
+      Eticket_Template_113: -6867116703953858601
+      Eticket_Template_12: -655118013175246641
+      Eticket_Template_13: -3640289398105438779
+      Eticket_Template_14: -8652595127108231588
+      Eticket_Template_15: 2382386181190720020
+      Eticket_Template_16: -7124865784438786814
+      Eticket_Template_17: -5428862699651727406
+      Eticket_Template_18: 1402566910744472986
+      Eticket_Template_19: -3871112010760401869
+      Eticket_Template_2: -4139112716017509378
+      Eticket_Template_20: -7189962269665075836
+      Eticket_Template_21: -2205207828981069386
+      Eticket_Template_22: 1795336563793798927
+      Eticket_Template_23: -7658990017377602023
+      Eticket_Template_24: -3556112401428340125
+      Eticket_Template_25: -5819786623220067525
+      Eticket_Template_26: -2052878757960118762
+      Eticket_Template_27: 8066969520463518931
+      Eticket_Template_28: -927834311976000507
+      Eticket_Template_29: -6991924162602925017
+      Eticket_Template_3: -2938501898050847886
+      Eticket_Template_30: 5870059043478720124
+      Eticket_Template_31: 8406987116842453642
+      Eticket_Template_32: -3359697534314417894
+      Eticket_Template_33: 578914396851526422
+      Eticket_Template_34: -5352757579686116330
+      Eticket_Template_35: 5270079246279362092
+      Eticket_Template_36: 3797510765459048733
+      Eticket_Template_37: 6200934342399801786
+      Eticket_Template_38: 7004526247318424175
+      Eticket_Template_39: 2258574671730511771
+      Eticket_Template_4: -3192905539382892349
+      Eticket_Template_40: -4081771271639210377
+      Eticket_Template_41: -2293145478296940937
+      Eticket_Template_42: 4860716965477666769
+      Eticket_Template_43: -5863726965780688565
+      Eticket_Template_44: 984840261213953575
+      Eticket_Template_45: 8484591232518421916
+      Eticket_Template_46: 2251897124980540939
+      Eticket_Template_47: -7616500632871426296
+      Eticket_Template_48: 240193828647471552
+      Eticket_Template_49: -3036564943420443553
+      Eticket_Template_5: -2114002233005470148
+      Eticket_Template_50: -1881477953540701018
+      Eticket_Template_51: -3952739892021534265
+      Eticket_Template_52: 5564517088468891303
+      Eticket_Template_53: 2173510115827343205
+      Eticket_Template_54: -4920426145048887807
+      Eticket_Template_55: 4899200654308907574
+      Eticket_Template_56: 7818879834278506337
+      Eticket_Template_57: -7370065166915686034
+      Eticket_Template_58: 3633796257786629917
+      Eticket_Template_59: 9072796307975408682
+      Eticket_Template_6: 8642676841519450669
+      Eticket_Template_60: 5850195076363320812
+      Eticket_Template_61: 8518199884092153101
+      Eticket_Template_62: 6658376338877392895
+      Eticket_Template_63: 6507179624883499771
+      Eticket_Template_64: 988211299668132473
+      Eticket_Template_65: -1284650615026916081
+      Eticket_Template_66: 7042817395249017272
+      Eticket_Template_67: 7219988311814319552
+      Eticket_Template_68: 3913966804184724293
+      Eticket_Template_69: -5239101401635173211
+      Eticket_Template_7: 7440552126410016970
+      Eticket_Template_70: -8397505477692452373
+      Eticket_Template_71: -5667965465221639086
+      Eticket_Template_72: 2175841023900324413
+      Eticket_Template_73: -3224628112691244143
+      Eticket_Template_74: -7408996073756735718
+      Eticket_Template_75: 4822186089117254147
+      Eticket_Template_76: 3497527475186295394
+      Eticket_Template_77: 2741664604949295007
+      Eticket_Template_78: 9013582343709937546
+      Eticket_Template_79: -8795372205787932558
+      Eticket_Template_8: -4945021264356878173
+      Eticket_Template_80: 7490147255222583945
+      Eticket_Template_81: 3656639399633770364
+      Eticket_Template_82: -6679157898922602594
+      Eticket_Template_83: -1639303663862025169
+      Eticket_Template_84: 6072990324141017133
+      Eticket_Template_85: 3940488324685517910
+      Eticket_Template_86: -8524545077583374602
+      Eticket_Template_87: -3389498307649831173
+      Eticket_Template_88: -2053400703724449543
+      Eticket_Template_89: -1237568966522132123
+      Eticket_Template_9: -250957372855614020
+      Eticket_Template_90: 8417979790692681544
+      Eticket_Template_91: -6407234436194858028
+      Eticket_Template_92: -1186065694247242620
+      Eticket_Template_93: 2080376390734531062
+      Eticket_Template_94: -3182684845810176323
+      Eticket_Template_95: 8214675479306660813
+      Eticket_Template_96: -7375620531865998658
+      Eticket_Template_97: 6708953325816942584
+      Eticket_Template_98: 3491022879913181320
+      Eticket_Template_99: 578935616978955299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7202 @@
+fileFormatVersion: 2
+guid: 63f2c4557a156401296bf9eafa6849d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7084070638270967387
+    second: Mailchimp_0
+  - first:
+      213: -3565120622234572289
+    second: Mailchimp_1
+  - first:
+      213: -6559501204196358304
+    second: Mailchimp_2
+  - first:
+      213: 5795985306679390857
+    second: Mailchimp_3
+  - first:
+      213: 5592639454072802330
+    second: Mailchimp_4
+  - first:
+      213: -5289100314322300052
+    second: Mailchimp_5
+  - first:
+      213: -8554917761678640625
+    second: Mailchimp_6
+  - first:
+      213: -1016695819782786168
+    second: Mailchimp_7
+  - first:
+      213: -255648774213520693
+    second: Mailchimp_8
+  - first:
+      213: -3860957700512564123
+    second: Mailchimp_9
+  - first:
+      213: -4980517571977936399
+    second: Mailchimp_10
+  - first:
+      213: -5092416786128627618
+    second: Mailchimp_11
+  - first:
+      213: 8187660448705269259
+    second: Mailchimp_12
+  - first:
+      213: -3804899466935319016
+    second: Mailchimp_13
+  - first:
+      213: -6211716164734878658
+    second: Mailchimp_14
+  - first:
+      213: -8502409899273253848
+    second: Mailchimp_15
+  - first:
+      213: -5959831914662403960
+    second: Mailchimp_16
+  - first:
+      213: -6572462291680567171
+    second: Mailchimp_17
+  - first:
+      213: -5633867244041732176
+    second: Mailchimp_18
+  - first:
+      213: -3193357568396025070
+    second: Mailchimp_19
+  - first:
+      213: -7246207332622635806
+    second: Mailchimp_20
+  - first:
+      213: 8052320639866788645
+    second: Mailchimp_21
+  - first:
+      213: 3385413495635329132
+    second: Mailchimp_22
+  - first:
+      213: 3384039666355352923
+    second: Mailchimp_23
+  - first:
+      213: 1698202631093173255
+    second: Mailchimp_24
+  - first:
+      213: 3538476028647952658
+    second: Mailchimp_25
+  - first:
+      213: -8515549018861604249
+    second: Mailchimp_26
+  - first:
+      213: 7613905172116590573
+    second: Mailchimp_27
+  - first:
+      213: 4280313764683245274
+    second: Mailchimp_28
+  - first:
+      213: 9137431920605040492
+    second: Mailchimp_29
+  - first:
+      213: 7747886803041507229
+    second: Mailchimp_30
+  - first:
+      213: -5912641603875525874
+    second: Mailchimp_31
+  - first:
+      213: 7380390192729857885
+    second: Mailchimp_32
+  - first:
+      213: 6572228590452287377
+    second: Mailchimp_33
+  - first:
+      213: -2293512218866100945
+    second: Mailchimp_34
+  - first:
+      213: 5260420739540850206
+    second: Mailchimp_35
+  - first:
+      213: 5570116611389046962
+    second: Mailchimp_36
+  - first:
+      213: -7987535075139977490
+    second: Mailchimp_37
+  - first:
+      213: -5185009643014469963
+    second: Mailchimp_38
+  - first:
+      213: 6531301437023443311
+    second: Mailchimp_39
+  - first:
+      213: -6315441981564502337
+    second: Mailchimp_40
+  - first:
+      213: 8763727684639006032
+    second: Mailchimp_41
+  - first:
+      213: -8458170663143157772
+    second: Mailchimp_42
+  - first:
+      213: -4929535296322779265
+    second: Mailchimp_43
+  - first:
+      213: 1062957379936701365
+    second: Mailchimp_44
+  - first:
+      213: 256075573410378679
+    second: Mailchimp_45
+  - first:
+      213: 7035378267386208579
+    second: Mailchimp_46
+  - first:
+      213: -1499952001871758515
+    second: Mailchimp_47
+  - first:
+      213: -56804895226849435
+    second: Mailchimp_48
+  - first:
+      213: 1918533472708965528
+    second: Mailchimp_49
+  - first:
+      213: 5868735559165957067
+    second: Mailchimp_50
+  - first:
+      213: -8133074257321156693
+    second: Mailchimp_51
+  - first:
+      213: 2065933566788622248
+    second: Mailchimp_52
+  - first:
+      213: 3598510009160543503
+    second: Mailchimp_53
+  - first:
+      213: -2808288945545863657
+    second: Mailchimp_54
+  - first:
+      213: 7467116453211889961
+    second: Mailchimp_55
+  - first:
+      213: 1831311851109385663
+    second: Mailchimp_56
+  - first:
+      213: 6130640867042969074
+    second: Mailchimp_57
+  - first:
+      213: 7061251768963392362
+    second: Mailchimp_58
+  - first:
+      213: 7492654419819021186
+    second: Mailchimp_59
+  - first:
+      213: -6294240845618859619
+    second: Mailchimp_60
+  - first:
+      213: 8814089193317132264
+    second: Mailchimp_61
+  - first:
+      213: 4963847278409778338
+    second: Mailchimp_62
+  - first:
+      213: 7154284684315922791
+    second: Mailchimp_63
+  - first:
+      213: 4238326552850296248
+    second: Mailchimp_64
+  - first:
+      213: -3443106220175392908
+    second: Mailchimp_65
+  - first:
+      213: -159646263537806488
+    second: Mailchimp_66
+  - first:
+      213: -1353501713459571602
+    second: Mailchimp_67
+  - first:
+      213: 5139668671491067230
+    second: Mailchimp_68
+  - first:
+      213: 5159713649148821508
+    second: Mailchimp_69
+  - first:
+      213: 1080386091915444305
+    second: Mailchimp_70
+  - first:
+      213: 7893004433235044958
+    second: Mailchimp_71
+  - first:
+      213: 3897809398741057062
+    second: Mailchimp_72
+  - first:
+      213: -8005122068719649514
+    second: Mailchimp_73
+  - first:
+      213: 3699601336806796102
+    second: Mailchimp_74
+  - first:
+      213: 1370104802271793753
+    second: Mailchimp_75
+  - first:
+      213: 5880293606302717950
+    second: Mailchimp_76
+  - first:
+      213: -7025224538773140424
+    second: Mailchimp_77
+  - first:
+      213: -268439029919733534
+    second: Mailchimp_78
+  - first:
+      213: -3490332185366873964
+    second: Mailchimp_79
+  - first:
+      213: -5573755098962019469
+    second: Mailchimp_80
+  - first:
+      213: -4754714918570455118
+    second: Mailchimp_81
+  - first:
+      213: -8498613594707245664
+    second: Mailchimp_82
+  - first:
+      213: -4878231635942203853
+    second: Mailchimp_83
+  - first:
+      213: -6392818768140655729
+    second: Mailchimp_84
+  - first:
+      213: 5229035796179846446
+    second: Mailchimp_85
+  - first:
+      213: 240464052355174728
+    second: Mailchimp_86
+  - first:
+      213: -7520664163022105021
+    second: Mailchimp_87
+  - first:
+      213: -1413264032159896823
+    second: Mailchimp_88
+  - first:
+      213: 8223765680255466317
+    second: Mailchimp_89
+  - first:
+      213: -1713523289551885598
+    second: Mailchimp_90
+  - first:
+      213: -6594693077428465658
+    second: Mailchimp_91
+  - first:
+      213: 589005509262854529
+    second: Mailchimp_92
+  - first:
+      213: 8002560794496258666
+    second: Mailchimp_93
+  - first:
+      213: 7507006472034881827
+    second: Mailchimp_94
+  - first:
+      213: 2654443315462677425
+    second: Mailchimp_95
+  - first:
+      213: -7397026258183942175
+    second: Mailchimp_96
+  - first:
+      213: 7940720391602690845
+    second: Mailchimp_97
+  - first:
+      213: -4263494966069185921
+    second: Mailchimp_98
+  - first:
+      213: -4683981772095751417
+    second: Mailchimp_99
+  - first:
+      213: -3096387864724769142
+    second: Mailchimp_100
+  - first:
+      213: 1758772534861293470
+    second: Mailchimp_101
+  - first:
+      213: -4443571750421016702
+    second: Mailchimp_102
+  - first:
+      213: 2311414685386333562
+    second: Mailchimp_103
+  - first:
+      213: 6176097038491635940
+    second: Mailchimp_104
+  - first:
+      213: 8497829614254049118
+    second: Mailchimp_105
+  - first:
+      213: 4038015990195689238
+    second: Mailchimp_106
+  - first:
+      213: 3393925182551720786
+    second: Mailchimp_107
+  - first:
+      213: -7446455268310585468
+    second: Mailchimp_108
+  - first:
+      213: 8360898631583091641
+    second: Mailchimp_109
+  - first:
+      213: -2719878126197799180
+    second: Mailchimp_110
+  - first:
+      213: -3928907627505421429
+    second: Mailchimp_111
+  - first:
+      213: -2914539929296252439
+    second: Mailchimp_112
+  - first:
+      213: 6147998146972799429
+    second: Mailchimp_113
+  - first:
+      213: 1064683268541138481
+    second: Mailchimp_114
+  - first:
+      213: 2147870526019390188
+    second: Mailchimp_115
+  - first:
+      213: -8454167604008066613
+    second: Mailchimp_116
+  - first:
+      213: 8213293183825806254
+    second: Mailchimp_117
+  - first:
+      213: -7229720179325555881
+    second: Mailchimp_118
+  - first:
+      213: 1477079956798740757
+    second: Mailchimp_119
+  - first:
+      213: -7619624182364967554
+    second: Mailchimp_120
+  - first:
+      213: 8811929216881447753
+    second: Mailchimp_121
+  - first:
+      213: 6938312020577142411
+    second: Mailchimp_122
+  - first:
+      213: -3318389593292909965
+    second: Mailchimp_123
+  - first:
+      213: 6166789800407984948
+    second: Mailchimp_124
+  - first:
+      213: -5623426447652104770
+    second: Mailchimp_125
+  - first:
+      213: -1261820442749692117
+    second: Mailchimp_126
+  - first:
+      213: 9126644037352766599
+    second: Mailchimp_127
+  - first:
+      213: -7629415934186881372
+    second: Mailchimp_128
+  - first:
+      213: 5693124250762556745
+    second: Mailchimp_129
+  - first:
+      213: -5951422042523793480
+    second: Mailchimp_130
+  - first:
+      213: 7638395736460616206
+    second: Mailchimp_131
+  - first:
+      213: -3255096514149736164
+    second: Mailchimp_132
+  - first:
+      213: 6929993341178202653
+    second: Mailchimp_133
+  - first:
+      213: -2606147930389008928
+    second: Mailchimp_134
+  - first:
+      213: 4056672167449080932
+    second: Mailchimp_135
+  - first:
+      213: 1926174594405597967
+    second: Mailchimp_136
+  - first:
+      213: 796895446558118033
+    second: Mailchimp_137
+  - first:
+      213: 4293562808601597240
+    second: Mailchimp_138
+  - first:
+      213: -3112324991410598699
+    second: Mailchimp_139
+  - first:
+      213: 3892492398126318788
+    second: Mailchimp_140
+  - first:
+      213: 2694082221248519507
+    second: Mailchimp_141
+  - first:
+      213: -4401908432715493506
+    second: Mailchimp_142
+  - first:
+      213: -6997877302949538404
+    second: Mailchimp_143
+  - first:
+      213: 4444298300984715268
+    second: Mailchimp_144
+  - first:
+      213: -2913544233619823091
+    second: Mailchimp_145
+  - first:
+      213: -8214477598864191893
+    second: Mailchimp_146
+  - first:
+      213: 4608618394841912492
+    second: Mailchimp_147
+  - first:
+      213: 753374458296085200
+    second: Mailchimp_148
+  - first:
+      213: -8535599950898434067
+    second: Mailchimp_149
+  - first:
+      213: 8549852309914237757
+    second: Mailchimp_150
+  - first:
+      213: -2465888533194620354
+    second: Mailchimp_151
+  - first:
+      213: -7691764217132318192
+    second: Mailchimp_152
+  - first:
+      213: 3208925647772747021
+    second: Mailchimp_153
+  - first:
+      213: -3931392059583930467
+    second: Mailchimp_154
+  - first:
+      213: 564816088623435073
+    second: Mailchimp_155
+  - first:
+      213: 6640933026270746850
+    second: Mailchimp_156
+  - first:
+      213: -5167814219075246553
+    second: Mailchimp_157
+  - first:
+      213: -3061740163543843318
+    second: Mailchimp_158
+  - first:
+      213: 3362748861922876943
+    second: Mailchimp_159
+  - first:
+      213: -2338936028772186857
+    second: Mailchimp_160
+  - first:
+      213: 7968272243211886846
+    second: Mailchimp_161
+  - first:
+      213: -8708066811581987690
+    second: Mailchimp_162
+  - first:
+      213: -2402990458708144681
+    second: Mailchimp_163
+  - first:
+      213: 727099322065783276
+    second: Mailchimp_164
+  - first:
+      213: -7582958341440326151
+    second: Mailchimp_165
+  - first:
+      213: -2417071247177556407
+    second: Mailchimp_166
+  - first:
+      213: -3533625047027688242
+    second: Mailchimp_167
+  - first:
+      213: -3663429189640797078
+    second: Mailchimp_168
+  - first:
+      213: -1266277279273451715
+    second: Mailchimp_169
+  - first:
+      213: 8324278424941567711
+    second: Mailchimp_170
+  - first:
+      213: 6262002905426271644
+    second: Mailchimp_171
+  - first:
+      213: -8680687564056235763
+    second: Mailchimp_172
+  - first:
+      213: 208544320367168053
+    second: Mailchimp_173
+  - first:
+      213: 2432169566406832324
+    second: Mailchimp_174
+  - first:
+      213: -6407926122860253587
+    second: Mailchimp_175
+  - first:
+      213: 7075353065354950659
+    second: Mailchimp_176
+  - first:
+      213: -821855891568280825
+    second: Mailchimp_177
+  - first:
+      213: -1623184701795306
+    second: Mailchimp_178
+  - first:
+      213: -7991340675296661516
+    second: Mailchimp_179
+  - first:
+      213: -4759455207380776574
+    second: Mailchimp_180
+  - first:
+      213: -9153286115485571741
+    second: Mailchimp_181
+  - first:
+      213: -2116719160773552634
+    second: Mailchimp_182
+  - first:
+      213: 1974871566942092598
+    second: Mailchimp_183
+  - first:
+      213: 8997295680433433806
+    second: Mailchimp_184
+  - first:
+      213: 9113130572630256934
+    second: Mailchimp_185
+  - first:
+      213: 4845652530430567369
+    second: Mailchimp_186
+  - first:
+      213: -6615375141600130934
+    second: Mailchimp_187
+  - first:
+      213: -4699883142169942482
+    second: Mailchimp_188
+  - first:
+      213: -4571422965359744888
+    second: Mailchimp_189
+  - first:
+      213: -767808600213804038
+    second: Mailchimp_190
+  - first:
+      213: 6300297785945359549
+    second: Mailchimp_191
+  - first:
+      213: -7982726794254258108
+    second: Mailchimp_192
+  - first:
+      213: -2287639272756144923
+    second: Mailchimp_193
+  - first:
+      213: 454834484882274125
+    second: Mailchimp_194
+  - first:
+      213: -230909836194538495
+    second: Mailchimp_195
+  - first:
+      213: -2185973770062697134
+    second: Mailchimp_196
+  - first:
+      213: -5099157365701977612
+    second: Mailchimp_197
+  - first:
+      213: -3741072037016403518
+    second: Mailchimp_198
+  - first:
+      213: -1528083396621165519
+    second: Mailchimp_199
+  - first:
+      213: -2569784642830724918
+    second: Mailchimp_200
+  - first:
+      213: -8591231342212898247
+    second: Mailchimp_201
+  - first:
+      213: 3076347548181454832
+    second: Mailchimp_202
+  - first:
+      213: -1902243409783020796
+    second: Mailchimp_203
+  - first:
+      213: 653337016225273248
+    second: Mailchimp_204
+  - first:
+      213: -529188602094598219
+    second: Mailchimp_205
+  - first:
+      213: 2835652596979376695
+    second: Mailchimp_206
+  - first:
+      213: -1992025674984480593
+    second: Mailchimp_207
+  - first:
+      213: 5394256488586522524
+    second: Mailchimp_208
+  - first:
+      213: -876225901096491843
+    second: Mailchimp_209
+  - first:
+      213: 200646099449792322
+    second: Mailchimp_210
+  - first:
+      213: -804173811295718555
+    second: Mailchimp_211
+  - first:
+      213: -1315376685360091403
+    second: Mailchimp_212
+  - first:
+      213: -379931592664619156
+    second: Mailchimp_213
+  - first:
+      213: -2112355305207371798
+    second: Mailchimp_214
+  - first:
+      213: -5288234288542529921
+    second: Mailchimp_215
+  - first:
+      213: -6048140418097988437
+    second: Mailchimp_216
+  - first:
+      213: 4507755118967801659
+    second: Mailchimp_217
+  - first:
+      213: -5613837598016435046
+    second: Mailchimp_218
+  - first:
+      213: -6825147598958511789
+    second: Mailchimp_219
+  - first:
+      213: 8606716660678643022
+    second: Mailchimp_220
+  - first:
+      213: 1875052988812467440
+    second: Mailchimp_221
+  - first:
+      213: -6996022120937126706
+    second: Mailchimp_222
+  - first:
+      213: -2391408313377140274
+    second: Mailchimp_223
+  - first:
+      213: -7791654334157312990
+    second: Mailchimp_224
+  - first:
+      213: 888672355208363333
+    second: Mailchimp_225
+  - first:
+      213: -5620891296634856285
+    second: Mailchimp_226
+  - first:
+      213: -3637703366486685002
+    second: Mailchimp_227
+  - first:
+      213: -5189666051188013852
+    second: Mailchimp_228
+  - first:
+      213: -7567034468989444210
+    second: Mailchimp_229
+  - first:
+      213: 2144298943203293378
+    second: Mailchimp_230
+  - first:
+      213: -5316586844550324326
+    second: Mailchimp_231
+  - first:
+      213: -8700795710718440528
+    second: Mailchimp_232
+  - first:
+      213: 6034011757897096684
+    second: Mailchimp_233
+  - first:
+      213: 8634510351198593502
+    second: Mailchimp_234
+  - first:
+      213: -652315581208963755
+    second: Mailchimp_235
+  - first:
+      213: 8380794730644078005
+    second: Mailchimp_236
+  - first:
+      213: 7631396234408334814
+    second: Mailchimp_237
+  - first:
+      213: -3439352207626344564
+    second: Mailchimp_238
+  - first:
+      213: 1810372696983674505
+    second: Mailchimp_239
+  - first:
+      213: 7718967527360135387
+    second: Mailchimp_240
+  - first:
+      213: 6496365161300915860
+    second: Mailchimp_241
+  - first:
+      213: -2610319474683752809
+    second: Mailchimp_242
+  - first:
+      213: -5470577658998240672
+    second: Mailchimp_243
+  - first:
+      213: -8863679548136535576
+    second: Mailchimp_244
+  - first:
+      213: -5323256491994768259
+    second: Mailchimp_245
+  - first:
+      213: 5422058156947252574
+    second: Mailchimp_246
+  - first:
+      213: 6071633668426041560
+    second: Mailchimp_247
+  - first:
+      213: -4264834500885736174
+    second: Mailchimp_248
+  - first:
+      213: -1996927117404275502
+    second: Mailchimp_249
+  - first:
+      213: 1875347519653564670
+    second: Mailchimp_250
+  - first:
+      213: -2576226027029701892
+    second: Mailchimp_251
+  - first:
+      213: -7705014405977142994
+    second: Mailchimp_252
+  - first:
+      213: 4741913045722943660
+    second: Mailchimp_253
+  - first:
+      213: 2988850204798001143
+    second: Mailchimp_254
+  - first:
+      213: -4006466296961419747
+    second: Mailchimp_255
+  - first:
+      213: -3633182966244915689
+    second: Mailchimp_256
+  - first:
+      213: -7354802699649570369
+    second: Mailchimp_257
+  - first:
+      213: 2583700218240781853
+    second: Mailchimp_258
+  - first:
+      213: 4492548908127261491
+    second: Mailchimp_259
+  - first:
+      213: -3596956816041016293
+    second: Mailchimp_260
+  - first:
+      213: 7700071367501057882
+    second: Mailchimp_261
+  - first:
+      213: 9085760168917833038
+    second: Mailchimp_262
+  - first:
+      213: -4381406544030391089
+    second: Mailchimp_263
+  - first:
+      213: -7025540031411022813
+    second: Mailchimp_264
+  - first:
+      213: 8176928436489792631
+    second: Mailchimp_265
+  - first:
+      213: -3945857448109017377
+    second: Mailchimp_266
+  - first:
+      213: -9144152379307062915
+    second: Mailchimp_267
+  - first:
+      213: 8540522763261096875
+    second: Mailchimp_268
+  - first:
+      213: -4618566652658232270
+    second: Mailchimp_269
+  - first:
+      213: 6921619634918672181
+    second: Mailchimp_270
+  - first:
+      213: 7194607961238894824
+    second: Mailchimp_271
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mailchimp_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 859
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e6ae566bcaf4260800000000000000
+      internalID: 7084070638270967387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 871
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e942dea5268ec0800000000000000
+      internalID: -3565120622234572289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 871
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06701249868f7f4a0800000000000000
+      internalID: -6559501204196358304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 869
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98232009de97f6050800000000000000
+      internalID: 5795985306679390857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 871
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c08d0d3fb0d9d40800000000000000
+      internalID: 5592639454072802330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 870
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63996779475996b0800000000000000
+      internalID: -5289100314322300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 871
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0af6742f93d64980800000000000000
+      internalID: -8554917761678640625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 869
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883f831e988f3e1f0800000000000000
+      internalID: -1016695819782786168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 871
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc23db95bc0c37cf0800000000000000
+      internalID: -255648774213520693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 869
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cb3287d6f1b6ac0800000000000000
+      internalID: -3860957700512564123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 859
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f10aacf7a5a1eab0800000000000000
+      internalID: -4980517571977936399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 869
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58119ee9e91459b0800000000000000
+      internalID: -5092416786128627618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 847
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec79a4cc960a170800000000000000
+      internalID: 8187660448705269259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 869
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164f331818423bc0800000000000000
+      internalID: -3804899466935319016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 869
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cfc6b2f0d8bc9a0800000000000000
+      internalID: -6211716164734878658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 847
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c8d0b8e3f510a80800000000000000
+      internalID: -8502409899273253848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 869
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880e28d337c6a4da0800000000000000
+      internalID: -5959831914662403960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 869
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70eabc3e5ce9c4a0800000000000000
+      internalID: -6572462291680567171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 869
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bffe2f479b70d1b0800000000000000
+      internalID: -5633867244041732176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 869
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21323fee53aeea3d0800000000000000
+      internalID: -3193357568396025070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 869
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6232b2dc407b90800000000000000
+      internalID: -7246207332622635806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 871
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b5ecc75f69fbf60800000000000000
+      internalID: 8052320639866788645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_22
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 886
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60482933a76bfe20800000000000000
+      internalID: 3385413495635329132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5531faa52686fe20800000000000000
+      internalID: 3384039666355352923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 775
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c31f6ab4a319710800000000000000
+      internalID: 1698202631093173255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 776
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211dbcd43313b1130800000000000000
+      internalID: 3538476028647952658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 775
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f35fd841b2d980800000000000000
+      internalID: -8515549018861604249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 776
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defc481f9660aa960800000000000000
+      internalID: 7613905172116590573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 775
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e82fd0bab66b30800000000000000
+      internalID: 4280313764683245274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 775
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f8afa6bedaece70800000000000000
+      internalID: 9137431920605040492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 764
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d93f4ff5068b60800000000000000
+      internalID: 7747886803041507229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 775
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0badcca9c312fda0800000000000000
+      internalID: -5912641603875525874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 776
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f907df6c96c6660800000000000000
+      internalID: 7380390192729857885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 776
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1972394f41f353b50800000000000000
+      internalID: 6572228590452287377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 775
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d77ad9cecb20e0800000000000000
+      internalID: -2293512218866100945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 776
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e161e6daac4c00940800000000000000
+      internalID: 5260420739540850206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 776
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0c85bdb870d4d40800000000000000
+      internalID: 5570116611389046962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 775
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeefe4f3b23962190800000000000000
+      internalID: -7987535075139977490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 776
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6c52773352b08b0800000000000000
+      internalID: -5185009643014469963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_39
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 775
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d7ca7d08d3aa50800000000000000
+      internalID: 6531301437023443311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_40
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 775
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe32497afa0b58a0800000000000000
+      internalID: -6315441981564502337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_41
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 775
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d1a2f95e30f9970800000000000000
+      internalID: 8763727684639006032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_42
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 795
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc8bd589a8e9a80800000000000000
+      internalID: -8458170663143157772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_43
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 775
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f774eea04c5c69bb0800000000000000
+      internalID: -4929535296322779265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_44
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 775
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc182fa1260ce00800000000000000
+      internalID: 1062957379936701365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 775
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b7c49063cd8300800000000000000
+      internalID: 256075573410378679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_46
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 776
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341ee08524fa2a160800000000000000
+      internalID: 7035378267386208579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_47
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 776
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3c44f9991f2be0800000000000000
+      internalID: -1499952001871758515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_48
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 783
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567108eaf30363ff0800000000000000
+      internalID: -56804895226849435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_49
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 775
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894b382570000aa10800000000000000
+      internalID: 1918533472708965528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_50
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 776
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc35acca5efe17150800000000000000
+      internalID: 5868735559165957067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_51
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 795
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf9f78cd04812f80800000000000000
+      internalID: -8133074257321156693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_52
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 775
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ddf912ababac10800000000000000
+      internalID: 2065933566788622248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_53
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 775
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0da3b0a9c970f130800000000000000
+      internalID: 3598510009160543503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 767
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e151e3514f609d0800000000000000
+      internalID: -2808288945545863657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_55
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 775
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9216b2a0ad680a760800000000000000
+      internalID: 7467116453211889961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_56
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 775
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb586560d602a6910800000000000000
+      internalID: 1831311851109385663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5c6951369641550800000000000000
+      internalID: 6130640867042969074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 697
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6369ae521b9ef160800000000000000
+      internalID: 7061251768963392362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 689
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c21e3f714bf760800000000000000
+      internalID: 7492654419819021186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_60
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 689
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91322a9c4d56a8a0800000000000000
+      internalID: -6294240845618859619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 697
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7e64a1c6fe15a70800000000000000
+      internalID: 8814089193317132264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_62
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 697
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a487e4dcc023e440800000000000000
+      internalID: 4963847278409778338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_63
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 721
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7611baee300294360800000000000000
+      internalID: 7154284684315922791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_64
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 697
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd6fb05b8f81da30800000000000000
+      internalID: 4238326552850296248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_65
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 697
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff1869221a730d0800000000000000
+      internalID: -3443106220175392908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_66
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 696
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8635c14b192d8cdf0800000000000000
+      internalID: -159646263537806488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e641c5edc55673de0800000000000000
+      internalID: -1353501713459571602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_68
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 689
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dcd63fc65c35740800000000000000
+      internalID: 5139668671491067230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 689
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40000400a3cfa9740800000000000000
+      internalID: 5159713649148821508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_70
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15084ec2d6d4efe00800000000000000
+      internalID: 1080386091915444305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_71
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 696
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aee8d86b5998d60800000000000000
+      internalID: 7893004433235044958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_72
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 697
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb3262ffcc71630800000000000000
+      internalID: 3897809398741057062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_73
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 696
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d335634e718e090800000000000000
+      internalID: -8005122068719649514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 567
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bede280df975330800000000000000
+      internalID: 3699601336806796102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_75
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 604
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952977cfe07930310800000000000000
+      internalID: 1370104802271793753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 567
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79caa31effa9150800000000000000
+      internalID: 5880293606302717950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 567
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cc113d083618e90800000000000000
+      internalID: -7025224538773140424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 604
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a8c1ef10564cf0800000000000000
+      internalID: -268439029919733534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_79
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 566
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983817be59df8fc0800000000000000
+      internalID: -3490332185366873964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_80
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 567
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bb85db44b06a2b0800000000000000
+      internalID: -5573755098962019469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 566
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf8b5e19fbd30eb0800000000000000
+      internalID: -4754714918570455118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_82
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 567
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a54b2496fbde0a80800000000000000
+      internalID: -8498613594707245664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 567
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e979f4c2a0d4cb0800000000000000
+      internalID: -4878231635942203853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_84
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 555
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a68373352847a0800000000000000
+      internalID: -6392818768140655729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 4776
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e250a1d1a54419840800000000000000
+      internalID: 5229035796179846446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 391
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84191e518cc465300800000000000000
+      internalID: 240464052355174728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3469e083acb31a790800000000000000
+      internalID: -7520664163022105021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_88
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 391
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be54db9d3136ce0800000000000000
+      internalID: -1413264032159896823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 390
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bfca7905fa02270800000000000000
+      internalID: 8223765680255466317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_90
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 390
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa6e395a75838e0800000000000000
+      internalID: -1713523289551885598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_91
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 391
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60016251691fa74a0800000000000000
+      internalID: -6594693077428465658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1894c56d3619c2800800000000000000
+      internalID: 589005509262854529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_93
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62da69a4aece0f60800000000000000
+      internalID: 8002560794496258666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_94
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 390
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321923ccc9e3e2860800000000000000
+      internalID: 7507006472034881827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_95
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 391
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3209ea12a76d420800000000000000
+      internalID: 2654443315462677425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_96
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 391
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef85be2fcb785990800000000000000
+      internalID: -7397026258183942175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_97
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bdd2adf1b133e60800000000000000
+      internalID: 7940720391602690845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_98
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72b7c5dae505d4c0800000000000000
+      internalID: -4263494966069185921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_99
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 391
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bf3d325672ffeb0800000000000000
+      internalID: -4683981772095751417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_100
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 391
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86ff3474ab6705d0800000000000000
+      internalID: -3096387864724769142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_101
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97ee155d4a686810800000000000000
+      internalID: 1758772534861293470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_102
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 391
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fc13a39034552c0800000000000000
+      internalID: -4443571750421016702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_103
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 391
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd213f86bc31020800000000000000
+      internalID: 2311414685386333562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_104
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0d2adb887e5b550800000000000000
+      internalID: 6176097038491635940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_105
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 390
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57486fb20b5ee570800000000000000
+      internalID: 8497829614254049118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_106
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61716f4162ae90830800000000000000
+      internalID: 4038015990195689238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_107
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 391
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2538f34c8f4a91f20800000000000000
+      internalID: 3393925182551720786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_108
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe280f260e8a890800000000000000
+      internalID: -7446455268310585468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_109
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb4f8ae101e70470800000000000000
+      internalID: 8360898631583091641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_110
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 391
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f600a7314d014ad0800000000000000
+      internalID: -2719878126197799180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_111
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83773b3457b979c0800000000000000
+      internalID: -3928907627505421429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_112
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1da9e40697d87d0800000000000000
+      internalID: -2914539929296252439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_113
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 391
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1d21ebdb3125550800000000000000
+      internalID: 6147998146972799429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_114
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13642b3bac386ce00800000000000000
+      internalID: 1064683268541138481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_115
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceacaee0dd4cecd10800000000000000
+      internalID: 2147870526019390188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_116
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 391
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1eb733b53ccaa80800000000000000
+      internalID: -8454167604008066613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_117
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3031282aa7bf170800000000000000
+      internalID: 8213293183825806254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_118
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 390
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ba3d53dcfdaab90800000000000000
+      internalID: -7229720179325555881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_119
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 391
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51996d11564af7410800000000000000
+      internalID: 1477079956798740757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_120
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de8283d28a14690800000000000000
+      internalID: -7619624182364967554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_121
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 391
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943da166fe24a4a70800000000000000
+      internalID: 8811929216881447753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_122
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 420
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86c25f9506d94060800000000000000
+      internalID: 6938312020577142411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_123
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3725c691f36b2f1d0800000000000000
+      internalID: -3318389593292909965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_124
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 391
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be1d186a6d49550800000000000000
+      internalID: 6166789800407984948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_125
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d827a07395f1b0800000000000000
+      internalID: -5623426447652104770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_126
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 390
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2714932efc1d7ee0800000000000000
+      internalID: -1261820442749692117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_127
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 391
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c39dd956a58ae70800000000000000
+      internalID: 9126644037352766599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef51751aede1690800000000000000
+      internalID: -7629415934186881372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_129
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 391
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9453dd4b75a020f40800000000000000
+      internalID: 5693124250762556745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_130
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b780fe2f2d486da0800000000000000
+      internalID: -5951422042523793480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_131
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 381
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e79dc378010a60800000000000000
+      internalID: 7638395736460616206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_132
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 390
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c112e7477f293d2d0800000000000000
+      internalID: -3255096514149736164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_133
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 391
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1acfb42a384c2060800000000000000
+      internalID: 6929993341178202653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 391
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed2b09e34a15dbd0800000000000000
+      internalID: -2606147930389008928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_135
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643407d7d13c4830800000000000000
+      internalID: 4056672167449080932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_136
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 390
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f038dea96952bba10800000000000000
+      internalID: 1926174594405597967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_137
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190193fbf242f0b00800000000000000
+      internalID: 796895446558118033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_138
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d68b40acc59b30800000000000000
+      internalID: 4293562808601597240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_139
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 391
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc866df8eccec4d0800000000000000
+      internalID: -3112324991410598699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_140
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 384
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c44a397639e40630800000000000000
+      internalID: 3892492398126318788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_141
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 390
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9631a18d436520800000000000000
+      internalID: 2694082221248519507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_142
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f423e4a9749e2c0800000000000000
+      internalID: -4401908432715493506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_143
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959ce75bab82ee90800000000000000
+      internalID: -6997877302949538404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_144
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 390
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e01202c15dad30800000000000000
+      internalID: 4444298300984715268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_145
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e3b5c4f20197d0800000000000000
+      internalID: -2913544233619823091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_146
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 390
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ecb406520500e80800000000000000
+      internalID: -8214477598864191893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_147
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca412e9330a15ff30800000000000000
+      internalID: 4608618394841912492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_148
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 390
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da27990416847a00800000000000000
+      internalID: 753374458296085200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_149
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def6bd571157b8980800000000000000
+      internalID: -8535599950898434067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_150
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 391
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bbd76706d27a670800000000000000
+      internalID: 8549852309914237757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_151
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 381
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c933a17767cdd0800000000000000
+      internalID: -2465888533194620354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_152
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01284cd723d514590800000000000000
+      internalID: -7691764217132318192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_153
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 390
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05822200e4688c20800000000000000
+      internalID: 3208925647772747021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_154
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f55bf40c3e079c0800000000000000
+      internalID: -3931392059583930467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_155
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d43d57d31a6d700800000000000000
+      internalID: 564816088623435073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_156
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 391
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81708f665592c50800000000000000
+      internalID: 6640933026270746850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_157
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 390
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726aec6195c3848b0800000000000000
+      internalID: -5167814219075246553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_158
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e3c650b838285d0800000000000000
+      internalID: -3061740163543843318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_159
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 391
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e13c7f542eaae20800000000000000
+      internalID: 3362748861922876943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_160
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715cba4f21e6a8fd0800000000000000
+      internalID: -2338936028772186857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_161
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 391
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ef32336df49e60800000000000000
+      internalID: 7968272243211886846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_162
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69489474f5bb62780800000000000000
+      internalID: -8708066811581987690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_163
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 381
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4c0ec8ecd6aed0800000000000000
+      internalID: -2402990458708144681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_164
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce988282bfc271a00800000000000000
+      internalID: 727099322065783276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_165
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 390
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f53ddf809be3c690800000000000000
+      internalID: -7582958341440326151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_166
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 391
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94edb23c186d47ed0800000000000000
+      internalID: -2417071247177556407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_167
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccdd7eddba06fec0800000000000000
+      internalID: -3533625047027688242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_168
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 391
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64c9abcf82e82dc0800000000000000
+      internalID: -3663429189640797078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_169
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 390
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ff1c506874d6ee0800000000000000
+      internalID: -1266277279273451715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_170
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 390
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde1712af17c58370800000000000000
+      internalID: 8324278424941567711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_171
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 381
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d9568077a17e650800000000000000
+      internalID: 6262002905426271644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_172
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 391
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f64a17a0088780800000000000000
+      internalID: -8680687564056235763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_173
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a096754f5e4e200800000000000000
+      internalID: 208544320367168053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_174
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 391
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0f13f955dc0c120800000000000000
+      internalID: 2432169566406832324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_175
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ee7f354297217a0800000000000000
+      internalID: -6407926122860253587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_176
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 391
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f3f84024b03260800000000000000
+      internalID: 7075353065354950659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_177
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bb286cb6e2894f0800000000000000
+      internalID: -821855891568280825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_178
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 391
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614d17cd8bb3afff0800000000000000
+      internalID: -1623184701795306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_179
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffefc9eefd091190800000000000000
+      internalID: -7991340675296661516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_180
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2898faf94b403fdb0800000000000000
+      internalID: -4759455207380776574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_181
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a7fe26cef8f080800000000000000
+      internalID: -9153286115485571741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_182
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 390
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60654dc5327ef92e0800000000000000
+      internalID: -2116719160773552634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_183
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d3a901a37286b10800000000000000
+      internalID: 1974871566942092598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_184
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 390
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc246b60c0dcdc70800000000000000
+      internalID: 8997295680433433806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_185
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 381
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62de06de8f7587e70800000000000000
+      internalID: 9113130572630256934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_186
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c369459d473f3340800000000000000
+      internalID: 4845652530430567369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_187
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 391
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8889f4cb577134a0800000000000000
+      internalID: -6615375141600130934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_188
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 390
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262d19ee29a6ceb0800000000000000
+      internalID: -4699883142169942482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_189
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 391
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886baf880b0f80c0800000000000000
+      internalID: -4571422965359744888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_190
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb24c865223855f0800000000000000
+      internalID: -767808600213804038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_191
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 391
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40476b4772f6750800000000000000
+      internalID: 6300297785945359549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_192
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4407b716648a73190800000000000000
+      internalID: -7982726794254258108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_193
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 390
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4132da33ca040e0800000000000000
+      internalID: -2287639272756144923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_194
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 390
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47710fdd85ef4600800000000000000
+      internalID: 454834484882274125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_195
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 381
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c1b763ab4abccf0800000000000000
+      internalID: -230909836194538495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_196
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d671b107cd9a1e0800000000000000
+      internalID: -2185973770062697134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_197
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9548374672c39b0800000000000000
+      internalID: -5099157365701977612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_198
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 391
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c18d7aadca051cc0800000000000000
+      internalID: -3741072037016403518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_199
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 390
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c19353f382bcae0800000000000000
+      internalID: -1528083396621165519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_200
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac012de8b7a465cd0800000000000000
+      internalID: -2569784642830724918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_201
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932a230dc90d5c880800000000000000
+      internalID: -8591231342212898247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_202
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffdffebbc161ba20800000000000000
+      internalID: 3076347548181454832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_203
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 391
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4032e8382bfd995e0800000000000000
+      internalID: -1902243409783020796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_204
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 390
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a598b20e8e111900800000000000000
+      internalID: 653337016225273248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_205
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 390
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b747f825c1f7a8f0800000000000000
+      internalID: -529188602094598219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_206
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ae5553034a5720800000000000000
+      internalID: 2835652596979376695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_207
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 239
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a71be337ea54e0800000000000000
+      internalID: -1992025674984480593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_208
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 239
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fab8542bf3cda40800000000000000
+      internalID: 5394256488586522524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_209
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 238
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4a5267f2507d3f0800000000000000
+      internalID: -876225901096491843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_210
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 239
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247c54b7096d8c200800000000000000
+      internalID: 200646099449792322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_211
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 268
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563fb08ed2007d4f0800000000000000
+      internalID: -804173811295718555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_212
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 239
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fee743bfd7debde0800000000000000
+      internalID: -1315376685360091403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_213
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 239
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67e64cba363abaf0800000000000000
+      internalID: -379931592664619156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_214
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 268
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7e3b9aa086fa2e0800000000000000
+      internalID: -2112355305207371798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_215
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 238
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c16eceea6c96b0800000000000000
+      internalID: -5288234288542529921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_216
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 268
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac369b8550b01ca0800000000000000
+      internalID: -6048140418097988437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_217
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 238
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b374688c563ce8e30800000000000000
+      internalID: 4507755118967801659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_218
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 238
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c8f7fa274a712b0800000000000000
+      internalID: -5613837598016435046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_219
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 199
+        width: 1234
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b7708b643841a0800000000000000
+      internalID: -6825147598958511789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_220
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 238
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dcf2ad333317770800000000000000
+      internalID: 8606716660678643022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_221
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc933542c6850a10800000000000000
+      internalID: 1875052988812467440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_222
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 238
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec484c092f229ee90800000000000000
+      internalID: -6996022120937126706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_223
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec15d382fc200ded0800000000000000
+      internalID: -2391408313377140274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_224
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 238
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cabef3aab7ed390800000000000000
+      internalID: -7791654334157312990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_225
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d77e57cc2355c00800000000000000
+      internalID: 888672355208363333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_226
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac9efe75259ef1b0800000000000000
+      internalID: -5620891296634856285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_227
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 238
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba8152cf08448dc0800000000000000
+      internalID: -3637703366486685002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_228
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4c804f83a9af7b0800000000000000
+      internalID: -5189666051188013852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_229
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 239
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f5fb80e3e7cf690800000000000000
+      internalID: -7567034468989444210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_230
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 238
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b0e1278412cd10800000000000000
+      internalID: 2144298943203293378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_231
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 239
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1011fe60b736b0800000000000000
+      internalID: -5316586844550324326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_232
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 239
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb826f5660904780800000000000000
+      internalID: -8700795710718440528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_233
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 229
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced9cf769bd1db350800000000000000
+      internalID: 6034011757897096684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_234
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed120a4ba61f3d770800000000000000
+      internalID: 8634510351198593502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_235
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 238
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555569c5f6282f6f0800000000000000
+      internalID: -652315581208963755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_236
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 239
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd718777609e4470800000000000000
+      internalID: 8380794730644078005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_237
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 238
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5992c317a28e960800000000000000
+      internalID: 7631396234408334814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_238
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 239
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e9feb367f440d0800000000000000
+      internalID: -3439352207626344564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_239
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 238
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e17ca406cbf1910800000000000000
+      internalID: 1810372696983674505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_240
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 238
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0831db1184f1b60800000000000000
+      internalID: 7718967527360135387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_241
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 229
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496709ae1b9b72a50800000000000000
+      internalID: 6496365161300915860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_242
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec031944846cbd0800000000000000
+      internalID: -2610319474683752809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_243
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 238
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ac83f7a9a9414b0800000000000000
+      internalID: -5470577658998240672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_244
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 239
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e94d6aa962edf480800000000000000
+      internalID: -8863679548136535576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_245
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c1c52ac6eff16b0800000000000000
+      internalID: -5323256491994768259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_246
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 239
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55a95c9a250f3b40800000000000000
+      internalID: 5422058156947252574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_247
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d806dc07a6c24450800000000000000
+      internalID: 6071633668426041560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_248
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 183
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21510e41e9340d4c0800000000000000
+      internalID: -4264834500885736174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_249
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 183
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf5cced5d7944e0800000000000000
+      internalID: -1996927117404275502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_250
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 212
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05c5312a2960a10800000000000000
+      internalID: 1875347519653564670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_251
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 182
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa57cde3186f3cd0800000000000000
+      internalID: -2576226027029701892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_252
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 212
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29077e783a421590800000000000000
+      internalID: -7705014405977142994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_253
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05b169ac8aec140800000000000000
+      internalID: 4741913045722943660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_254
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 182
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff96d7fc678a7920800000000000000
+      internalID: 2988850204798001143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_255
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d163a0d412c2668c0800000000000000
+      internalID: -4006466296961419747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_256
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c8f47757549dc0800000000000000
+      internalID: -3633182966244915689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_257
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 183
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9ad4e79ed7ee990800000000000000
+      internalID: -7354802699649570369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_258
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 182
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e4752d8a52bd320800000000000000
+      internalID: 2583700218240781853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_259
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 173
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3339efced6db85e30800000000000000
+      internalID: 4492548908127261491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_260
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 183
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14847355da051ec0800000000000000
+      internalID: -3596956816041016293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_261
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 182
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f8e0dac162cda60800000000000000
+      internalID: 7700071367501057882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_262
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 183
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e459db63cba171e70800000000000000
+      internalID: 9085760168917833038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_263
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc42f7e36fd1233c0800000000000000
+      internalID: -4381406544030391089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_264
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 183
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32495787094408e90800000000000000
+      internalID: -7025540031411022813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_265
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 183
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca3caf6194a7170800000000000000
+      internalID: 8176928436489792631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_266
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 183
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f1279e8f7d39c0800000000000000
+      internalID: -3945857448109017377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_267
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d790c5bdbd1791180800000000000000
+      internalID: -9144152379307062915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_268
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 183
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3b05c1438068670800000000000000
+      internalID: 8540522763261096875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_269
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 182
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23457d0891e87efb0800000000000000
+      internalID: -4618566652658232270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_270
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 183
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53742b9b2688e0060800000000000000
+      internalID: 6921619634918672181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailchimp_271
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 365
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e877d372d168d360800000000000000
+      internalID: 7194607961238894824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mailchimp_0: 7084070638270967387
+      Mailchimp_1: -3565120622234572289
+      Mailchimp_10: -4980517571977936399
+      Mailchimp_100: -3096387864724769142
+      Mailchimp_101: 1758772534861293470
+      Mailchimp_102: -4443571750421016702
+      Mailchimp_103: 2311414685386333562
+      Mailchimp_104: 6176097038491635940
+      Mailchimp_105: 8497829614254049118
+      Mailchimp_106: 4038015990195689238
+      Mailchimp_107: 3393925182551720786
+      Mailchimp_108: -7446455268310585468
+      Mailchimp_109: 8360898631583091641
+      Mailchimp_11: -5092416786128627618
+      Mailchimp_110: -2719878126197799180
+      Mailchimp_111: -3928907627505421429
+      Mailchimp_112: -2914539929296252439
+      Mailchimp_113: 6147998146972799429
+      Mailchimp_114: 1064683268541138481
+      Mailchimp_115: 2147870526019390188
+      Mailchimp_116: -8454167604008066613
+      Mailchimp_117: 8213293183825806254
+      Mailchimp_118: -7229720179325555881
+      Mailchimp_119: 1477079956798740757
+      Mailchimp_12: 8187660448705269259
+      Mailchimp_120: -7619624182364967554
+      Mailchimp_121: 8811929216881447753
+      Mailchimp_122: 6938312020577142411
+      Mailchimp_123: -3318389593292909965
+      Mailchimp_124: 6166789800407984948
+      Mailchimp_125: -5623426447652104770
+      Mailchimp_126: -1261820442749692117
+      Mailchimp_127: 9126644037352766599
+      Mailchimp_128: -7629415934186881372
+      Mailchimp_129: 5693124250762556745
+      Mailchimp_13: -3804899466935319016
+      Mailchimp_130: -5951422042523793480
+      Mailchimp_131: 7638395736460616206
+      Mailchimp_132: -3255096514149736164
+      Mailchimp_133: 6929993341178202653
+      Mailchimp_134: -2606147930389008928
+      Mailchimp_135: 4056672167449080932
+      Mailchimp_136: 1926174594405597967
+      Mailchimp_137: 796895446558118033
+      Mailchimp_138: 4293562808601597240
+      Mailchimp_139: -3112324991410598699
+      Mailchimp_14: -6211716164734878658
+      Mailchimp_140: 3892492398126318788
+      Mailchimp_141: 2694082221248519507
+      Mailchimp_142: -4401908432715493506
+      Mailchimp_143: -6997877302949538404
+      Mailchimp_144: 4444298300984715268
+      Mailchimp_145: -2913544233619823091
+      Mailchimp_146: -8214477598864191893
+      Mailchimp_147: 4608618394841912492
+      Mailchimp_148: 753374458296085200
+      Mailchimp_149: -8535599950898434067
+      Mailchimp_15: -8502409899273253848
+      Mailchimp_150: 8549852309914237757
+      Mailchimp_151: -2465888533194620354
+      Mailchimp_152: -7691764217132318192
+      Mailchimp_153: 3208925647772747021
+      Mailchimp_154: -3931392059583930467
+      Mailchimp_155: 564816088623435073
+      Mailchimp_156: 6640933026270746850
+      Mailchimp_157: -5167814219075246553
+      Mailchimp_158: -3061740163543843318
+      Mailchimp_159: 3362748861922876943
+      Mailchimp_16: -5959831914662403960
+      Mailchimp_160: -2338936028772186857
+      Mailchimp_161: 7968272243211886846
+      Mailchimp_162: -8708066811581987690
+      Mailchimp_163: -2402990458708144681
+      Mailchimp_164: 727099322065783276
+      Mailchimp_165: -7582958341440326151
+      Mailchimp_166: -2417071247177556407
+      Mailchimp_167: -3533625047027688242
+      Mailchimp_168: -3663429189640797078
+      Mailchimp_169: -1266277279273451715
+      Mailchimp_17: -6572462291680567171
+      Mailchimp_170: 8324278424941567711
+      Mailchimp_171: 6262002905426271644
+      Mailchimp_172: -8680687564056235763
+      Mailchimp_173: 208544320367168053
+      Mailchimp_174: 2432169566406832324
+      Mailchimp_175: -6407926122860253587
+      Mailchimp_176: 7075353065354950659
+      Mailchimp_177: -821855891568280825
+      Mailchimp_178: -1623184701795306
+      Mailchimp_179: -7991340675296661516
+      Mailchimp_18: -5633867244041732176
+      Mailchimp_180: -4759455207380776574
+      Mailchimp_181: -9153286115485571741
+      Mailchimp_182: -2116719160773552634
+      Mailchimp_183: 1974871566942092598
+      Mailchimp_184: 8997295680433433806
+      Mailchimp_185: 9113130572630256934
+      Mailchimp_186: 4845652530430567369
+      Mailchimp_187: -6615375141600130934
+      Mailchimp_188: -4699883142169942482
+      Mailchimp_189: -4571422965359744888
+      Mailchimp_19: -3193357568396025070
+      Mailchimp_190: -767808600213804038
+      Mailchimp_191: 6300297785945359549
+      Mailchimp_192: -7982726794254258108
+      Mailchimp_193: -2287639272756144923
+      Mailchimp_194: 454834484882274125
+      Mailchimp_195: -230909836194538495
+      Mailchimp_196: -2185973770062697134
+      Mailchimp_197: -5099157365701977612
+      Mailchimp_198: -3741072037016403518
+      Mailchimp_199: -1528083396621165519
+      Mailchimp_2: -6559501204196358304
+      Mailchimp_20: -7246207332622635806
+      Mailchimp_200: -2569784642830724918
+      Mailchimp_201: -8591231342212898247
+      Mailchimp_202: 3076347548181454832
+      Mailchimp_203: -1902243409783020796
+      Mailchimp_204: 653337016225273248
+      Mailchimp_205: -529188602094598219
+      Mailchimp_206: 2835652596979376695
+      Mailchimp_207: -1992025674984480593
+      Mailchimp_208: 5394256488586522524
+      Mailchimp_209: -876225901096491843
+      Mailchimp_21: 8052320639866788645
+      Mailchimp_210: 200646099449792322
+      Mailchimp_211: -804173811295718555
+      Mailchimp_212: -1315376685360091403
+      Mailchimp_213: -379931592664619156
+      Mailchimp_214: -2112355305207371798
+      Mailchimp_215: -5288234288542529921
+      Mailchimp_216: -6048140418097988437
+      Mailchimp_217: 4507755118967801659
+      Mailchimp_218: -5613837598016435046
+      Mailchimp_219: -6825147598958511789
+      Mailchimp_22: 3385413495635329132
+      Mailchimp_220: 8606716660678643022
+      Mailchimp_221: 1875052988812467440
+      Mailchimp_222: -6996022120937126706
+      Mailchimp_223: -2391408313377140274
+      Mailchimp_224: -7791654334157312990
+      Mailchimp_225: 888672355208363333
+      Mailchimp_226: -5620891296634856285
+      Mailchimp_227: -3637703366486685002
+      Mailchimp_228: -5189666051188013852
+      Mailchimp_229: -7567034468989444210
+      Mailchimp_23: 3384039666355352923
+      Mailchimp_230: 2144298943203293378
+      Mailchimp_231: -5316586844550324326
+      Mailchimp_232: -8700795710718440528
+      Mailchimp_233: 6034011757897096684
+      Mailchimp_234: 8634510351198593502
+      Mailchimp_235: -652315581208963755
+      Mailchimp_236: 8380794730644078005
+      Mailchimp_237: 7631396234408334814
+      Mailchimp_238: -3439352207626344564
+      Mailchimp_239: 1810372696983674505
+      Mailchimp_24: 1698202631093173255
+      Mailchimp_240: 7718967527360135387
+      Mailchimp_241: 6496365161300915860
+      Mailchimp_242: -2610319474683752809
+      Mailchimp_243: -5470577658998240672
+      Mailchimp_244: -8863679548136535576
+      Mailchimp_245: -5323256491994768259
+      Mailchimp_246: 5422058156947252574
+      Mailchimp_247: 6071633668426041560
+      Mailchimp_248: -4264834500885736174
+      Mailchimp_249: -1996927117404275502
+      Mailchimp_25: 3538476028647952658
+      Mailchimp_250: 1875347519653564670
+      Mailchimp_251: -2576226027029701892
+      Mailchimp_252: -7705014405977142994
+      Mailchimp_253: 4741913045722943660
+      Mailchimp_254: 2988850204798001143
+      Mailchimp_255: -4006466296961419747
+      Mailchimp_256: -3633182966244915689
+      Mailchimp_257: -7354802699649570369
+      Mailchimp_258: 2583700218240781853
+      Mailchimp_259: 4492548908127261491
+      Mailchimp_26: -8515549018861604249
+      Mailchimp_260: -3596956816041016293
+      Mailchimp_261: 7700071367501057882
+      Mailchimp_262: 9085760168917833038
+      Mailchimp_263: -4381406544030391089
+      Mailchimp_264: -7025540031411022813
+      Mailchimp_265: 8176928436489792631
+      Mailchimp_266: -3945857448109017377
+      Mailchimp_267: -9144152379307062915
+      Mailchimp_268: 8540522763261096875
+      Mailchimp_269: -4618566652658232270
+      Mailchimp_27: 7613905172116590573
+      Mailchimp_270: 6921619634918672181
+      Mailchimp_271: 7194607961238894824
+      Mailchimp_28: 4280313764683245274
+      Mailchimp_29: 9137431920605040492
+      Mailchimp_3: 5795985306679390857
+      Mailchimp_30: 7747886803041507229
+      Mailchimp_31: -5912641603875525874
+      Mailchimp_32: 7380390192729857885
+      Mailchimp_33: 6572228590452287377
+      Mailchimp_34: -2293512218866100945
+      Mailchimp_35: 5260420739540850206
+      Mailchimp_36: 5570116611389046962
+      Mailchimp_37: -7987535075139977490
+      Mailchimp_38: -5185009643014469963
+      Mailchimp_39: 6531301437023443311
+      Mailchimp_4: 5592639454072802330
+      Mailchimp_40: -6315441981564502337
+      Mailchimp_41: 8763727684639006032
+      Mailchimp_42: -8458170663143157772
+      Mailchimp_43: -4929535296322779265
+      Mailchimp_44: 1062957379936701365
+      Mailchimp_45: 256075573410378679
+      Mailchimp_46: 7035378267386208579
+      Mailchimp_47: -1499952001871758515
+      Mailchimp_48: -56804895226849435
+      Mailchimp_49: 1918533472708965528
+      Mailchimp_5: -5289100314322300052
+      Mailchimp_50: 5868735559165957067
+      Mailchimp_51: -8133074257321156693
+      Mailchimp_52: 2065933566788622248
+      Mailchimp_53: 3598510009160543503
+      Mailchimp_54: -2808288945545863657
+      Mailchimp_55: 7467116453211889961
+      Mailchimp_56: 1831311851109385663
+      Mailchimp_57: 6130640867042969074
+      Mailchimp_58: 7061251768963392362
+      Mailchimp_59: 7492654419819021186
+      Mailchimp_6: -8554917761678640625
+      Mailchimp_60: -6294240845618859619
+      Mailchimp_61: 8814089193317132264
+      Mailchimp_62: 4963847278409778338
+      Mailchimp_63: 7154284684315922791
+      Mailchimp_64: 4238326552850296248
+      Mailchimp_65: -3443106220175392908
+      Mailchimp_66: -159646263537806488
+      Mailchimp_67: -1353501713459571602
+      Mailchimp_68: 5139668671491067230
+      Mailchimp_69: 5159713649148821508
+      Mailchimp_7: -1016695819782786168
+      Mailchimp_70: 1080386091915444305
+      Mailchimp_71: 7893004433235044958
+      Mailchimp_72: 3897809398741057062
+      Mailchimp_73: -8005122068719649514
+      Mailchimp_74: 3699601336806796102
+      Mailchimp_75: 1370104802271793753
+      Mailchimp_76: 5880293606302717950
+      Mailchimp_77: -7025224538773140424
+      Mailchimp_78: -268439029919733534
+      Mailchimp_79: -3490332185366873964
+      Mailchimp_8: -255648774213520693
+      Mailchimp_80: -5573755098962019469
+      Mailchimp_81: -4754714918570455118
+      Mailchimp_82: -8498613594707245664
+      Mailchimp_83: -4878231635942203853
+      Mailchimp_84: -6392818768140655729
+      Mailchimp_85: 5229035796179846446
+      Mailchimp_86: 240464052355174728
+      Mailchimp_87: -7520664163022105021
+      Mailchimp_88: -1413264032159896823
+      Mailchimp_89: 8223765680255466317
+      Mailchimp_9: -3860957700512564123
+      Mailchimp_90: -1713523289551885598
+      Mailchimp_91: -6594693077428465658
+      Mailchimp_92: 589005509262854529
+      Mailchimp_93: 8002560794496258666
+      Mailchimp_94: 7507006472034881827
+      Mailchimp_95: 2654443315462677425
+      Mailchimp_96: -7397026258183942175
+      Mailchimp_97: 7940720391602690845
+      Mailchimp_98: -4263494966069185921
+      Mailchimp_99: -4683981772095751417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

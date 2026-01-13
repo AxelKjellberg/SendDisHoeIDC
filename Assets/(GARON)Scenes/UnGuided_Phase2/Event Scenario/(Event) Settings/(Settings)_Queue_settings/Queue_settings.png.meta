@@ -1,0 +1,6344 @@
+fileFormatVersion: 2
+guid: 55b5618bf7f6446748da30031ff2393f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4813626715644231410
+    second: Queue_settings_0
+  - first:
+      213: -4697015856899934821
+    second: Queue_settings_1
+  - first:
+      213: 982256930103819112
+    second: Queue_settings_2
+  - first:
+      213: -8625272392961970878
+    second: Queue_settings_3
+  - first:
+      213: 7208155630739450649
+    second: Queue_settings_4
+  - first:
+      213: 7804802862215413539
+    second: Queue_settings_5
+  - first:
+      213: -8157628795853284877
+    second: Queue_settings_6
+  - first:
+      213: 177352454257283075
+    second: Queue_settings_7
+  - first:
+      213: -8315648844693207159
+    second: Queue_settings_8
+  - first:
+      213: 5497073776395963768
+    second: Queue_settings_9
+  - first:
+      213: -2282187352180662238
+    second: Queue_settings_10
+  - first:
+      213: 2063223833098974742
+    second: Queue_settings_11
+  - first:
+      213: -6462032170187866062
+    second: Queue_settings_12
+  - first:
+      213: -5308802192265802777
+    second: Queue_settings_13
+  - first:
+      213: 1345709585723814823
+    second: Queue_settings_14
+  - first:
+      213: -2208415256452266286
+    second: Queue_settings_15
+  - first:
+      213: -2493500495743768197
+    second: Queue_settings_16
+  - first:
+      213: 7678624680731139035
+    second: Queue_settings_17
+  - first:
+      213: 5108963415703967758
+    second: Queue_settings_18
+  - first:
+      213: 1669258962441378111
+    second: Queue_settings_19
+  - first:
+      213: -8872705456442144601
+    second: Queue_settings_20
+  - first:
+      213: -4586589495182839610
+    second: Queue_settings_21
+  - first:
+      213: 8008484889237380444
+    second: Queue_settings_22
+  - first:
+      213: -5291356862409958774
+    second: Queue_settings_23
+  - first:
+      213: -4183978116148842199
+    second: Queue_settings_24
+  - first:
+      213: 4682852989632542107
+    second: Queue_settings_25
+  - first:
+      213: 2299003012544884102
+    second: Queue_settings_26
+  - first:
+      213: 5979559192137520020
+    second: Queue_settings_27
+  - first:
+      213: -1583210564389458534
+    second: Queue_settings_28
+  - first:
+      213: 7231502548409973287
+    second: Queue_settings_29
+  - first:
+      213: 3080474168840740089
+    second: Queue_settings_30
+  - first:
+      213: 2704812166072706505
+    second: Queue_settings_31
+  - first:
+      213: -5299646995812406878
+    second: Queue_settings_32
+  - first:
+      213: -3637825068180030685
+    second: Queue_settings_33
+  - first:
+      213: 1955908650185024821
+    second: Queue_settings_34
+  - first:
+      213: -7833462191716703253
+    second: Queue_settings_35
+  - first:
+      213: -7828270498727122940
+    second: Queue_settings_36
+  - first:
+      213: -2063208881852948267
+    second: Queue_settings_37
+  - first:
+      213: -7517801840603066445
+    second: Queue_settings_38
+  - first:
+      213: 7530607790252644661
+    second: Queue_settings_39
+  - first:
+      213: -4584755623543359754
+    second: Queue_settings_40
+  - first:
+      213: 6222329973108538092
+    second: Queue_settings_41
+  - first:
+      213: -7111528275679087839
+    second: Queue_settings_42
+  - first:
+      213: 7814264514475944824
+    second: Queue_settings_43
+  - first:
+      213: -3569653330659704465
+    second: Queue_settings_44
+  - first:
+      213: -551851486929100622
+    second: Queue_settings_45
+  - first:
+      213: 2435876597920353383
+    second: Queue_settings_46
+  - first:
+      213: 2242952171310256653
+    second: Queue_settings_47
+  - first:
+      213: -114591588455356903
+    second: Queue_settings_48
+  - first:
+      213: -2832122241917444375
+    second: Queue_settings_49
+  - first:
+      213: -9131749092085334338
+    second: Queue_settings_50
+  - first:
+      213: -553727906447846275
+    second: Queue_settings_51
+  - first:
+      213: -5057951438233961458
+    second: Queue_settings_52
+  - first:
+      213: -6493959295832914616
+    second: Queue_settings_53
+  - first:
+      213: 6360762682149182326
+    second: Queue_settings_54
+  - first:
+      213: -7311546609265719600
+    second: Queue_settings_55
+  - first:
+      213: -2281106315595329827
+    second: Queue_settings_56
+  - first:
+      213: -4383679509024061043
+    second: Queue_settings_57
+  - first:
+      213: -6946237851508440109
+    second: Queue_settings_58
+  - first:
+      213: -850182843322933892
+    second: Queue_settings_59
+  - first:
+      213: 433153048871546445
+    second: Queue_settings_60
+  - first:
+      213: -2001213113410802703
+    second: Queue_settings_61
+  - first:
+      213: 4749656408007591122
+    second: Queue_settings_62
+  - first:
+      213: -2735952341738611043
+    second: Queue_settings_63
+  - first:
+      213: 6491865615148820461
+    second: Queue_settings_64
+  - first:
+      213: -8534889733232798341
+    second: Queue_settings_65
+  - first:
+      213: 6793293116247321169
+    second: Queue_settings_66
+  - first:
+      213: 1063767039293276313
+    second: Queue_settings_67
+  - first:
+      213: 7661593218697712949
+    second: Queue_settings_68
+  - first:
+      213: -4814947926700495260
+    second: Queue_settings_69
+  - first:
+      213: -739819623189476978
+    second: Queue_settings_70
+  - first:
+      213: 7884124499938684979
+    second: Queue_settings_71
+  - first:
+      213: -8572124165700707932
+    second: Queue_settings_72
+  - first:
+      213: -2481376357057652988
+    second: Queue_settings_73
+  - first:
+      213: 3484743789637370829
+    second: Queue_settings_74
+  - first:
+      213: 5597144085347560086
+    second: Queue_settings_75
+  - first:
+      213: -8971907334602316218
+    second: Queue_settings_76
+  - first:
+      213: 262366797156214779
+    second: Queue_settings_77
+  - first:
+      213: -7064093477831889949
+    second: Queue_settings_78
+  - first:
+      213: -721361242882272977
+    second: Queue_settings_79
+  - first:
+      213: 4540268305673023347
+    second: Queue_settings_80
+  - first:
+      213: -3952237215674559238
+    second: Queue_settings_81
+  - first:
+      213: -8861586699338841663
+    second: Queue_settings_82
+  - first:
+      213: 2547429847303798526
+    second: Queue_settings_83
+  - first:
+      213: 4543406485794934521
+    second: Queue_settings_84
+  - first:
+      213: 1058234971486028526
+    second: Queue_settings_85
+  - first:
+      213: 4262409967535058132
+    second: Queue_settings_86
+  - first:
+      213: 1122768580915901485
+    second: Queue_settings_87
+  - first:
+      213: 5118005953632093054
+    second: Queue_settings_88
+  - first:
+      213: -5672134961099494463
+    second: Queue_settings_89
+  - first:
+      213: -3702205859299440781
+    second: Queue_settings_90
+  - first:
+      213: 1583480100630763894
+    second: Queue_settings_91
+  - first:
+      213: -6628939774783896389
+    second: Queue_settings_92
+  - first:
+      213: -7902334978801262090
+    second: Queue_settings_93
+  - first:
+      213: -7360944313692611418
+    second: Queue_settings_94
+  - first:
+      213: 3913339305724610294
+    second: Queue_settings_95
+  - first:
+      213: -4181170097364542225
+    second: Queue_settings_96
+  - first:
+      213: 4984365974108257341
+    second: Queue_settings_97
+  - first:
+      213: 3884705096436396777
+    second: Queue_settings_98
+  - first:
+      213: -2307678966120210488
+    second: Queue_settings_99
+  - first:
+      213: -1195467521807698451
+    second: Queue_settings_100
+  - first:
+      213: 3029829461100619567
+    second: Queue_settings_101
+  - first:
+      213: -7406185452177943482
+    second: Queue_settings_102
+  - first:
+      213: 2531129069415023969
+    second: Queue_settings_103
+  - first:
+      213: 6490307995726104274
+    second: Queue_settings_104
+  - first:
+      213: 3877172378734012087
+    second: Queue_settings_105
+  - first:
+      213: -2953597801689490709
+    second: Queue_settings_106
+  - first:
+      213: 5269282638781662895
+    second: Queue_settings_107
+  - first:
+      213: 1309725264339868707
+    second: Queue_settings_108
+  - first:
+      213: 6500752520293185444
+    second: Queue_settings_109
+  - first:
+      213: -3713997171100889311
+    second: Queue_settings_110
+  - first:
+      213: -4470487945213581827
+    second: Queue_settings_111
+  - first:
+      213: 278880207391189019
+    second: Queue_settings_112
+  - first:
+      213: 2579573659757986333
+    second: Queue_settings_113
+  - first:
+      213: 2246113774856682135
+    second: Queue_settings_114
+  - first:
+      213: 5269568343832314184
+    second: Queue_settings_115
+  - first:
+      213: 6430968932596300767
+    second: Queue_settings_116
+  - first:
+      213: -6539464460219593517
+    second: Queue_settings_117
+  - first:
+      213: 3508415981785536662
+    second: Queue_settings_118
+  - first:
+      213: 8715573759860943180
+    second: Queue_settings_119
+  - first:
+      213: -6422345819762557551
+    second: Queue_settings_120
+  - first:
+      213: 2119512827701618928
+    second: Queue_settings_121
+  - first:
+      213: -4246901635117985132
+    second: Queue_settings_122
+  - first:
+      213: -137074494887794454
+    second: Queue_settings_123
+  - first:
+      213: -7130086577290539415
+    second: Queue_settings_124
+  - first:
+      213: 7205732771917599469
+    second: Queue_settings_125
+  - first:
+      213: -7687443507785217460
+    second: Queue_settings_126
+  - first:
+      213: -8352990690048370441
+    second: Queue_settings_127
+  - first:
+      213: 2871893940494983733
+    second: Queue_settings_128
+  - first:
+      213: -1559401573736154176
+    second: Queue_settings_129
+  - first:
+      213: 280008993898862697
+    second: Queue_settings_130
+  - first:
+      213: -4651689856940303740
+    second: Queue_settings_131
+  - first:
+      213: -1951881484336724261
+    second: Queue_settings_132
+  - first:
+      213: 4640275946717297720
+    second: Queue_settings_133
+  - first:
+      213: 5544237463204183676
+    second: Queue_settings_134
+  - first:
+      213: 3933382143934900802
+    second: Queue_settings_135
+  - first:
+      213: -3382783631631753830
+    second: Queue_settings_136
+  - first:
+      213: -6561026350171282299
+    second: Queue_settings_137
+  - first:
+      213: -1019294969035378266
+    second: Queue_settings_138
+  - first:
+      213: -8001639676845319205
+    second: Queue_settings_139
+  - first:
+      213: -1697192502202965827
+    second: Queue_settings_140
+  - first:
+      213: 6592897264371259795
+    second: Queue_settings_141
+  - first:
+      213: -2746800092919162500
+    second: Queue_settings_142
+  - first:
+      213: 7240198746885937600
+    second: Queue_settings_143
+  - first:
+      213: 8239782238510627912
+    second: Queue_settings_144
+  - first:
+      213: 3617937220215084816
+    second: Queue_settings_145
+  - first:
+      213: 6278518020665663204
+    second: Queue_settings_146
+  - first:
+      213: 1764378904267266084
+    second: Queue_settings_147
+  - first:
+      213: 886731359290353965
+    second: Queue_settings_148
+  - first:
+      213: 5609719711573309573
+    second: Queue_settings_149
+  - first:
+      213: -342402901718319532
+    second: Queue_settings_150
+  - first:
+      213: 4854774874341293873
+    second: Queue_settings_151
+  - first:
+      213: 411734330173981060
+    second: Queue_settings_152
+  - first:
+      213: -6270193710051726564
+    second: Queue_settings_153
+  - first:
+      213: 7342723726942670674
+    second: Queue_settings_154
+  - first:
+      213: 2600224537036881319
+    second: Queue_settings_155
+  - first:
+      213: -7358139924084586284
+    second: Queue_settings_156
+  - first:
+      213: 2800529580885470062
+    second: Queue_settings_157
+  - first:
+      213: -3536820479759577748
+    second: Queue_settings_158
+  - first:
+      213: 8580935856893855460
+    second: Queue_settings_159
+  - first:
+      213: 2190626969980764801
+    second: Queue_settings_160
+  - first:
+      213: 547834213567604639
+    second: Queue_settings_161
+  - first:
+      213: -3187319633942709219
+    second: Queue_settings_162
+  - first:
+      213: 4643314377460979615
+    second: Queue_settings_163
+  - first:
+      213: -7390213632258568145
+    second: Queue_settings_164
+  - first:
+      213: 1997920638247452495
+    second: Queue_settings_165
+  - first:
+      213: 6565475557470334128
+    second: Queue_settings_166
+  - first:
+      213: -5609273242742408057
+    second: Queue_settings_167
+  - first:
+      213: 294449619043798093
+    second: Queue_settings_168
+  - first:
+      213: 1149298039931317105
+    second: Queue_settings_169
+  - first:
+      213: -3756704412204984692
+    second: Queue_settings_170
+  - first:
+      213: 3433207353600494385
+    second: Queue_settings_171
+  - first:
+      213: 243634421422737427
+    second: Queue_settings_172
+  - first:
+      213: -7481379541412908193
+    second: Queue_settings_173
+  - first:
+      213: 4395121092358880939
+    second: Queue_settings_174
+  - first:
+      213: -8147507084867911606
+    second: Queue_settings_175
+  - first:
+      213: 7810859380682914315
+    second: Queue_settings_176
+  - first:
+      213: 4146349933353822799
+    second: Queue_settings_177
+  - first:
+      213: 9167462158459867913
+    second: Queue_settings_178
+  - first:
+      213: 994868178541015094
+    second: Queue_settings_179
+  - first:
+      213: -5592185732524918985
+    second: Queue_settings_180
+  - first:
+      213: -2448790235757724020
+    second: Queue_settings_181
+  - first:
+      213: -6818543964698931769
+    second: Queue_settings_182
+  - first:
+      213: 8091823418703323013
+    second: Queue_settings_183
+  - first:
+      213: 5776277903362794548
+    second: Queue_settings_184
+  - first:
+      213: -8101001103206760650
+    second: Queue_settings_185
+  - first:
+      213: 3513514354339589338
+    second: Queue_settings_186
+  - first:
+      213: -7433232662742296801
+    second: Queue_settings_187
+  - first:
+      213: 3819953989150709206
+    second: Queue_settings_188
+  - first:
+      213: -4612502276955111651
+    second: Queue_settings_189
+  - first:
+      213: 7194471740456730401
+    second: Queue_settings_190
+  - first:
+      213: 5836821110262887250
+    second: Queue_settings_191
+  - first:
+      213: 3957649294391461510
+    second: Queue_settings_192
+  - first:
+      213: 7902624721223322870
+    second: Queue_settings_193
+  - first:
+      213: -3864793326912749333
+    second: Queue_settings_194
+  - first:
+      213: 8873357144413082479
+    second: Queue_settings_195
+  - first:
+      213: -381164825675931345
+    second: Queue_settings_196
+  - first:
+      213: 2899550638707043388
+    second: Queue_settings_197
+  - first:
+      213: -9061703816149992970
+    second: Queue_settings_198
+  - first:
+      213: -5244273363373966465
+    second: Queue_settings_199
+  - first:
+      213: -1024963325250842533
+    second: Queue_settings_200
+  - first:
+      213: -8256038740213924730
+    second: Queue_settings_201
+  - first:
+      213: -2285110703221320212
+    second: Queue_settings_202
+  - first:
+      213: 1561150381890291935
+    second: Queue_settings_203
+  - first:
+      213: -1862273020226650242
+    second: Queue_settings_204
+  - first:
+      213: -5187630322577832648
+    second: Queue_settings_205
+  - first:
+      213: 8845434333457873406
+    second: Queue_settings_206
+  - first:
+      213: -932090663800561149
+    second: Queue_settings_207
+  - first:
+      213: 4782970457539283725
+    second: Queue_settings_208
+  - first:
+      213: 5697325021343920841
+    second: Queue_settings_209
+  - first:
+      213: -1034434247077250563
+    second: Queue_settings_210
+  - first:
+      213: 7436465215191741902
+    second: Queue_settings_211
+  - first:
+      213: 4857494137980029151
+    second: Queue_settings_212
+  - first:
+      213: -8412433436586125949
+    second: Queue_settings_213
+  - first:
+      213: -2754956380062050540
+    second: Queue_settings_214
+  - first:
+      213: 3615944798009962433
+    second: Queue_settings_215
+  - first:
+      213: 6528144453401459887
+    second: Queue_settings_216
+  - first:
+      213: -749502276744971638
+    second: Queue_settings_217
+  - first:
+      213: 1089535073863584853
+    second: Queue_settings_218
+  - first:
+      213: -7398567653051355743
+    second: Queue_settings_219
+  - first:
+      213: 74517074310391199
+    second: Queue_settings_220
+  - first:
+      213: -7993378411235338883
+    second: Queue_settings_221
+  - first:
+      213: 3594628907856237480
+    second: Queue_settings_222
+  - first:
+      213: 5846584849330662421
+    second: Queue_settings_223
+  - first:
+      213: 235008960697687986
+    second: Queue_settings_224
+  - first:
+      213: -7838756542556832995
+    second: Queue_settings_225
+  - first:
+      213: -1032167341615666642
+    second: Queue_settings_226
+  - first:
+      213: -5168942534209932863
+    second: Queue_settings_227
+  - first:
+      213: -4627097033407191213
+    second: Queue_settings_228
+  - first:
+      213: 3846742060146455757
+    second: Queue_settings_229
+  - first:
+      213: -5850065291858214642
+    second: Queue_settings_230
+  - first:
+      213: -25338217757995216
+    second: Queue_settings_231
+  - first:
+      213: 4358467986010557886
+    second: Queue_settings_232
+  - first:
+      213: 8399611111110273298
+    second: Queue_settings_233
+  - first:
+      213: -7863300141752492739
+    second: Queue_settings_234
+  - first:
+      213: -6346889406167251819
+    second: Queue_settings_235
+  - first:
+      213: -4242531833818841912
+    second: Queue_settings_236
+  - first:
+      213: -3757596688724536673
+    second: Queue_settings_237
+  - first:
+      213: -7199595030692303071
+    second: Queue_settings_238
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Queue_settings_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1351
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fefd438eff6dc240800000000000000
+      internalID: 4813626715644231410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1363
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b953a19c6f8d0deb0800000000000000
+      internalID: -4697015856899934821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1363
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf005497da1ad00800000000000000
+      internalID: 982256930103819112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1361
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da48e0570ec4880800000000000000
+      internalID: -8625272392961970878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1363
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be4ff0b53880460800000000000000
+      internalID: 7208155630739450649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1362
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f3d400ada305c60800000000000000
+      internalID: 7804802862215413539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1363
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9daa5c4d74ace80800000000000000
+      internalID: -8157628795853284877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1361
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3009c041e15167200800000000000000
+      internalID: 177352454257283075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1363
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878c271f61e89c80800000000000000
+      internalID: -8315648844693207159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1361
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d42329977894c40800000000000000
+      internalID: 5497073776395963768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1351
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220e16ad1ba0450e0800000000000000
+      internalID: -2282187352180662238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1361
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616fbff052b02ac10800000000000000
+      internalID: 2063223833098974742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1339
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2304ec08aff3256a0800000000000000
+      internalID: -6462032170187866062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1361
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb8e2b88885356b0800000000000000
+      internalID: -5308802192265802777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1361
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f7e30dbbeca210800000000000000
+      internalID: 1345709585723814823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1339
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60c9266022a51e0800000000000000
+      internalID: -2208415256452266286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1361
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79aeef928e456dd0800000000000000
+      internalID: -2493500495743768197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1361
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbd68ac674ff8a60800000000000000
+      internalID: 7678624680731139035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1361
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08508b782fa6e640800000000000000
+      internalID: 5108963415703967758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1361
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399476ae266a2710800000000000000
+      internalID: 1669258962441378111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1361
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a88810a561ddd480800000000000000
+      internalID: -8872705456442144601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1363
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b619a7292950c0800000000000000
+      internalID: -4586589495182839610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_22
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 1412
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dd314739ad32f60800000000000000
+      internalID: 8008484889237380444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_23
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1378
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a9a3ce7f25196b0800000000000000
+      internalID: -5291356862409958774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1267
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b0fe22168fe5c0800000000000000
+      internalID: -4183978116148842199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1267
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b957c66bbf5dcf040800000000000000
+      internalID: 4682852989632542107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1268
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d6a4c2f03b7ef10800000000000000
+      internalID: 2299003012544884102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1267
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49357c87769abf250800000000000000
+      internalID: 5979559192137520020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1268
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dabe0416e470ae0800000000000000
+      internalID: -1583210564389458534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1267
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72afe4ee0457b5460800000000000000
+      internalID: 7231502548409973287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1267
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcd48d7fea00ca20800000000000000
+      internalID: 3080474168840740089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1256
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c52be6955c698520800000000000000
+      internalID: 2704812166072706505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1267
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a2a3d22fd376b0800000000000000
+      internalID: -5299646995812406878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1268
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3e10ef59d38dc0800000000000000
+      internalID: -3637825068180030685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1268
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5356463fd88c42b10800000000000000
+      internalID: 1955908650185024821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1267
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e54dd3a3f94390800000000000000
+      internalID: -7833462191716703253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1268
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40823b515756c5390800000000000000
+      internalID: -7828270498727122940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1268
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d069bb04720e53e0800000000000000
+      internalID: -2063208881852948267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1267
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf83179e076ba790800000000000000
+      internalID: -7517801840603066445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1268
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5395cc8e2e7128860800000000000000
+      internalID: 7530607790252644661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1267
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f639bc2d0daf50c0800000000000000
+      internalID: -4584755623543359754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1267
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea766aa4282a5650800000000000000
+      internalID: 6222329973108538092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1267
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123700636b6ce4d90800000000000000
+      internalID: -7111528275679087839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b67469c28d17c60800000000000000
+      internalID: 7814264514475944824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1267
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f610db6653b067ec0800000000000000
+      internalID: -3569653330659704465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1267
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e1d81ffd6758f0800000000000000
+      internalID: -551851486929100622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1267
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ccab72cd8fdc120800000000000000
+      internalID: 2435876597920353383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1268
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02932bbd11902f10800000000000000
+      internalID: 2242952171310256653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1268
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916eed3be83e86ef0800000000000000
+      internalID: -114591588455356903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee170283d742b8d0800000000000000
+      internalID: -2832122241917444375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1267
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef1443592854180800000000000000
+      internalID: -9131749092085334338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1268
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7494f12763c058f0800000000000000
+      internalID: -553727906447846275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_52
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1287
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c73e017fb8ec9b0800000000000000
+      internalID: -5057951438233961458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1267
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845880a4d62d0e5a0800000000000000
+      internalID: -6493959295832914616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_54
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1267
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b101a65f7f54850800000000000000
+      internalID: 6360762682149182326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1259
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6410cd81b288a90800000000000000
+      internalID: -7311546609265719600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1267
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde4a0c44e1e750e0800000000000000
+      internalID: -2281106315595329827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_57
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1267
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89467756ba0a23c0800000000000000
+      internalID: -4383679509024061043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3877f0a710a9f90800000000000000
+      internalID: -6946237851508440109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1189
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dda9d553b8334f0800000000000000
+      internalID: -850182843322933892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1181
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ead5b276ed20600800000000000000
+      internalID: 433153048871546445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1181
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbab47b6434a34e0800000000000000
+      internalID: -2001213113410802703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1189
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4437c965b2ae140800000000000000
+      internalID: 4749656408007591122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1189
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e954447d1f70ad0800000000000000
+      internalID: -2735952341738611043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7a480b16db71a50800000000000000
+      internalID: 6491865615148820461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1189
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d785e10bfd8980800000000000000
+      internalID: -8534889733232798341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1189
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2709c810a64e50800000000000000
+      internalID: 6793293116247321169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1188
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99048d47c7243ce00800000000000000
+      internalID: 1063767039293276313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1188
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535d4068072735a60800000000000000
+      internalID: 7661593218697712949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1181
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e63011f5edd2db0800000000000000
+      internalID: -4814947926700495260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898de1f8f1abb5f0800000000000000
+      internalID: -739819623189476978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1188
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330bcc7f5790a6d60800000000000000
+      internalID: 7884124499938684979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1188
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91ed40d72b90980800000000000000
+      internalID: -8572124165700707932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1189
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4079683a951609dd0800000000000000
+      internalID: -2481376357057652988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1188
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc38592830c4c5030800000000000000
+      internalID: 3484743789637370829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1059
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ae1d304ec0dad40800000000000000
+      internalID: 5597144085347560086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1059
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ae4b70d16d7380800000000000000
+      internalID: -8971907334602316218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1058
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76a51463d14a300800000000000000
+      internalID: 262366797156214779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1059
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb2da9b86c47fd90800000000000000
+      internalID: -7064093477831889949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_79
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1058
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21944385c53df5f0800000000000000
+      internalID: -721361242882272977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1047
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fea98f7f5420f30800000000000000
+      internalID: 4540268305673023347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1058
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af493a33135d629c0800000000000000
+      internalID: -3952237215674559238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1058
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1059ff8d1550580800000000000000
+      internalID: -8861586699338841663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_83
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1058
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe35c203f94a5320800000000000000
+      internalID: 2547429847303798526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1058
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe4308702c6d0f30800000000000000
+      internalID: 4543406485794934521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_85
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1058
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2025c891b9fae00800000000000000
+      internalID: 1058234971486028526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_86
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1059
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dce202484f172b30800000000000000
+      internalID: 4262409967535058132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_87
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1058
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24367e5310e49f00800000000000000
+      internalID: 1122768580915901485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_88
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1058
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7343986c4fc60740800000000000000
+      internalID: 5118005953632093054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_89
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1059
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb279d1e478841b0800000000000000
+      internalID: -5672134961099494463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_90
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1058
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3774617d26f1f9cc0800000000000000
+      internalID: -3702205859299440781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_91
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1058
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6791ffa03c6a9f510800000000000000
+      internalID: 1583480100630763894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_92
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1058
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb44c8e75664104a0800000000000000
+      internalID: -6628939774783896389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_93
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1058
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f128648434455290800000000000000
+      internalID: -7902334978801262090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 4776
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac9bea852ca8d990800000000000000
+      internalID: -7360944313692611418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60a436d59fe4630800000000000000
+      internalID: 3913339305724610294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_96
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 841
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecd91103ff79f5c0800000000000000
+      internalID: -4181170097364542225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_97
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 805
+        width: 154
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c3445f1760c2540800000000000000
+      internalID: 4984365974108257341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_98
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 844
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2bd3204be39e530800000000000000
+      internalID: 3884705096436396777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_99
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 868
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf93c8f43a79ffd0800000000000000
+      internalID: -2307678966120210488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_100
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 867
+        width: 598
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5b22e6f98d86fe0800000000000000
+      internalID: -1195467521807698451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_101
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 867
+        width: 598
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276ae697dd1c0a20800000000000000
+      internalID: 3029829461100619567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_102
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 871
+        width: 969
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64494462291f73990800000000000000
+      internalID: -7406185452177943482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165c5276a70602320800000000000000
+      internalID: 2531129069415023969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 841
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c1282cb4321a50800000000000000
+      internalID: 6490307995726104274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_105
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 844
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a56f7cbb7ec530800000000000000
+      internalID: 3877172378734012087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 845
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea5cecb276b207d0800000000000000
+      internalID: -2953597801689490709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_107
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 845
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6c6b164a0402940800000000000000
+      internalID: 5269282638781662895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_108
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 845
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c155e40341d2210800000000000000
+      internalID: 1309725264339868707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_109
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 844
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7fcc889ff473a50800000000000000
+      internalID: 6500752520293185444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 844
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fc9bf104b357cc0800000000000000
+      internalID: -3713997171100889311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e0e446e2a5f1c0800000000000000
+      internalID: -4470487945213581827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_112
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 602
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1860703218ced300800000000000000
+      internalID: 278880207391189019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_113
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 603
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1244dd839c7cc320800000000000000
+      internalID: 2579573659757986333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 603
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ab17be39ccb2f10800000000000000
+      internalID: 2246113774856682135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_115
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 607
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c4c54d74412940800000000000000
+      internalID: 5269568343832314184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_116
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 631
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbb9f4eb246f3950800000000000000
+      internalID: 6430968932596300767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_117
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 603
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc15398b72f35a0800000000000000
+      internalID: -6539464460219593517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_118
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 602
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69851ae3fb560b030800000000000000
+      internalID: 3508415981785536662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_119
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 603
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c492a325820f3f870800000000000000
+      internalID: 8715573759860943180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_120
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 603
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d7654018e3fd6a0800000000000000
+      internalID: -6422345819762557551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_121
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 621
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e908efa50a6d10800000000000000
+      internalID: 2119512827701618928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_122
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 603
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49254c2c679ff05c0800000000000000
+      internalID: -4246901635117985132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_123
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 602
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae862702973091ef0800000000000000
+      internalID: -137074494887794454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_124
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 602
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e01d6e808dc0d90800000000000000
+      internalID: -7130086577290539415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_125
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 603
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de21a8847c7eff360800000000000000
+      internalID: 7205732771917599469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_126
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 603
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a44970cd6b05590800000000000000
+      internalID: -7687443507785217460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_127
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 621
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f895833937341c80800000000000000
+      internalID: -8352990690048370441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_128
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 603
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532eccba2540bd720800000000000000
+      internalID: 2871893940494983733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_129
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 602
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb754fd784eb5ae0800000000000000
+      internalID: -1559401573736154176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_130
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 602
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968914742bac2e300800000000000000
+      internalID: 280008993898862697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_131
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 602
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a19c788b0e17fb0800000000000000
+      internalID: -4651689856940303740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_132
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 627
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6827aa12689e4e0800000000000000
+      internalID: -1951881484336724261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_133
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 602
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cbfd76362956040800000000000000
+      internalID: 4640275946717297720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_134
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 603
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb2b0299611fc40800000000000000
+      internalID: 5544237463204183676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_135
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 621
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aaa1f483e269630800000000000000
+      internalID: 3933382143934900802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_136
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 602
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5594b530fd01d0800000000000000
+      internalID: -3382783631631753830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_137
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 602
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584201cdb4d82f4a0800000000000000
+      internalID: -6561026350171282299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_138
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 602
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1bd4940acbad1f0800000000000000
+      internalID: -1019294969035378266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_139
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 602
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb96f0cb1774f090800000000000000
+      internalID: -8001639676845319205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_140
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 602
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db06cbe496c5278e0800000000000000
+      internalID: -1697192502202965827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_141
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 621
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3995e7b912dae7b50800000000000000
+      internalID: 6592897264371259795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_142
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 603
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791b806ed761e9d0800000000000000
+      internalID: -2746800092919162500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_143
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 602
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c95d5b666a5a7460800000000000000
+      internalID: 7240198746885937600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_144
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 602
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cbff82a46995270800000000000000
+      internalID: 8239782238510627912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_145
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 602
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017959eabbe753230800000000000000
+      internalID: 3617937220215084816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_146
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 621
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee5aa1ffd6c12750800000000000000
+      internalID: 6278518020665663204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_147
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 602
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4281b0ee3455c7810800000000000000
+      internalID: 1764378904267266084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_148
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 602
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2963b1297d4e4c00800000000000000
+      internalID: 886731359290353965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_149
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 602
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58875d92b5ab9dd40800000000000000
+      internalID: 5609719711573309573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 602
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e3401006a8f3bf0800000000000000
+      internalID: -342402901718319532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_151
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 623
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fba99c600af5340800000000000000
+      internalID: 4854774874341293873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_152
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 603
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4818adb1136c6b500800000000000000
+      internalID: 411734330173981060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_153
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 602
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b6a77aa0ccbf8a0800000000000000
+      internalID: -6270193710051726564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_154
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 603
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f0044835896e560800000000000000
+      internalID: 7342723726942670674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_155
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 603
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad765a907ad51420800000000000000
+      internalID: 2600224537036881319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_156
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 602
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8815169b2a2e990800000000000000
+      internalID: -7358139924084586284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_157
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 602
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6be6a3e0da7dd620800000000000000
+      internalID: 2800529580885470062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_158
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 603
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8a953380baeec0800000000000000
+      internalID: -3536820479759577748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_159
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 602
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e60296b2bb951770800000000000000
+      internalID: 8580935856893855460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_160
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 602
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182081d6f9ba66e10800000000000000
+      internalID: 2190626969980764801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_161
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 603
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97a08f805c4a9700800000000000000
+      internalID: 547834213567604639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_162
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 602
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c77391ead54c3d0800000000000000
+      internalID: -3187319633942709219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_163
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 602
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97960133dd507040800000000000000
+      internalID: 4643314377460979615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_164
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 615
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f209af24bdfa07990800000000000000
+      internalID: -7390213632258568145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_165
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 599
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f392c2c3a0abb10800000000000000
+      internalID: 1997920638247452495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_166
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 599
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc6780fb314d1b50800000000000000
+      internalID: 6565475557470334128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_167
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 599
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c3c3674bbd722b0800000000000000
+      internalID: -5609273242742408057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_168
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 599
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cca535e58161400800000000000000
+      internalID: 294449619043798093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_169
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 599
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba8236a7023ff00800000000000000
+      internalID: 1149298039931317105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_170
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 607
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861160bd318ddbc0800000000000000
+      internalID: -3756704412204984692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 4725
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bcd9fe5e335af20800000000000000
+      internalID: 3433207353600494385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_172
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 411
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318c5f72730916300800000000000000
+      internalID: 243634421422737427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_173
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 410
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f537534f1fccc2890800000000000000
+      internalID: -7481379541412908193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_174
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 410
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb0eed85b9efc30800000000000000
+      internalID: 4395121092358880939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_175
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 411
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a404871497d3eee80800000000000000
+      internalID: -8147507084867911606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_176
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 411
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af128193fb56c60800000000000000
+      internalID: 7810859380682914315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_177
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 410
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ae40ccb4bca8930800000000000000
+      internalID: 4146349933353822799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_178
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 411
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90316d6034e593f70800000000000000
+      internalID: 9167462158459867913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_179
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 443
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f64c565b7ecd00800000000000000
+      internalID: 994868178541015094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_180
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 410
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73738d674b09462b0800000000000000
+      internalID: -5592185732524918985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_181
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 410
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e373c3146240ed0800000000000000
+      internalID: -2448790235757724020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_182
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 411
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd8cbae36aaf51a0800000000000000
+      internalID: -6818543964698931769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_183
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 410
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f9ff8e68eeb4070800000000000000
+      internalID: 8091823418703323013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_184
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 410
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a0e92626792050800000000000000
+      internalID: 5776277903362794548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_185
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 410
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f3056ea66739f80800000000000000
+      internalID: -8101001103206760650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_186
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 410
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca5ab90b282c030800000000000000
+      internalID: 3513514354339589338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_187
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 411
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f171a64b64ad7d890800000000000000
+      internalID: -7433232662742296801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_188
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 410
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d51aa50ae3330530800000000000000
+      internalID: 3819953989150709206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_189
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ff8600e991dffb0800000000000000
+      internalID: -4612502276955111651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_190
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 410
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f72841ee5e7d360800000000000000
+      internalID: 7194471740456730401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_191
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 411
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25378beffdd800150800000000000000
+      internalID: 5836821110262887250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_192
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 411
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68647c190156ce630800000000000000
+      internalID: 3957649294391461510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_193
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 410
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc8cb56053cbad60800000000000000
+      internalID: 7902624721223322870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_194
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 410
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c01b12fe7d5ac0800000000000000
+      internalID: -3864793326912749333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 4725
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f639aed4f4f742b70800000000000000
+      internalID: 8873357144413082479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_196
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 207
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2166bc4c94d5baf0800000000000000
+      internalID: -381164825675931345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_197
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ce36481f54d3820800000000000000
+      internalID: 2899550638707043388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_198
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 206
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f392e36c5e3280800000000000000
+      internalID: -9061703816149992970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_199
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 207
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b3d0f49299837b0800000000000000
+      internalID: -5244273363373966465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_200
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50de92494996c1f0800000000000000
+      internalID: -1024963325250842533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_201
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 207
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7fa51288ac6d80800000000000000
+      internalID: -8256038740213924730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_202
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 206
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5dc062ce7a940e0800000000000000
+      internalID: -2285110703221320212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_203
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 207
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8498140025aa510800000000000000
+      internalID: 1561150381890291935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_204
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 206
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fb89a0e80e726e0800000000000000
+      internalID: -1862273020226650242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83504b4f4b5d108b0800000000000000
+      internalID: -5187630322577832648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 175
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9fcc149ab41ca70800000000000000
+      internalID: 8845434333457873406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_207
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302a5bdca7c8013f0800000000000000
+      internalID: -932090663800561149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_208
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 174
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b01d43a46806240800000000000000
+      internalID: 4782970457539283725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_209
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 174
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c23623dbe6f01f40800000000000000
+      internalID: 5697325021343920841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_210
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 174
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9367f6883f4a1f0800000000000000
+      internalID: -1034434247077250563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_211
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 175
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec57d0096b1a33760800000000000000
+      internalID: 7436465215191741902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_212
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 174
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd887d0be29496340800000000000000
+      internalID: 4857494137980029151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_213
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 174
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855aa34c58014b80800000000000000
+      internalID: -8412433436586125949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_214
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41794bac4cd64c9d0800000000000000
+      internalID: -2754956380062050540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_215
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 201
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf2eccb2aa6e2230800000000000000
+      internalID: 3615944798009962433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_216
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 207
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac3e63fac0a89a50800000000000000
+      internalID: 6528144453401459887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_217
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 201
+        width: 148
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8af44c76ab3995f0800000000000000
+      internalID: -749502276744971638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_218
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 207
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc7f7806ece1f00800000000000000
+      internalID: 1089535073863584853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_219
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 207
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adad293be1035990800000000000000
+      internalID: -7398567653051355743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_220
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 206
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e8ff52ecb80100800000000000000
+      internalID: 74517074310391199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_221
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 206
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d759a0b8fa0d11190800000000000000
+      internalID: -7993378411235338883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_222
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 206
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31f1052ffa2e130800000000000000
+      internalID: 3594628907856237480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_223
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 201
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ce885a1fd332150800000000000000
+      internalID: 5846584849330662421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_224
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 207
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5b65976be24300800000000000000
+      internalID: 235008960697687986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_225
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 201
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b7120c474273390800000000000000
+      internalID: -7838756542556832995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_226
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 206
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2d3e75410da1f0800000000000000
+      internalID: -1032167341615666642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_227
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 174
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c17200c62a3448b0800000000000000
+      internalID: -5168942534209932863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_228
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 175
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357208673cf39cfb0800000000000000
+      internalID: -4627097033407191213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_229
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc47595d58f526530800000000000000
+      internalID: 3846742060146455757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_230
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 164
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0103fdac9460dea0800000000000000
+      internalID: -5850065291858214642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_231
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 174
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f0b43760bf5aff0800000000000000
+      internalID: -25338217757995216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_232
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 174
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd42178a836c7c30800000000000000
+      internalID: 4358467986010557886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_233
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 174
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e6217dc9619470800000000000000
+      internalID: 8399611111110273298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_234
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 175
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d5090ce22ffd290800000000000000
+      internalID: -7863300141752492739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_235
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 175
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59406bc56b15be7a0800000000000000
+      internalID: -6346889406167251819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_236
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 174
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccf0f866cf7f15c0800000000000000
+      internalID: -4242531833818841912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_237
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 174
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92d36f58b55adbc0800000000000000
+      internalID: -3757596688724536673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queue_settings_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 377
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12feae4f676e51c90800000000000000
+      internalID: -7199595030692303071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Queue_settings_0: 4813626715644231410
+      Queue_settings_1: -4697015856899934821
+      Queue_settings_10: -2282187352180662238
+      Queue_settings_100: -1195467521807698451
+      Queue_settings_101: 3029829461100619567
+      Queue_settings_102: -7406185452177943482
+      Queue_settings_103: 2531129069415023969
+      Queue_settings_104: 6490307995726104274
+      Queue_settings_105: 3877172378734012087
+      Queue_settings_106: -2953597801689490709
+      Queue_settings_107: 5269282638781662895
+      Queue_settings_108: 1309725264339868707
+      Queue_settings_109: 6500752520293185444
+      Queue_settings_11: 2063223833098974742
+      Queue_settings_110: -3713997171100889311
+      Queue_settings_111: -4470487945213581827
+      Queue_settings_112: 278880207391189019
+      Queue_settings_113: 2579573659757986333
+      Queue_settings_114: 2246113774856682135
+      Queue_settings_115: 5269568343832314184
+      Queue_settings_116: 6430968932596300767
+      Queue_settings_117: -6539464460219593517
+      Queue_settings_118: 3508415981785536662
+      Queue_settings_119: 8715573759860943180
+      Queue_settings_12: -6462032170187866062
+      Queue_settings_120: -6422345819762557551
+      Queue_settings_121: 2119512827701618928
+      Queue_settings_122: -4246901635117985132
+      Queue_settings_123: -137074494887794454
+      Queue_settings_124: -7130086577290539415
+      Queue_settings_125: 7205732771917599469
+      Queue_settings_126: -7687443507785217460
+      Queue_settings_127: -8352990690048370441
+      Queue_settings_128: 2871893940494983733
+      Queue_settings_129: -1559401573736154176
+      Queue_settings_13: -5308802192265802777
+      Queue_settings_130: 280008993898862697
+      Queue_settings_131: -4651689856940303740
+      Queue_settings_132: -1951881484336724261
+      Queue_settings_133: 4640275946717297720
+      Queue_settings_134: 5544237463204183676
+      Queue_settings_135: 3933382143934900802
+      Queue_settings_136: -3382783631631753830
+      Queue_settings_137: -6561026350171282299
+      Queue_settings_138: -1019294969035378266
+      Queue_settings_139: -8001639676845319205
+      Queue_settings_14: 1345709585723814823
+      Queue_settings_140: -1697192502202965827
+      Queue_settings_141: 6592897264371259795
+      Queue_settings_142: -2746800092919162500
+      Queue_settings_143: 7240198746885937600
+      Queue_settings_144: 8239782238510627912
+      Queue_settings_145: 3617937220215084816
+      Queue_settings_146: 6278518020665663204
+      Queue_settings_147: 1764378904267266084
+      Queue_settings_148: 886731359290353965
+      Queue_settings_149: 5609719711573309573
+      Queue_settings_15: -2208415256452266286
+      Queue_settings_150: -342402901718319532
+      Queue_settings_151: 4854774874341293873
+      Queue_settings_152: 411734330173981060
+      Queue_settings_153: -6270193710051726564
+      Queue_settings_154: 7342723726942670674
+      Queue_settings_155: 2600224537036881319
+      Queue_settings_156: -7358139924084586284
+      Queue_settings_157: 2800529580885470062
+      Queue_settings_158: -3536820479759577748
+      Queue_settings_159: 8580935856893855460
+      Queue_settings_16: -2493500495743768197
+      Queue_settings_160: 2190626969980764801
+      Queue_settings_161: 547834213567604639
+      Queue_settings_162: -3187319633942709219
+      Queue_settings_163: 4643314377460979615
+      Queue_settings_164: -7390213632258568145
+      Queue_settings_165: 1997920638247452495
+      Queue_settings_166: 6565475557470334128
+      Queue_settings_167: -5609273242742408057
+      Queue_settings_168: 294449619043798093
+      Queue_settings_169: 1149298039931317105
+      Queue_settings_17: 7678624680731139035
+      Queue_settings_170: -3756704412204984692
+      Queue_settings_171: 3433207353600494385
+      Queue_settings_172: 243634421422737427
+      Queue_settings_173: -7481379541412908193
+      Queue_settings_174: 4395121092358880939
+      Queue_settings_175: -8147507084867911606
+      Queue_settings_176: 7810859380682914315
+      Queue_settings_177: 4146349933353822799
+      Queue_settings_178: 9167462158459867913
+      Queue_settings_179: 994868178541015094
+      Queue_settings_18: 5108963415703967758
+      Queue_settings_180: -5592185732524918985
+      Queue_settings_181: -2448790235757724020
+      Queue_settings_182: -6818543964698931769
+      Queue_settings_183: 8091823418703323013
+      Queue_settings_184: 5776277903362794548
+      Queue_settings_185: -8101001103206760650
+      Queue_settings_186: 3513514354339589338
+      Queue_settings_187: -7433232662742296801
+      Queue_settings_188: 3819953989150709206
+      Queue_settings_189: -4612502276955111651
+      Queue_settings_19: 1669258962441378111
+      Queue_settings_190: 7194471740456730401
+      Queue_settings_191: 5836821110262887250
+      Queue_settings_192: 3957649294391461510
+      Queue_settings_193: 7902624721223322870
+      Queue_settings_194: -3864793326912749333
+      Queue_settings_195: 8873357144413082479
+      Queue_settings_196: -381164825675931345
+      Queue_settings_197: 2899550638707043388
+      Queue_settings_198: -9061703816149992970
+      Queue_settings_199: -5244273363373966465
+      Queue_settings_2: 982256930103819112
+      Queue_settings_20: -8872705456442144601
+      Queue_settings_200: -1024963325250842533
+      Queue_settings_201: -8256038740213924730
+      Queue_settings_202: -2285110703221320212
+      Queue_settings_203: 1561150381890291935
+      Queue_settings_204: -1862273020226650242
+      Queue_settings_205: -5187630322577832648
+      Queue_settings_206: 8845434333457873406
+      Queue_settings_207: -932090663800561149
+      Queue_settings_208: 4782970457539283725
+      Queue_settings_209: 5697325021343920841
+      Queue_settings_21: -4586589495182839610
+      Queue_settings_210: -1034434247077250563
+      Queue_settings_211: 7436465215191741902
+      Queue_settings_212: 4857494137980029151
+      Queue_settings_213: -8412433436586125949
+      Queue_settings_214: -2754956380062050540
+      Queue_settings_215: 3615944798009962433
+      Queue_settings_216: 6528144453401459887
+      Queue_settings_217: -749502276744971638
+      Queue_settings_218: 1089535073863584853
+      Queue_settings_219: -7398567653051355743
+      Queue_settings_22: 8008484889237380444
+      Queue_settings_220: 74517074310391199
+      Queue_settings_221: -7993378411235338883
+      Queue_settings_222: 3594628907856237480
+      Queue_settings_223: 5846584849330662421
+      Queue_settings_224: 235008960697687986
+      Queue_settings_225: -7838756542556832995
+      Queue_settings_226: -1032167341615666642
+      Queue_settings_227: -5168942534209932863
+      Queue_settings_228: -4627097033407191213
+      Queue_settings_229: 3846742060146455757
+      Queue_settings_23: -5291356862409958774
+      Queue_settings_230: -5850065291858214642
+      Queue_settings_231: -25338217757995216
+      Queue_settings_232: 4358467986010557886
+      Queue_settings_233: 8399611111110273298
+      Queue_settings_234: -7863300141752492739
+      Queue_settings_235: -6346889406167251819
+      Queue_settings_236: -4242531833818841912
+      Queue_settings_237: -3757596688724536673
+      Queue_settings_238: -7199595030692303071
+      Queue_settings_24: -4183978116148842199
+      Queue_settings_25: 4682852989632542107
+      Queue_settings_26: 2299003012544884102
+      Queue_settings_27: 5979559192137520020
+      Queue_settings_28: -1583210564389458534
+      Queue_settings_29: 7231502548409973287
+      Queue_settings_3: -8625272392961970878
+      Queue_settings_30: 3080474168840740089
+      Queue_settings_31: 2704812166072706505
+      Queue_settings_32: -5299646995812406878
+      Queue_settings_33: -3637825068180030685
+      Queue_settings_34: 1955908650185024821
+      Queue_settings_35: -7833462191716703253
+      Queue_settings_36: -7828270498727122940
+      Queue_settings_37: -2063208881852948267
+      Queue_settings_38: -7517801840603066445
+      Queue_settings_39: 7530607790252644661
+      Queue_settings_4: 7208155630739450649
+      Queue_settings_40: -4584755623543359754
+      Queue_settings_41: 6222329973108538092
+      Queue_settings_42: -7111528275679087839
+      Queue_settings_43: 7814264514475944824
+      Queue_settings_44: -3569653330659704465
+      Queue_settings_45: -551851486929100622
+      Queue_settings_46: 2435876597920353383
+      Queue_settings_47: 2242952171310256653
+      Queue_settings_48: -114591588455356903
+      Queue_settings_49: -2832122241917444375
+      Queue_settings_5: 7804802862215413539
+      Queue_settings_50: -9131749092085334338
+      Queue_settings_51: -553727906447846275
+      Queue_settings_52: -5057951438233961458
+      Queue_settings_53: -6493959295832914616
+      Queue_settings_54: 6360762682149182326
+      Queue_settings_55: -7311546609265719600
+      Queue_settings_56: -2281106315595329827
+      Queue_settings_57: -4383679509024061043
+      Queue_settings_58: -6946237851508440109
+      Queue_settings_59: -850182843322933892
+      Queue_settings_6: -8157628795853284877
+      Queue_settings_60: 433153048871546445
+      Queue_settings_61: -2001213113410802703
+      Queue_settings_62: 4749656408007591122
+      Queue_settings_63: -2735952341738611043
+      Queue_settings_64: 6491865615148820461
+      Queue_settings_65: -8534889733232798341
+      Queue_settings_66: 6793293116247321169
+      Queue_settings_67: 1063767039293276313
+      Queue_settings_68: 7661593218697712949
+      Queue_settings_69: -4814947926700495260
+      Queue_settings_7: 177352454257283075
+      Queue_settings_70: -739819623189476978
+      Queue_settings_71: 7884124499938684979
+      Queue_settings_72: -8572124165700707932
+      Queue_settings_73: -2481376357057652988
+      Queue_settings_74: 3484743789637370829
+      Queue_settings_75: 5597144085347560086
+      Queue_settings_76: -8971907334602316218
+      Queue_settings_77: 262366797156214779
+      Queue_settings_78: -7064093477831889949
+      Queue_settings_79: -721361242882272977
+      Queue_settings_8: -8315648844693207159
+      Queue_settings_80: 4540268305673023347
+      Queue_settings_81: -3952237215674559238
+      Queue_settings_82: -8861586699338841663
+      Queue_settings_83: 2547429847303798526
+      Queue_settings_84: 4543406485794934521
+      Queue_settings_85: 1058234971486028526
+      Queue_settings_86: 4262409967535058132
+      Queue_settings_87: 1122768580915901485
+      Queue_settings_88: 5118005953632093054
+      Queue_settings_89: -5672134961099494463
+      Queue_settings_9: 5497073776395963768
+      Queue_settings_90: -3702205859299440781
+      Queue_settings_91: 1583480100630763894
+      Queue_settings_92: -6628939774783896389
+      Queue_settings_93: -7902334978801262090
+      Queue_settings_94: -7360944313692611418
+      Queue_settings_95: 3913339305724610294
+      Queue_settings_96: -4181170097364542225
+      Queue_settings_97: 4984365974108257341
+      Queue_settings_98: 3884705096436396777
+      Queue_settings_99: -2307678966120210488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

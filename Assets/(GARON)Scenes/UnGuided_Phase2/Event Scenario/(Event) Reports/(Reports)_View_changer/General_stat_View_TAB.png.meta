@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 38820b6038f584a5c8b56544a025572e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7438521171110568226
+    second: General_stat_View_TAB_0
+  - first:
+      213: 7498986865989594367
+    second: General_stat_View_TAB_1
+  - first:
+      213: -3167331915694622820
+    second: General_stat_View_TAB_2
+  - first:
+      213: 7429449544459284572
+    second: General_stat_View_TAB_3
+  - first:
+      213: 905679847068340853
+    second: General_stat_View_TAB_4
+  - first:
+      213: 8017884415705251998
+    second: General_stat_View_TAB_5
+  - first:
+      213: -3147034098940893958
+    second: General_stat_View_TAB_6
+  - first:
+      213: 7602909874586133492
+    second: General_stat_View_TAB_7
+  - first:
+      213: -5813989916157556713
+    second: General_stat_View_TAB_8
+  - first:
+      213: 8001484055543839484
+    second: General_stat_View_TAB_9
+  - first:
+      213: 927874172492706335
+    second: General_stat_View_TAB_10
+  - first:
+      213: 2950494459746475907
+    second: General_stat_View_TAB_11
+  - first:
+      213: -705028739243094267
+    second: General_stat_View_TAB_12
+  - first:
+      213: -7505558259771620135
+    second: General_stat_View_TAB_13
+  - first:
+      213: 186064145596589865
+    second: General_stat_View_TAB_14
+  - first:
+      213: -1474174874914586092
+    second: General_stat_View_TAB_15
+  - first:
+      213: 551023738049394854
+    second: General_stat_View_TAB_16
+  - first:
+      213: -3830640213672915360
+    second: General_stat_View_TAB_17
+  - first:
+      213: -3629843026769785939
+    second: General_stat_View_TAB_18
+  - first:
+      213: 5454374121837391344
+    second: General_stat_View_TAB_19
+  - first:
+      213: -4639589559175932386
+    second: General_stat_View_TAB_20
+  - first:
+      213: -2455033703982775091
+    second: General_stat_View_TAB_21
+  - first:
+      213: -74026073221537804
+    second: General_stat_View_TAB_22
+  - first:
+      213: 4701407842471503288
+    second: General_stat_View_TAB_23
+  - first:
+      213: 2446358068272740764
+    second: General_stat_View_TAB_24
+  - first:
+      213: -5130207310486613480
+    second: General_stat_View_TAB_25
+  - first:
+      213: -2351329609395671398
+    second: General_stat_View_TAB_26
+  - first:
+      213: 4770037732093744012
+    second: General_stat_View_TAB_27
+  - first:
+      213: 218438631664578838
+    second: General_stat_View_TAB_28
+  - first:
+      213: -1795365950850230837
+    second: General_stat_View_TAB_29
+  - first:
+      213: 1069875807589666753
+    second: General_stat_View_TAB_30
+  - first:
+      213: 8371278354591205513
+    second: General_stat_View_TAB_31
+  - first:
+      213: 8613119508756944652
+    second: General_stat_View_TAB_32
+  - first:
+      213: -346925931633067661
+    second: General_stat_View_TAB_33
+  - first:
+      213: 8591482581032481947
+    second: General_stat_View_TAB_34
+  - first:
+      213: -3142222789940831868
+    second: General_stat_View_TAB_35
+  - first:
+      213: 5887677594292939200
+    second: General_stat_View_TAB_36
+  - first:
+      213: 8800380711253385870
+    second: General_stat_View_TAB_37
+  - first:
+      213: -7711070889614199874
+    second: General_stat_View_TAB_38
+  - first:
+      213: 319779302002937901
+    second: General_stat_View_TAB_39
+  - first:
+      213: -1441113165278060689
+    second: General_stat_View_TAB_40
+  - first:
+      213: 6632408616213432816
+    second: General_stat_View_TAB_41
+  - first:
+      213: -5957628808872088928
+    second: General_stat_View_TAB_42
+  - first:
+      213: -5450859909637637864
+    second: General_stat_View_TAB_43
+  - first:
+      213: -7558338833363930122
+    second: General_stat_View_TAB_44
+  - first:
+      213: 9140443947569957175
+    second: General_stat_View_TAB_45
+  - first:
+      213: -9186884209328581781
+    second: General_stat_View_TAB_46
+  - first:
+      213: -8083048040999018112
+    second: General_stat_View_TAB_47
+  - first:
+      213: 8405017018285329991
+    second: General_stat_View_TAB_48
+  - first:
+      213: -5371579434240238448
+    second: General_stat_View_TAB_49
+  - first:
+      213: 992973830011141191
+    second: General_stat_View_TAB_50
+  - first:
+      213: 5783331240196557396
+    second: General_stat_View_TAB_51
+  - first:
+      213: -6939603930136033441
+    second: General_stat_View_TAB_52
+  - first:
+      213: 9161221287369617057
+    second: General_stat_View_TAB_53
+  - first:
+      213: -9130444732720112914
+    second: General_stat_View_TAB_54
+  - first:
+      213: -99587822620012010
+    second: General_stat_View_TAB_55
+  - first:
+      213: -3803037760878582250
+    second: General_stat_View_TAB_56
+  - first:
+      213: -1901551978717469869
+    second: General_stat_View_TAB_57
+  - first:
+      213: -2824992122962598835
+    second: General_stat_View_TAB_58
+  - first:
+      213: -8409616639311756167
+    second: General_stat_View_TAB_59
+  - first:
+      213: 6778086204898253291
+    second: General_stat_View_TAB_60
+  - first:
+      213: 4856895161725111005
+    second: General_stat_View_TAB_61
+  - first:
+      213: -1888420479956145226
+    second: General_stat_View_TAB_62
+  - first:
+      213: -4152980473370795106
+    second: General_stat_View_TAB_63
+  - first:
+      213: 1812556226115029687
+    second: General_stat_View_TAB_64
+  - first:
+      213: -3518002532157673818
+    second: General_stat_View_TAB_65
+  - first:
+      213: -7633963500151538635
+    second: General_stat_View_TAB_66
+  - first:
+      213: 5389969773649697647
+    second: General_stat_View_TAB_67
+  - first:
+      213: 1946217838852177411
+    second: General_stat_View_TAB_68
+  - first:
+      213: -285992388568723905
+    second: General_stat_View_TAB_69
+  - first:
+      213: 7414510198497630557
+    second: General_stat_View_TAB_70
+  - first:
+      213: 289924974601421029
+    second: General_stat_View_TAB_71
+  - first:
+      213: -3511079569230694265
+    second: General_stat_View_TAB_72
+  - first:
+      213: -3754762427152031581
+    second: General_stat_View_TAB_73
+  - first:
+      213: -5621123108379353010
+    second: General_stat_View_TAB_74
+  - first:
+      213: -2250278216290562631
+    second: General_stat_View_TAB_75
+  - first:
+      213: 6327481737161793396
+    second: General_stat_View_TAB_76
+  - first:
+      213: -3082433731723119912
+    second: General_stat_View_TAB_77
+  - first:
+      213: -99631431778300328
+    second: General_stat_View_TAB_78
+  - first:
+      213: 3284936470824851621
+    second: General_stat_View_TAB_79
+  - first:
+      213: -8900573224805192497
+    second: General_stat_View_TAB_80
+  - first:
+      213: 8532806428892997249
+    second: General_stat_View_TAB_81
+  - first:
+      213: -3878732039286361022
+    second: General_stat_View_TAB_82
+  - first:
+      213: 8358664802011336933
+    second: General_stat_View_TAB_83
+  - first:
+      213: 5665815619590335579
+    second: General_stat_View_TAB_84
+  - first:
+      213: 4588840010094776959
+    second: General_stat_View_TAB_85
+  - first:
+      213: -8747178562378408259
+    second: General_stat_View_TAB_86
+  - first:
+      213: 8133277382966039211
+    second: General_stat_View_TAB_87
+  - first:
+      213: -1557411246918534559
+    second: General_stat_View_TAB_88
+  - first:
+      213: -4601173766332233399
+    second: General_stat_View_TAB_89
+  - first:
+      213: 694764510880834645
+    second: General_stat_View_TAB_90
+  - first:
+      213: -7348717424687466801
+    second: General_stat_View_TAB_91
+  - first:
+      213: 4425385022887033598
+    second: General_stat_View_TAB_92
+  - first:
+      213: -7766381946652171189
+    second: General_stat_View_TAB_93
+  - first:
+      213: -8089735581345285394
+    second: General_stat_View_TAB_94
+  - first:
+      213: -3865469216303064985
+    second: General_stat_View_TAB_95
+  - first:
+      213: -6483037428963661167
+    second: General_stat_View_TAB_96
+  - first:
+      213: -5749805112703315115
+    second: General_stat_View_TAB_97
+  - first:
+      213: 4084977259252335522
+    second: General_stat_View_TAB_98
+  - first:
+      213: -1250199443780972437
+    second: General_stat_View_TAB_99
+  - first:
+      213: 8173713742611331769
+    second: General_stat_View_TAB_100
+  - first:
+      213: 4887723505586775324
+    second: General_stat_View_TAB_101
+  - first:
+      213: 7616740040788488634
+    second: General_stat_View_TAB_102
+  - first:
+      213: 3263350744568498989
+    second: General_stat_View_TAB_103
+  - first:
+      213: 4445264076708279036
+    second: General_stat_View_TAB_104
+  - first:
+      213: -6976254879040931232
+    second: General_stat_View_TAB_105
+  - first:
+      213: -8610185832368482264
+    second: General_stat_View_TAB_106
+  - first:
+      213: -1550190991600463380
+    second: General_stat_View_TAB_107
+  - first:
+      213: 7052064392067846381
+    second: General_stat_View_TAB_108
+  - first:
+      213: 5752938292036587790
+    second: General_stat_View_TAB_109
+  - first:
+      213: -4362727640856933802
+    second: General_stat_View_TAB_110
+  - first:
+      213: -1483787314262566833
+    second: General_stat_View_TAB_111
+  - first:
+      213: 5565647292129059009
+    second: General_stat_View_TAB_112
+  - first:
+      213: 4258939903048988784
+    second: General_stat_View_TAB_113
+  - first:
+      213: 8774528642214274987
+    second: General_stat_View_TAB_114
+  - first:
+      213: 5716933637644275343
+    second: General_stat_View_TAB_115
+  - first:
+      213: -1009547944465149219
+    second: General_stat_View_TAB_116
+  - first:
+      213: -4251448367075854232
+    second: General_stat_View_TAB_117
+  - first:
+      213: 3598526527057407517
+    second: General_stat_View_TAB_118
+  - first:
+      213: -8907062015247809888
+    second: General_stat_View_TAB_119
+  - first:
+      213: 808878731015906982
+    second: General_stat_View_TAB_120
+  - first:
+      213: -5776169753349733360
+    second: General_stat_View_TAB_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General_stat_View_TAB_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1061
+        height: 3132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede5bb5e76015c890800000000000000
+      internalID: -7438521171110568226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_1
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2871
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc21a2c2d0c11860800000000000000
+      internalID: 7498986865989594367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_2
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2871
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97b34767606b04d0800000000000000
+      internalID: -3167331915694622820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_3
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 2869
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50fe2e6ff4ba1760800000000000000
+      internalID: 7429449544459284572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_4
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 2871
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5721dbcb50f919c00800000000000000
+      internalID: 905679847068340853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_5
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 2855
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e908040456f354f60800000000000000
+      internalID: 8017884415705251998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_6
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 2871
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42694292d7354d0800000000000000
+      internalID: -3147034098940893958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_7
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2869
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3240ebf36f28960800000000000000
+      internalID: 7602909874586133492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_8
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2871
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c9bf99fe805fa0800000000000000
+      internalID: -5813989916157556713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_9
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 2869
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa74a6da5bfa0f60800000000000000
+      internalID: 8001484055543839484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_10
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 2871
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ffafc4a870ec00800000000000000
+      internalID: 927874172492706335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_11
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2870
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f52f8241342f820800000000000000
+      internalID: 2950494459746475907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_12
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 2823
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f49f8d81c3736f0800000000000000
+      internalID: -705028739243094267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_13
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 2823
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d440556786e6d790800000000000000
+      internalID: -7505558259771620135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_14
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2746
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927a8b7ca58059200800000000000000
+      internalID: 186064145596589865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_15
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2747
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41209e303cdaa8be0800000000000000
+      internalID: -1474174874914586092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_16
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2746
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8fd399b21a5a700800000000000000
+      internalID: 551023738049394854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_17
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2746
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e03b17505d6dac0800000000000000
+      internalID: -3830640213672915360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_18
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 2740
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab45f6bff430adc0800000000000000
+      internalID: -3629843026769785939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_19
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 2747
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd63348d54d1bb40800000000000000
+      internalID: 5454374121837391344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_20
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2746
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1615b5a0eddc9fb0800000000000000
+      internalID: -4639589559175932386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_21
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 2747
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4ce728ad7fdedd0800000000000000
+      internalID: -2455033703982775091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_22
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2747
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff5389bda109fef0800000000000000
+      internalID: -74026073221537804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_23
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 2746
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5efba0681ce3140800000000000000
+      internalID: 4701407842471503288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_24
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 2746
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99bec4a3b533f120800000000000000
+      internalID: 2446358068272740764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_25
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2747
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8125552d1a7ddc8b0800000000000000
+      internalID: -5130207310486613480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_26
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 2784
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eec1a9d266e5fd0800000000000000
+      internalID: -2351329609395671398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_27
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2747
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8358aa6b04923240800000000000000
+      internalID: 4770037732093744012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_28
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 2746
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f69537cc080300800000000000000
+      internalID: 218438631664578838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_29
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2746
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc59db11e249517e0800000000000000
+      internalID: -1795365950850230837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_30
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 2784
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf8a29e066f8de00800000000000000
+      internalID: 1069875807589666753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_31
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 2746
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98843518f41cc2470800000000000000
+      internalID: 8371278354591205513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_32
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 2740
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07d1771f82f78770800000000000000
+      internalID: 8613119508756944652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_33
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2746
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379b3a904b87f2bf0800000000000000
+      internalID: -346925931633067661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_34
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2746
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94b56843e31b3770800000000000000
+      internalID: 8591482581032481947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_35
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2746
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489907055059464d0800000000000000
+      internalID: -3142222789940831868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_36
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c96bd7e39b35b150800000000000000
+      internalID: 5887677594292939200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_37
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2747
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82257661ab312a70800000000000000
+      internalID: 8800380711253385870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_38
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 2746
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b0b281e5ccf490800000000000000
+      internalID: -7711070889614199874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_39
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d205866b495107400800000000000000
+      internalID: 319779302002937901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_40
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f56762633200ce0800000000000000
+      internalID: -1441113165278060689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_41
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2747
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f944a61f7c0b0c50800000000000000
+      internalID: 6632408616213432816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_42
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaab87c920425da0800000000000000
+      internalID: -5957628808872088928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_43
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81971a5cac7aa54b0800000000000000
+      internalID: -5450859909637637864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_44
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2747
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37d4970e26b1790800000000000000
+      internalID: -7558338833363930122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_45
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 2747
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739c648975169de70800000000000000
+      internalID: 9140443947569957175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_46
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2746
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63135e5c71a18080800000000000000
+      internalID: -9186884209328581781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_47
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 2746
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08126dde1ae33df80800000000000000
+      internalID: -8083048040999018112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_48
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 2746
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e820a427e94a470800000000000000
+      internalID: 8405017018285329991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_49
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1153e6f05475b0800000000000000
+      internalID: -5371579434240238448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_50
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2747
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb219ff60c7cd00800000000000000
+      internalID: 992973830011141191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_51
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ac55e1f15824050800000000000000
+      internalID: 5783331240196557396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_52
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 2747
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57465e3ef291bf90800000000000000
+      internalID: -6939603930136033441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_53
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aea96ef832332f70800000000000000
+      internalID: 9161221287369617057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_54
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 2747
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea91e804e42a4180800000000000000
+      internalID: -9130444732720112914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_55
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61297c827613e9ef0800000000000000
+      internalID: -99587822620012010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_56
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 2747
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6166f6b4e45e83bc0800000000000000
+      internalID: -3803037760878582250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_57
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 2747
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353aa9adc845c95e0800000000000000
+      internalID: -1901551978717469869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_58
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2733
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44a981b1ac9bc8d0800000000000000
+      internalID: -2824992122962598835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_59
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974cb9cf83a0b4b80800000000000000
+      internalID: -8409616639311756167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_60
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 2746
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be99fe3dd79901e50800000000000000
+      internalID: 6778086204898253291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_61
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1385
+        width: 3517
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda40f9aa68276340800000000000000
+      internalID: 4856895161725111005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_62
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1199
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb24a9249bfac5e0800000000000000
+      internalID: -1888420479956145226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_63
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1199
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93a99d4346ad56c0800000000000000
+      internalID: -4152980473370795106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_64
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba4209c84e772910800000000000000
+      internalID: 1812556226115029687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_65
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1199
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae21df065b8d2fc0800000000000000
+      internalID: -3518002532157673818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_66
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 1183
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c7b21a4a6be0690800000000000000
+      internalID: -7633963500151538635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_67
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 1199
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b9b7ca3f40dca40800000000000000
+      internalID: 5389969773649697647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_68
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eff4c10da520b10800000000000000
+      internalID: 1946217838852177411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_69
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1199
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e45e61073f70cf0800000000000000
+      internalID: -285992388568723905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_70
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 1197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5956f4edb1a5e660800000000000000
+      internalID: 7414510198497630557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_71
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 1199
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c1a27a35060400800000000000000
+      internalID: 289924974601421029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_72
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1198
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887fd9fbb3264fc0800000000000000
+      internalID: -3511079569230694265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_73
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 1151
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0ae91577764ebc0800000000000000
+      internalID: -3754762427152031581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_74
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 1151
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e402f4e9052cdf1b0800000000000000
+      internalID: -5621123108379353010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_75
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1074
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd833082e765c0e0800000000000000
+      internalID: -2250278216290562631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_76
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1075
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fdc429d1bbfc750800000000000000
+      internalID: 6327481737161793396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_77
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1074
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d236f83adef835d0800000000000000
+      internalID: -3082433731723119912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_78
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1074
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e046c9db90e9ef0800000000000000
+      internalID: -99631431778300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_79
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1068
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a89d3dd050769d20800000000000000
+      internalID: 3284936470824851621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_80
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1075
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc222e2fcfca7480800000000000000
+      internalID: -8900573224805192497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_81
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1074
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18626530d3e9a6670800000000000000
+      internalID: 8532806428892997249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_82
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1075
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f86bb2c9fb2ac0800000000000000
+      internalID: -3878732039286361022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_83
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1075
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e05270f951fff370800000000000000
+      internalID: 8358664802011336933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_84
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1074
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5caa88894501ae40800000000000000
+      internalID: 5665815619590335579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_85
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1074
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f729ccc2da5deaf30800000000000000
+      internalID: 4588840010094776959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_86
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1075
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed58a2177cb9680800000000000000
+      internalID: -8747178562378408259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_87
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2d86710b43fd070800000000000000
+      internalID: 8133277382966039211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_88
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1075
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16af832f8b6f26ae0800000000000000
+      internalID: -1557411246918534559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_89
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 1074
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949cbeb66d85520c0800000000000000
+      internalID: -4601173766332233399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_90
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1074
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554a99144ac44a900800000000000000
+      internalID: 694764510880834645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_91
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6b7caff6c140a90800000000000000
+      internalID: -7348717424687466801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_92
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 1074
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaf38b4b302a6d30800000000000000
+      internalID: 4425385022887033598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_93
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 1068
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b446acf74c4483490800000000000000
+      internalID: -7766381946652171189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_94
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1074
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea731b995c7bbf80800000000000000
+      internalID: -8089735581345285394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_95
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1074
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7685c085a381b5ac0800000000000000
+      internalID: -3865469216303064985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_96
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1074
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a2f059ecf9706a0800000000000000
+      internalID: -6483037428963661167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_97
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5531899b6b69430b0800000000000000
+      internalID: -5749805112703315115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_98
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1075
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3c8459c21c0b830800000000000000
+      internalID: 4084977259252335522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_99
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 1074
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b605b0fca3666aee0800000000000000
+      internalID: -1250199443780972437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_100
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bab31cb75dde6170800000000000000
+      internalID: 8173713742611331769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_101
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15a3dec1aea4d340800000000000000
+      internalID: 4887723505586775324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_102
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1075
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab131bd36b814b960800000000000000
+      internalID: 7616740040788488634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_103
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b03835630c94d20800000000000000
+      internalID: 3263350744568498989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_104
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf270013020c0bd30800000000000000
+      internalID: 4445264076708279036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_105
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1075
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06afd28362d5f2f90800000000000000
+      internalID: -6976254879040931232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_106
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 1075
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828539baa99728880800000000000000
+      internalID: -8610185832368482264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_107
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1074
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1d4a3a18d9c7ae0800000000000000
+      internalID: -1550190991600463380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_108
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1074
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0926e7337fdd160800000000000000
+      internalID: 7052064392067846381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_109
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1074
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01559f65ea86df40800000000000000
+      internalID: 5752938292036587790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_110
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ac1fa435a7473c0800000000000000
+      internalID: -4362727640856933802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_111
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 1075
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4816239c47886be0800000000000000
+      internalID: -1483787314262566833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_112
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0a77069b62d3d40800000000000000
+      internalID: 5565647292129059009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_113
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1075
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b8f8e64bca1b30800000000000000
+      internalID: 4258939903048988784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_114
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba72ca68f4365c970800000000000000
+      internalID: 8774528642214274987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_115
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 1075
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec4449ad0a65f40800000000000000
+      internalID: 5716933637644275343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_116
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2dd6a4e7d5df1f0800000000000000
+      internalID: -1009547944465149219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_117
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 1075
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868778b3c32dff4c0800000000000000
+      internalID: -4251448367075854232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_118
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1075
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ea3108fc880f130800000000000000
+      internalID: 3598526527057407517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_119
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 1061
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a287cce942c36480800000000000000
+      internalID: -8907062015247809888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_120
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a662949be6b93b00800000000000000
+      internalID: 808878731015906982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stat_View_TAB_121
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1074
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014cb39763ce6dfa0800000000000000
+      internalID: -5776169753349733360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      General_stat_View_TAB_0: -7438521171110568226
+      General_stat_View_TAB_1: 7498986865989594367
+      General_stat_View_TAB_10: 927874172492706335
+      General_stat_View_TAB_100: 8173713742611331769
+      General_stat_View_TAB_101: 4887723505586775324
+      General_stat_View_TAB_102: 7616740040788488634
+      General_stat_View_TAB_103: 3263350744568498989
+      General_stat_View_TAB_104: 4445264076708279036
+      General_stat_View_TAB_105: -6976254879040931232
+      General_stat_View_TAB_106: -8610185832368482264
+      General_stat_View_TAB_107: -1550190991600463380
+      General_stat_View_TAB_108: 7052064392067846381
+      General_stat_View_TAB_109: 5752938292036587790
+      General_stat_View_TAB_11: 2950494459746475907
+      General_stat_View_TAB_110: -4362727640856933802
+      General_stat_View_TAB_111: -1483787314262566833
+      General_stat_View_TAB_112: 5565647292129059009
+      General_stat_View_TAB_113: 4258939903048988784
+      General_stat_View_TAB_114: 8774528642214274987
+      General_stat_View_TAB_115: 5716933637644275343
+      General_stat_View_TAB_116: -1009547944465149219
+      General_stat_View_TAB_117: -4251448367075854232
+      General_stat_View_TAB_118: 3598526527057407517
+      General_stat_View_TAB_119: -8907062015247809888
+      General_stat_View_TAB_12: -705028739243094267
+      General_stat_View_TAB_120: 808878731015906982
+      General_stat_View_TAB_121: -5776169753349733360
+      General_stat_View_TAB_13: -7505558259771620135
+      General_stat_View_TAB_14: 186064145596589865
+      General_stat_View_TAB_15: -1474174874914586092
+      General_stat_View_TAB_16: 551023738049394854
+      General_stat_View_TAB_17: -3830640213672915360
+      General_stat_View_TAB_18: -3629843026769785939
+      General_stat_View_TAB_19: 5454374121837391344
+      General_stat_View_TAB_2: -3167331915694622820
+      General_stat_View_TAB_20: -4639589559175932386
+      General_stat_View_TAB_21: -2455033703982775091
+      General_stat_View_TAB_22: -74026073221537804
+      General_stat_View_TAB_23: 4701407842471503288
+      General_stat_View_TAB_24: 2446358068272740764
+      General_stat_View_TAB_25: -5130207310486613480
+      General_stat_View_TAB_26: -2351329609395671398
+      General_stat_View_TAB_27: 4770037732093744012
+      General_stat_View_TAB_28: 218438631664578838
+      General_stat_View_TAB_29: -1795365950850230837
+      General_stat_View_TAB_3: 7429449544459284572
+      General_stat_View_TAB_30: 1069875807589666753
+      General_stat_View_TAB_31: 8371278354591205513
+      General_stat_View_TAB_32: 8613119508756944652
+      General_stat_View_TAB_33: -346925931633067661
+      General_stat_View_TAB_34: 8591482581032481947
+      General_stat_View_TAB_35: -3142222789940831868
+      General_stat_View_TAB_36: 5887677594292939200
+      General_stat_View_TAB_37: 8800380711253385870
+      General_stat_View_TAB_38: -7711070889614199874
+      General_stat_View_TAB_39: 319779302002937901
+      General_stat_View_TAB_4: 905679847068340853
+      General_stat_View_TAB_40: -1441113165278060689
+      General_stat_View_TAB_41: 6632408616213432816
+      General_stat_View_TAB_42: -5957628808872088928
+      General_stat_View_TAB_43: -5450859909637637864
+      General_stat_View_TAB_44: -7558338833363930122
+      General_stat_View_TAB_45: 9140443947569957175
+      General_stat_View_TAB_46: -9186884209328581781
+      General_stat_View_TAB_47: -8083048040999018112
+      General_stat_View_TAB_48: 8405017018285329991
+      General_stat_View_TAB_49: -5371579434240238448
+      General_stat_View_TAB_5: 8017884415705251998
+      General_stat_View_TAB_50: 992973830011141191
+      General_stat_View_TAB_51: 5783331240196557396
+      General_stat_View_TAB_52: -6939603930136033441
+      General_stat_View_TAB_53: 9161221287369617057
+      General_stat_View_TAB_54: -9130444732720112914
+      General_stat_View_TAB_55: -99587822620012010
+      General_stat_View_TAB_56: -3803037760878582250
+      General_stat_View_TAB_57: -1901551978717469869
+      General_stat_View_TAB_58: -2824992122962598835
+      General_stat_View_TAB_59: -8409616639311756167
+      General_stat_View_TAB_6: -3147034098940893958
+      General_stat_View_TAB_60: 6778086204898253291
+      General_stat_View_TAB_61: 4856895161725111005
+      General_stat_View_TAB_62: -1888420479956145226
+      General_stat_View_TAB_63: -4152980473370795106
+      General_stat_View_TAB_64: 1812556226115029687
+      General_stat_View_TAB_65: -3518002532157673818
+      General_stat_View_TAB_66: -7633963500151538635
+      General_stat_View_TAB_67: 5389969773649697647
+      General_stat_View_TAB_68: 1946217838852177411
+      General_stat_View_TAB_69: -285992388568723905
+      General_stat_View_TAB_7: 7602909874586133492
+      General_stat_View_TAB_70: 7414510198497630557
+      General_stat_View_TAB_71: 289924974601421029
+      General_stat_View_TAB_72: -3511079569230694265
+      General_stat_View_TAB_73: -3754762427152031581
+      General_stat_View_TAB_74: -5621123108379353010
+      General_stat_View_TAB_75: -2250278216290562631
+      General_stat_View_TAB_76: 6327481737161793396
+      General_stat_View_TAB_77: -3082433731723119912
+      General_stat_View_TAB_78: -99631431778300328
+      General_stat_View_TAB_79: 3284936470824851621
+      General_stat_View_TAB_8: -5813989916157556713
+      General_stat_View_TAB_80: -8900573224805192497
+      General_stat_View_TAB_81: 8532806428892997249
+      General_stat_View_TAB_82: -3878732039286361022
+      General_stat_View_TAB_83: 8358664802011336933
+      General_stat_View_TAB_84: 5665815619590335579
+      General_stat_View_TAB_85: 4588840010094776959
+      General_stat_View_TAB_86: -8747178562378408259
+      General_stat_View_TAB_87: 8133277382966039211
+      General_stat_View_TAB_88: -1557411246918534559
+      General_stat_View_TAB_89: -4601173766332233399
+      General_stat_View_TAB_9: 8001484055543839484
+      General_stat_View_TAB_90: 694764510880834645
+      General_stat_View_TAB_91: -7348717424687466801
+      General_stat_View_TAB_92: 4425385022887033598
+      General_stat_View_TAB_93: -7766381946652171189
+      General_stat_View_TAB_94: -8089735581345285394
+      General_stat_View_TAB_95: -3865469216303064985
+      General_stat_View_TAB_96: -6483037428963661167
+      General_stat_View_TAB_97: -5749805112703315115
+      General_stat_View_TAB_98: 4084977259252335522
+      General_stat_View_TAB_99: -1250199443780972437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

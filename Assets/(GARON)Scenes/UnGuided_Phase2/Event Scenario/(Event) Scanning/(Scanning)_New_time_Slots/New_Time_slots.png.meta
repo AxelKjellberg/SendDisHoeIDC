@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 07ec9d355dd2a406aa9332cf02ac3c36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1313356302112301175
+    second: New_Time_slots_0
+  - first:
+      213: 3288896737764391408
+    second: New_Time_slots_1
+  - first:
+      213: -7446150897079366778
+    second: New_Time_slots_2
+  - first:
+      213: -3052342934163990683
+    second: New_Time_slots_3
+  - first:
+      213: -1588825886832326317
+    second: New_Time_slots_4
+  - first:
+      213: 9172060159662289930
+    second: New_Time_slots_5
+  - first:
+      213: -5234283615558592084
+    second: New_Time_slots_6
+  - first:
+      213: 7598015412662333968
+    second: New_Time_slots_7
+  - first:
+      213: 7320856396301233452
+    second: New_Time_slots_8
+  - first:
+      213: 7754343241538212357
+    second: New_Time_slots_9
+  - first:
+      213: 5421020033577073483
+    second: New_Time_slots_10
+  - first:
+      213: 277028824923077911
+    second: New_Time_slots_11
+  - first:
+      213: 3473555571159361402
+    second: New_Time_slots_12
+  - first:
+      213: -6935617765328807072
+    second: New_Time_slots_13
+  - first:
+      213: 6424156089074923408
+    second: New_Time_slots_14
+  - first:
+      213: -6459814145333907482
+    second: New_Time_slots_15
+  - first:
+      213: -4576445085542257677
+    second: New_Time_slots_16
+  - first:
+      213: -3254447590743781500
+    second: New_Time_slots_17
+  - first:
+      213: -2592524383583670651
+    second: New_Time_slots_18
+  - first:
+      213: -6680073408716018053
+    second: New_Time_slots_19
+  - first:
+      213: 3367887702944997236
+    second: New_Time_slots_20
+  - first:
+      213: 4893180596909188793
+    second: New_Time_slots_21
+  - first:
+      213: -6716168802398180125
+    second: New_Time_slots_22
+  - first:
+      213: -7095909242931899766
+    second: New_Time_slots_23
+  - first:
+      213: -4833455443962102943
+    second: New_Time_slots_24
+  - first:
+      213: -1632507507863411646
+    second: New_Time_slots_25
+  - first:
+      213: 6640681632985455350
+    second: New_Time_slots_26
+  - first:
+      213: 3352136165391468529
+    second: New_Time_slots_27
+  - first:
+      213: 8706135891109933800
+    second: New_Time_slots_28
+  - first:
+      213: 5760636468034597455
+    second: New_Time_slots_29
+  - first:
+      213: 2624068681846113668
+    second: New_Time_slots_30
+  - first:
+      213: 2270703725099251743
+    second: New_Time_slots_31
+  - first:
+      213: 5890756548290724812
+    second: New_Time_slots_32
+  - first:
+      213: 2266174609966948699
+    second: New_Time_slots_33
+  - first:
+      213: 4297651436965224971
+    second: New_Time_slots_34
+  - first:
+      213: -2930205246041796152
+    second: New_Time_slots_35
+  - first:
+      213: 2969673188385406087
+    second: New_Time_slots_36
+  - first:
+      213: -643095403680581875
+    second: New_Time_slots_37
+  - first:
+      213: 1035196610945569696
+    second: New_Time_slots_38
+  - first:
+      213: 2409317485954919278
+    second: New_Time_slots_39
+  - first:
+      213: 4509199604680506673
+    second: New_Time_slots_40
+  - first:
+      213: -7637988042245107519
+    second: New_Time_slots_41
+  - first:
+      213: 3694013483654782218
+    second: New_Time_slots_42
+  - first:
+      213: 2681620937484372931
+    second: New_Time_slots_43
+  - first:
+      213: 6499665636574254233
+    second: New_Time_slots_44
+  - first:
+      213: -7607866118408704399
+    second: New_Time_slots_45
+  - first:
+      213: -1514854067474746028
+    second: New_Time_slots_46
+  - first:
+      213: 3365238735808835363
+    second: New_Time_slots_47
+  - first:
+      213: 7132944567114076199
+    second: New_Time_slots_48
+  - first:
+      213: 2208680888981277900
+    second: New_Time_slots_49
+  - first:
+      213: -1806512160699486348
+    second: New_Time_slots_50
+  - first:
+      213: 7721682680210882400
+    second: New_Time_slots_51
+  - first:
+      213: 4803776826274952743
+    second: New_Time_slots_52
+  - first:
+      213: -3749934451168578479
+    second: New_Time_slots_53
+  - first:
+      213: 8553548813379600426
+    second: New_Time_slots_54
+  - first:
+      213: 4218172624823531909
+    second: New_Time_slots_55
+  - first:
+      213: -320488941638947915
+    second: New_Time_slots_56
+  - first:
+      213: 7739003056844083967
+    second: New_Time_slots_57
+  - first:
+      213: 6714483818499191059
+    second: New_Time_slots_58
+  - first:
+      213: -3747116028060841662
+    second: New_Time_slots_59
+  - first:
+      213: -9191040157442287773
+    second: New_Time_slots_60
+  - first:
+      213: -3090314528203430163
+    second: New_Time_slots_61
+  - first:
+      213: -3381734415075360681
+    second: New_Time_slots_62
+  - first:
+      213: -3639498778839397070
+    second: New_Time_slots_63
+  - first:
+      213: 1113638379305196145
+    second: New_Time_slots_64
+  - first:
+      213: -1904225102232274405
+    second: New_Time_slots_65
+  - first:
+      213: 3500073938113957564
+    second: New_Time_slots_66
+  - first:
+      213: -960962367619882908
+    second: New_Time_slots_67
+  - first:
+      213: -833107991073299072
+    second: New_Time_slots_68
+  - first:
+      213: 6959790999142087728
+    second: New_Time_slots_69
+  - first:
+      213: -6619348897552268434
+    second: New_Time_slots_70
+  - first:
+      213: 8454546063047028000
+    second: New_Time_slots_71
+  - first:
+      213: -3593610347600038271
+    second: New_Time_slots_72
+  - first:
+      213: -3614276519830270946
+    second: New_Time_slots_73
+  - first:
+      213: -6298137268496297057
+    second: New_Time_slots_74
+  - first:
+      213: -8674390782529315531
+    second: New_Time_slots_75
+  - first:
+      213: 8565905628527030182
+    second: New_Time_slots_76
+  - first:
+      213: -1452293421395100321
+    second: New_Time_slots_77
+  - first:
+      213: 4422904308133528961
+    second: New_Time_slots_78
+  - first:
+      213: -6643957199559424120
+    second: New_Time_slots_79
+  - first:
+      213: 8931610127242757698
+    second: New_Time_slots_80
+  - first:
+      213: -3832819552660029199
+    second: New_Time_slots_81
+  - first:
+      213: 5309505506319768248
+    second: New_Time_slots_82
+  - first:
+      213: 6918952407652324117
+    second: New_Time_slots_83
+  - first:
+      213: -8542191605451602375
+    second: New_Time_slots_84
+  - first:
+      213: 7974855696519263245
+    second: New_Time_slots_85
+  - first:
+      213: -207867765322634803
+    second: New_Time_slots_86
+  - first:
+      213: 4241367907234807898
+    second: New_Time_slots_87
+  - first:
+      213: 81723125734250738
+    second: New_Time_slots_88
+  - first:
+      213: 662067222131985266
+    second: New_Time_slots_89
+  - first:
+      213: -1799290453650299831
+    second: New_Time_slots_90
+  - first:
+      213: -8877272537614334503
+    second: New_Time_slots_91
+  - first:
+      213: -8021822472822092402
+    second: New_Time_slots_92
+  - first:
+      213: 5857023629331716538
+    second: New_Time_slots_93
+  - first:
+      213: -7013002649019949820
+    second: New_Time_slots_94
+  - first:
+      213: 403780772043754229
+    second: New_Time_slots_95
+  - first:
+      213: -5902791475154339939
+    second: New_Time_slots_96
+  - first:
+      213: -3036718687577511220
+    second: New_Time_slots_97
+  - first:
+      213: -3569126177611376855
+    second: New_Time_slots_98
+  - first:
+      213: -8764334063662747837
+    second: New_Time_slots_99
+  - first:
+      213: 8185956451188458197
+    second: New_Time_slots_100
+  - first:
+      213: 4189375272907825639
+    second: New_Time_slots_101
+  - first:
+      213: 3559349619350526437
+    second: New_Time_slots_102
+  - first:
+      213: 4558510478916967396
+    second: New_Time_slots_103
+  - first:
+      213: -4025219117505077339
+    second: New_Time_slots_104
+  - first:
+      213: 3431260218096315843
+    second: New_Time_slots_105
+  - first:
+      213: -685969337924425344
+    second: New_Time_slots_106
+  - first:
+      213: -3174583610470367008
+    second: New_Time_slots_107
+  - first:
+      213: 1843913905911216545
+    second: New_Time_slots_108
+  - first:
+      213: -940908833093517684
+    second: New_Time_slots_109
+  - first:
+      213: 6219082893418427019
+    second: New_Time_slots_110
+  - first:
+      213: -146415721899755899
+    second: New_Time_slots_111
+  - first:
+      213: 5553228669791187022
+    second: New_Time_slots_112
+  - first:
+      213: -1381918308767346968
+    second: New_Time_slots_113
+  - first:
+      213: -8094298072735951073
+    second: New_Time_slots_114
+  - first:
+      213: -6317026772535663601
+    second: New_Time_slots_115
+  - first:
+      213: -6382850121022694532
+    second: New_Time_slots_116
+  - first:
+      213: -2826071234069808367
+    second: New_Time_slots_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New_Time_slots_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 881
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5315d66506cde0800000000000000
+      internalID: -1313356302112301175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 893
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9336d582284ad20800000000000000
+      internalID: 3288896737764391408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 893
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bc0a3e535f9a890800000000000000
+      internalID: -7446150897079366778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 891
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5675b7cf546e3a5d0800000000000000
+      internalID: -3052342934163990683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 893
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590a6d164b53f9e0800000000000000
+      internalID: -1588825886832326317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 892
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04fe2b9e14b94f70800000000000000
+      internalID: 9172060159662289930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 893
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca99bf8b8c61c57b0800000000000000
+      internalID: -5234283615558592084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 891
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0127ea503c2917960800000000000000
+      internalID: 7598015412662333968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 893
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d6e29da18e89560800000000000000
+      internalID: 7320856396301233452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 891
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502165a0816fc9b60800000000000000
+      internalID: 7754343241538212357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 881
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b33adaff45b3b40800000000000000
+      internalID: 5421020033577073483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 891
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d751e9f3438d300800000000000000
+      internalID: 277028824923077911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 869
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a776886636c843030800000000000000
+      internalID: 3473555571159361402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 891
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b10bf836cbfbf90800000000000000
+      internalID: -6935617765328807072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 891
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09739f62def272950800000000000000
+      internalID: 6424156089074923408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 869
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef2458a2412a56a0800000000000000
+      internalID: -6459814145333907482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 891
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbeb2611733d70c0800000000000000
+      internalID: -4576445085542257677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 891
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4795b821e5d2d0800000000000000
+      internalID: -3254447590743781500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 891
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee4f41fc0850cd0800000000000000
+      internalID: -2592524383583670651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 891
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee2f790ac9b43a0800000000000000
+      internalID: -6680073408716018053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 891
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f5171a5042dbe20800000000000000
+      internalID: 3367887702944997236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 893
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b62b94e3d118e340800000000000000
+      internalID: 4893180596909188793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_22
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 942
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecee79de006bc2a0800000000000000
+      internalID: -6716168802398180125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_23
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 908
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8212a8a324468d90800000000000000
+      internalID: -7095909242931899766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bf5f8e1ed1cecb0800000000000000
+      internalID: -4833455443962102943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 797
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244a4ac221b2859e0800000000000000
+      internalID: -1632507507863411646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 798
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1f88e2c0782c50800000000000000
+      internalID: 6640681632985455350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 797
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f706e0051e258e20800000000000000
+      internalID: 3352136165391468529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 798
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f2e3477862d870800000000000000
+      internalID: 8706135891109933800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 797
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42fc55b854e1ff40800000000000000
+      internalID: 5760636468034597455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4854aaf20909a6420800000000000000
+      internalID: 2624068681846113668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 786
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1872bcd109238f10800000000000000
+      internalID: 2270703725099251743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 797
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3cc2fbedb20c150800000000000000
+      internalID: 5890756548290724812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 798
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e6121dc1137f10800000000000000
+      internalID: 2266174609966948699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 798
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0262c4463354ab30800000000000000
+      internalID: 4297651436965224971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 797
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c151b68ad1d557d0800000000000000
+      internalID: -2930205246041796152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 798
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb6b4e706663920800000000000000
+      internalID: 2969673188385406087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 798
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07beea33244317f0800000000000000
+      internalID: -643095403680581875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 797
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3591c35d1cd5e00800000000000000
+      internalID: 1035196610945569696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 798
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bea750d7d9f6120800000000000000
+      internalID: 2409317485954919278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 797
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d30525625e39e30800000000000000
+      internalID: 4509199604680506673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 797
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c09c47e75a600690800000000000000
+      internalID: -7637988042245107519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 797
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d1fb011b5c34330800000000000000
+      internalID: 3694013483654782218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 817
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8109e808073520800000000000000
+      internalID: 2681620937484372931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 797
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99452d2b573733a50800000000000000
+      internalID: 6499665636574254233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 797
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ee481d21e6b6690800000000000000
+      internalID: -7607866118408704399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 797
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455bc9d60482afae0800000000000000
+      internalID: -1514854067474746028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 798
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2548eccab3be20800000000000000
+      internalID: 3365238735808835363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 798
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7201365ba4f4df260800000000000000
+      internalID: 7132944567114076199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 805
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4ce1019fc6ae10800000000000000
+      internalID: 2208680888981277900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 797
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f651bd2cafde6e0800000000000000
+      internalID: -1806512160699486348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 798
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f71468c7de82b60800000000000000
+      internalID: 7721682680210882400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_52
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 817
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263f5e62917aa240800000000000000
+      internalID: 4803776826274952743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 797
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154f8131c7e85fbc0800000000000000
+      internalID: -3749934451168578479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_54
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 797
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20847eb35f44b670800000000000000
+      internalID: 8553548813379600426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 789
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58932e747a5f98a30800000000000000
+      internalID: 4218172624823531909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 797
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb6b2f61056d8bf0800000000000000
+      internalID: -320488941638947915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_57
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 797
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29ad6f646766b60800000000000000
+      internalID: 7739003056844083967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311b0c34573ae2d50800000000000000
+      internalID: 6714483818499191059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 719
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c24753d19ffbc0800000000000000
+      internalID: -3747116028060841662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 711
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3675d4b4cadd27080800000000000000
+      internalID: -9191040157442287773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 711
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6a43e4f4ffc15d0800000000000000
+      internalID: -3090314528203430163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 719
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75048b8777aa111d0800000000000000
+      internalID: -3381734415075360681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 719
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4fceb427ed7dc0800000000000000
+      internalID: -3639498778839397070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a5ab6a430747f00800000000000000
+      internalID: 1113638379305196145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 719
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a3019cb55d295e0800000000000000
+      internalID: -1904225102232274405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 719
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe82e8d3b2c29030800000000000000
+      internalID: 3500073938113957564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 718
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460af7b61d9f9a2f0800000000000000
+      internalID: -960962367619882908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 718
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085698432b43074f0800000000000000
+      internalID: -833107991073299072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 711
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c33d60a05269060800000000000000
+      internalID: 6959790999142087728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 711
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63060d9f395324a0800000000000000
+      internalID: -6619348897552268434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 718
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d6819a9d4945570800000000000000
+      internalID: 8454546063047028000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 718
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186b12abd6ee02ec0800000000000000
+      internalID: -3593610347600038271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 719
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c4b7b87a287ddc0800000000000000
+      internalID: -3614276519830270946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 718
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9311a4f5858898a0800000000000000
+      internalID: -6298137268496297057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 588
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dda6cca8f5e9780800000000000000
+      internalID: -8674390782529315531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 588
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af6fd7f8c530e670800000000000000
+      internalID: 8565905628527030182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 588
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dbb1ce3da68dbe0800000000000000
+      internalID: -1452293421395100321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 626
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18508d1e800516d30800000000000000
+      internalID: 4422904308133528961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_79
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 588
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878c51d02cebc3a0800000000000000
+      internalID: -6643957199559424120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_80
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 588
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246069ac61473fb70800000000000000
+      internalID: 8931610127242757698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 589
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0078b8ce61fcac0800000000000000
+      internalID: -3832819552660029199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_82
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 588
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba9b2580272fa940800000000000000
+      internalID: 5309505506319768248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_83
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 588
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51353fb7e8e050060800000000000000
+      internalID: 6918952407652324117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_84
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 588
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936cbb94ef9047980800000000000000
+      internalID: -8542191605451602375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 589
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04f70ed0016cae60800000000000000
+      internalID: 7974855696519263245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_86
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 588
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a0b76e518d1df0800000000000000
+      internalID: -207867765322634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_87
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 589
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500970d3ad5cda30800000000000000
+      internalID: 4241367907234807898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_88
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 589
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f81357ffb6522100800000000000000
+      internalID: 81723125734250738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_89
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 589
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b4b9871a2203900800000000000000
+      internalID: 662067222131985266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_90
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 588
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442c6e8dd2a707e0800000000000000
+      internalID: -1799290453650299831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_91
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 588
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5ca2d29a79dc480800000000000000
+      internalID: -8877272537614334503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 4776
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d813066f2cca090800000000000000
+      internalID: -8021822472822092402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d26385f3584150800000000000000
+      internalID: 5857023629331716538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_94
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 348
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dda484f3fccae90800000000000000
+      internalID: -7013002649019949820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_95
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 348
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa0dcc09748a9500800000000000000
+      internalID: 403780772043754229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 348
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b83c7d62151ea0800000000000000
+      internalID: -5902791475154339939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 381
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccae62061786bd5d0800000000000000
+      internalID: -3036718687577511220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_98
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 329
+        width: 1226
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9271de8c6aae77ec0800000000000000
+      internalID: -3569126177611376855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 348
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa682ca94de5680800000000000000
+      internalID: -8764334063662747837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_100
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 349
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2c7e3750c5a9170800000000000000
+      internalID: 8185956451188458197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_101
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 349
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e97c4d96a32a30800000000000000
+      internalID: 4189375272907825639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 349
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e95fccde99556130800000000000000
+      internalID: 3559349619350526437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 348
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebddb8e025134f30800000000000000
+      internalID: 4558510478916967396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 205
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af9ff50a8c8328c0800000000000000
+      internalID: -4025219117505077339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_105
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 204
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6f8f1df84e9f20800000000000000
+      internalID: 3431260218096315843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 204
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08964368582fa76f0800000000000000
+      internalID: -685969337924425344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_107
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e00324a60d91f3d0800000000000000
+      internalID: -3174583610470367008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_108
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 185
+        width: 1226
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9bd3e8de5e69910800000000000000
+      internalID: 1843913905911216545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_109
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 205
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8efe65c66831f2f0800000000000000
+      internalID: -940908833093517684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_110
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 205
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f9e201fe9e4650800000000000000
+      internalID: 6219082893418427019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 204
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586f1aa3da3d7fdf0800000000000000
+      internalID: -146415721899755899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_112
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e403b6b8d08011d40800000000000000
+      internalID: 5553228669791187022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_113
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee4051be9072dce0800000000000000
+      internalID: -1381918308767346968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_114
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 33
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17d17cc9c64baf80800000000000000
+      internalID: -8094298072735951073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_115
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0421629e996558a0800000000000000
+      internalID: -6317026772535663601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_116
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b12e9f1af8b67a0800000000000000
+      internalID: -6382850121022694532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Time_slots_117
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 386
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bb15f8f27c7c8d0800000000000000
+      internalID: -2826071234069808367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      New_Time_slots_0: -1313356302112301175
+      New_Time_slots_1: 3288896737764391408
+      New_Time_slots_10: 5421020033577073483
+      New_Time_slots_100: 8185956451188458197
+      New_Time_slots_101: 4189375272907825639
+      New_Time_slots_102: 3559349619350526437
+      New_Time_slots_103: 4558510478916967396
+      New_Time_slots_104: -4025219117505077339
+      New_Time_slots_105: 3431260218096315843
+      New_Time_slots_106: -685969337924425344
+      New_Time_slots_107: -3174583610470367008
+      New_Time_slots_108: 1843913905911216545
+      New_Time_slots_109: -940908833093517684
+      New_Time_slots_11: 277028824923077911
+      New_Time_slots_110: 6219082893418427019
+      New_Time_slots_111: -146415721899755899
+      New_Time_slots_112: 5553228669791187022
+      New_Time_slots_113: -1381918308767346968
+      New_Time_slots_114: -8094298072735951073
+      New_Time_slots_115: -6317026772535663601
+      New_Time_slots_116: -6382850121022694532
+      New_Time_slots_117: -2826071234069808367
+      New_Time_slots_12: 3473555571159361402
+      New_Time_slots_13: -6935617765328807072
+      New_Time_slots_14: 6424156089074923408
+      New_Time_slots_15: -6459814145333907482
+      New_Time_slots_16: -4576445085542257677
+      New_Time_slots_17: -3254447590743781500
+      New_Time_slots_18: -2592524383583670651
+      New_Time_slots_19: -6680073408716018053
+      New_Time_slots_2: -7446150897079366778
+      New_Time_slots_20: 3367887702944997236
+      New_Time_slots_21: 4893180596909188793
+      New_Time_slots_22: -6716168802398180125
+      New_Time_slots_23: -7095909242931899766
+      New_Time_slots_24: -4833455443962102943
+      New_Time_slots_25: -1632507507863411646
+      New_Time_slots_26: 6640681632985455350
+      New_Time_slots_27: 3352136165391468529
+      New_Time_slots_28: 8706135891109933800
+      New_Time_slots_29: 5760636468034597455
+      New_Time_slots_3: -3052342934163990683
+      New_Time_slots_30: 2624068681846113668
+      New_Time_slots_31: 2270703725099251743
+      New_Time_slots_32: 5890756548290724812
+      New_Time_slots_33: 2266174609966948699
+      New_Time_slots_34: 4297651436965224971
+      New_Time_slots_35: -2930205246041796152
+      New_Time_slots_36: 2969673188385406087
+      New_Time_slots_37: -643095403680581875
+      New_Time_slots_38: 1035196610945569696
+      New_Time_slots_39: 2409317485954919278
+      New_Time_slots_4: -1588825886832326317
+      New_Time_slots_40: 4509199604680506673
+      New_Time_slots_41: -7637988042245107519
+      New_Time_slots_42: 3694013483654782218
+      New_Time_slots_43: 2681620937484372931
+      New_Time_slots_44: 6499665636574254233
+      New_Time_slots_45: -7607866118408704399
+      New_Time_slots_46: -1514854067474746028
+      New_Time_slots_47: 3365238735808835363
+      New_Time_slots_48: 7132944567114076199
+      New_Time_slots_49: 2208680888981277900
+      New_Time_slots_5: 9172060159662289930
+      New_Time_slots_50: -1806512160699486348
+      New_Time_slots_51: 7721682680210882400
+      New_Time_slots_52: 4803776826274952743
+      New_Time_slots_53: -3749934451168578479
+      New_Time_slots_54: 8553548813379600426
+      New_Time_slots_55: 4218172624823531909
+      New_Time_slots_56: -320488941638947915
+      New_Time_slots_57: 7739003056844083967
+      New_Time_slots_58: 6714483818499191059
+      New_Time_slots_59: -3747116028060841662
+      New_Time_slots_6: -5234283615558592084
+      New_Time_slots_60: -9191040157442287773
+      New_Time_slots_61: -3090314528203430163
+      New_Time_slots_62: -3381734415075360681
+      New_Time_slots_63: -3639498778839397070
+      New_Time_slots_64: 1113638379305196145
+      New_Time_slots_65: -1904225102232274405
+      New_Time_slots_66: 3500073938113957564
+      New_Time_slots_67: -960962367619882908
+      New_Time_slots_68: -833107991073299072
+      New_Time_slots_69: 6959790999142087728
+      New_Time_slots_7: 7598015412662333968
+      New_Time_slots_70: -6619348897552268434
+      New_Time_slots_71: 8454546063047028000
+      New_Time_slots_72: -3593610347600038271
+      New_Time_slots_73: -3614276519830270946
+      New_Time_slots_74: -6298137268496297057
+      New_Time_slots_75: -8674390782529315531
+      New_Time_slots_76: 8565905628527030182
+      New_Time_slots_77: -1452293421395100321
+      New_Time_slots_78: 4422904308133528961
+      New_Time_slots_79: -6643957199559424120
+      New_Time_slots_8: 7320856396301233452
+      New_Time_slots_80: 8931610127242757698
+      New_Time_slots_81: -3832819552660029199
+      New_Time_slots_82: 5309505506319768248
+      New_Time_slots_83: 6918952407652324117
+      New_Time_slots_84: -8542191605451602375
+      New_Time_slots_85: 7974855696519263245
+      New_Time_slots_86: -207867765322634803
+      New_Time_slots_87: 4241367907234807898
+      New_Time_slots_88: 81723125734250738
+      New_Time_slots_89: 662067222131985266
+      New_Time_slots_9: 7754343241538212357
+      New_Time_slots_90: -1799290453650299831
+      New_Time_slots_91: -8877272537614334503
+      New_Time_slots_92: -8021822472822092402
+      New_Time_slots_93: 5857023629331716538
+      New_Time_slots_94: -7013002649019949820
+      New_Time_slots_95: 403780772043754229
+      New_Time_slots_96: -5902791475154339939
+      New_Time_slots_97: -3036718687577511220
+      New_Time_slots_98: -3569126177611376855
+      New_Time_slots_99: -8764334063662747837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

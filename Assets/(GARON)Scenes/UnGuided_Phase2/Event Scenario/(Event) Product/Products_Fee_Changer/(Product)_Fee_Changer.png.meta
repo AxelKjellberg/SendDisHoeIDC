@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: 6da4092185bd04d2c8ae552a8852e170
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8199849665634986614
+    second: (Product)_Fee_Changer_0
+  - first:
+      213: 3188738475191409395
+    second: (Product)_Fee_Changer_1
+  - first:
+      213: -6947667994464434344
+    second: (Product)_Fee_Changer_2
+  - first:
+      213: -4691848311770080894
+    second: (Product)_Fee_Changer_3
+  - first:
+      213: -8023858983829247854
+    second: (Product)_Fee_Changer_4
+  - first:
+      213: -8155835708291639681
+    second: (Product)_Fee_Changer_5
+  - first:
+      213: -6287966838424465756
+    second: (Product)_Fee_Changer_6
+  - first:
+      213: 5083400754133573722
+    second: (Product)_Fee_Changer_7
+  - first:
+      213: 6236373361501607672
+    second: (Product)_Fee_Changer_8
+  - first:
+      213: 4728257734438030090
+    second: (Product)_Fee_Changer_9
+  - first:
+      213: 45129142012057532
+    second: (Product)_Fee_Changer_10
+  - first:
+      213: 2257863861339736090
+    second: (Product)_Fee_Changer_11
+  - first:
+      213: 2613797482541331563
+    second: (Product)_Fee_Changer_12
+  - first:
+      213: 4066998721935938533
+    second: (Product)_Fee_Changer_13
+  - first:
+      213: 1863476833806418521
+    second: (Product)_Fee_Changer_14
+  - first:
+      213: 5221718945483832411
+    second: (Product)_Fee_Changer_15
+  - first:
+      213: 4344242985930653389
+    second: (Product)_Fee_Changer_16
+  - first:
+      213: -7755956766995368548
+    second: (Product)_Fee_Changer_17
+  - first:
+      213: -313356430637031560
+    second: (Product)_Fee_Changer_18
+  - first:
+      213: -5271247414664100782
+    second: (Product)_Fee_Changer_19
+  - first:
+      213: 2494693120135383017
+    second: (Product)_Fee_Changer_20
+  - first:
+      213: -225049502809925416
+    second: (Product)_Fee_Changer_21
+  - first:
+      213: 2177955118481503230
+    second: (Product)_Fee_Changer_22
+  - first:
+      213: -332902823329236154
+    second: (Product)_Fee_Changer_23
+  - first:
+      213: 1959250725445622693
+    second: (Product)_Fee_Changer_24
+  - first:
+      213: 1675862525398743205
+    second: (Product)_Fee_Changer_25
+  - first:
+      213: -5808833301137366557
+    second: (Product)_Fee_Changer_26
+  - first:
+      213: -644429879092573738
+    second: (Product)_Fee_Changer_27
+  - first:
+      213: 1305860296717079903
+    second: (Product)_Fee_Changer_28
+  - first:
+      213: -3787852290072746678
+    second: (Product)_Fee_Changer_29
+  - first:
+      213: 5125297713774509049
+    second: (Product)_Fee_Changer_30
+  - first:
+      213: 3076102299945067523
+    second: (Product)_Fee_Changer_31
+  - first:
+      213: 7778920563437548389
+    second: (Product)_Fee_Changer_32
+  - first:
+      213: 3087269723364546446
+    second: (Product)_Fee_Changer_33
+  - first:
+      213: -8120189723805921524
+    second: (Product)_Fee_Changer_34
+  - first:
+      213: 6223838595338083277
+    second: (Product)_Fee_Changer_35
+  - first:
+      213: -7306387845230996515
+    second: (Product)_Fee_Changer_36
+  - first:
+      213: 1263855749576071958
+    second: (Product)_Fee_Changer_37
+  - first:
+      213: -4003210707973628349
+    second: (Product)_Fee_Changer_38
+  - first:
+      213: -3024149722327971289
+    second: (Product)_Fee_Changer_39
+  - first:
+      213: -4708564740387458475
+    second: (Product)_Fee_Changer_40
+  - first:
+      213: 9119904353713375252
+    second: (Product)_Fee_Changer_41
+  - first:
+      213: -7645940669194367866
+    second: (Product)_Fee_Changer_42
+  - first:
+      213: -7759744710633605511
+    second: (Product)_Fee_Changer_43
+  - first:
+      213: -3227303456122220304
+    second: (Product)_Fee_Changer_44
+  - first:
+      213: 5665311806624079139
+    second: (Product)_Fee_Changer_45
+  - first:
+      213: 5194998430255654029
+    second: (Product)_Fee_Changer_46
+  - first:
+      213: -2740591891598882423
+    second: (Product)_Fee_Changer_47
+  - first:
+      213: 251744335914270613
+    second: (Product)_Fee_Changer_48
+  - first:
+      213: 6675264877658712071
+    second: (Product)_Fee_Changer_49
+  - first:
+      213: 2629181476870861652
+    second: (Product)_Fee_Changer_50
+  - first:
+      213: 3900270025474874462
+    second: (Product)_Fee_Changer_51
+  - first:
+      213: 1949943096281376491
+    second: (Product)_Fee_Changer_52
+  - first:
+      213: 5920325593997621684
+    second: (Product)_Fee_Changer_53
+  - first:
+      213: -8195486651011130861
+    second: (Product)_Fee_Changer_54
+  - first:
+      213: 4054982905485194344
+    second: (Product)_Fee_Changer_55
+  - first:
+      213: 3430294190856221294
+    second: (Product)_Fee_Changer_56
+  - first:
+      213: -3350530750634059772
+    second: (Product)_Fee_Changer_57
+  - first:
+      213: -2781883123772027116
+    second: (Product)_Fee_Changer_58
+  - first:
+      213: 9045490223131772024
+    second: (Product)_Fee_Changer_59
+  - first:
+      213: 8653549978426352993
+    second: (Product)_Fee_Changer_60
+  - first:
+      213: -5039863993963979893
+    second: (Product)_Fee_Changer_61
+  - first:
+      213: -7729609710728015561
+    second: (Product)_Fee_Changer_62
+  - first:
+      213: -4968492450442299314
+    second: (Product)_Fee_Changer_63
+  - first:
+      213: -7937359647934355719
+    second: (Product)_Fee_Changer_64
+  - first:
+      213: 5487012755473769092
+    second: (Product)_Fee_Changer_65
+  - first:
+      213: -3054672913402431573
+    second: (Product)_Fee_Changer_66
+  - first:
+      213: 6341292671019280817
+    second: (Product)_Fee_Changer_67
+  - first:
+      213: 3188538522131385868
+    second: (Product)_Fee_Changer_68
+  - first:
+      213: 2150217006504865991
+    second: (Product)_Fee_Changer_69
+  - first:
+      213: 3693836686443384163
+    second: (Product)_Fee_Changer_70
+  - first:
+      213: -5655649247699160779
+    second: (Product)_Fee_Changer_71
+  - first:
+      213: -7984794317204052551
+    second: (Product)_Fee_Changer_72
+  - first:
+      213: -8849429323999095316
+    second: (Product)_Fee_Changer_73
+  - first:
+      213: -3548896837040645845
+    second: (Product)_Fee_Changer_74
+  - first:
+      213: -4421475980930787587
+    second: (Product)_Fee_Changer_75
+  - first:
+      213: -7845053316317440341
+    second: (Product)_Fee_Changer_76
+  - first:
+      213: 4071925677047455598
+    second: (Product)_Fee_Changer_77
+  - first:
+      213: 6301504612438371460
+    second: (Product)_Fee_Changer_78
+  - first:
+      213: 4090818376834723505
+    second: (Product)_Fee_Changer_79
+  - first:
+      213: 4640323741472615789
+    second: (Product)_Fee_Changer_80
+  - first:
+      213: 7623483017538846506
+    second: (Product)_Fee_Changer_81
+  - first:
+      213: 1393853479784525587
+    second: (Product)_Fee_Changer_82
+  - first:
+      213: 7530482207412290057
+    second: (Product)_Fee_Changer_83
+  - first:
+      213: -823001348972692261
+    second: (Product)_Fee_Changer_84
+  - first:
+      213: 565760036875339929
+    second: (Product)_Fee_Changer_85
+  - first:
+      213: 1479143618760707938
+    second: (Product)_Fee_Changer_86
+  - first:
+      213: 1921165381349876200
+    second: (Product)_Fee_Changer_87
+  - first:
+      213: 2723323588371216742
+    second: (Product)_Fee_Changer_88
+  - first:
+      213: -7783305282087062133
+    second: (Product)_Fee_Changer_89
+  - first:
+      213: -8347325263871907318
+    second: (Product)_Fee_Changer_90
+  - first:
+      213: -3263995215670563607
+    second: (Product)_Fee_Changer_91
+  - first:
+      213: 6079436867561635180
+    second: (Product)_Fee_Changer_92
+  - first:
+      213: 6894301381822017345
+    second: (Product)_Fee_Changer_93
+  - first:
+      213: 9191858788972947504
+    second: (Product)_Fee_Changer_94
+  - first:
+      213: -5089014033335920529
+    second: (Product)_Fee_Changer_95
+  - first:
+      213: 8283239288263346039
+    second: (Product)_Fee_Changer_96
+  - first:
+      213: -97794565607758346
+    second: (Product)_Fee_Changer_97
+  - first:
+      213: 1741710269368116433
+    second: (Product)_Fee_Changer_98
+  - first:
+      213: -4559912039847224705
+    second: (Product)_Fee_Changer_99
+  - first:
+      213: 8285996637719007807
+    second: (Product)_Fee_Changer_100
+  - first:
+      213: -4257083078820691421
+    second: (Product)_Fee_Changer_101
+  - first:
+      213: 8708226727076362002
+    second: (Product)_Fee_Changer_102
+  - first:
+      213: -6140179728416440087
+    second: (Product)_Fee_Changer_103
+  - first:
+      213: 5215320331248191353
+    second: (Product)_Fee_Changer_104
+  - first:
+      213: 3047332755171704538
+    second: (Product)_Fee_Changer_105
+  - first:
+      213: -2617218080227012931
+    second: (Product)_Fee_Changer_106
+  - first:
+      213: 2896293403364883158
+    second: (Product)_Fee_Changer_107
+  - first:
+      213: 3294950414255871027
+    second: (Product)_Fee_Changer_108
+  - first:
+      213: 4745724725076002519
+    second: (Product)_Fee_Changer_109
+  - first:
+      213: 9123126291361029122
+    second: (Product)_Fee_Changer_110
+  - first:
+      213: -7309755383672332325
+    second: (Product)_Fee_Changer_111
+  - first:
+      213: 7246264763197996822
+    second: (Product)_Fee_Changer_112
+  - first:
+      213: 8051026425156542316
+    second: (Product)_Fee_Changer_113
+  - first:
+      213: 1864826768268651444
+    second: (Product)_Fee_Changer_114
+  - first:
+      213: -8997006861819725501
+    second: (Product)_Fee_Changer_115
+  - first:
+      213: -982531344317131757
+    second: (Product)_Fee_Changer_116
+  - first:
+      213: 5895843370920040418
+    second: (Product)_Fee_Changer_117
+  - first:
+      213: -4988162480539347164
+    second: (Product)_Fee_Changer_118
+  - first:
+      213: 1241280311135114521
+    second: (Product)_Fee_Changer_119
+  - first:
+      213: 5244201129094612374
+    second: (Product)_Fee_Changer_120
+  - first:
+      213: -2583096628619599868
+    second: (Product)_Fee_Changer_121
+  - first:
+      213: 8858142205709554792
+    second: (Product)_Fee_Changer_122
+  - first:
+      213: 207840401931368287
+    second: (Product)_Fee_Changer_123
+  - first:
+      213: 5927189156791359629
+    second: (Product)_Fee_Changer_124
+  - first:
+      213: -510678423622116920
+    second: (Product)_Fee_Changer_125
+  - first:
+      213: -4915817463979962837
+    second: (Product)_Fee_Changer_126
+  - first:
+      213: -2570537189192174438
+    second: (Product)_Fee_Changer_127
+  - first:
+      213: 3212201329773863929
+    second: (Product)_Fee_Changer_128
+  - first:
+      213: -4560893971362064906
+    second: (Product)_Fee_Changer_129
+  - first:
+      213: 5933114592695366395
+    second: (Product)_Fee_Changer_130
+  - first:
+      213: 7024114841063092252
+    second: (Product)_Fee_Changer_131
+  - first:
+      213: -7839415648559644284
+    second: (Product)_Fee_Changer_132
+  - first:
+      213: -4649870460419955492
+    second: (Product)_Fee_Changer_133
+  - first:
+      213: 9028507688713753489
+    second: (Product)_Fee_Changer_134
+  - first:
+      213: 6052175288005236478
+    second: (Product)_Fee_Changer_135
+  - first:
+      213: 7766350913608482762
+    second: (Product)_Fee_Changer_136
+  - first:
+      213: -8780231765036413097
+    second: (Product)_Fee_Changer_137
+  - first:
+      213: -1302240840620492368
+    second: (Product)_Fee_Changer_138
+  - first:
+      213: -7752298912214652376
+    second: (Product)_Fee_Changer_139
+  - first:
+      213: -5641130724509940101
+    second: (Product)_Fee_Changer_140
+  - first:
+      213: 2962839675760421192
+    second: (Product)_Fee_Changer_141
+  - first:
+      213: 6612738854255296816
+    second: (Product)_Fee_Changer_142
+  - first:
+      213: -43596834775378534
+    second: (Product)_Fee_Changer_143
+  - first:
+      213: 7974067645566450439
+    second: (Product)_Fee_Changer_144
+  - first:
+      213: 7841994576842777399
+    second: (Product)_Fee_Changer_145
+  - first:
+      213: 7885427407621145705
+    second: (Product)_Fee_Changer_146
+  - first:
+      213: -6731017386262098791
+    second: (Product)_Fee_Changer_147
+  - first:
+      213: -7016735058605438337
+    second: (Product)_Fee_Changer_148
+  - first:
+      213: 5131732447699778776
+    second: (Product)_Fee_Changer_149
+  - first:
+      213: -6041899816298317888
+    second: (Product)_Fee_Changer_150
+  - first:
+      213: 4315566023469420092
+    second: (Product)_Fee_Changer_151
+  - first:
+      213: 328972047959996026
+    second: (Product)_Fee_Changer_152
+  - first:
+      213: 2862255493746684807
+    second: (Product)_Fee_Changer_153
+  - first:
+      213: -2844949720731902001
+    second: (Product)_Fee_Changer_154
+  - first:
+      213: -1904894879917903968
+    second: (Product)_Fee_Changer_155
+  - first:
+      213: -896947127982072293
+    second: (Product)_Fee_Changer_156
+  - first:
+      213: 4413586787668283144
+    second: (Product)_Fee_Changer_157
+  - first:
+      213: 6391429226811709251
+    second: (Product)_Fee_Changer_158
+  - first:
+      213: -3898357835693707784
+    second: (Product)_Fee_Changer_159
+  - first:
+      213: -5662317859092277783
+    second: (Product)_Fee_Changer_160
+  - first:
+      213: -2003768436860400686
+    second: (Product)_Fee_Changer_161
+  - first:
+      213: -7510028873358763902
+    second: (Product)_Fee_Changer_162
+  - first:
+      213: -4576980466636019239
+    second: (Product)_Fee_Changer_163
+  - first:
+      213: 857587476519045856
+    second: (Product)_Fee_Changer_164
+  - first:
+      213: 5304068038608343177
+    second: (Product)_Fee_Changer_165
+  - first:
+      213: -8131798244698194312
+    second: (Product)_Fee_Changer_166
+  - first:
+      213: 822062561458022677
+    second: (Product)_Fee_Changer_167
+  - first:
+      213: -1703035102400852900
+    second: (Product)_Fee_Changer_168
+  - first:
+      213: -9194343070207043713
+    second: (Product)_Fee_Changer_169
+  - first:
+      213: 649644336421498527
+    second: (Product)_Fee_Changer_170
+  - first:
+      213: -3091035227778701638
+    second: (Product)_Fee_Changer_171
+  - first:
+      213: -5182553407707355295
+    second: (Product)_Fee_Changer_172
+  - first:
+      213: 4991802796718424804
+    second: (Product)_Fee_Changer_173
+  - first:
+      213: -2450131142061033015
+    second: (Product)_Fee_Changer_174
+  - first:
+      213: -3138958790726708794
+    second: (Product)_Fee_Changer_175
+  - first:
+      213: -7785769434975704921
+    second: (Product)_Fee_Changer_176
+  - first:
+      213: 2891155147565853094
+    second: (Product)_Fee_Changer_177
+  - first:
+      213: 3921781691975277359
+    second: (Product)_Fee_Changer_178
+  - first:
+      213: -6814437149640767401
+    second: (Product)_Fee_Changer_179
+  - first:
+      213: 247019068489378053
+    second: (Product)_Fee_Changer_180
+  - first:
+      213: 7003750740868270156
+    second: (Product)_Fee_Changer_181
+  - first:
+      213: -668288952332505654
+    second: (Product)_Fee_Changer_182
+  - first:
+      213: 5612654870742067747
+    second: (Product)_Fee_Changer_183
+  - first:
+      213: 159339937552907463
+    second: (Product)_Fee_Changer_184
+  - first:
+      213: -5995890393872758406
+    second: (Product)_Fee_Changer_185
+  - first:
+      213: 1780821592844028425
+    second: (Product)_Fee_Changer_186
+  - first:
+      213: -6406380729245725197
+    second: (Product)_Fee_Changer_187
+  - first:
+      213: 6255044356484241375
+    second: (Product)_Fee_Changer_188
+  - first:
+      213: -7366260307153784478
+    second: (Product)_Fee_Changer_189
+  - first:
+      213: 5305578709250806683
+    second: (Product)_Fee_Changer_190
+  - first:
+      213: -5864790932628740687
+    second: (Product)_Fee_Changer_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1374
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a67c383d7bbc170800000000000000
+      internalID: 8199849665634986614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1386
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa976f9fbca04c20800000000000000
+      internalID: 3188738475191409395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1386
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c894f4cce49f90800000000000000
+      internalID: -6947667994464434344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1384
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2899de4a1d433eeb0800000000000000
+      internalID: -4691848311770080894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1386
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298e70534c685a090800000000000000
+      internalID: -8023858983829247854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1385
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7694d082a6a0de80800000000000000
+      internalID: -8155835708291639681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1386
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae064cb977acb8a0800000000000000
+      internalID: -6287966838424465756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1384
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50a5198d0edb8640800000000000000
+      internalID: 5083400754133573722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1386
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f61303d78c0c8650800000000000000
+      internalID: 6236373361501607672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1384
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b0cabab552e9140800000000000000
+      internalID: 4728257734438030090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1374
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb795ae27b450a000800000000000000
+      internalID: 45129142012057532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1384
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18c85e183b855f10800000000000000
+      internalID: 2257863861339736090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_12
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1362
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64bfad36f2164420800000000000000
+      internalID: 2613797482541331563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_13
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1384
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e395fa2ac1e07830800000000000000
+      internalID: 4066998721935938533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_14
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1384
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9528336ae466cd910800000000000000
+      internalID: 1863476833806418521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_15
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1362
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cbd7e07b5477840800000000000000
+      internalID: 5221718945483832411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_16
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1384
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcef06a9af9d94c30800000000000000
+      internalID: 4344242985930653389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_17
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1384
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9534f9c96e4d5490800000000000000
+      internalID: -7755956766995368548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_18
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1384
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f9bcf8cfbb6abf0800000000000000
+      internalID: -313356430637031560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_19
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1384
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25400c59764c8d6b0800000000000000
+      internalID: -5271247414664100782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_20
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1384
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7c741ec2eee9220800000000000000
+      internalID: 2494693120135383017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_21
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1386
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8d2286ba670ecf0800000000000000
+      internalID: -225049502809925416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_22
+      rect:
+        serializedVersion: 2
+        x: 4687
+        y: 1435
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef375d514a6a93e10800000000000000
+      internalID: 2177955118481503230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_23
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1401
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b7cbe55aa416bf0800000000000000
+      internalID: -332902823329236154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1290
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abdc1c7728a03b10800000000000000
+      internalID: 1959250725445622693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1290
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8f7c6761cd14710800000000000000
+      internalID: 1675862525398743205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1291
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e16f3e93e0e26fa0800000000000000
+      internalID: -5808833301137366557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1290
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d90a0670768e07f0800000000000000
+      internalID: -644429879092573738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1291
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f559b1865095f1210800000000000000
+      internalID: 1305860296717079903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1290
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45609c3968de6bc0800000000000000
+      internalID: -3787852290072746678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1290
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb6ad9d17b02740800000000000000
+      internalID: 5125297713774509049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1279
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304ecf07eb280ba20800000000000000
+      internalID: 3076102299945067523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1290
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5633da7b90744fb60800000000000000
+      internalID: 7778920563437548389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8756f2d47f28da20800000000000000
+      internalID: 3087269723364546446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1291
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f45c3087a4f4f80800000000000000
+      internalID: -8120189723805921524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_35
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1290
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb1e762a348f5650800000000000000
+      internalID: 6223838595338083277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_36
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1291
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd356c537fe7a9a90800000000000000
+      internalID: -7306387845230996515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1291
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b11d8ab1e1a8110800000000000000
+      internalID: 1263855749576071958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_38
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1290
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e113e221db178c0800000000000000
+      internalID: -4003210707973628349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1291
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a8b05a9df0806d0800000000000000
+      internalID: -3024149722327971289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1290
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552b64fc051d7aeb0800000000000000
+      internalID: -4708564740387458475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_41
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1290
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418cf9cb0b8609e70800000000000000
+      internalID: 9119904353713375252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_42
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1290
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c05f6a87924e590800000000000000
+      internalID: -7645940669194367866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_43
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1310
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976b7fe6c49df4490800000000000000
+      internalID: -7759744710633605511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_44
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1290
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0d17b0b905633d0800000000000000
+      internalID: -3227303456122220304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_45
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1290
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d97af621b3f9e40800000000000000
+      internalID: 5665311806624079139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_46
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1290
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84a91c4c87581840800000000000000
+      internalID: 5194998430255654029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_47
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1291
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989cee2e13677f9d0800000000000000
+      internalID: -2740591891598882423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_48
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1291
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ff264c3206e7300800000000000000
+      internalID: 251744335914270613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_49
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1298
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7082d760a0e43ac50800000000000000
+      internalID: 6675264877658712071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_50
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1290
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453bcea8f9abc7420800000000000000
+      internalID: 2629181476870861652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_51
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1291
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c98847cea802630800000000000000
+      internalID: 3900270025474874462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_52
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1310
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a3123ae69f0b10800000000000000
+      internalID: 1949943096281376491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_53
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1290
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9b1e0b2c8392250800000000000000
+      internalID: 5920325593997621684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_54
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1290
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a960dff48c34e80800000000000000
+      internalID: -8195486651011130861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1282
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f9b3e771364830800000000000000
+      internalID: 4054982905485194344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_56
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1290
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e623211646ada9f20800000000000000
+      internalID: 3430294190856221294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_57
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1290
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081f6fb8068081d0800000000000000
+      internalID: -3350530750634059772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1204
+        width: 104
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0ae8b904c469d0800000000000000
+      internalID: -2781883123772027116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1212
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c901de69088d70800000000000000
+      internalID: 9045490223131772024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1204
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165213e5bd5971870800000000000000
+      internalID: 8653549978426352993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1204
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bde7b566ece0ab0800000000000000
+      internalID: -5039863993963979893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_62
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1212
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73195abdbe8eab490800000000000000
+      internalID: -7729609710728015561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_63
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1212
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e483d26c07e5c0bb0800000000000000
+      internalID: -4968492450442299314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f66a524475d8d190800000000000000
+      internalID: -7937359647934355719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_65
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1212
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4822d089709c52c40800000000000000
+      internalID: 5487012755473769092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_66
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1212
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f3ab6b2f9b95d0800000000000000
+      internalID: -3054672913402431573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1211
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b964e0361cc00850800000000000000
+      internalID: 6341292671019280817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_68
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e4a4c64e6ff3c20800000000000000
+      internalID: 3188538522131385868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_69
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1204
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0f9be99fa17dd10800000000000000
+      internalID: 2150217006504865991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_70
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1204
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d83c145e4234330800000000000000
+      internalID: 3693836686443384163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531bfa069f81381b0800000000000000
+      internalID: -5655649247699160779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_72
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1211
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5ae7eafdf403190800000000000000
+      internalID: -7984794317204052551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_73
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1212
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5db168ae2803580800000000000000
+      internalID: -8849429323999095316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_74
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1211
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b295fab2129cfbec0800000000000000
+      internalID: -3548896837040645845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1046
+        width: 4784
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d2b57503c3a2c0800000000000000
+      internalID: -4421475980930787587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 874
+        width: 278
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba616ecd295c02390800000000000000
+      internalID: -7845053316317440341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 766
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f943c44d2628830800000000000000
+      internalID: 4071925677047455598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 766
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cefd6ee01737750800000000000000
+      internalID: 6301504612438371460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 766
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beafdfb3a185c830800000000000000
+      internalID: 4090818376834723505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d694d7bddb56040800000000000000
+      internalID: 4640323741472615789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_81
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 766
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f30abd96d0cc960800000000000000
+      internalID: 7623483017538846506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_82
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31faf7bda56f75310800000000000000
+      internalID: 1393853479784525587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_83
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90285306ba5a18860800000000000000
+      internalID: 7530482207412290057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 766
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcb0d032ac1494f0800000000000000
+      internalID: -823001348972692261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_85
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 757
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998011a81cbf9d700800000000000000
+      internalID: 565760036875339929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_86
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8400d849f68410800000000000000
+      internalID: 1479143618760707938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_87
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 765
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1232e4cb959aa10800000000000000
+      internalID: 1921165381349876200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_88
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669fe45ff503bc520800000000000000
+      internalID: 2723323588371216742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_89
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 766
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8577ca65152cf390800000000000000
+      internalID: -7783305282087062133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_90
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 766
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a654606e7582c80800000000000000
+      internalID: -8347325263871907318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_91
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 766
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca16d05a5f3b2d0800000000000000
+      internalID: -3263995215670563607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_92
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dbc6dee9f7e5450800000000000000
+      internalID: 6079436867561635180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_93
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 765
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f6cf5449a7daf50800000000000000
+      internalID: 6894301381822017345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_94
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 765
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038e8463eda009f70800000000000000
+      internalID: 9191858788972947504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_95
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 765
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68d80e03b03069b0800000000000000
+      internalID: -5089014033335920529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_96
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 766
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7770f760f3af3f270800000000000000
+      internalID: 8283239288263346039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_97
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 766
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f56cf75c5094aef0800000000000000
+      internalID: -97794565607758346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_98
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d42653134ccb2810800000000000000
+      internalID: 1741710269368116433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_99
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a11e1c820f7b0c0800000000000000
+      internalID: -4559912039847224705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_100
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3292597a06cdf270800000000000000
+      internalID: 8285996637719007807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_101
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322019bae7dcbe4c0800000000000000
+      internalID: -4257083078820691421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_102
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 766
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f2f2f116d9d870800000000000000
+      internalID: 8708226727076362002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_103
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e00faea113b9caa0800000000000000
+      internalID: -6140179728416440087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_104
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977cbe5953a806840800000000000000
+      internalID: 5215320331248191353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_105
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 766
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adefb60defc4a4a20800000000000000
+      internalID: 3047332755171704538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_106
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 765
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbec65cc506cdabd0800000000000000
+      internalID: -2617218080227012931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_107
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dafed05183b13820800000000000000
+      internalID: 2896293403364883158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_108
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 766
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3345f32c1f30abd20800000000000000
+      internalID: 3294950414255871027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_109
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d681f75e733cd140800000000000000
+      internalID: 4745724725076002519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_110
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd99d860bdb9e70800000000000000
+      internalID: 9123126291361029122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_111
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 765
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf163115388e8a90800000000000000
+      internalID: -7309755383672332325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_112
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fb8d6e867ef8460800000000000000
+      internalID: 7246264763197996822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_113
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 765
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f1db4a0edfabf60800000000000000
+      internalID: 8051026425156542316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_114
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbea42c01231e910800000000000000
+      internalID: 1864826768268651444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_115
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 766
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349bb776de5342380800000000000000
+      internalID: -8997006861819725501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_116
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3145a41b2f85d52f0800000000000000
+      internalID: -982531344317131757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_117
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 758
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d70fee4e32d150800000000000000
+      internalID: 5895843370920040418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_118
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 766
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427558107ac76cab0800000000000000
+      internalID: -4988162480539347164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_119
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91515ebcdd9e93110800000000000000
+      internalID: 1241280311135114521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_120
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 757
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6950366542527c840800000000000000
+      internalID: 5244201129094612374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_121
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400ae965d4ff62cd0800000000000000
+      internalID: -2583096628619599868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_122
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864963557617eea70800000000000000
+      internalID: 8858142205709554792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_123
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 765
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57f71f8eb562e200800000000000000
+      internalID: 207840401931368287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_124
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 765
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88981f622b914250800000000000000
+      internalID: 5927189156791359629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_125
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91c8deda4b9e8f0800000000000000
+      internalID: -510678423622116920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_126
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e00d6cf0287cbb0800000000000000
+      internalID: -4915817463979962837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_127
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94f444bb0e935cd0800000000000000
+      internalID: -2570537189192174438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_128
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 765
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f365382718049c20800000000000000
+      internalID: 3212201329773863929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_129
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 758
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55eb2091374b0c0800000000000000
+      internalID: -4560893971362064906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_130
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 765
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf23b4d7948a65250800000000000000
+      internalID: 5933114592695366395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_131
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 766
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107d1b8b3baa7160800000000000000
+      internalID: 7024114841063092252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_132
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 766
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c6fca00dc43390800000000000000
+      internalID: -7839415648559644284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_133
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4261bc377587fb0800000000000000
+      internalID: -4649870460419955492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 491
+        width: 4726
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1939aa568e3bb4d70800000000000000
+      internalID: 9028507688713753489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_135
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 4726
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef613ffcb55adf350800000000000000
+      internalID: 6052175288005236478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_136
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 57
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff9ae020f97cb60800000000000000
+      internalID: 7766350913608482762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_137
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f4767bab9562680800000000000000
+      internalID: -8780231765036413097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_138
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 26
+        width: 153
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b93fc2ead28dede0800000000000000
+      internalID: -1302240840620492368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_139
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 59
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a6cc8763d4a6490800000000000000
+      internalID: -7752298912214652376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 60
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b760b0a7e7da6b1b0800000000000000
+      internalID: -5641130724509940101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_141
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8492220ccfe1e1920800000000000000
+      internalID: 2962839675760421192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_142
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 60
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0318f40c3fa25cb50800000000000000
+      internalID: 6612738854255296816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_143
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 59
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95d1e5e8ec156ff0800000000000000
+      internalID: -43596834775378534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_144
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 60
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b7ce4764499ae60800000000000000
+      internalID: 7974067645566450439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_145
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e04bd48c54dc60800000000000000
+      internalID: 7841994576842777399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_146
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 60
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964436dc27aae6d60800000000000000
+      internalID: 7885427407621145705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_147
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 59
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8ed2895f9692a0800000000000000
+      internalID: -6731017386262098791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_148
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a0bc4f3ac8f9e90800000000000000
+      internalID: -7016735058605438337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_149
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 87
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcbd7bd873973740800000000000000
+      internalID: 5131732447699778776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_150
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 87
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77a01e02cd62ca0800000000000000
+      internalID: -6041899816298317888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_151
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 87
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ec3a9fe68f3eb30800000000000000
+      internalID: 4315566023469420092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_152
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 87
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7630bba55eb09400800000000000000
+      internalID: 328972047959996026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_153
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 87
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7837e29e436c8b720800000000000000
+      internalID: 2862255493746684807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_154
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 87
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9deb5d45b488d0800000000000000
+      internalID: -2844949720731902001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_155
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 87
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af680403347095e0800000000000000
+      internalID: -1904894879917903968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_156
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e525ed6576d83f0800000000000000
+      internalID: -896947127982072293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_157
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 87
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f43589cc5304d30800000000000000
+      internalID: 4413586787668283144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_158
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 87
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347592fb40be2b850800000000000000
+      internalID: 6391429226811709251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_159
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 87
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdad1ce33046e9c0800000000000000
+      internalID: -3898357835693707784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_160
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 73
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5547b48e76b61b0800000000000000
+      internalID: -5662317859092277783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_161
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 87
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbcbcc193f2134e0800000000000000
+      internalID: -2003768436860400686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_162
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 87
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288168e878407c790800000000000000
+      internalID: -7510028873358763902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_163
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 87
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d92246f38c4b70c0800000000000000
+      internalID: -4576980466636019239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_164
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 87
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eacdb52443c6eb00800000000000000
+      internalID: 857587476519045856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_165
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 87
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d0c967c5db9940800000000000000
+      internalID: 5304068038608343177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_166
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 87
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e7e9f949c062f80800000000000000
+      internalID: -8131798244698194312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_167
+      rect:
+        serializedVersion: 2
+        x: 4687
+        y: 87
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5196ade4b8d886b00800000000000000
+      internalID: 822062561458022677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_168
+      rect:
+        serializedVersion: 2
+        x: 4702
+        y: 87
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c4061f89a9d58e0800000000000000
+      internalID: -1703035102400852900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_169
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 57
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f771c3df0b1276080800000000000000
+      internalID: -9194343070207043713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_170
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 57
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e6fbef410040900800000000000000
+      internalID: 649644336421498527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6280c56df6a15d0800000000000000
+      internalID: -3091035227778701638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_172
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167ec10522fd318b0800000000000000
+      internalID: -5182553407707355295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_173
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e204372232764540800000000000000
+      internalID: 4991802796718424804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_174
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9745825b26ffdd0800000000000000
+      internalID: -2450131142061033015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 57
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1152a5c9d2074d0800000000000000
+      internalID: -3138958790726708794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_176
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 57
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8ed2d13f363f390800000000000000
+      internalID: -7785769434975704921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_177
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 49
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96439e9427f1820800000000000000
+      internalID: 2891155147565853094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_178
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 57
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b11dc9ba7fc6630800000000000000
+      internalID: 3921781691975277359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_179
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758cf6f44814e61a0800000000000000
+      internalID: -6814437149640767401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_180
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 57
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ae06b8869d6300800000000000000
+      internalID: 247019068489378053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_181
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 59
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4805dcf032523160800000000000000
+      internalID: 7003750740868270156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_182
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 60
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd27e41db2c9b6f0800000000000000
+      internalID: -668288952332505654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_183
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 60
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a62792ed724ed40800000000000000
+      internalID: 5612654870742067747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_184
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 51
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccbf5834d6163200800000000000000
+      internalID: 159339937552907463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_185
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79890154715acca0800000000000000
+      internalID: -5995890393872758406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_186
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a40d1bdcfb6b810800000000000000
+      internalID: 1780821592844028425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_187
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd86615ba6f717a0800000000000000
+      internalID: -6406380729245725197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_188
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 60
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd71e8a93b16ec650800000000000000
+      internalID: 6255044356484241375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_189
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 60
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f90d5749c5c990800000000000000
+      internalID: -7366260307153784478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_190
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 59
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9315c4d9b331a940800000000000000
+      internalID: 5305578709250806683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Product)_Fee_Changer_191
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 59
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b56bb248b31c9ea0800000000000000
+      internalID: -5864790932628740687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      (Product)_Fee_Changer_0: 8199849665634986614
+      (Product)_Fee_Changer_1: 3188738475191409395
+      (Product)_Fee_Changer_10: 45129142012057532
+      (Product)_Fee_Changer_100: 8285996637719007807
+      (Product)_Fee_Changer_101: -4257083078820691421
+      (Product)_Fee_Changer_102: 8708226727076362002
+      (Product)_Fee_Changer_103: -6140179728416440087
+      (Product)_Fee_Changer_104: 5215320331248191353
+      (Product)_Fee_Changer_105: 3047332755171704538
+      (Product)_Fee_Changer_106: -2617218080227012931
+      (Product)_Fee_Changer_107: 2896293403364883158
+      (Product)_Fee_Changer_108: 3294950414255871027
+      (Product)_Fee_Changer_109: 4745724725076002519
+      (Product)_Fee_Changer_11: 2257863861339736090
+      (Product)_Fee_Changer_110: 9123126291361029122
+      (Product)_Fee_Changer_111: -7309755383672332325
+      (Product)_Fee_Changer_112: 7246264763197996822
+      (Product)_Fee_Changer_113: 8051026425156542316
+      (Product)_Fee_Changer_114: 1864826768268651444
+      (Product)_Fee_Changer_115: -8997006861819725501
+      (Product)_Fee_Changer_116: -982531344317131757
+      (Product)_Fee_Changer_117: 5895843370920040418
+      (Product)_Fee_Changer_118: -4988162480539347164
+      (Product)_Fee_Changer_119: 1241280311135114521
+      (Product)_Fee_Changer_12: 2613797482541331563
+      (Product)_Fee_Changer_120: 5244201129094612374
+      (Product)_Fee_Changer_121: -2583096628619599868
+      (Product)_Fee_Changer_122: 8858142205709554792
+      (Product)_Fee_Changer_123: 207840401931368287
+      (Product)_Fee_Changer_124: 5927189156791359629
+      (Product)_Fee_Changer_125: -510678423622116920
+      (Product)_Fee_Changer_126: -4915817463979962837
+      (Product)_Fee_Changer_127: -2570537189192174438
+      (Product)_Fee_Changer_128: 3212201329773863929
+      (Product)_Fee_Changer_129: -4560893971362064906
+      (Product)_Fee_Changer_13: 4066998721935938533
+      (Product)_Fee_Changer_130: 5933114592695366395
+      (Product)_Fee_Changer_131: 7024114841063092252
+      (Product)_Fee_Changer_132: -7839415648559644284
+      (Product)_Fee_Changer_133: -4649870460419955492
+      (Product)_Fee_Changer_134: 9028507688713753489
+      (Product)_Fee_Changer_135: 6052175288005236478
+      (Product)_Fee_Changer_136: 7766350913608482762
+      (Product)_Fee_Changer_137: -8780231765036413097
+      (Product)_Fee_Changer_138: -1302240840620492368
+      (Product)_Fee_Changer_139: -7752298912214652376
+      (Product)_Fee_Changer_14: 1863476833806418521
+      (Product)_Fee_Changer_140: -5641130724509940101
+      (Product)_Fee_Changer_141: 2962839675760421192
+      (Product)_Fee_Changer_142: 6612738854255296816
+      (Product)_Fee_Changer_143: -43596834775378534
+      (Product)_Fee_Changer_144: 7974067645566450439
+      (Product)_Fee_Changer_145: 7841994576842777399
+      (Product)_Fee_Changer_146: 7885427407621145705
+      (Product)_Fee_Changer_147: -6731017386262098791
+      (Product)_Fee_Changer_148: -7016735058605438337
+      (Product)_Fee_Changer_149: 5131732447699778776
+      (Product)_Fee_Changer_15: 5221718945483832411
+      (Product)_Fee_Changer_150: -6041899816298317888
+      (Product)_Fee_Changer_151: 4315566023469420092
+      (Product)_Fee_Changer_152: 328972047959996026
+      (Product)_Fee_Changer_153: 2862255493746684807
+      (Product)_Fee_Changer_154: -2844949720731902001
+      (Product)_Fee_Changer_155: -1904894879917903968
+      (Product)_Fee_Changer_156: -896947127982072293
+      (Product)_Fee_Changer_157: 4413586787668283144
+      (Product)_Fee_Changer_158: 6391429226811709251
+      (Product)_Fee_Changer_159: -3898357835693707784
+      (Product)_Fee_Changer_16: 4344242985930653389
+      (Product)_Fee_Changer_160: -5662317859092277783
+      (Product)_Fee_Changer_161: -2003768436860400686
+      (Product)_Fee_Changer_162: -7510028873358763902
+      (Product)_Fee_Changer_163: -4576980466636019239
+      (Product)_Fee_Changer_164: 857587476519045856
+      (Product)_Fee_Changer_165: 5304068038608343177
+      (Product)_Fee_Changer_166: -8131798244698194312
+      (Product)_Fee_Changer_167: 822062561458022677
+      (Product)_Fee_Changer_168: -1703035102400852900
+      (Product)_Fee_Changer_169: -9194343070207043713
+      (Product)_Fee_Changer_17: -7755956766995368548
+      (Product)_Fee_Changer_170: 649644336421498527
+      (Product)_Fee_Changer_171: -3091035227778701638
+      (Product)_Fee_Changer_172: -5182553407707355295
+      (Product)_Fee_Changer_173: 4991802796718424804
+      (Product)_Fee_Changer_174: -2450131142061033015
+      (Product)_Fee_Changer_175: -3138958790726708794
+      (Product)_Fee_Changer_176: -7785769434975704921
+      (Product)_Fee_Changer_177: 2891155147565853094
+      (Product)_Fee_Changer_178: 3921781691975277359
+      (Product)_Fee_Changer_179: -6814437149640767401
+      (Product)_Fee_Changer_18: -313356430637031560
+      (Product)_Fee_Changer_180: 247019068489378053
+      (Product)_Fee_Changer_181: 7003750740868270156
+      (Product)_Fee_Changer_182: -668288952332505654
+      (Product)_Fee_Changer_183: 5612654870742067747
+      (Product)_Fee_Changer_184: 159339937552907463
+      (Product)_Fee_Changer_185: -5995890393872758406
+      (Product)_Fee_Changer_186: 1780821592844028425
+      (Product)_Fee_Changer_187: -6406380729245725197
+      (Product)_Fee_Changer_188: 6255044356484241375
+      (Product)_Fee_Changer_189: -7366260307153784478
+      (Product)_Fee_Changer_19: -5271247414664100782
+      (Product)_Fee_Changer_190: 5305578709250806683
+      (Product)_Fee_Changer_191: -5864790932628740687
+      (Product)_Fee_Changer_2: -6947667994464434344
+      (Product)_Fee_Changer_20: 2494693120135383017
+      (Product)_Fee_Changer_21: -225049502809925416
+      (Product)_Fee_Changer_22: 2177955118481503230
+      (Product)_Fee_Changer_23: -332902823329236154
+      (Product)_Fee_Changer_24: 1959250725445622693
+      (Product)_Fee_Changer_25: 1675862525398743205
+      (Product)_Fee_Changer_26: -5808833301137366557
+      (Product)_Fee_Changer_27: -644429879092573738
+      (Product)_Fee_Changer_28: 1305860296717079903
+      (Product)_Fee_Changer_29: -3787852290072746678
+      (Product)_Fee_Changer_3: -4691848311770080894
+      (Product)_Fee_Changer_30: 5125297713774509049
+      (Product)_Fee_Changer_31: 3076102299945067523
+      (Product)_Fee_Changer_32: 7778920563437548389
+      (Product)_Fee_Changer_33: 3087269723364546446
+      (Product)_Fee_Changer_34: -8120189723805921524
+      (Product)_Fee_Changer_35: 6223838595338083277
+      (Product)_Fee_Changer_36: -7306387845230996515
+      (Product)_Fee_Changer_37: 1263855749576071958
+      (Product)_Fee_Changer_38: -4003210707973628349
+      (Product)_Fee_Changer_39: -3024149722327971289
+      (Product)_Fee_Changer_4: -8023858983829247854
+      (Product)_Fee_Changer_40: -4708564740387458475
+      (Product)_Fee_Changer_41: 9119904353713375252
+      (Product)_Fee_Changer_42: -7645940669194367866
+      (Product)_Fee_Changer_43: -7759744710633605511
+      (Product)_Fee_Changer_44: -3227303456122220304
+      (Product)_Fee_Changer_45: 5665311806624079139
+      (Product)_Fee_Changer_46: 5194998430255654029
+      (Product)_Fee_Changer_47: -2740591891598882423
+      (Product)_Fee_Changer_48: 251744335914270613
+      (Product)_Fee_Changer_49: 6675264877658712071
+      (Product)_Fee_Changer_5: -8155835708291639681
+      (Product)_Fee_Changer_50: 2629181476870861652
+      (Product)_Fee_Changer_51: 3900270025474874462
+      (Product)_Fee_Changer_52: 1949943096281376491
+      (Product)_Fee_Changer_53: 5920325593997621684
+      (Product)_Fee_Changer_54: -8195486651011130861
+      (Product)_Fee_Changer_55: 4054982905485194344
+      (Product)_Fee_Changer_56: 3430294190856221294
+      (Product)_Fee_Changer_57: -3350530750634059772
+      (Product)_Fee_Changer_58: -2781883123772027116
+      (Product)_Fee_Changer_59: 9045490223131772024
+      (Product)_Fee_Changer_6: -6287966838424465756
+      (Product)_Fee_Changer_60: 8653549978426352993
+      (Product)_Fee_Changer_61: -5039863993963979893
+      (Product)_Fee_Changer_62: -7729609710728015561
+      (Product)_Fee_Changer_63: -4968492450442299314
+      (Product)_Fee_Changer_64: -7937359647934355719
+      (Product)_Fee_Changer_65: 5487012755473769092
+      (Product)_Fee_Changer_66: -3054672913402431573
+      (Product)_Fee_Changer_67: 6341292671019280817
+      (Product)_Fee_Changer_68: 3188538522131385868
+      (Product)_Fee_Changer_69: 2150217006504865991
+      (Product)_Fee_Changer_7: 5083400754133573722
+      (Product)_Fee_Changer_70: 3693836686443384163
+      (Product)_Fee_Changer_71: -5655649247699160779
+      (Product)_Fee_Changer_72: -7984794317204052551
+      (Product)_Fee_Changer_73: -8849429323999095316
+      (Product)_Fee_Changer_74: -3548896837040645845
+      (Product)_Fee_Changer_75: -4421475980930787587
+      (Product)_Fee_Changer_76: -7845053316317440341
+      (Product)_Fee_Changer_77: 4071925677047455598
+      (Product)_Fee_Changer_78: 6301504612438371460
+      (Product)_Fee_Changer_79: 4090818376834723505
+      (Product)_Fee_Changer_8: 6236373361501607672
+      (Product)_Fee_Changer_80: 4640323741472615789
+      (Product)_Fee_Changer_81: 7623483017538846506
+      (Product)_Fee_Changer_82: 1393853479784525587
+      (Product)_Fee_Changer_83: 7530482207412290057
+      (Product)_Fee_Changer_84: -823001348972692261
+      (Product)_Fee_Changer_85: 565760036875339929
+      (Product)_Fee_Changer_86: 1479143618760707938
+      (Product)_Fee_Changer_87: 1921165381349876200
+      (Product)_Fee_Changer_88: 2723323588371216742
+      (Product)_Fee_Changer_89: -7783305282087062133
+      (Product)_Fee_Changer_9: 4728257734438030090
+      (Product)_Fee_Changer_90: -8347325263871907318
+      (Product)_Fee_Changer_91: -3263995215670563607
+      (Product)_Fee_Changer_92: 6079436867561635180
+      (Product)_Fee_Changer_93: 6894301381822017345
+      (Product)_Fee_Changer_94: 9191858788972947504
+      (Product)_Fee_Changer_95: -5089014033335920529
+      (Product)_Fee_Changer_96: 8283239288263346039
+      (Product)_Fee_Changer_97: -97794565607758346
+      (Product)_Fee_Changer_98: 1741710269368116433
+      (Product)_Fee_Changer_99: -4559912039847224705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

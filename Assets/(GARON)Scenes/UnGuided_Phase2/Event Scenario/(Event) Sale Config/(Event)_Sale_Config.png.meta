@@ -1,0 +1,5252 @@
+fileFormatVersion: 2
+guid: 4aba44ec0521b42d19d6a3b04fb60932
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7587637803623977517
+    second: (Event)_Sale_Config_0
+  - first:
+      213: 4834340700456420107
+    second: (Event)_Sale_Config_1
+  - first:
+      213: 4357268444404646438
+    second: (Event)_Sale_Config_2
+  - first:
+      213: 6747663408785866456
+    second: (Event)_Sale_Config_3
+  - first:
+      213: -748439093357544841
+    second: (Event)_Sale_Config_4
+  - first:
+      213: -6595949219348177848
+    second: (Event)_Sale_Config_5
+  - first:
+      213: -3572751366252859433
+    second: (Event)_Sale_Config_6
+  - first:
+      213: 8626045317634011867
+    second: (Event)_Sale_Config_7
+  - first:
+      213: 5071254411773156933
+    second: (Event)_Sale_Config_8
+  - first:
+      213: -3845860176720561125
+    second: (Event)_Sale_Config_9
+  - first:
+      213: -1776266188965173947
+    second: (Event)_Sale_Config_10
+  - first:
+      213: 3675462551506893258
+    second: (Event)_Sale_Config_11
+  - first:
+      213: -9216514067903005398
+    second: (Event)_Sale_Config_12
+  - first:
+      213: -7632153710891073712
+    second: (Event)_Sale_Config_13
+  - first:
+      213: -2328883031780919319
+    second: (Event)_Sale_Config_14
+  - first:
+      213: -7494279130162778873
+    second: (Event)_Sale_Config_15
+  - first:
+      213: 9171938144767927194
+    second: (Event)_Sale_Config_16
+  - first:
+      213: 2273631232491257428
+    second: (Event)_Sale_Config_17
+  - first:
+      213: -4932837608914845549
+    second: (Event)_Sale_Config_18
+  - first:
+      213: -1242913523471496722
+    second: (Event)_Sale_Config_19
+  - first:
+      213: -3948556691828238362
+    second: (Event)_Sale_Config_20
+  - first:
+      213: 2768745175819653526
+    second: (Event)_Sale_Config_21
+  - first:
+      213: 2514380903207483226
+    second: (Event)_Sale_Config_22
+  - first:
+      213: -1473162400891106461
+    second: (Event)_Sale_Config_23
+  - first:
+      213: 6281924950926455744
+    second: (Event)_Sale_Config_24
+  - first:
+      213: -5651754254733067172
+    second: (Event)_Sale_Config_25
+  - first:
+      213: 2044818228361142570
+    second: (Event)_Sale_Config_26
+  - first:
+      213: -1842133401750335326
+    second: (Event)_Sale_Config_27
+  - first:
+      213: -9202918177328335720
+    second: (Event)_Sale_Config_28
+  - first:
+      213: 7755864453399631399
+    second: (Event)_Sale_Config_29
+  - first:
+      213: 8294946523918666006
+    second: (Event)_Sale_Config_30
+  - first:
+      213: 7613933715215092588
+    second: (Event)_Sale_Config_31
+  - first:
+      213: 8747602162917140477
+    second: (Event)_Sale_Config_32
+  - first:
+      213: 1024995244613631982
+    second: (Event)_Sale_Config_33
+  - first:
+      213: 3541745549734975789
+    second: (Event)_Sale_Config_34
+  - first:
+      213: -1579037762242627744
+    second: (Event)_Sale_Config_35
+  - first:
+      213: -5079469029291132650
+    second: (Event)_Sale_Config_36
+  - first:
+      213: 779926111425149134
+    second: (Event)_Sale_Config_37
+  - first:
+      213: 405037833560008202
+    second: (Event)_Sale_Config_38
+  - first:
+      213: 7724694650298131660
+    second: (Event)_Sale_Config_39
+  - first:
+      213: -6983164037758481577
+    second: (Event)_Sale_Config_40
+  - first:
+      213: -4602771311935900304
+    second: (Event)_Sale_Config_41
+  - first:
+      213: 569707779407728330
+    second: (Event)_Sale_Config_42
+  - first:
+      213: 5764599758469286764
+    second: (Event)_Sale_Config_43
+  - first:
+      213: 4519939012944050185
+    second: (Event)_Sale_Config_44
+  - first:
+      213: 8043791150259627869
+    second: (Event)_Sale_Config_45
+  - first:
+      213: -6773155651422527711
+    second: (Event)_Sale_Config_46
+  - first:
+      213: -4075512385983031670
+    second: (Event)_Sale_Config_47
+  - first:
+      213: 4183759144190621181
+    second: (Event)_Sale_Config_48
+  - first:
+      213: -8759098142138798422
+    second: (Event)_Sale_Config_49
+  - first:
+      213: -7739060064698150059
+    second: (Event)_Sale_Config_50
+  - first:
+      213: 7026889556922107902
+    second: (Event)_Sale_Config_51
+  - first:
+      213: 1779773401701626449
+    second: (Event)_Sale_Config_52
+  - first:
+      213: -5196916405985924391
+    second: (Event)_Sale_Config_53
+  - first:
+      213: -4474606203662640880
+    second: (Event)_Sale_Config_54
+  - first:
+      213: -8736313839626588272
+    second: (Event)_Sale_Config_55
+  - first:
+      213: -9219307128341090035
+    second: (Event)_Sale_Config_56
+  - first:
+      213: 5411586926662666251
+    second: (Event)_Sale_Config_57
+  - first:
+      213: -8066134248895351497
+    second: (Event)_Sale_Config_58
+  - first:
+      213: 8890562058049942208
+    second: (Event)_Sale_Config_59
+  - first:
+      213: -6681719812934878522
+    second: (Event)_Sale_Config_60
+  - first:
+      213: -3974592819113895011
+    second: (Event)_Sale_Config_61
+  - first:
+      213: -6009929108139824606
+    second: (Event)_Sale_Config_62
+  - first:
+      213: -5635692128373649899
+    second: (Event)_Sale_Config_63
+  - first:
+      213: -1334453457158866612
+    second: (Event)_Sale_Config_64
+  - first:
+      213: 2264338632255921150
+    second: (Event)_Sale_Config_65
+  - first:
+      213: -3230354552557552816
+    second: (Event)_Sale_Config_66
+  - first:
+      213: 7582464863217957811
+    second: (Event)_Sale_Config_67
+  - first:
+      213: 1846335819820748027
+    second: (Event)_Sale_Config_68
+  - first:
+      213: 4079843474002171135
+    second: (Event)_Sale_Config_69
+  - first:
+      213: 7248814533155277236
+    second: (Event)_Sale_Config_70
+  - first:
+      213: -2900145473732103375
+    second: (Event)_Sale_Config_71
+  - first:
+      213: -4468572068765355264
+    second: (Event)_Sale_Config_72
+  - first:
+      213: 7919462245936517016
+    second: (Event)_Sale_Config_73
+  - first:
+      213: -3885110516136892318
+    second: (Event)_Sale_Config_74
+  - first:
+      213: 7755593119459913871
+    second: (Event)_Sale_Config_75
+  - first:
+      213: -8222174686920294758
+    second: (Event)_Sale_Config_76
+  - first:
+      213: 2270171915693667564
+    second: (Event)_Sale_Config_77
+  - first:
+      213: -1880812704554306472
+    second: (Event)_Sale_Config_78
+  - first:
+      213: -6438903415458384315
+    second: (Event)_Sale_Config_79
+  - first:
+      213: -5754115358007299273
+    second: (Event)_Sale_Config_80
+  - first:
+      213: 6586940682632273121
+    second: (Event)_Sale_Config_81
+  - first:
+      213: -5108998252521232422
+    second: (Event)_Sale_Config_82
+  - first:
+      213: -403145943603395933
+    second: (Event)_Sale_Config_83
+  - first:
+      213: -3317905687185019675
+    second: (Event)_Sale_Config_84
+  - first:
+      213: -4758040937364762385
+    second: (Event)_Sale_Config_85
+  - first:
+      213: -2590559629407029653
+    second: (Event)_Sale_Config_86
+  - first:
+      213: 8076585147619826983
+    second: (Event)_Sale_Config_87
+  - first:
+      213: 9168606415395276235
+    second: (Event)_Sale_Config_88
+  - first:
+      213: 7150344340234463107
+    second: (Event)_Sale_Config_89
+  - first:
+      213: 7936143618825379869
+    second: (Event)_Sale_Config_90
+  - first:
+      213: -4782405643764172257
+    second: (Event)_Sale_Config_91
+  - first:
+      213: -5686572861876164950
+    second: (Event)_Sale_Config_92
+  - first:
+      213: 4254947784084326901
+    second: (Event)_Sale_Config_93
+  - first:
+      213: 3153236016143283014
+    second: (Event)_Sale_Config_94
+  - first:
+      213: -8473541034005169269
+    second: (Event)_Sale_Config_95
+  - first:
+      213: -3624607830309333021
+    second: (Event)_Sale_Config_96
+  - first:
+      213: -8126259669206161297
+    second: (Event)_Sale_Config_97
+  - first:
+      213: 6598204432461999861
+    second: (Event)_Sale_Config_98
+  - first:
+      213: -2715544778904761046
+    second: (Event)_Sale_Config_99
+  - first:
+      213: -209647578927683507
+    second: (Event)_Sale_Config_100
+  - first:
+      213: 6397546620238202496
+    second: (Event)_Sale_Config_101
+  - first:
+      213: -3608614669510259570
+    second: (Event)_Sale_Config_102
+  - first:
+      213: 3313339670229906472
+    second: (Event)_Sale_Config_103
+  - first:
+      213: -3818857953175712888
+    second: (Event)_Sale_Config_104
+  - first:
+      213: -6481209617548350305
+    second: (Event)_Sale_Config_105
+  - first:
+      213: -734727425701379904
+    second: (Event)_Sale_Config_106
+  - first:
+      213: 9052708481506802012
+    second: (Event)_Sale_Config_107
+  - first:
+      213: -2789549030086321401
+    second: (Event)_Sale_Config_108
+  - first:
+      213: 6151765799129207912
+    second: (Event)_Sale_Config_109
+  - first:
+      213: 6138437434367923824
+    second: (Event)_Sale_Config_110
+  - first:
+      213: -4333366349855948984
+    second: (Event)_Sale_Config_111
+  - first:
+      213: -7636224778553686832
+    second: (Event)_Sale_Config_112
+  - first:
+      213: 1904185803910586079
+    second: (Event)_Sale_Config_113
+  - first:
+      213: -32869196865454470
+    second: (Event)_Sale_Config_114
+  - first:
+      213: -8971322007007945817
+    second: (Event)_Sale_Config_115
+  - first:
+      213: -2470950272304985310
+    second: (Event)_Sale_Config_116
+  - first:
+      213: -1656049052801937218
+    second: (Event)_Sale_Config_117
+  - first:
+      213: -7571863521560128449
+    second: (Event)_Sale_Config_118
+  - first:
+      213: 2303590750798850574
+    second: (Event)_Sale_Config_119
+  - first:
+      213: 7647888639389480874
+    second: (Event)_Sale_Config_120
+  - first:
+      213: -6937729986999034083
+    second: (Event)_Sale_Config_121
+  - first:
+      213: -368426697599722198
+    second: (Event)_Sale_Config_122
+  - first:
+      213: -2011017454321025764
+    second: (Event)_Sale_Config_123
+  - first:
+      213: -3376403413252732816
+    second: (Event)_Sale_Config_124
+  - first:
+      213: -2351097842747488537
+    second: (Event)_Sale_Config_125
+  - first:
+      213: -1596112811757160998
+    second: (Event)_Sale_Config_126
+  - first:
+      213: 7122534784549264007
+    second: (Event)_Sale_Config_127
+  - first:
+      213: 6921112184353130512
+    second: (Event)_Sale_Config_128
+  - first:
+      213: 2432399886828360124
+    second: (Event)_Sale_Config_129
+  - first:
+      213: -4457474290132807965
+    second: (Event)_Sale_Config_130
+  - first:
+      213: -7744563352314341162
+    second: (Event)_Sale_Config_131
+  - first:
+      213: 2206315538896241006
+    second: (Event)_Sale_Config_132
+  - first:
+      213: 7596663137207012791
+    second: (Event)_Sale_Config_133
+  - first:
+      213: 1074160008373440489
+    second: (Event)_Sale_Config_134
+  - first:
+      213: -4029157202986325926
+    second: (Event)_Sale_Config_135
+  - first:
+      213: 937396416896765376
+    second: (Event)_Sale_Config_136
+  - first:
+      213: -389221533207650525
+    second: (Event)_Sale_Config_137
+  - first:
+      213: 6155005218288588936
+    second: (Event)_Sale_Config_138
+  - first:
+      213: -3990693346242459462
+    second: (Event)_Sale_Config_139
+  - first:
+      213: -7674105090160896662
+    second: (Event)_Sale_Config_140
+  - first:
+      213: 929768565771853335
+    second: (Event)_Sale_Config_141
+  - first:
+      213: -8975015243571908796
+    second: (Event)_Sale_Config_142
+  - first:
+      213: -3552339807442164435
+    second: (Event)_Sale_Config_143
+  - first:
+      213: 2903015204899728448
+    second: (Event)_Sale_Config_144
+  - first:
+      213: -6622716622547530777
+    second: (Event)_Sale_Config_145
+  - first:
+      213: -2675408699454698118
+    second: (Event)_Sale_Config_146
+  - first:
+      213: 211892305926721755
+    second: (Event)_Sale_Config_147
+  - first:
+      213: 7027705657390144583
+    second: (Event)_Sale_Config_148
+  - first:
+      213: -3386662527499544241
+    second: (Event)_Sale_Config_149
+  - first:
+      213: 8303208573518637683
+    second: (Event)_Sale_Config_150
+  - first:
+      213: 6555628445699802431
+    second: (Event)_Sale_Config_151
+  - first:
+      213: -45233033802796162
+    second: (Event)_Sale_Config_152
+  - first:
+      213: 3429211796715973703
+    second: (Event)_Sale_Config_153
+  - first:
+      213: 6424553018467147186
+    second: (Event)_Sale_Config_154
+  - first:
+      213: -8135226519642905127
+    second: (Event)_Sale_Config_155
+  - first:
+      213: -998532794253205317
+    second: (Event)_Sale_Config_156
+  - first:
+      213: 8550537653528623658
+    second: (Event)_Sale_Config_157
+  - first:
+      213: -7770307830510285592
+    second: (Event)_Sale_Config_158
+  - first:
+      213: 6026297839623995738
+    second: (Event)_Sale_Config_159
+  - first:
+      213: -1649870529980232355
+    second: (Event)_Sale_Config_160
+  - first:
+      213: -6425218598263531929
+    second: (Event)_Sale_Config_161
+  - first:
+      213: 4016169604941504260
+    second: (Event)_Sale_Config_162
+  - first:
+      213: -7528780664840035659
+    second: (Event)_Sale_Config_163
+  - first:
+      213: 1181713205835531758
+    second: (Event)_Sale_Config_164
+  - first:
+      213: 4625400398811795700
+    second: (Event)_Sale_Config_165
+  - first:
+      213: 6970642561619219279
+    second: (Event)_Sale_Config_166
+  - first:
+      213: -1453327498139610545
+    second: (Event)_Sale_Config_167
+  - first:
+      213: 617312248321677833
+    second: (Event)_Sale_Config_168
+  - first:
+      213: -9027703092465178576
+    second: (Event)_Sale_Config_169
+  - first:
+      213: -3091960301360921489
+    second: (Event)_Sale_Config_170
+  - first:
+      213: 1166481135254485936
+    second: (Event)_Sale_Config_171
+  - first:
+      213: 2444404675691494888
+    second: (Event)_Sale_Config_172
+  - first:
+      213: -8282916994039081241
+    second: (Event)_Sale_Config_173
+  - first:
+      213: 6463284705803241398
+    second: (Event)_Sale_Config_174
+  - first:
+      213: -6530421914846615595
+    second: (Event)_Sale_Config_175
+  - first:
+      213: -2044583603753029281
+    second: (Event)_Sale_Config_176
+  - first:
+      213: -8641374315136875706
+    second: (Event)_Sale_Config_177
+  - first:
+      213: 7901737294724936058
+    second: (Event)_Sale_Config_178
+  - first:
+      213: 6468719072735099951
+    second: (Event)_Sale_Config_179
+  - first:
+      213: -1631199024507869361
+    second: (Event)_Sale_Config_180
+  - first:
+      213: -5201145061571848194
+    second: (Event)_Sale_Config_181
+  - first:
+      213: -6704554279041407382
+    second: (Event)_Sale_Config_182
+  - first:
+      213: 6973360911737199529
+    second: (Event)_Sale_Config_183
+  - first:
+      213: -5889319973574150944
+    second: (Event)_Sale_Config_184
+  - first:
+      213: 5675402167678668235
+    second: (Event)_Sale_Config_185
+  - first:
+      213: -7466343657301671381
+    second: (Event)_Sale_Config_186
+  - first:
+      213: -4067270226117040673
+    second: (Event)_Sale_Config_187
+  - first:
+      213: -7732075958694038674
+    second: (Event)_Sale_Config_188
+  - first:
+      213: 2136670216525384390
+    second: (Event)_Sale_Config_189
+  - first:
+      213: 2052718795317848849
+    second: (Event)_Sale_Config_190
+  - first:
+      213: -8044489140141049433
+    second: (Event)_Sale_Config_191
+  - first:
+      213: 943302297474778162
+    second: (Event)_Sale_Config_192
+  - first:
+      213: -5625693557701124949
+    second: (Event)_Sale_Config_193
+  - first:
+      213: -7359963023410627911
+    second: (Event)_Sale_Config_194
+  - first:
+      213: -4292507304553306447
+    second: (Event)_Sale_Config_195
+  - first:
+      213: 1785660083349321768
+    second: (Event)_Sale_Config_196
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 745
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d221551a164bc4960800000000000000
+      internalID: 7587637803623977517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 757
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b030bede047071340800000000000000
+      internalID: 4834340700456420107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 757
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62202cb7090287c30800000000000000
+      internalID: 4357268444404646438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 755
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de3590ae1484ad50800000000000000
+      internalID: 6747663408785866456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 757
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a78682c920d95f0800000000000000
+      internalID: -748439093357544841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 756
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9c30c12b7674a0800000000000000
+      internalID: -6595949219348177848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 757
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe4b7cf890b6ec0800000000000000
+      internalID: -3572751366252859433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 755
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd23ffd738ed5b770800000000000000
+      internalID: 8626045317634011867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 757
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e1f53d407b06640800000000000000
+      internalID: 5071254411773156933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 755
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cffb6ab82c0aac0800000000000000
+      internalID: -3845860176720561125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_10
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 745
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a13cef4f6957e0800000000000000
+      internalID: -1776266188965173947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 755
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9b1d797bdd10330800000000000000
+      internalID: 3675462551506893258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 733
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d3043594d581080800000000000000
+      internalID: -9216514067903005398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 755
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f782703a4251690800000000000000
+      internalID: -7632153710891073712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_14
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 755
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e77347b8352eafd0800000000000000
+      internalID: -2328883031780919319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 733
+        width: 122
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d260766d8fef790800000000000000
+      internalID: -7494279130162778873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 755
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936fbcc525494f70800000000000000
+      internalID: 9171938144767927194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_17
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 755
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45effda4f8f8d8f10800000000000000
+      internalID: 2273631232491257428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_18
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 755
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39081f9745a0b8bb0800000000000000
+      internalID: -4932837608914845549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 755
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c3f25cb840cee0800000000000000
+      internalID: -1242913523471496722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_20
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 755
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e71610fb98e339c0800000000000000
+      internalID: -3948556691828238362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_21
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 757
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919e46611f8c6620800000000000000
+      internalID: 2768745175819653526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 586
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5735b51c10e4e220800000000000000
+      internalID: 2514380903207483226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 587
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b8c6ef9964e8be0800000000000000
+      internalID: -1473162400891106461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 586
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c372a5b571ed2750800000000000000
+      internalID: 6281924950926455744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 587
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c35d8137fe091b0800000000000000
+      internalID: -5651754254733067172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 587
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21a5b34857a06c10800000000000000
+      internalID: 2044818228361142570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a01acf5e6d6f66e0800000000000000
+      internalID: -1842133401750335326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 586
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894fb574daaa84080800000000000000
+      internalID: -9202918177328335720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 586
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726d6f6c0ad52ab60800000000000000
+      internalID: 7755864453399631399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 586
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619880d3ae19d1370800000000000000
+      internalID: 8294946523918666006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 587
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b04c6af502aa960800000000000000
+      internalID: 7613933715215092588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 574
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76d1502d9b56970800000000000000
+      internalID: 8747602162917140477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 586
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeff8ab8eb3893e00800000000000000
+      internalID: 1024995244613631982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 587
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2916c000dec62130800000000000000
+      internalID: 3541745549734975789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 586
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b9967581261ae0800000000000000
+      internalID: -1579037762242627744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 587
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619f08d74d91289b0800000000000000
+      internalID: -5079469029291132650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_37
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 586
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec83c868aaad2da00800000000000000
+      internalID: 779926111425149134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_38
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 587
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0620fd73cbfe9500800000000000000
+      internalID: 405037833560008202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 4741
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc461657bd0a33b60800000000000000
+      internalID: 7724694650298131660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b8f195e41d61f90800000000000000
+      internalID: -6983164037758481577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075b3b9d0ebaf10c0800000000000000
+      internalID: -4602771311935900304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 439
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acecf59f43208e700800000000000000
+      internalID: 569707779407728330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b4ddb20f8ffff40800000000000000
+      internalID: 5764599758469286764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908b5f8a59c0abe30800000000000000
+      internalID: 4519939012944050185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_45
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 439
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e7aeee6941af60800000000000000
+      internalID: 8043791150259627869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fd78c12dae002a0800000000000000
+      internalID: -6773155651422527711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86d6c3f31fd077c0800000000000000
+      internalID: -4075512385983031670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5364f66c2bf0a30800000000000000
+      internalID: 4183759144190621181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae680db5ae617680800000000000000
+      internalID: -8759098142138798422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 439
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553514cdfd5599490800000000000000
+      internalID: -7739060064698150059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 431
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef78e3c62d6848160800000000000000
+      internalID: 7026889556922107902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1523d1daa7603b810800000000000000
+      internalID: 1779773401701626449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da2fcd2018d0e7b0800000000000000
+      internalID: -5196916405985924391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_54
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 439
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019dde08d5107e1c0800000000000000
+      internalID: -4474606203662640880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f6abe89d062c680800000000000000
+      internalID: -8736313839626588272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 439
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01b00443017e0080800000000000000
+      internalID: -9219307128341090035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 439
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0840e253a1d91b40800000000000000
+      internalID: 5411586926662666251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 439
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735faf703a55f0090800000000000000
+      internalID: -8066134248895351497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_59
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2f1ab661f916b70800000000000000
+      internalID: 8890562058049942208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_60
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab35d3b33c543a0800000000000000
+      internalID: -6681719812934878522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_61
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bd5e9a3e867d8c0800000000000000
+      internalID: -3974592819113895011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_62
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 439
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aab007151789ca0800000000000000
+      internalID: -6009929108139824606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ec2d05edff9c1b0800000000000000
+      internalID: -5635692128373649899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_64
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49f0c4a6a11b7de0800000000000000
+      internalID: -1334453457158866612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_65
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbdec23dfb8c6f10800000000000000
+      internalID: 2264338632255921150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_66
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 439
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bbd3c46a97b23d0800000000000000
+      internalID: -3230354552557552816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_67
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 439
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbbcf59e935a3960800000000000000
+      internalID: 7582464863217957811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_68
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 439
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcce7455a08f9910800000000000000
+      internalID: 1846335819820748027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_69
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4581f06048e9830800000000000000
+      internalID: 4079843474002171135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_70
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c86b7966f89460800000000000000
+      internalID: 7248814533155277236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_71
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133bd39ae0d90c7d0800000000000000
+      internalID: -2900145473732103375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_72
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 439
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003320401617cf1c0800000000000000
+      internalID: -4468572068765355264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_73
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc92d14f497ed60800000000000000
+      internalID: 7919462245936517016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_74
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 431
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a68cd190551ac0800000000000000
+      internalID: -3885110516136892318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_75
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 433
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f803fdbe9d661ab60800000000000000
+      internalID: 7755593119459913871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_76
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 431
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e38e86fa7f4ed80800000000000000
+      internalID: -8222174686920294758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_77
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce43df55455418f10800000000000000
+      internalID: 2270171915693667564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_78
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854bff76fc206e5e0800000000000000
+      internalID: -1880812704554306472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_79
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 439
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546bd8a557b64a6a0800000000000000
+      internalID: -6438903415458384315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_80
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733fa5981964520b0800000000000000
+      internalID: -5754115358007299273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_81
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec9dd8d6a3896b50800000000000000
+      internalID: 6586940682632273121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_82
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 439
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7616078213919b0800000000000000
+      internalID: -5108998252521232422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_83
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a241e676ecb76af0800000000000000
+      internalID: -403145943603395933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_84
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca6154b5e64f1d0800000000000000
+      internalID: -3317905687185019675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_85
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05b950afa08fdb0800000000000000
+      internalID: -4758040937364762385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_86
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 439
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f9bf0ebb7c0cd0800000000000000
+      internalID: -2590559629407029653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_87
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d5312766bc51070800000000000000
+      internalID: 8076585147619826983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_88
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 439
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c00b15fe6d3f70800000000000000
+      internalID: 9168606415395276235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_89
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 439
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38766651b402b3360800000000000000
+      internalID: 7150344340234463107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_90
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10e196e298d22e60800000000000000
+      internalID: 7936143618825379869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_91
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1afc9fb76b71adb0800000000000000
+      internalID: -4782405643764172257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_92
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6ae726c1c3511b0800000000000000
+      internalID: -5686572861876164950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_93
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f98e28477c9c0b30800000000000000
+      internalID: 4254947784084326901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_94
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643303b337b82cb20800000000000000
+      internalID: 3153236016143283014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_95
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 439
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bfc66035fe76a80800000000000000
+      internalID: -8473541034005169269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_96
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 439
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e71050e16ec2bdc0800000000000000
+      internalID: -3624607830309333021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_97
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 439
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f682268b2e9b93f80800000000000000
+      internalID: -8126259669206161297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_98
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2e48f8f7819b50800000000000000
+      internalID: 6598204432461999861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_99
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d07b14962705ad0800000000000000
+      internalID: -2715544778904761046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_100
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48aef143ae271df0800000000000000
+      internalID: -209647578927683507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_101
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 431
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0868c4561c6a8c850800000000000000
+      internalID: 6397546620238202496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_102
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 439
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc39cc310abedc0800000000000000
+      internalID: -3608614669510259570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_103
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824734010e85bfd20800000000000000
+      internalID: 3313339670229906472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_104
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b494dbce0b00bc0800000000000000
+      internalID: -3818857953175712888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_105
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 439
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c6f27113e1e06a0800000000000000
+      internalID: -6481209617548350305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_106
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 439
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c005509c49bdc5f0800000000000000
+      internalID: -734727425701379904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_107
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 439
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f06f866ea1ad70800000000000000
+      internalID: 9052708481506802012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_108
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b5b22dfe78949d0800000000000000
+      internalID: -2789549030086321401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_109
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 439
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8645e7e96667f5550800000000000000
+      internalID: 6151765799129207912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_110
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d57fd25c103550800000000000000
+      internalID: 6138437434367923824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_111
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f7433934accd3c0800000000000000
+      internalID: -4333366349855948984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_112
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 439
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48549b50ea60690800000000000000
+      internalID: -7636224778553686832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_113
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 439
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde9e6c56e60d6a10800000000000000
+      internalID: 1904185803910586079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_114
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e38ccb3a93b8ff0800000000000000
+      internalID: -32869196865454470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_115
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab95aeaa267f7380800000000000000
+      internalID: -8971322007007945817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_116
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 439
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b4b99a1db65bdd0800000000000000
+      internalID: -2470950272304985310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_117
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 439
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb05e1d19288409e0800000000000000
+      internalID: -1656049052801937218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_118
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 439
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349bad9e365be690800000000000000
+      internalID: -7571863521560128449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_119
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aad39359ff7ff10800000000000000
+      internalID: 2303590750798850574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_120
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa73e808232c22a60800000000000000
+      internalID: 7647888639389480874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_121
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fd851a55b38bf90800000000000000
+      internalID: -6937729986999034083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_122
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 439
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d5ccbded513eaf0800000000000000
+      internalID: -368426697599722198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_123
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1db516b74e6714e0800000000000000
+      internalID: -2011017454321025764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_124
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 431
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07887ae0cfa9421d0800000000000000
+      internalID: -3376403413252732816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_125
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e649daf7f83f5fd0800000000000000
+      internalID: -2351097842747488537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_126
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5b3c1bad779d9e0800000000000000
+      internalID: -1596112811757160998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_127
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a1c6556a358d260800000000000000
+      internalID: 7122534784549264007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_128
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 439
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180ffeacdabc0060800000000000000
+      internalID: 6921112184353130512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_129
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1da164fce91c120800000000000000
+      internalID: 2432399886828360124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_130
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 439
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee8235ffbed322c0800000000000000
+      internalID: -4457474290132807965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_131
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d89bccd9a8c58490800000000000000
+      internalID: -7744563352314341162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_132
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 439
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61c5560b486e9e10800000000000000
+      internalID: 2206315538896241006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_133
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 439
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd478bdfd4cc6960800000000000000
+      internalID: 7596663137207012791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_134
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 439
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef870326de28ee00800000000000000
+      internalID: 1074160008373440489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_135
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 439
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a582bcb0fde8518c0800000000000000
+      internalID: -4029157202986325926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_136
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd0bda131d420d00800000000000000
+      internalID: 937396416896765376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_137
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 439
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f9936e315399af0800000000000000
+      internalID: -389221533207650525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_138
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 431
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88854caa2a8fa6550800000000000000
+      internalID: 6155005218288588936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_139
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab804b19b853e98c0800000000000000
+      internalID: -3990693346242459462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_140
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6551f3641a108590800000000000000
+      internalID: -7674105090160896662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_141
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 439
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ed72e959337ec00800000000000000
+      internalID: 929768565771853335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_142
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2e290037527380800000000000000
+      internalID: -8975015243571908796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_143
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 439
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d252ee724cd83bec0800000000000000
+      internalID: -3552339807442164435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_144
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 439
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c2b91b2f4994820800000000000000
+      internalID: 2903015204899728448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_145
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 439
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebcaf802526714a0800000000000000
+      internalID: -6622716622547530777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_146
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d430876f90fdad0800000000000000
+      internalID: -2675408699454698118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_147
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd09669fdeac0f200800000000000000
+      internalID: 211892305926721755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_148
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1ebe9f0d678160800000000000000
+      internalID: 7027705657390144583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_149
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 439
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f495342ef582001d0800000000000000
+      internalID: -3386662527499544241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_150
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a6e80943cea3370800000000000000
+      internalID: 8303208573518637683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_151
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 431
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35026196554afa50800000000000000
+      internalID: 6555628445699802431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_152
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 439
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733210abcc4f5ff0800000000000000
+      internalID: -45233033802796162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_153
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca5dad5f1079f20800000000000000
+      internalID: 3429211796715973703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_154
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 439
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdd56a7ee8982950800000000000000
+      internalID: 6424553018467147186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_155
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5e859259ed91f80800000000000000
+      internalID: -8135226519642905127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_156
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 439
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0a5fdc6bf7422f0800000000000000
+      internalID: -998532794253205317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_157
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2afc2571bc99a670800000000000000
+      internalID: 8550537653528623658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_158
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 439
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8ffe62325a2490800000000000000
+      internalID: -7770307830510285592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_159
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a510e79d4f5b1a350800000000000000
+      internalID: 6026297839623995738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_160
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 439
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d842f8e7b7a19e0800000000000000
+      internalID: -1649870529980232355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_161
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d4462ab905d6a0800000000000000
+      internalID: -6425218598263531929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_162
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 439
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f52442afc4cb730800000000000000
+      internalID: 4016169604941504260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_163
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 439
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b26160efd5648790800000000000000
+      internalID: -7528780664840035659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_164
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 439
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5073456e9466010800000000000000
+      internalID: 1181713205835531758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_165
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f090230829b03040800000000000000
+      internalID: 4625400398811795700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_166
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43588d4a72bcb060800000000000000
+      internalID: 6970642561619219279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_167
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 439
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42d41b275eb4dbe0800000000000000
+      internalID: -1453327498139610545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_168
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 439
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a16bc1832219800800000000000000
+      internalID: 617312248321677833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_169
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 431
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038eae34ed727b280800000000000000
+      internalID: -9027703092465178576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_170
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64c5c1ec762715d0800000000000000
+      internalID: -3091960301360921489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_171
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb908896c203010800000000000000
+      internalID: 1166481135254485936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_172
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 439
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed35edf9154ce120800000000000000
+      internalID: 2444404675691494888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_173
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e61142f0ea2d0d80800000000000000
+      internalID: -8282916994039081241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_174
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 439
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70e9b223332b950800000000000000
+      internalID: 6463284705803241398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7242c3ed74f55a0800000000000000
+      internalID: -6530421914846615595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 391
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5176b88b0e20a3e0800000000000000
+      internalID: -2044583603753029281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_177
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 391
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643051728dba31880800000000000000
+      internalID: -8641374315136875706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_178
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 391
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a713980543c98ad60800000000000000
+      internalID: 7901737294724936058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_179
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 391
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c7b2259b185c950800000000000000
+      internalID: 6468719072735099951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_180
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 391
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47ae323121dc59e0800000000000000
+      internalID: -1631199024507869361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79bb39f12d1d7b0800000000000000
+      internalID: -5201145061571848194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_182
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 391
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66696cc763a4f2a0800000000000000
+      internalID: -6704554279041407382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_183
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 391
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab90b28dca56c060800000000000000
+      internalID: 6973360911737199529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_184
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 383
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4ff7edfaee44ea0800000000000000
+      internalID: -5889319973574150944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_185
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 391
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd08f1b33413ce40800000000000000
+      internalID: 5675402167678668235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_186
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 391
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b220b878008326890800000000000000
+      internalID: -7466343657301671381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_187
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 391
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd565c657472e87c0800000000000000
+      internalID: -4067270226117040673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_188
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 391
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6334b1c1e522b490800000000000000
+      internalID: -7732075958694038674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_189
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 391
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca072acd3af6ad10800000000000000
+      internalID: 2136670216525384390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_190
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 391
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b20ba5ed8bc7c10800000000000000
+      internalID: 2052718795317848849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_191
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 391
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9b762afbb3c5090800000000000000
+      internalID: -8044489140141049433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_192
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 391
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2344bc41178471d00800000000000000
+      internalID: 943302297474778162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 340
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5506f3858de1b0800000000000000
+      internalID: -5625693557701124949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_194
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 197
+        width: 341
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba799dff982cd990800000000000000
+      internalID: -7359963023410627911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_195
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 197
+        width: 239
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a4546953fd64c0800000000000000
+      internalID: -4292507304553306447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Event)_Sale_Config_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4745
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82871ad8260f7c810800000000000000
+      internalID: 1785660083349321768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      (Event)_Sale_Config_0: 7587637803623977517
+      (Event)_Sale_Config_1: 4834340700456420107
+      (Event)_Sale_Config_10: -1776266188965173947
+      (Event)_Sale_Config_100: -209647578927683507
+      (Event)_Sale_Config_101: 6397546620238202496
+      (Event)_Sale_Config_102: -3608614669510259570
+      (Event)_Sale_Config_103: 3313339670229906472
+      (Event)_Sale_Config_104: -3818857953175712888
+      (Event)_Sale_Config_105: -6481209617548350305
+      (Event)_Sale_Config_106: -734727425701379904
+      (Event)_Sale_Config_107: 9052708481506802012
+      (Event)_Sale_Config_108: -2789549030086321401
+      (Event)_Sale_Config_109: 6151765799129207912
+      (Event)_Sale_Config_11: 3675462551506893258
+      (Event)_Sale_Config_110: 6138437434367923824
+      (Event)_Sale_Config_111: -4333366349855948984
+      (Event)_Sale_Config_112: -7636224778553686832
+      (Event)_Sale_Config_113: 1904185803910586079
+      (Event)_Sale_Config_114: -32869196865454470
+      (Event)_Sale_Config_115: -8971322007007945817
+      (Event)_Sale_Config_116: -2470950272304985310
+      (Event)_Sale_Config_117: -1656049052801937218
+      (Event)_Sale_Config_118: -7571863521560128449
+      (Event)_Sale_Config_119: 2303590750798850574
+      (Event)_Sale_Config_12: -9216514067903005398
+      (Event)_Sale_Config_120: 7647888639389480874
+      (Event)_Sale_Config_121: -6937729986999034083
+      (Event)_Sale_Config_122: -368426697599722198
+      (Event)_Sale_Config_123: -2011017454321025764
+      (Event)_Sale_Config_124: -3376403413252732816
+      (Event)_Sale_Config_125: -2351097842747488537
+      (Event)_Sale_Config_126: -1596112811757160998
+      (Event)_Sale_Config_127: 7122534784549264007
+      (Event)_Sale_Config_128: 6921112184353130512
+      (Event)_Sale_Config_129: 2432399886828360124
+      (Event)_Sale_Config_13: -7632153710891073712
+      (Event)_Sale_Config_130: -4457474290132807965
+      (Event)_Sale_Config_131: -7744563352314341162
+      (Event)_Sale_Config_132: 2206315538896241006
+      (Event)_Sale_Config_133: 7596663137207012791
+      (Event)_Sale_Config_134: 1074160008373440489
+      (Event)_Sale_Config_135: -4029157202986325926
+      (Event)_Sale_Config_136: 937396416896765376
+      (Event)_Sale_Config_137: -389221533207650525
+      (Event)_Sale_Config_138: 6155005218288588936
+      (Event)_Sale_Config_139: -3990693346242459462
+      (Event)_Sale_Config_14: -2328883031780919319
+      (Event)_Sale_Config_140: -7674105090160896662
+      (Event)_Sale_Config_141: 929768565771853335
+      (Event)_Sale_Config_142: -8975015243571908796
+      (Event)_Sale_Config_143: -3552339807442164435
+      (Event)_Sale_Config_144: 2903015204899728448
+      (Event)_Sale_Config_145: -6622716622547530777
+      (Event)_Sale_Config_146: -2675408699454698118
+      (Event)_Sale_Config_147: 211892305926721755
+      (Event)_Sale_Config_148: 7027705657390144583
+      (Event)_Sale_Config_149: -3386662527499544241
+      (Event)_Sale_Config_15: -7494279130162778873
+      (Event)_Sale_Config_150: 8303208573518637683
+      (Event)_Sale_Config_151: 6555628445699802431
+      (Event)_Sale_Config_152: -45233033802796162
+      (Event)_Sale_Config_153: 3429211796715973703
+      (Event)_Sale_Config_154: 6424553018467147186
+      (Event)_Sale_Config_155: -8135226519642905127
+      (Event)_Sale_Config_156: -998532794253205317
+      (Event)_Sale_Config_157: 8550537653528623658
+      (Event)_Sale_Config_158: -7770307830510285592
+      (Event)_Sale_Config_159: 6026297839623995738
+      (Event)_Sale_Config_16: 9171938144767927194
+      (Event)_Sale_Config_160: -1649870529980232355
+      (Event)_Sale_Config_161: -6425218598263531929
+      (Event)_Sale_Config_162: 4016169604941504260
+      (Event)_Sale_Config_163: -7528780664840035659
+      (Event)_Sale_Config_164: 1181713205835531758
+      (Event)_Sale_Config_165: 4625400398811795700
+      (Event)_Sale_Config_166: 6970642561619219279
+      (Event)_Sale_Config_167: -1453327498139610545
+      (Event)_Sale_Config_168: 617312248321677833
+      (Event)_Sale_Config_169: -9027703092465178576
+      (Event)_Sale_Config_17: 2273631232491257428
+      (Event)_Sale_Config_170: -3091960301360921489
+      (Event)_Sale_Config_171: 1166481135254485936
+      (Event)_Sale_Config_172: 2444404675691494888
+      (Event)_Sale_Config_173: -8282916994039081241
+      (Event)_Sale_Config_174: 6463284705803241398
+      (Event)_Sale_Config_175: -6530421914846615595
+      (Event)_Sale_Config_176: -2044583603753029281
+      (Event)_Sale_Config_177: -8641374315136875706
+      (Event)_Sale_Config_178: 7901737294724936058
+      (Event)_Sale_Config_179: 6468719072735099951
+      (Event)_Sale_Config_18: -4932837608914845549
+      (Event)_Sale_Config_180: -1631199024507869361
+      (Event)_Sale_Config_181: -5201145061571848194
+      (Event)_Sale_Config_182: -6704554279041407382
+      (Event)_Sale_Config_183: 6973360911737199529
+      (Event)_Sale_Config_184: -5889319973574150944
+      (Event)_Sale_Config_185: 5675402167678668235
+      (Event)_Sale_Config_186: -7466343657301671381
+      (Event)_Sale_Config_187: -4067270226117040673
+      (Event)_Sale_Config_188: -7732075958694038674
+      (Event)_Sale_Config_189: 2136670216525384390
+      (Event)_Sale_Config_19: -1242913523471496722
+      (Event)_Sale_Config_190: 2052718795317848849
+      (Event)_Sale_Config_191: -8044489140141049433
+      (Event)_Sale_Config_192: 943302297474778162
+      (Event)_Sale_Config_193: -5625693557701124949
+      (Event)_Sale_Config_194: -7359963023410627911
+      (Event)_Sale_Config_195: -4292507304553306447
+      (Event)_Sale_Config_196: 1785660083349321768
+      (Event)_Sale_Config_2: 4357268444404646438
+      (Event)_Sale_Config_20: -3948556691828238362
+      (Event)_Sale_Config_21: 2768745175819653526
+      (Event)_Sale_Config_22: 2514380903207483226
+      (Event)_Sale_Config_23: -1473162400891106461
+      (Event)_Sale_Config_24: 6281924950926455744
+      (Event)_Sale_Config_25: -5651754254733067172
+      (Event)_Sale_Config_26: 2044818228361142570
+      (Event)_Sale_Config_27: -1842133401750335326
+      (Event)_Sale_Config_28: -9202918177328335720
+      (Event)_Sale_Config_29: 7755864453399631399
+      (Event)_Sale_Config_3: 6747663408785866456
+      (Event)_Sale_Config_30: 8294946523918666006
+      (Event)_Sale_Config_31: 7613933715215092588
+      (Event)_Sale_Config_32: 8747602162917140477
+      (Event)_Sale_Config_33: 1024995244613631982
+      (Event)_Sale_Config_34: 3541745549734975789
+      (Event)_Sale_Config_35: -1579037762242627744
+      (Event)_Sale_Config_36: -5079469029291132650
+      (Event)_Sale_Config_37: 779926111425149134
+      (Event)_Sale_Config_38: 405037833560008202
+      (Event)_Sale_Config_39: 7724694650298131660
+      (Event)_Sale_Config_4: -748439093357544841
+      (Event)_Sale_Config_40: -6983164037758481577
+      (Event)_Sale_Config_41: -4602771311935900304
+      (Event)_Sale_Config_42: 569707779407728330
+      (Event)_Sale_Config_43: 5764599758469286764
+      (Event)_Sale_Config_44: 4519939012944050185
+      (Event)_Sale_Config_45: 8043791150259627869
+      (Event)_Sale_Config_46: -6773155651422527711
+      (Event)_Sale_Config_47: -4075512385983031670
+      (Event)_Sale_Config_48: 4183759144190621181
+      (Event)_Sale_Config_49: -8759098142138798422
+      (Event)_Sale_Config_5: -6595949219348177848
+      (Event)_Sale_Config_50: -7739060064698150059
+      (Event)_Sale_Config_51: 7026889556922107902
+      (Event)_Sale_Config_52: 1779773401701626449
+      (Event)_Sale_Config_53: -5196916405985924391
+      (Event)_Sale_Config_54: -4474606203662640880
+      (Event)_Sale_Config_55: -8736313839626588272
+      (Event)_Sale_Config_56: -9219307128341090035
+      (Event)_Sale_Config_57: 5411586926662666251
+      (Event)_Sale_Config_58: -8066134248895351497
+      (Event)_Sale_Config_59: 8890562058049942208
+      (Event)_Sale_Config_6: -3572751366252859433
+      (Event)_Sale_Config_60: -6681719812934878522
+      (Event)_Sale_Config_61: -3974592819113895011
+      (Event)_Sale_Config_62: -6009929108139824606
+      (Event)_Sale_Config_63: -5635692128373649899
+      (Event)_Sale_Config_64: -1334453457158866612
+      (Event)_Sale_Config_65: 2264338632255921150
+      (Event)_Sale_Config_66: -3230354552557552816
+      (Event)_Sale_Config_67: 7582464863217957811
+      (Event)_Sale_Config_68: 1846335819820748027
+      (Event)_Sale_Config_69: 4079843474002171135
+      (Event)_Sale_Config_7: 8626045317634011867
+      (Event)_Sale_Config_70: 7248814533155277236
+      (Event)_Sale_Config_71: -2900145473732103375
+      (Event)_Sale_Config_72: -4468572068765355264
+      (Event)_Sale_Config_73: 7919462245936517016
+      (Event)_Sale_Config_74: -3885110516136892318
+      (Event)_Sale_Config_75: 7755593119459913871
+      (Event)_Sale_Config_76: -8222174686920294758
+      (Event)_Sale_Config_77: 2270171915693667564
+      (Event)_Sale_Config_78: -1880812704554306472
+      (Event)_Sale_Config_79: -6438903415458384315
+      (Event)_Sale_Config_8: 5071254411773156933
+      (Event)_Sale_Config_80: -5754115358007299273
+      (Event)_Sale_Config_81: 6586940682632273121
+      (Event)_Sale_Config_82: -5108998252521232422
+      (Event)_Sale_Config_83: -403145943603395933
+      (Event)_Sale_Config_84: -3317905687185019675
+      (Event)_Sale_Config_85: -4758040937364762385
+      (Event)_Sale_Config_86: -2590559629407029653
+      (Event)_Sale_Config_87: 8076585147619826983
+      (Event)_Sale_Config_88: 9168606415395276235
+      (Event)_Sale_Config_89: 7150344340234463107
+      (Event)_Sale_Config_9: -3845860176720561125
+      (Event)_Sale_Config_90: 7936143618825379869
+      (Event)_Sale_Config_91: -4782405643764172257
+      (Event)_Sale_Config_92: -5686572861876164950
+      (Event)_Sale_Config_93: 4254947784084326901
+      (Event)_Sale_Config_94: 3153236016143283014
+      (Event)_Sale_Config_95: -8473541034005169269
+      (Event)_Sale_Config_96: -3624607830309333021
+      (Event)_Sale_Config_97: -8126259669206161297
+      (Event)_Sale_Config_98: 6598204432461999861
+      (Event)_Sale_Config_99: -2715544778904761046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

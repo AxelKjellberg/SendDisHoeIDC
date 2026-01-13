@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 1334d82c8deff4503baed9120df2b769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3985190666526929884
+    second: General_stats_0
+  - first:
+      213: -4292148430759301011
+    second: General_stats_1
+  - first:
+      213: -985264542095010452
+    second: General_stats_2
+  - first:
+      213: -6304558858454261247
+    second: General_stats_3
+  - first:
+      213: -7336809754599488300
+    second: General_stats_4
+  - first:
+      213: 4800139973497256966
+    second: General_stats_5
+  - first:
+      213: -3645809245881575196
+    second: General_stats_6
+  - first:
+      213: 441094414464655093
+    second: General_stats_7
+  - first:
+      213: -8404157916870312565
+    second: General_stats_8
+  - first:
+      213: 9208937965967487135
+    second: General_stats_9
+  - first:
+      213: -1277056712563718217
+    second: General_stats_10
+  - first:
+      213: -208201168354614896
+    second: General_stats_11
+  - first:
+      213: -7238803647304919723
+    second: General_stats_12
+  - first:
+      213: -6515770411560504720
+    second: General_stats_13
+  - first:
+      213: -9185012210719848670
+    second: General_stats_14
+  - first:
+      213: 8022517748940337865
+    second: General_stats_15
+  - first:
+      213: -8319359454962716355
+    second: General_stats_16
+  - first:
+      213: 7788347721278270232
+    second: General_stats_17
+  - first:
+      213: 6952661977382570880
+    second: General_stats_18
+  - first:
+      213: 5113520785546885639
+    second: General_stats_19
+  - first:
+      213: 5550592176434375847
+    second: General_stats_20
+  - first:
+      213: 2956561287399191717
+    second: General_stats_21
+  - first:
+      213: -3451521528189770320
+    second: General_stats_22
+  - first:
+      213: 4241415344120324948
+    second: General_stats_23
+  - first:
+      213: -4346741088142939054
+    second: General_stats_24
+  - first:
+      213: -2242020642786380665
+    second: General_stats_25
+  - first:
+      213: -6315693162062501869
+    second: General_stats_26
+  - first:
+      213: -8338670278572093501
+    second: General_stats_27
+  - first:
+      213: -6605703476268189923
+    second: General_stats_28
+  - first:
+      213: 4048517206060366956
+    second: General_stats_29
+  - first:
+      213: 769554725494137022
+    second: General_stats_30
+  - first:
+      213: -6427046546481163701
+    second: General_stats_31
+  - first:
+      213: -7836728262343957341
+    second: General_stats_32
+  - first:
+      213: -3750788500378733860
+    second: General_stats_33
+  - first:
+      213: 1452727418900071803
+    second: General_stats_34
+  - first:
+      213: 3944684549367974928
+    second: General_stats_35
+  - first:
+      213: 5390265232932225417
+    second: General_stats_36
+  - first:
+      213: 460643748419053107
+    second: General_stats_37
+  - first:
+      213: 6668667491742435212
+    second: General_stats_38
+  - first:
+      213: 5871227731514779802
+    second: General_stats_39
+  - first:
+      213: -7935019546705257053
+    second: General_stats_40
+  - first:
+      213: -934908110863368670
+    second: General_stats_41
+  - first:
+      213: -1249248876186650554
+    second: General_stats_42
+  - first:
+      213: 8646382813841885736
+    second: General_stats_43
+  - first:
+      213: 7964912900714528411
+    second: General_stats_44
+  - first:
+      213: -3208637097722527143
+    second: General_stats_45
+  - first:
+      213: 8230313834729895508
+    second: General_stats_46
+  - first:
+      213: -7074258323651881744
+    second: General_stats_47
+  - first:
+      213: -4208771281022292333
+    second: General_stats_48
+  - first:
+      213: 5664750658809627956
+    second: General_stats_49
+  - first:
+      213: 7405286854482067199
+    second: General_stats_50
+  - first:
+      213: -8975477708429326
+    second: General_stats_51
+  - first:
+      213: -5964986617086405016
+    second: General_stats_52
+  - first:
+      213: 657905341529553231
+    second: General_stats_53
+  - first:
+      213: 6937824262445333175
+    second: General_stats_54
+  - first:
+      213: 1145898302555694091
+    second: General_stats_55
+  - first:
+      213: -2301141404446360312
+    second: General_stats_56
+  - first:
+      213: 4653122926737133622
+    second: General_stats_57
+  - first:
+      213: 7617448338465671922
+    second: General_stats_58
+  - first:
+      213: -8829711234830181938
+    second: General_stats_59
+  - first:
+      213: -7648283535270640480
+    second: General_stats_60
+  - first:
+      213: 2373336985269211191
+    second: General_stats_61
+  - first:
+      213: 1201472129024735675
+    second: General_stats_62
+  - first:
+      213: 4033860793740037668
+    second: General_stats_63
+  - first:
+      213: -653174272730835253
+    second: General_stats_64
+  - first:
+      213: -136357342494213826
+    second: General_stats_65
+  - first:
+      213: 8274875287420821138
+    second: General_stats_66
+  - first:
+      213: 1129906966102712816
+    second: General_stats_67
+  - first:
+      213: 574444748931477402
+    second: General_stats_68
+  - first:
+      213: -5577793497316041249
+    second: General_stats_69
+  - first:
+      213: -7847906112989662698
+    second: General_stats_70
+  - first:
+      213: 3955309436172483808
+    second: General_stats_71
+  - first:
+      213: -3641264275752952460
+    second: General_stats_72
+  - first:
+      213: -6347030346996196470
+    second: General_stats_73
+  - first:
+      213: -2728079472889609030
+    second: General_stats_74
+  - first:
+      213: -1542742613964845004
+    second: General_stats_75
+  - first:
+      213: -1370827713190247514
+    second: General_stats_76
+  - first:
+      213: -6919408502922104808
+    second: General_stats_77
+  - first:
+      213: -5475593778490851140
+    second: General_stats_78
+  - first:
+      213: -2265025955048073195
+    second: General_stats_79
+  - first:
+      213: 7066606251060151214
+    second: General_stats_80
+  - first:
+      213: 8242623467506464472
+    second: General_stats_81
+  - first:
+      213: -1386184427938393800
+    second: General_stats_82
+  - first:
+      213: 753328523485573359
+    second: General_stats_83
+  - first:
+      213: -5679335605314501063
+    second: General_stats_84
+  - first:
+      213: 7648717684877065130
+    second: General_stats_85
+  - first:
+      213: 8015398569883038526
+    second: General_stats_86
+  - first:
+      213: 7386833454741879598
+    second: General_stats_87
+  - first:
+      213: 560875468178858964
+    second: General_stats_88
+  - first:
+      213: -1544834498397174600
+    second: General_stats_89
+  - first:
+      213: 7128480035092115212
+    second: General_stats_90
+  - first:
+      213: 3233137362612862321
+    second: General_stats_91
+  - first:
+      213: -3677961406629045203
+    second: General_stats_92
+  - first:
+      213: 555865707936993443
+    second: General_stats_93
+  - first:
+      213: -3141422243667326316
+    second: General_stats_94
+  - first:
+      213: -2915502254671596076
+    second: General_stats_95
+  - first:
+      213: 8317901934344651641
+    second: General_stats_96
+  - first:
+      213: 3068587782404465001
+    second: General_stats_97
+  - first:
+      213: -477095867729045038
+    second: General_stats_98
+  - first:
+      213: 4664189799530890299
+    second: General_stats_99
+  - first:
+      213: -7591240629116814404
+    second: General_stats_100
+  - first:
+      213: 8429337908138967242
+    second: General_stats_101
+  - first:
+      213: -8358080165782647841
+    second: General_stats_102
+  - first:
+      213: -3033953154016636978
+    second: General_stats_103
+  - first:
+      213: -2973319478071531571
+    second: General_stats_104
+  - first:
+      213: -3134947284014627279
+    second: General_stats_105
+  - first:
+      213: 8308258921026125898
+    second: General_stats_106
+  - first:
+      213: -7033438995053501908
+    second: General_stats_107
+  - first:
+      213: -6994520605653145626
+    second: General_stats_108
+  - first:
+      213: 1172028390093195994
+    second: General_stats_109
+  - first:
+      213: 6744649941937747549
+    second: General_stats_110
+  - first:
+      213: -7912147868301408531
+    second: General_stats_111
+  - first:
+      213: -5564098071822235882
+    second: General_stats_112
+  - first:
+      213: -4092220385078051835
+    second: General_stats_113
+  - first:
+      213: -3374413424591998937
+    second: General_stats_114
+  - first:
+      213: -429332438066250823
+    second: General_stats_115
+  - first:
+      213: -859223157243928743
+    second: General_stats_116
+  - first:
+      213: -6077339317561143278
+    second: General_stats_117
+  - first:
+      213: -1436155791962793522
+    second: General_stats_118
+  - first:
+      213: 6966220380798721020
+    second: General_stats_119
+  - first:
+      213: 7886511303649528266
+    second: General_stats_120
+  - first:
+      213: -8279367300233818116
+    second: General_stats_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General_stats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1061
+        height: 3132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd33a88fbcd3e4730800000000000000
+      internalID: 3985190666526929884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_1
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2871
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6077553eb93f64c0800000000000000
+      internalID: -4292148430759301011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_2
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2871
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6593ae7e13a352f0800000000000000
+      internalID: -985264542095010452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_3
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 2869
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102aa480f15b188a0800000000000000
+      internalID: -6304558858454261247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_4
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 2871
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d40a78766a6e2a90800000000000000
+      internalID: -7336809754599488300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_5
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 2855
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf478afd58d9240800000000000000
+      internalID: 4800139973497256966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_6
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 2871
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8d464aecb776dc0800000000000000
+      internalID: -3645809245881575196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_7
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2869
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe139e68051f1600800000000000000
+      internalID: 441094414464655093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_8
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2871
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d78a8d6ee6e5b80800000000000000
+      internalID: -8404157916870312565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_9
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 2869
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b91cf948bccf70800000000000000
+      internalID: 9208937965967487135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_10
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 2871
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b78c91afabf64ee0800000000000000
+      internalID: -1277056712563718217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_11
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2870
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e666f3225c1df0800000000000000
+      internalID: -208201168354614896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_12
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 2823
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55596938f6a9a8b90800000000000000
+      internalID: -7238803647304919723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_13
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 2823
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727fec25555395a0800000000000000
+      internalID: -6515770411560504720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_14
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2746
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270b620f08488080800000000000000
+      internalID: -9185012210719848670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_15
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2747
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2fad53365b55f60800000000000000
+      internalID: 8022517748940337865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_16
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2746
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31f82057a2bb8c80800000000000000
+      internalID: -8319359454962716355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_17
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2746
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ba302fcf4c51c60800000000000000
+      internalID: 7788347721278270232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_18
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 2740
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc04d4b31dc7060800000000000000
+      internalID: 6952661977382570880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_19
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 2747
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a3916df00e6f640800000000000000
+      internalID: 5113520785546885639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_20
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2746
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acee691d2aa70d40800000000000000
+      internalID: 5550592176434375847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_21
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 2747
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4b91c83d0d70920800000000000000
+      internalID: 2956561287399191717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_22
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2747
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5a2a1057bb910d0800000000000000
+      internalID: -3451521528189770320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_23
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 2746
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ee2398c88cda30800000000000000
+      internalID: 4241415344120324948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_24
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 2746
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c25a6a2064da3c0800000000000000
+      internalID: -4346741088142939054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_25
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2747
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ff97aa1eb2e0e0800000000000000
+      internalID: -2242020642786380665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_26
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 2784
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a6e4f7862a58a0800000000000000
+      internalID: -6315693162062501869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_27
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2747
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf4a92df87174c80800000000000000
+      internalID: -8338670278572093501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_28
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 2746
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17b875dfa3d354a0800000000000000
+      internalID: -6605703476268189923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_29
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2746
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cf84ee2f83f2830800000000000000
+      internalID: 4048517206060366956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_30
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 2784
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02d4012f10eaa00800000000000000
+      internalID: 769554725494137022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_31
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 2746
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d61ac73b8ec6a0800000000000000
+      internalID: -6427046546481163701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_32
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 2740
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a469b98a295e3390800000000000000
+      internalID: -7836728262343957341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_33
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2746
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd23e4f3bb582fbc0800000000000000
+      internalID: -3750788500378733860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_34
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2746
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75420ff3ef192410800000000000000
+      internalID: 1452727418900071803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_35
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2746
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ccc04a2b55eb630800000000000000
+      internalID: 3944684549367974928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_36
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814016aba11eca40800000000000000
+      internalID: 5390265232932225417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_37
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2747
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336a5807c09846600800000000000000
+      internalID: 460643748419053107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_38
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 2746
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87c08a60cddb8c50800000000000000
+      internalID: 6668667491742435212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_39
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a986c54c38aca7150800000000000000
+      internalID: 5871227731514779802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_40
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1ad883c521e190800000000000000
+      internalID: -7935019546705257053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_41
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2747
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e7b5ac60a8603f0800000000000000
+      internalID: -934908110863368670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_42
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b6d214c6c9aee0800000000000000
+      internalID: -1249248876186650554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_43
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a8613db5f1ef770800000000000000
+      internalID: 8646382813841885736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_44
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2747
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ef302551e098e60800000000000000
+      internalID: 7964912900714528411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_45
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 2747
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952cb194f81a873d0800000000000000
+      internalID: -3208637097722527143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_46
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2746
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456fe0d93d2f73270800000000000000
+      internalID: 8230313834729895508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_47
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 2746
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f41161298f23dd90800000000000000
+      internalID: -7074258323651881744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_48
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 2746
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eecc5a1d07795c0800000000000000
+      internalID: -4208771281022292333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_49
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435028706bc3d9e40800000000000000
+      internalID: 5664750658809627956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_50
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2747
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef545c82dd4c660800000000000000
+      internalID: 7405286854482067199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_51
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ef7fb9dc10eff0800000000000000
+      internalID: -8975477708429326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_52
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 2747
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8661b9e864c183da0800000000000000
+      internalID: -5964986617086405016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_53
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4973b12c69512900800000000000000
+      internalID: 657905341529553231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_54
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 2747
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf325986a184060800000000000000
+      internalID: 6937824262445333175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_55
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b042e885f6c07ef00800000000000000
+      internalID: 1145898302555694091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_56
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 2747
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df70aa514b010e0800000000000000
+      internalID: -2301141404446360312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_57
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 2747
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630946806a6339040800000000000000
+      internalID: 4653122926737133622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_58
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2733
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac225a7ec96b960800000000000000
+      internalID: 7617448338465671922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_59
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2746
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9dbaae960967580800000000000000
+      internalID: -8829711234830181938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_60
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 2746
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a489b2a5a6dbd590800000000000000
+      internalID: -7648283535270640480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_61
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1385
+        width: 3517
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309443e969cfe020800000000000000
+      internalID: 2373336985269211191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_62
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1199
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb93d02298c7ca010800000000000000
+      internalID: 1201472129024735675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_63
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1199
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e004405072bf730800000000000000
+      internalID: 4033860793740037668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_64
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc65479a5757fe6f0800000000000000
+      internalID: -653174272730835253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_65
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1199
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39bd1e28bf8b1ef0800000000000000
+      internalID: -136357342494213826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_66
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 1183
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e50635b3346d270800000000000000
+      internalID: 8274875287420821138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_67
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 1199
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1aacf266c3eaf00800000000000000
+      internalID: 1129906966102712816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_68
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f2623a476d8f700800000000000000
+      internalID: 574444748931477402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_69
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1199
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd5ef9dd52b792b0800000000000000
+      internalID: -5577793497316041249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_70
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 1197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61272a068f2a61390800000000000000
+      internalID: -7847906112989662698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_71
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 1199
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecbfcfd9f414e630800000000000000
+      internalID: 3955309436172483808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_72
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1198
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ddc66fe61a77dc0800000000000000
+      internalID: -3641264275752952460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_73
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 1151
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bdaa40781dae7a0800000000000000
+      internalID: -6347030346996196470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_74
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 1151
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab441636c2ae32ad0800000000000000
+      internalID: -2728079472889609030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_75
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1074
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43094c234c3179ae0800000000000000
+      internalID: -1542742613964845004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_76
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1075
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3c8033577d9fce0800000000000000
+      internalID: -1370827713190247514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_77
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1074
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b28f80a259ff90800000000000000
+      internalID: -6919408502922104808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_78
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1074
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0c6ba2878c204b0800000000000000
+      internalID: -5475593778490851140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_79
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1068
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518d15ef4e20190e0800000000000000
+      internalID: -2265025955048073195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_80
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1075
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3cef1e1f0a11260800000000000000
+      internalID: 7066606251060151214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_81
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1074
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d675065f5ea36270800000000000000
+      internalID: 8242623467506464472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_82
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1075
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831dd8b6b9843cce0800000000000000
+      internalID: -1386184427938393800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_83
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1075
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f6810d4c547a00800000000000000
+      internalID: 753328523485573359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_84
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1074
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936400d7b52fe21b0800000000000000
+      internalID: -5679335605314501063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_85
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1074
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab7852b534b52a60800000000000000
+      internalID: 7648717684877065130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_86
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1075
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337d0b288a6c3f60800000000000000
+      internalID: 8015398569883038526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_87
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7cd4d3ed438660800000000000000
+      internalID: 7386833454741879598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_88
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1075
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d328044441a8c700800000000000000
+      internalID: 560875468178858964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_89
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 1074
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b484466535af8ae0800000000000000
+      internalID: -1544834498397174600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_90
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1074
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2128d2d27de260800000000000000
+      internalID: 7128480035092115212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_91
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d35982d496edc20800000000000000
+      internalID: 3233137362612862321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_92
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 1074
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c974c569145fcc0800000000000000
+      internalID: -3677961406629045203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_93
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 1068
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d7609ae4d6b700800000000000000
+      internalID: 555865707936993443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_94
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1074
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ac2b40d1d6764d0800000000000000
+      internalID: -3141422243667326316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_95
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1074
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f278752e0a87d0800000000000000
+      internalID: -2915502254671596076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_96
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1074
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c5293dbf1f6370800000000000000
+      internalID: 8317901934344651641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_97
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961625c7450d59a20800000000000000
+      internalID: 3068587782404465001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_98
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1075
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9143806d30169f0800000000000000
+      internalID: -477095867729045038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_99
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 1074
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b340a0629e78ab040800000000000000
+      internalID: 4664189799530890299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_100
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbbaf03ede76a690800000000000000
+      internalID: -7591240629116814404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_101
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac08b5aba260bf470800000000000000
+      internalID: 8429337908138967242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_102
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1075
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb894a4f52220c80800000000000000
+      internalID: -8358080165782647841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_103
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf89a55eab35e5d0800000000000000
+      internalID: -3033953154016636978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_104
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7ebc120b5acb6d0800000000000000
+      internalID: -2973319478071531571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_105
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1075
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368bba0e0e6e74d0800000000000000
+      internalID: -3134947284014627279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_106
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 1075
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a408bb9387ddc4370800000000000000
+      internalID: 8308258921026125898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_107
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1074
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22a47eaf74346e90800000000000000
+      internalID: -7033438995053501908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_108
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1074
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7e4e551987eee90800000000000000
+      internalID: -6994520605653145626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_109
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1074
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8d227c91e34010800000000000000
+      internalID: 1172028390093195994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_110
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56fe83336fc99d50800000000000000
+      internalID: 6744649941937747549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_111
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 1075
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6c7832f67623290800000000000000
+      internalID: -7912147868301408531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_112
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6178995984a58c2b0800000000000000
+      internalID: -5564098071822235882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_113
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1075
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7fc4cd338537c0800000000000000
+      internalID: -4092220385078051835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_114
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72072e56edcab21d0800000000000000
+      internalID: -3374413424591998937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_115
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 1075
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb328a1c64ba0af0800000000000000
+      internalID: -429332438066250823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_116
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f9fa1471d6314f0800000000000000
+      internalID: -859223157243928743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_117
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 1075
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d04df614f8aba0800000000000000
+      internalID: -6077339317561143278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_118
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1075
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec910f19aefb11ce0800000000000000
+      internalID: -1436155791962793522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_119
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 1061
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1898178cfca060800000000000000
+      internalID: 6966220380798721020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_120
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1074
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac902230f34827d60800000000000000
+      internalID: 7886511303649528266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_stats_121
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1074
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff04907e47c91d80800000000000000
+      internalID: -8279367300233818116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      General_stats_0: 3985190666526929884
+      General_stats_1: -4292148430759301011
+      General_stats_10: -1277056712563718217
+      General_stats_100: -7591240629116814404
+      General_stats_101: 8429337908138967242
+      General_stats_102: -8358080165782647841
+      General_stats_103: -3033953154016636978
+      General_stats_104: -2973319478071531571
+      General_stats_105: -3134947284014627279
+      General_stats_106: 8308258921026125898
+      General_stats_107: -7033438995053501908
+      General_stats_108: -6994520605653145626
+      General_stats_109: 1172028390093195994
+      General_stats_11: -208201168354614896
+      General_stats_110: 6744649941937747549
+      General_stats_111: -7912147868301408531
+      General_stats_112: -5564098071822235882
+      General_stats_113: -4092220385078051835
+      General_stats_114: -3374413424591998937
+      General_stats_115: -429332438066250823
+      General_stats_116: -859223157243928743
+      General_stats_117: -6077339317561143278
+      General_stats_118: -1436155791962793522
+      General_stats_119: 6966220380798721020
+      General_stats_12: -7238803647304919723
+      General_stats_120: 7886511303649528266
+      General_stats_121: -8279367300233818116
+      General_stats_13: -6515770411560504720
+      General_stats_14: -9185012210719848670
+      General_stats_15: 8022517748940337865
+      General_stats_16: -8319359454962716355
+      General_stats_17: 7788347721278270232
+      General_stats_18: 6952661977382570880
+      General_stats_19: 5113520785546885639
+      General_stats_2: -985264542095010452
+      General_stats_20: 5550592176434375847
+      General_stats_21: 2956561287399191717
+      General_stats_22: -3451521528189770320
+      General_stats_23: 4241415344120324948
+      General_stats_24: -4346741088142939054
+      General_stats_25: -2242020642786380665
+      General_stats_26: -6315693162062501869
+      General_stats_27: -8338670278572093501
+      General_stats_28: -6605703476268189923
+      General_stats_29: 4048517206060366956
+      General_stats_3: -6304558858454261247
+      General_stats_30: 769554725494137022
+      General_stats_31: -6427046546481163701
+      General_stats_32: -7836728262343957341
+      General_stats_33: -3750788500378733860
+      General_stats_34: 1452727418900071803
+      General_stats_35: 3944684549367974928
+      General_stats_36: 5390265232932225417
+      General_stats_37: 460643748419053107
+      General_stats_38: 6668667491742435212
+      General_stats_39: 5871227731514779802
+      General_stats_4: -7336809754599488300
+      General_stats_40: -7935019546705257053
+      General_stats_41: -934908110863368670
+      General_stats_42: -1249248876186650554
+      General_stats_43: 8646382813841885736
+      General_stats_44: 7964912900714528411
+      General_stats_45: -3208637097722527143
+      General_stats_46: 8230313834729895508
+      General_stats_47: -7074258323651881744
+      General_stats_48: -4208771281022292333
+      General_stats_49: 5664750658809627956
+      General_stats_5: 4800139973497256966
+      General_stats_50: 7405286854482067199
+      General_stats_51: -8975477708429326
+      General_stats_52: -5964986617086405016
+      General_stats_53: 657905341529553231
+      General_stats_54: 6937824262445333175
+      General_stats_55: 1145898302555694091
+      General_stats_56: -2301141404446360312
+      General_stats_57: 4653122926737133622
+      General_stats_58: 7617448338465671922
+      General_stats_59: -8829711234830181938
+      General_stats_6: -3645809245881575196
+      General_stats_60: -7648283535270640480
+      General_stats_61: 2373336985269211191
+      General_stats_62: 1201472129024735675
+      General_stats_63: 4033860793740037668
+      General_stats_64: -653174272730835253
+      General_stats_65: -136357342494213826
+      General_stats_66: 8274875287420821138
+      General_stats_67: 1129906966102712816
+      General_stats_68: 574444748931477402
+      General_stats_69: -5577793497316041249
+      General_stats_7: 441094414464655093
+      General_stats_70: -7847906112989662698
+      General_stats_71: 3955309436172483808
+      General_stats_72: -3641264275752952460
+      General_stats_73: -6347030346996196470
+      General_stats_74: -2728079472889609030
+      General_stats_75: -1542742613964845004
+      General_stats_76: -1370827713190247514
+      General_stats_77: -6919408502922104808
+      General_stats_78: -5475593778490851140
+      General_stats_79: -2265025955048073195
+      General_stats_8: -8404157916870312565
+      General_stats_80: 7066606251060151214
+      General_stats_81: 8242623467506464472
+      General_stats_82: -1386184427938393800
+      General_stats_83: 753328523485573359
+      General_stats_84: -5679335605314501063
+      General_stats_85: 7648717684877065130
+      General_stats_86: 8015398569883038526
+      General_stats_87: 7386833454741879598
+      General_stats_88: 560875468178858964
+      General_stats_89: -1544834498397174600
+      General_stats_9: 9208937965967487135
+      General_stats_90: 7128480035092115212
+      General_stats_91: 3233137362612862321
+      General_stats_92: -3677961406629045203
+      General_stats_93: 555865707936993443
+      General_stats_94: -3141422243667326316
+      General_stats_95: -2915502254671596076
+      General_stats_96: 8317901934344651641
+      General_stats_97: 3068587782404465001
+      General_stats_98: -477095867729045038
+      General_stats_99: 4664189799530890299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

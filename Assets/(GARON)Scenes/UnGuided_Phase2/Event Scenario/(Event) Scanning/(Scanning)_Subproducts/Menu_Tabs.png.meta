@@ -1,0 +1,7124 @@
+fileFormatVersion: 2
+guid: b1b24b20d77254e7ca0c8040798c1cfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5298635853929381856
+    second: Menu_Tabs_0
+  - first:
+      213: -4261138890957244891
+    second: Menu_Tabs_1
+  - first:
+      213: 7047093807772200624
+    second: Menu_Tabs_2
+  - first:
+      213: 3032746381337442576
+    second: Menu_Tabs_3
+  - first:
+      213: 8107516727330057404
+    second: Menu_Tabs_4
+  - first:
+      213: 3305155868417071117
+    second: Menu_Tabs_5
+  - first:
+      213: 4896426063544741835
+    second: Menu_Tabs_6
+  - first:
+      213: 2934243652693804413
+    second: Menu_Tabs_7
+  - first:
+      213: 6062750169072897445
+    second: Menu_Tabs_8
+  - first:
+      213: 3329614195610194299
+    second: Menu_Tabs_9
+  - first:
+      213: 1930925103715152932
+    second: Menu_Tabs_10
+  - first:
+      213: -3034389356438307449
+    second: Menu_Tabs_11
+  - first:
+      213: -8493865184328483106
+    second: Menu_Tabs_12
+  - first:
+      213: 7025529102662825930
+    second: Menu_Tabs_13
+  - first:
+      213: 3228628842838154129
+    second: Menu_Tabs_14
+  - first:
+      213: 653244956013161392
+    second: Menu_Tabs_15
+  - first:
+      213: -3820568238737237668
+    second: Menu_Tabs_16
+  - first:
+      213: -6474244809444964080
+    second: Menu_Tabs_17
+  - first:
+      213: 2261922464066316290
+    second: Menu_Tabs_18
+  - first:
+      213: -1598941917378018911
+    second: Menu_Tabs_19
+  - first:
+      213: -4242221773823197458
+    second: Menu_Tabs_20
+  - first:
+      213: 2802520042822937063
+    second: Menu_Tabs_21
+  - first:
+      213: -7690357704225672850
+    second: Menu_Tabs_22
+  - first:
+      213: -4613596045456136533
+    second: Menu_Tabs_23
+  - first:
+      213: -3400373251798539192
+    second: Menu_Tabs_24
+  - first:
+      213: -6041228493703041772
+    second: Menu_Tabs_25
+  - first:
+      213: -6488364256437066669
+    second: Menu_Tabs_26
+  - first:
+      213: 1365003753262538396
+    second: Menu_Tabs_27
+  - first:
+      213: -6950209016666733023
+    second: Menu_Tabs_28
+  - first:
+      213: -640597309660830137
+    second: Menu_Tabs_29
+  - first:
+      213: 8811782924911999899
+    second: Menu_Tabs_30
+  - first:
+      213: 383490338078146841
+    second: Menu_Tabs_31
+  - first:
+      213: 8790827649138696252
+    second: Menu_Tabs_32
+  - first:
+      213: 9015372266674716320
+    second: Menu_Tabs_33
+  - first:
+      213: -519998515221123021
+    second: Menu_Tabs_34
+  - first:
+      213: -2890686234112292539
+    second: Menu_Tabs_35
+  - first:
+      213: -4038823133477349479
+    second: Menu_Tabs_36
+  - first:
+      213: 6364338526177377092
+    second: Menu_Tabs_37
+  - first:
+      213: -4651574164759204563
+    second: Menu_Tabs_38
+  - first:
+      213: 8592320082882551411
+    second: Menu_Tabs_39
+  - first:
+      213: 3402510282065257183
+    second: Menu_Tabs_40
+  - first:
+      213: 6325799415408081423
+    second: Menu_Tabs_41
+  - first:
+      213: 2237702111092902324
+    second: Menu_Tabs_42
+  - first:
+      213: 8613402119695138835
+    second: Menu_Tabs_43
+  - first:
+      213: -7184477282282593204
+    second: Menu_Tabs_44
+  - first:
+      213: -5048725905080620196
+    second: Menu_Tabs_45
+  - first:
+      213: -3019916064679157686
+    second: Menu_Tabs_46
+  - first:
+      213: -4155642541719626646
+    second: Menu_Tabs_47
+  - first:
+      213: 1913281262938672782
+    second: Menu_Tabs_48
+  - first:
+      213: -6393730064214573108
+    second: Menu_Tabs_49
+  - first:
+      213: -8409214929115642466
+    second: Menu_Tabs_50
+  - first:
+      213: 7418311642187761628
+    second: Menu_Tabs_51
+  - first:
+      213: 5088022166304371541
+    second: Menu_Tabs_52
+  - first:
+      213: 6828062304597785969
+    second: Menu_Tabs_53
+  - first:
+      213: 6435718769309378427
+    second: Menu_Tabs_54
+  - first:
+      213: 1023167123839838713
+    second: Menu_Tabs_55
+  - first:
+      213: -9031819951109028700
+    second: Menu_Tabs_56
+  - first:
+      213: -8434560026109291300
+    second: Menu_Tabs_57
+  - first:
+      213: -7050952175587331381
+    second: Menu_Tabs_58
+  - first:
+      213: -2947912439331087607
+    second: Menu_Tabs_59
+  - first:
+      213: -5324736103140818174
+    second: Menu_Tabs_60
+  - first:
+      213: 3977627693436856873
+    second: Menu_Tabs_61
+  - first:
+      213: -4890536799188389846
+    second: Menu_Tabs_62
+  - first:
+      213: -8627462805513444019
+    second: Menu_Tabs_63
+  - first:
+      213: 5633147116803604201
+    second: Menu_Tabs_64
+  - first:
+      213: 1158905719032933465
+    second: Menu_Tabs_65
+  - first:
+      213: 8173220712762549952
+    second: Menu_Tabs_66
+  - first:
+      213: -8645150388041683969
+    second: Menu_Tabs_67
+  - first:
+      213: 7506740708911615031
+    second: Menu_Tabs_68
+  - first:
+      213: 4934787418714714801
+    second: Menu_Tabs_69
+  - first:
+      213: -7908695942161560676
+    second: Menu_Tabs_70
+  - first:
+      213: 7763012974578847656
+    second: Menu_Tabs_71
+  - first:
+      213: -7388155951186499266
+    second: Menu_Tabs_72
+  - first:
+      213: 6095428805124294586
+    second: Menu_Tabs_73
+  - first:
+      213: -5868075103224073117
+    second: Menu_Tabs_74
+  - first:
+      213: 8149519470060624963
+    second: Menu_Tabs_75
+  - first:
+      213: -7149199108953484961
+    second: Menu_Tabs_76
+  - first:
+      213: 3062372896863555383
+    second: Menu_Tabs_77
+  - first:
+      213: -304755996035128512
+    second: Menu_Tabs_78
+  - first:
+      213: -8771001446254961436
+    second: Menu_Tabs_79
+  - first:
+      213: -6747347895642424089
+    second: Menu_Tabs_80
+  - first:
+      213: 5113330238682764003
+    second: Menu_Tabs_81
+  - first:
+      213: -4251593176850670560
+    second: Menu_Tabs_82
+  - first:
+      213: 1765238891752634964
+    second: Menu_Tabs_83
+  - first:
+      213: -4462704271572333399
+    second: Menu_Tabs_84
+  - first:
+      213: -4309602228311138823
+    second: Menu_Tabs_85
+  - first:
+      213: 8325820638551442619
+    second: Menu_Tabs_86
+  - first:
+      213: 7368395843872590049
+    second: Menu_Tabs_87
+  - first:
+      213: 1418660032308041108
+    second: Menu_Tabs_88
+  - first:
+      213: -6883387876317816847
+    second: Menu_Tabs_89
+  - first:
+      213: -7751097593770992367
+    second: Menu_Tabs_90
+  - first:
+      213: -3212118586700693540
+    second: Menu_Tabs_91
+  - first:
+      213: 2900032160771867610
+    second: Menu_Tabs_92
+  - first:
+      213: 3215275638393098993
+    second: Menu_Tabs_93
+  - first:
+      213: 4626016424912093735
+    second: Menu_Tabs_94
+  - first:
+      213: -7443491032495019551
+    second: Menu_Tabs_95
+  - first:
+      213: 9009527619379347002
+    second: Menu_Tabs_96
+  - first:
+      213: -3407734769983617715
+    second: Menu_Tabs_97
+  - first:
+      213: -4430403937995953557
+    second: Menu_Tabs_98
+  - first:
+      213: -1410753227882038948
+    second: Menu_Tabs_99
+  - first:
+      213: 9005801303663267952
+    second: Menu_Tabs_100
+  - first:
+      213: -6114597303497978630
+    second: Menu_Tabs_101
+  - first:
+      213: 6990284709224095424
+    second: Menu_Tabs_102
+  - first:
+      213: -935575027884509159
+    second: Menu_Tabs_103
+  - first:
+      213: 3146789448418983212
+    second: Menu_Tabs_104
+  - first:
+      213: -926160816087715417
+    second: Menu_Tabs_105
+  - first:
+      213: 6955326771730247275
+    second: Menu_Tabs_106
+  - first:
+      213: 3778766126501818573
+    second: Menu_Tabs_107
+  - first:
+      213: 2787459063000819736
+    second: Menu_Tabs_108
+  - first:
+      213: -8526866663391722561
+    second: Menu_Tabs_109
+  - first:
+      213: -1432183082954041048
+    second: Menu_Tabs_110
+  - first:
+      213: -2467046886778508598
+    second: Menu_Tabs_111
+  - first:
+      213: 6753881854315148891
+    second: Menu_Tabs_112
+  - first:
+      213: 1546118380812401865
+    second: Menu_Tabs_113
+  - first:
+      213: 9020878522680413925
+    second: Menu_Tabs_114
+  - first:
+      213: 598396263297001868
+    second: Menu_Tabs_115
+  - first:
+      213: 3093613086881723883
+    second: Menu_Tabs_116
+  - first:
+      213: -4887812226975978021
+    second: Menu_Tabs_117
+  - first:
+      213: 4358293409230646614
+    second: Menu_Tabs_118
+  - first:
+      213: -2865802281513228555
+    second: Menu_Tabs_119
+  - first:
+      213: -5408122526392324145
+    second: Menu_Tabs_120
+  - first:
+      213: 7116450646950212712
+    second: Menu_Tabs_121
+  - first:
+      213: -5207939094145323810
+    second: Menu_Tabs_122
+  - first:
+      213: 1727576003572823273
+    second: Menu_Tabs_123
+  - first:
+      213: -1033095011359934377
+    second: Menu_Tabs_124
+  - first:
+      213: 2546864915810813043
+    second: Menu_Tabs_125
+  - first:
+      213: 7893396074485917895
+    second: Menu_Tabs_126
+  - first:
+      213: -8052809494489250103
+    second: Menu_Tabs_127
+  - first:
+      213: 1286357093633248350
+    second: Menu_Tabs_128
+  - first:
+      213: -2435819463132396544
+    second: Menu_Tabs_129
+  - first:
+      213: 1826581451695422930
+    second: Menu_Tabs_130
+  - first:
+      213: 4308962875533327858
+    second: Menu_Tabs_131
+  - first:
+      213: -3221572452102427952
+    second: Menu_Tabs_132
+  - first:
+      213: 1365005738360823719
+    second: Menu_Tabs_133
+  - first:
+      213: -3375922433455521992
+    second: Menu_Tabs_134
+  - first:
+      213: 545920165245777779
+    second: Menu_Tabs_135
+  - first:
+      213: 2950990300110578989
+    second: Menu_Tabs_136
+  - first:
+      213: 2424261104731088911
+    second: Menu_Tabs_137
+  - first:
+      213: -8292500772381939955
+    second: Menu_Tabs_138
+  - first:
+      213: 446833601498772657
+    second: Menu_Tabs_139
+  - first:
+      213: 3481706891610505235
+    second: Menu_Tabs_140
+  - first:
+      213: -1216780149137548969
+    second: Menu_Tabs_141
+  - first:
+      213: -212492939045712714
+    second: Menu_Tabs_142
+  - first:
+      213: -2724964421947551775
+    second: Menu_Tabs_143
+  - first:
+      213: 6460254774206144412
+    second: Menu_Tabs_144
+  - first:
+      213: -9034648648083390665
+    second: Menu_Tabs_145
+  - first:
+      213: 7412830327476713745
+    second: Menu_Tabs_146
+  - first:
+      213: 269638800350564715
+    second: Menu_Tabs_147
+  - first:
+      213: -7453548054339932108
+    second: Menu_Tabs_148
+  - first:
+      213: 4698623071224620794
+    second: Menu_Tabs_149
+  - first:
+      213: 13243026790397770
+    second: Menu_Tabs_150
+  - first:
+      213: 6973211946723236991
+    second: Menu_Tabs_151
+  - first:
+      213: 9025477535202808207
+    second: Menu_Tabs_152
+  - first:
+      213: 5309572103633444947
+    second: Menu_Tabs_153
+  - first:
+      213: -3300650908483682797
+    second: Menu_Tabs_154
+  - first:
+      213: -1114472728328903800
+    second: Menu_Tabs_155
+  - first:
+      213: -7427052672822381946
+    second: Menu_Tabs_156
+  - first:
+      213: -6750141588249074225
+    second: Menu_Tabs_157
+  - first:
+      213: 6058655938353763058
+    second: Menu_Tabs_158
+  - first:
+      213: -3847757943170265750
+    second: Menu_Tabs_159
+  - first:
+      213: 6393626819034230488
+    second: Menu_Tabs_160
+  - first:
+      213: 1135882354222439585
+    second: Menu_Tabs_161
+  - first:
+      213: -4582033812647947644
+    second: Menu_Tabs_162
+  - first:
+      213: -87050279640116760
+    second: Menu_Tabs_163
+  - first:
+      213: -5549618039661043972
+    second: Menu_Tabs_164
+  - first:
+      213: -3457921740730056218
+    second: Menu_Tabs_165
+  - first:
+      213: 8530811731679919476
+    second: Menu_Tabs_166
+  - first:
+      213: 5370974862269853496
+    second: Menu_Tabs_167
+  - first:
+      213: 1694781323951969088
+    second: Menu_Tabs_168
+  - first:
+      213: 2539627754203058556
+    second: Menu_Tabs_169
+  - first:
+      213: 7441176999206072672
+    second: Menu_Tabs_170
+  - first:
+      213: -6570012568792681332
+    second: Menu_Tabs_171
+  - first:
+      213: -3498068974378794941
+    second: Menu_Tabs_172
+  - first:
+      213: -7123455700245732241
+    second: Menu_Tabs_173
+  - first:
+      213: 7051713378731041670
+    second: Menu_Tabs_174
+  - first:
+      213: -3180851361329271550
+    second: Menu_Tabs_175
+  - first:
+      213: -771932093538525612
+    second: Menu_Tabs_176
+  - first:
+      213: -2739449158435570852
+    second: Menu_Tabs_177
+  - first:
+      213: -1447206059800324152
+    second: Menu_Tabs_178
+  - first:
+      213: -7307889877435000631
+    second: Menu_Tabs_179
+  - first:
+      213: 9092116907308463084
+    second: Menu_Tabs_180
+  - first:
+      213: -8116509468697488102
+    second: Menu_Tabs_181
+  - first:
+      213: 2215341935235497387
+    second: Menu_Tabs_182
+  - first:
+      213: 4539299699139285680
+    second: Menu_Tabs_183
+  - first:
+      213: -6041108892484446573
+    second: Menu_Tabs_184
+  - first:
+      213: -499372260690805278
+    second: Menu_Tabs_185
+  - first:
+      213: 7079946951384162047
+    second: Menu_Tabs_186
+  - first:
+      213: 3888471190265038128
+    second: Menu_Tabs_187
+  - first:
+      213: -4486443401796063125
+    second: Menu_Tabs_188
+  - first:
+      213: -4127445833332485388
+    second: Menu_Tabs_189
+  - first:
+      213: 5051133273656302201
+    second: Menu_Tabs_190
+  - first:
+      213: 5486451105066373460
+    second: Menu_Tabs_191
+  - first:
+      213: 4557356931539641113
+    second: Menu_Tabs_192
+  - first:
+      213: -6511116480369413180
+    second: Menu_Tabs_193
+  - first:
+      213: -5222643672706493333
+    second: Menu_Tabs_194
+  - first:
+      213: 4693894308665360777
+    second: Menu_Tabs_195
+  - first:
+      213: -5962956373839148435
+    second: Menu_Tabs_196
+  - first:
+      213: -1074271146305889065
+    second: Menu_Tabs_197
+  - first:
+      213: -6188500633901917268
+    second: Menu_Tabs_198
+  - first:
+      213: -334956006424688968
+    second: Menu_Tabs_199
+  - first:
+      213: -3878043119039220183
+    second: Menu_Tabs_200
+  - first:
+      213: -8250566546310261316
+    second: Menu_Tabs_201
+  - first:
+      213: 1369058934983750602
+    second: Menu_Tabs_202
+  - first:
+      213: -7199014335720214620
+    second: Menu_Tabs_203
+  - first:
+      213: 6302167501609939104
+    second: Menu_Tabs_204
+  - first:
+      213: 2141439914790489160
+    second: Menu_Tabs_205
+  - first:
+      213: -5738264000144579804
+    second: Menu_Tabs_206
+  - first:
+      213: 950509074979811537
+    second: Menu_Tabs_207
+  - first:
+      213: -7911940450168668365
+    second: Menu_Tabs_208
+  - first:
+      213: 468991867828307655
+    second: Menu_Tabs_209
+  - first:
+      213: 7707699382148675127
+    second: Menu_Tabs_210
+  - first:
+      213: -3515913970452442627
+    second: Menu_Tabs_211
+  - first:
+      213: 8958946864820897408
+    second: Menu_Tabs_212
+  - first:
+      213: -2668070276933121497
+    second: Menu_Tabs_213
+  - first:
+      213: 1061959616708679210
+    second: Menu_Tabs_214
+  - first:
+      213: 1442451130335291513
+    second: Menu_Tabs_215
+  - first:
+      213: 1840728646305217151
+    second: Menu_Tabs_216
+  - first:
+      213: -3714699008901468632
+    second: Menu_Tabs_217
+  - first:
+      213: -6139456051230393087
+    second: Menu_Tabs_218
+  - first:
+      213: 5510941960629026563
+    second: Menu_Tabs_219
+  - first:
+      213: -589005950314551978
+    second: Menu_Tabs_220
+  - first:
+      213: 1788371344049531516
+    second: Menu_Tabs_221
+  - first:
+      213: 5440033419694376848
+    second: Menu_Tabs_222
+  - first:
+      213: 8215831267805482005
+    second: Menu_Tabs_223
+  - first:
+      213: -962560932191010202
+    second: Menu_Tabs_224
+  - first:
+      213: -5970898995091975395
+    second: Menu_Tabs_225
+  - first:
+      213: 9020793450838659064
+    second: Menu_Tabs_226
+  - first:
+      213: 3084114760974497386
+    second: Menu_Tabs_227
+  - first:
+      213: -6368054496982058444
+    second: Menu_Tabs_228
+  - first:
+      213: 8415688160341080235
+    second: Menu_Tabs_229
+  - first:
+      213: 8373696657707130165
+    second: Menu_Tabs_230
+  - first:
+      213: -7208605622614499748
+    second: Menu_Tabs_231
+  - first:
+      213: 8176281497057249516
+    second: Menu_Tabs_232
+  - first:
+      213: -685802788902141184
+    second: Menu_Tabs_233
+  - first:
+      213: -5958744568106171194
+    second: Menu_Tabs_234
+  - first:
+      213: -3318704996455793134
+    second: Menu_Tabs_235
+  - first:
+      213: -5899258206358299632
+    second: Menu_Tabs_236
+  - first:
+      213: 4824076818698978285
+    second: Menu_Tabs_237
+  - first:
+      213: 4011827408113883214
+    second: Menu_Tabs_238
+  - first:
+      213: 8342476295212291909
+    second: Menu_Tabs_239
+  - first:
+      213: 2108350886682958143
+    second: Menu_Tabs_240
+  - first:
+      213: 5882044424134364108
+    second: Menu_Tabs_241
+  - first:
+      213: 8364958956653405631
+    second: Menu_Tabs_242
+  - first:
+      213: -5582918761124101837
+    second: Menu_Tabs_243
+  - first:
+      213: 5092078929472311050
+    second: Menu_Tabs_244
+  - first:
+      213: -1986006401609195074
+    second: Menu_Tabs_245
+  - first:
+      213: -6908343825894631730
+    second: Menu_Tabs_246
+  - first:
+      213: 9053601247109777575
+    second: Menu_Tabs_247
+  - first:
+      213: 8255607321325300043
+    second: Menu_Tabs_248
+  - first:
+      213: 6088145348569500999
+    second: Menu_Tabs_249
+  - first:
+      213: 5090972609591493556
+    second: Menu_Tabs_250
+  - first:
+      213: -2559106702660036244
+    second: Menu_Tabs_251
+  - first:
+      213: 2902219911413162208
+    second: Menu_Tabs_252
+  - first:
+      213: -5196932501203644447
+    second: Menu_Tabs_253
+  - first:
+      213: 4728523777649804046
+    second: Menu_Tabs_254
+  - first:
+      213: 6453347552560150487
+    second: Menu_Tabs_255
+  - first:
+      213: 3820136758591614170
+    second: Menu_Tabs_256
+  - first:
+      213: 5973121119671576086
+    second: Menu_Tabs_257
+  - first:
+      213: 8243078624272743031
+    second: Menu_Tabs_258
+  - first:
+      213: -8280579308993982877
+    second: Menu_Tabs_259
+  - first:
+      213: 1481336898049293690
+    second: Menu_Tabs_260
+  - first:
+      213: -5618066238263140527
+    second: Menu_Tabs_261
+  - first:
+      213: -4049171012625220246
+    second: Menu_Tabs_262
+  - first:
+      213: 5509083195778220925
+    second: Menu_Tabs_263
+  - first:
+      213: 5418141420221274429
+    second: Menu_Tabs_264
+  - first:
+      213: -2475626634626751463
+    second: Menu_Tabs_265
+  - first:
+      213: 7615192416337136450
+    second: Menu_Tabs_266
+  - first:
+      213: 1330760719374778197
+    second: Menu_Tabs_267
+  - first:
+      213: 2317571278331539609
+    second: Menu_Tabs_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu_Tabs_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2798
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200464a3c67776b0800000000000000
+      internalID: -5298635853929381856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2809
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52634e151c46dd4c0800000000000000
+      internalID: -4261138890957244891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2808
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beed172b7e4cc160800000000000000
+      internalID: 7047093807772200624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2808
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019387104ca761a20800000000000000
+      internalID: 3032746381337442576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2809
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcab0f028fa38070800000000000000
+      internalID: 8107516727330057404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2808
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081c4830c54edd20800000000000000
+      internalID: 3305155868417071117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2808
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf6c8aff8993f340800000000000000
+      internalID: 4896426063544741835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2808
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75424b4e0788b820800000000000000
+      internalID: 2934243652693804413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2809
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad878d2827332450800000000000000
+      internalID: 6062750169072897445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2808
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b719178487a253e20800000000000000
+      internalID: 3329614195610194299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2662
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42473deb6260cca10800000000000000
+      internalID: 1930925103715152932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2672
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78db44b05fea3e5d0800000000000000
+      internalID: -3034389356438307449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2673
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edefa060e9abf1a80800000000000000
+      internalID: -8493865184328483106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2672
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7f26bfe71bf7160800000000000000
+      internalID: 7025529102662825930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2672
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bd2f893d46ecc20800000000000000
+      internalID: 3228628842838154129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2672
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbea7293dac01900800000000000000
+      internalID: 653244956013161392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2672
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c595de9dd6d9afac0800000000000000
+      internalID: -3820568238737237668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2670
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019cd18d5acd626a0800000000000000
+      internalID: -6474244809444964080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2507
+        width: 745
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20826243f76f36f10800000000000000
+      internalID: 2261922464066316290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2439
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a183363cca6fc9e0800000000000000
+      internalID: -1598941917378018911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2439
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee37d0e5c99025c0800000000000000
+      internalID: -4242221773823197458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2439
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9af5c612d84e620800000000000000
+      internalID: 2802520042822937063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2439
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61b0fbc96c564590800000000000000
+      internalID: -7690357704225672850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2439
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6a07d27d639ffb0800000000000000
+      internalID: -4613596045456136533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2439
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844eece1b827fc0d0800000000000000
+      internalID: -3400373251798539192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2439
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dacd951be392ca0800000000000000
+      internalID: -6041228493703041772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2439
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542ab9e513b4f5a0800000000000000
+      internalID: -6488364256437066669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2439
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed9467ea771f210800000000000000
+      internalID: 1365003753262538396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2439
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126ccde19b5eb8f90800000000000000
+      internalID: -6950209016666733023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2439
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746689114242c17f0800000000000000
+      internalID: -640597309660830137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2439
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7b3522edb94a70800000000000000
+      internalID: 8811782924911999899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2439
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91141ff3e6e625500800000000000000
+      internalID: 383490338078146841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2439
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30289ccb2b4ff970800000000000000
+      internalID: 8790827649138696252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2355
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aefd01af490d1d70800000000000000
+      internalID: 9015372266674716320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2355
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b3800b1898c8f0800000000000000
+      internalID: -519998515221123021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2355
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54900a28f2832e7d0800000000000000
+      internalID: -2890686234112292539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2355
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997d37a32c733f7c0800000000000000
+      internalID: -4038823133477349479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2355
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb22b7b2ca25850800000000000000
+      internalID: 6364338526177377092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2355
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da42731f9427fb0800000000000000
+      internalID: -4651574164759204563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2355
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e5ba0679d0e3770800000000000000
+      internalID: 8592320082882551411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2355
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22d130315283f20800000000000000
+      internalID: 3402510282065257183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2271
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ab5c38d01c9c750800000000000000
+      internalID: 6325799415408081423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2271
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b985d4d63aed0f10800000000000000
+      internalID: 2237702111092902324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2271
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31086049793f88770800000000000000
+      internalID: 8613402119695138835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_44
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2271
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44aeac0afb9b4c90800000000000000
+      internalID: -7184477282282593204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2271
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b6b53e9825fe9b0800000000000000
+      internalID: -5048725905080620196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2271
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ad41e65a1716d0800000000000000
+      internalID: -3019916064679157686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_47
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2271
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cdc4730213456c0800000000000000
+      internalID: -4155642541719626646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2264
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eced0fb275d8a10800000000000000
+      internalID: 1913281262938672782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2271
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf31ccc168e447a0800000000000000
+      internalID: -6393730064214573108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_50
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2271
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95862e63977c4b80800000000000000
+      internalID: -8409214929115642466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_51
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd70fb9722323f660800000000000000
+      internalID: 7418311642187761628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2271
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553b2e7e3394c9640800000000000000
+      internalID: 5088022166304371541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_53
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2271
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d39c94d7622ce50800000000000000
+      internalID: 6828062304597785969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2271
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77effe6f14405950800000000000000
+      internalID: 6435718769309378427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2271
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e4520415033e00800000000000000
+      internalID: 1023167123839838713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_56
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2187
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a44cda6b9788a280800000000000000
+      internalID: -9031819951109028700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4db0f285c62fa80800000000000000
+      internalID: -8434560026109291300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2187
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc279d59a5cf52e90800000000000000
+      internalID: -7050952175587331381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2187
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b17b05149e617d0800000000000000
+      internalID: -2947912439331087607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2187
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2030891d9bcba16b0800000000000000
+      internalID: -5324736103140818174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2187
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a6f04105f533730800000000000000
+      internalID: 3977627693436856873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2187
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20766b31b2512cb0800000000000000
+      internalID: -4890536799188389846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_63
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2103
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45e974e948154880800000000000000
+      internalID: -8627462805513444019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2103
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee38900575fc2e40800000000000000
+      internalID: 5633147116803604201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2103
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c602f7c92451010800000000000000
+      internalID: 1158905719032933465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2103
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6a3174fec1d6170800000000000000
+      internalID: 8173220712762549952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2103
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbe1faa681460880800000000000000
+      internalID: -8645150388041683969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2103
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c04aff6ec4d2860800000000000000
+      internalID: 7506740708911615031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_69
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2019
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2be8ef203eb7440800000000000000
+      internalID: 4934787418714714801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_70
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2019
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b03e251faae3290800000000000000
+      internalID: -7908695942161560676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2013
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af45809b23cbbb60800000000000000
+      internalID: 7763012974578847656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2019
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3927587e4ff77990800000000000000
+      internalID: -7388155951186499266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_73
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2019
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab70e1b0430579450800000000000000
+      internalID: 6095428805124294586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_74
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2019
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f305b8c8609ea0800000000000000
+      internalID: -5868075103224073117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2019
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cd71fa7c8e81170800000000000000
+      internalID: 8149519470060624963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_76
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2013
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d94ad941f8cc90800000000000000
+      internalID: -7149199108953484961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_77
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1936
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f065facebbf7a20800000000000000
+      internalID: 3062372896863555383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_78
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1936
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e729490a45cbf0800000000000000
+      internalID: -304755996035128512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1936
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1987c7a4274680800000000000000
+      internalID: -8771001446254961436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_80
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1936
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf04086da9c52a0800000000000000
+      internalID: -6747347895642424089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_81
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1936
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e213ffa2c236f640800000000000000
+      internalID: 5113330238682764003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1936
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c5754188e4ff4c0800000000000000
+      internalID: -4251593176850670560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1929
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45abe9e5b636f7810800000000000000
+      internalID: 1765238891752634964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1936
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac00530c1a4112c0800000000000000
+      internalID: -4462704271572333399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_85
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1930
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd584a4b973134c0800000000000000
+      internalID: -4309602228311138823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_86
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1852
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4897832c14b8370800000000000000
+      internalID: 8325820638551442619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1852
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e88d760bfcc14660800000000000000
+      internalID: 7368395843872590049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_88
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1852
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495d3c278c710b310800000000000000
+      internalID: 1418660032308041108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1852
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f798dc323b4970a0800000000000000
+      internalID: -6883387876317816847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1846
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d15e73ec19e6490800000000000000
+      internalID: -7751097593770992367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1768
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7647f9234c63d0800000000000000
+      internalID: -3212118586700693540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1768
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3040c92ebfe3820800000000000000
+      internalID: 2900032160771867610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1768
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f253696824fe9c20800000000000000
+      internalID: 3215275638393098993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_94
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1768
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7220204cd69e23040800000000000000
+      internalID: 4626016424912093735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1768
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9245fd75863b890800000000000000
+      internalID: -7443491032495019551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_96
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1786
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e3d23a2a5480d70800000000000000
+      internalID: 9009527619379347002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_97
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1768
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45016a184b45b0d0800000000000000
+      internalID: -3407734769983617715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1768
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a6248771b0482c0800000000000000
+      internalID: -4430403937995953557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_99
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1761
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59fa5ae96ffb6ce0800000000000000
+      internalID: -1410753227882038948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_100
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1765
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070599622980bfc70800000000000000
+      internalID: 9005801303663267952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1684
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc01742626942ba0800000000000000
+      internalID: -6114597303497978630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_102
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1684
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce952c28ea720160800000000000000
+      internalID: 6990284709224095424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_103
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1684
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918b732187b2403f0800000000000000
+      internalID: -935575027884509159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_104
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1684
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2df5f7b454abab20800000000000000
+      internalID: 3146789448418983212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_105
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1684
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1b43015ad9523f0800000000000000
+      internalID: -926160816087715417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_106
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1684
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eeeb519d8468060800000000000000
+      internalID: 6955326771730247275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_107
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc07b6375cfd07430800000000000000
+      internalID: 3778766126501818573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_108
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1677
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8186b1ccf3b0fa620800000000000000
+      internalID: 2787459063000819736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_109
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1684
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb38a6962fb7aa980800000000000000
+      internalID: -8526866663391722561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_110
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1678
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295337f21ddf1ce0800000000000000
+      internalID: -1432183082954041048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_111
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1684
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca655d6de943cdd0800000000000000
+      internalID: -2467046886778508598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_112
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1684
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56396d43cb9abd50800000000000000
+      internalID: 6753881854315148891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_113
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1684
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc7605c97ae47510800000000000000
+      internalID: 1546118380812401865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_114
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1684
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee0152c839903d70800000000000000
+      internalID: 9020878522680413925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_115
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1703
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892db42b3eed4800800000000000000
+      internalID: 598396263297001868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1684
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b51c36b8beea20800000000000000
+      internalID: 3093613086881723883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_117
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1684
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd29422da00b2cb0800000000000000
+      internalID: -4887812226975978021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_118
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1684
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d6e14b3c4cb7c30800000000000000
+      internalID: 4358293409230646614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1600
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f666e53200aa38d0800000000000000
+      internalID: -2865802281513228555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_120
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1600
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfe898373d72f4b0800000000000000
+      internalID: -5408122526392324145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_121
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1600
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f019a826b2c260800000000000000
+      internalID: 7116450646950212712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_122
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1594
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc29999cfea9b7b0800000000000000
+      internalID: -5207939094145323810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_123
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1600
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4727fd83599f710800000000000000
+      internalID: 1727576003572823273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_124
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1600
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758b9ac8f85b9a1f0800000000000000
+      internalID: -1033095011359934377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_125
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1600
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3740fc5a528485320800000000000000
+      internalID: 2546864915810813043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1600
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c82233a8e9fa8d60800000000000000
+      internalID: 7893396074485917895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_127
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1600
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6431d2e6cae3090800000000000000
+      internalID: -8052809494489250103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_128
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1597
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c405416fe0ad110800000000000000
+      internalID: 1286357093633248350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_129
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1600
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004c2039a1b323ed0800000000000000
+      internalID: -2435819463132396544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_130
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1600
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd7f951722595910800000000000000
+      internalID: 1826581451695422930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_131
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1600
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd728ac7e28ccb30800000000000000
+      internalID: 4308962875533327858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_132
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1600
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da20466cecaa43d0800000000000000
+      internalID: -3221572452102427952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_133
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1600
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afdd57ac7971f210800000000000000
+      internalID: 1365005738360823719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_134
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1600
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f7c94ee605621d0800000000000000
+      internalID: -3375922433455521992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_135
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1600
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37772357f7f739700800000000000000
+      internalID: 545920165245777779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_136
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1600
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25e6bdfa0604f820800000000000000
+      internalID: 2950990300110578989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_137
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1597
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ea4661a4b4a120800000000000000
+      internalID: 2424261104731088911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1516
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a58aab7e1bec80800000000000000
+      internalID: -8292500772381939955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_139
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1535
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4fa0b0bc8733600800000000000000
+      internalID: 446833601498772657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_140
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1516
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310497698f1815030800000000000000
+      internalID: 3481706891610505235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_141
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1516
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d8e0b6e02d1fe0800000000000000
+      internalID: -1216780149137548969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_142
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1516
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcc6ea3cc21d0df0800000000000000
+      internalID: -212492939045712714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_143
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1516
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef0d34bb4bfe2ad0800000000000000
+      internalID: -2724964421947551775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_144
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1516
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f141f3d7f67a950800000000000000
+      internalID: 6460254774206144412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_145
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1516
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fb6841cea7e9280800000000000000
+      internalID: -9034648648083390665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_146
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1516
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119fd7178e9afd660800000000000000
+      internalID: 7412830327476713745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_147
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1432
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61de807f03fdb300800000000000000
+      internalID: 269638800350564715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_148
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1432
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430b3c0098daf8890800000000000000
+      internalID: -7453548054339932108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_149
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1432
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af66cc5f9ccd43140800000000000000
+      internalID: 4698623071224620794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1432
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47b793767c0f2000800000000000000
+      internalID: 13243026790397770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_151
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1432
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cd2f3e153d5c060800000000000000
+      internalID: 6973211946723236991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1432
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81180ecfffe04d70800000000000000
+      internalID: 9025477535202808207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_153
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1432
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350256a62b36fa940800000000000000
+      internalID: 5309572103633444947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_154
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1432
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e72408c7bb132d0800000000000000
+      internalID: -3300650908483682797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_155
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1432
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883681455f89880f0800000000000000
+      internalID: -1114472728328903800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_156
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1432
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6827e4cb1fecde890800000000000000
+      internalID: -7427052672822381946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_157
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1432
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a2d04dfda252a0800000000000000
+      internalID: -6750141588249074225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_158
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1432
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f213edc97ba41450800000000000000
+      internalID: 6058655938353763058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_159
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1432
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d06a779840a9ac0800000000000000
+      internalID: -3847757943170265750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_160
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1432
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de22fe87b9bab850800000000000000
+      internalID: 6393626819034230488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_161
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1432
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac1016abf673cf00800000000000000
+      internalID: 1135882354222439585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_162
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1432
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825a4826885960c0800000000000000
+      internalID: -4582033812647947644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_163
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1348
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1d37c5b3cbacef0800000000000000
+      internalID: -87050279640116760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_164
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1348
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe57eacbcbcbf2b0800000000000000
+      internalID: -5549618039661043972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_165
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1348
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e14fa66f7ef200d0800000000000000
+      internalID: -3457921740730056218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_166
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1341
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d34806218836670800000000000000
+      internalID: 8530811731679919476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_167
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1348
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa52b3e29898a40800000000000000
+      internalID: 5370974862269853496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_168
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1348
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0439f1282a2158710800000000000000
+      internalID: 1694781323951969088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_169
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1348
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711ff6acf19e3320800000000000000
+      internalID: 2539627754203058556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_170
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613c744e0f544760800000000000000
+      internalID: 7441176999206072672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_171
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1348
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84b24bc060a2d4a0800000000000000
+      internalID: -6570012568792681332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_172
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1348
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34046562dcc547fc0800000000000000
+      internalID: -3498068974378794941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_173
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1348
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f642f9548c6642d90800000000000000
+      internalID: -7123455700245732241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_174
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1344
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6832225d4f7bcd160800000000000000
+      internalID: 7051713378731041670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_175
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1260
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20da6ac2a885bd3d0800000000000000
+      internalID: -3180851361329271550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_176
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1237
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e99edc9db8945f0800000000000000
+      internalID: -771932093538525612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_177
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1237
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b743f21858bf9d0800000000000000
+      internalID: -2739449158435570852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_178
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1237
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c71fc891cd7aebe0800000000000000
+      internalID: -1447206059800324152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_179
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1237
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c850d510e8259a90800000000000000
+      internalID: -7307889877435000631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_180
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1247
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b174b720bd2e70800000000000000
+      internalID: 9092116907308463084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_181
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1234
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15113e24ad5c5f80800000000000000
+      internalID: -8116509468697488102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_182
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1238
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badfcb1b0c97ebe10800000000000000
+      internalID: 2215341935235497387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_183
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1238
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b21c30b605defe30800000000000000
+      internalID: 4539299699139285680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_184
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1235
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d20e287ba92ca0800000000000000
+      internalID: -6041108892484446573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_185
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1093
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed37de139fd119f0800000000000000
+      internalID: -499372260690805278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_186
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1102
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffedcd9bd36014260800000000000000
+      internalID: 7079946951384162047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_187
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035861f02ff96f530800000000000000
+      internalID: 3888471190265038128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_188
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1094
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60fc0b0f73fcb1c0800000000000000
+      internalID: -4486443401796063125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_189
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f21d8af1ed58b6c0800000000000000
+      internalID: -4127445833332485388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_190
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1102
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a907943fa391640800000000000000
+      internalID: 5051133273656302201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_191
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1102
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451d70b263ac32c40800000000000000
+      internalID: 5486451105066373460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_192
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1101
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913a51bbbfbfe3f30800000000000000
+      internalID: 4557356931539641113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_193
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1099
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b368fe0ed3a5a0800000000000000
+      internalID: -6511116480369413180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_194
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6453eb10417587b0800000000000000
+      internalID: -5222643672706493333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_195
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 976
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9810a312100142140800000000000000
+      internalID: 4693894308665360777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_196
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 965
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a8a2665c25f3da0800000000000000
+      internalID: -5962956373839148435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_197
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 989
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc5cfb851c6711f0800000000000000
+      internalID: -1074271146305889065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_198
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 963
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab1ff726770e1aa0800000000000000
+      internalID: -6188500633901917268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_199
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 954
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b64cad694ff95bf0800000000000000
+      internalID: -334956006424688968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_200
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 954
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926f40a745c6e2ac0800000000000000
+      internalID: -3878043119039220183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_201
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 965
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb594738079108d80800000000000000
+      internalID: -8250566546310261316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_202
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 965
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3f74809dfdff210800000000000000
+      internalID: 1369058934983750602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_203
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 966
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afa37a8a96f71c90800000000000000
+      internalID: -7199014335720214620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_204
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 966
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0b870d3fbc57750800000000000000
+      internalID: 6302167501609939104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_205
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 966
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c0ee4b14ce7bd10800000000000000
+      internalID: 2141439914790489160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_206
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 958
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42368f36b479d50b0800000000000000
+      internalID: -5738264000144579804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_207
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 822
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f4f9b7f2e03d00800000000000000
+      internalID: 950509074979811537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_208
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 830
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff6af6414233290800000000000000
+      internalID: -7911940450168668365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_209
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c604747e91328600800000000000000
+      internalID: 468991867828307655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_210
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 830
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736387c30cf37fa60800000000000000
+      internalID: 7707699382148675127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_211
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 830
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1595a3fd6f43fc0800000000000000
+      internalID: -3515913970452442627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_212
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 828
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086cf3ff4b2945c70800000000000000
+      internalID: 8958946864820897408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_213
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 829
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a8f9b183c19fad0800000000000000
+      internalID: -2668070276933121497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_214
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 829
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a261bb715a6dcbe00800000000000000
+      internalID: 1061959616708679210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_215
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 830
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978ee7d19ad940410800000000000000
+      internalID: 1442451130335291513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_216
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 829
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a78e283f49b8910800000000000000
+      internalID: 1840728646305217151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_217
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 830
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eaee6ceecb27cc0800000000000000
+      internalID: -3714699008901468632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_218
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 829
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d3a48ef354ccaa0800000000000000
+      internalID: -6139456051230393087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_219
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 682
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f7615d38cca7c40800000000000000
+      internalID: 5510941960629026563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_220
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 694
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e8e8753e63d7f0800000000000000
+      internalID: -589005950314551978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_221
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 693
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6f80234291d810800000000000000
+      internalID: 1788371344049531516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_222
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 694
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097032b9291ee7b40800000000000000
+      internalID: 5440033419694376848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_223
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 693
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cc71c320f740270800000000000000
+      internalID: 8215831267805482005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_224
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 694
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662061a9eeb44a2f0800000000000000
+      internalID: -962560932191010202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_225
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 693
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d135ec7cffa132da0800000000000000
+      internalID: -5970898995091975395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_226
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 694
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff886d69db403d70800000000000000
+      internalID: 9020793450838659064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_227
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 694
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a667c66e80afcca20800000000000000
+      internalID: 3084114760974497386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_228
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 544
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a3e05ac2020a7a0800000000000000
+      internalID: -6368054496982058444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_229
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 558
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba837992bc78ac470800000000000000
+      internalID: 8415688160341080235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_230
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 557
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d52839eb8553470800000000000000
+      internalID: 8373696657707130165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_231
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 557
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5edd2a0163e5fb90800000000000000
+      internalID: -7208605622614499748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_232
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 557
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce842b7a3bcf77170800000000000000
+      internalID: 8176281497057249516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_233
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 557
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003048d3ff98b76f0800000000000000
+      internalID: -685802788902141184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_234
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 558
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44eb6d2694e4da0800000000000000
+      internalID: -5958744568106171194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_235
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 558
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e30f3936791f1d0800000000000000
+      internalID: -3318704996455793134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_236
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 557
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c94bbbaef912ea0800000000000000
+      internalID: -5899258206358299632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_237
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 407
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3cfbbbe4092f240800000000000000
+      internalID: 4824076818698978285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_238
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 422
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48ddc8a5cfdca730800000000000000
+      internalID: 4011827408113883214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_239
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 422
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547de3b7dfd66c370800000000000000
+      internalID: 8342476295212291909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_240
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 422
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f391e9ef5fd524d10800000000000000
+      internalID: 2108350886682958143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_241
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 422
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb88954d3831a150800000000000000
+      internalID: 5882044424134364108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_242
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 422
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb56c040add461470800000000000000
+      internalID: 8364958956653405631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_243
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 273
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331855167fc7582b0800000000000000
+      internalID: -5582918761124101837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_244
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 286
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fc27faec2baa640800000000000000
+      internalID: 5092078929472311050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_245
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 286
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ae6633b94074e0800000000000000
+      internalID: -1986006401609195074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_246
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6994f64e1a020a0800000000000000
+      internalID: -6908343825894631730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_247
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 284
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a80300cd5ad4ad70800000000000000
+      internalID: 9053601247109777575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_248
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 286
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4965b06e1fc19270800000000000000
+      internalID: 8255607321325300043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_249
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 286
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d8e6a20ff6d7450800000000000000
+      internalID: 6088145348569500999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_250
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 137
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3c1f38d94c6a640800000000000000
+      internalID: 5090972609591493556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_251
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 150
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6990ad330a3c7cd0800000000000000
+      internalID: -2559106702660036244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_252
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 150
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0e8dff1a1c64820800000000000000
+      internalID: 2902219911413162208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_253
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef0318bc69c0e7b0800000000000000
+      internalID: -5196932501203644447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_254
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 143
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e030ecea2571f9140800000000000000
+      internalID: 4728523777649804046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_255
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 150
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7fb726865ee8950800000000000000
+      internalID: 6453347552560150487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_256
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 150
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce349542ad30530800000000000000
+      internalID: 3820136758591614170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_257
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 150
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616686ae20ac4e250800000000000000
+      internalID: 5973121119671576086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_258
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 148
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a7467c55c456270800000000000000
+      internalID: 8243078624272743031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_259
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ec6f8adf8751d80800000000000000
+      internalID: -8280579308993982877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_260
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d38e07f04ce8410800000000000000
+      internalID: 1481336898049293690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_261
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd5b7a58e9802b0800000000000000
+      internalID: -5618066238263140527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_262
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d3aadda647ec7c0800000000000000
+      internalID: -4049171012625220246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_263
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d734f6a6af1347c40800000000000000
+      internalID: 5509083195778220925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_264
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399e174aea113b40800000000000000
+      internalID: 5418141420221274429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_265
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 14
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914a39631bec4add0800000000000000
+      internalID: -2475626634626751463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_266
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 14
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b0608d7299ea960800000000000000
+      internalID: 7615192416337136450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_267
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7067d2dfc77210800000000000000
+      internalID: 1330760719374778197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Tabs_268
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 14
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99079927ccaa92020800000000000000
+      internalID: 2317571278331539609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Menu_Tabs_0: -5298635853929381856
+      Menu_Tabs_1: -4261138890957244891
+      Menu_Tabs_10: 1930925103715152932
+      Menu_Tabs_100: 9005801303663267952
+      Menu_Tabs_101: -6114597303497978630
+      Menu_Tabs_102: 6990284709224095424
+      Menu_Tabs_103: -935575027884509159
+      Menu_Tabs_104: 3146789448418983212
+      Menu_Tabs_105: -926160816087715417
+      Menu_Tabs_106: 6955326771730247275
+      Menu_Tabs_107: 3778766126501818573
+      Menu_Tabs_108: 2787459063000819736
+      Menu_Tabs_109: -8526866663391722561
+      Menu_Tabs_11: -3034389356438307449
+      Menu_Tabs_110: -1432183082954041048
+      Menu_Tabs_111: -2467046886778508598
+      Menu_Tabs_112: 6753881854315148891
+      Menu_Tabs_113: 1546118380812401865
+      Menu_Tabs_114: 9020878522680413925
+      Menu_Tabs_115: 598396263297001868
+      Menu_Tabs_116: 3093613086881723883
+      Menu_Tabs_117: -4887812226975978021
+      Menu_Tabs_118: 4358293409230646614
+      Menu_Tabs_119: -2865802281513228555
+      Menu_Tabs_12: -8493865184328483106
+      Menu_Tabs_120: -5408122526392324145
+      Menu_Tabs_121: 7116450646950212712
+      Menu_Tabs_122: -5207939094145323810
+      Menu_Tabs_123: 1727576003572823273
+      Menu_Tabs_124: -1033095011359934377
+      Menu_Tabs_125: 2546864915810813043
+      Menu_Tabs_126: 7893396074485917895
+      Menu_Tabs_127: -8052809494489250103
+      Menu_Tabs_128: 1286357093633248350
+      Menu_Tabs_129: -2435819463132396544
+      Menu_Tabs_13: 7025529102662825930
+      Menu_Tabs_130: 1826581451695422930
+      Menu_Tabs_131: 4308962875533327858
+      Menu_Tabs_132: -3221572452102427952
+      Menu_Tabs_133: 1365005738360823719
+      Menu_Tabs_134: -3375922433455521992
+      Menu_Tabs_135: 545920165245777779
+      Menu_Tabs_136: 2950990300110578989
+      Menu_Tabs_137: 2424261104731088911
+      Menu_Tabs_138: -8292500772381939955
+      Menu_Tabs_139: 446833601498772657
+      Menu_Tabs_14: 3228628842838154129
+      Menu_Tabs_140: 3481706891610505235
+      Menu_Tabs_141: -1216780149137548969
+      Menu_Tabs_142: -212492939045712714
+      Menu_Tabs_143: -2724964421947551775
+      Menu_Tabs_144: 6460254774206144412
+      Menu_Tabs_145: -9034648648083390665
+      Menu_Tabs_146: 7412830327476713745
+      Menu_Tabs_147: 269638800350564715
+      Menu_Tabs_148: -7453548054339932108
+      Menu_Tabs_149: 4698623071224620794
+      Menu_Tabs_15: 653244956013161392
+      Menu_Tabs_150: 13243026790397770
+      Menu_Tabs_151: 6973211946723236991
+      Menu_Tabs_152: 9025477535202808207
+      Menu_Tabs_153: 5309572103633444947
+      Menu_Tabs_154: -3300650908483682797
+      Menu_Tabs_155: -1114472728328903800
+      Menu_Tabs_156: -7427052672822381946
+      Menu_Tabs_157: -6750141588249074225
+      Menu_Tabs_158: 6058655938353763058
+      Menu_Tabs_159: -3847757943170265750
+      Menu_Tabs_16: -3820568238737237668
+      Menu_Tabs_160: 6393626819034230488
+      Menu_Tabs_161: 1135882354222439585
+      Menu_Tabs_162: -4582033812647947644
+      Menu_Tabs_163: -87050279640116760
+      Menu_Tabs_164: -5549618039661043972
+      Menu_Tabs_165: -3457921740730056218
+      Menu_Tabs_166: 8530811731679919476
+      Menu_Tabs_167: 5370974862269853496
+      Menu_Tabs_168: 1694781323951969088
+      Menu_Tabs_169: 2539627754203058556
+      Menu_Tabs_17: -6474244809444964080
+      Menu_Tabs_170: 7441176999206072672
+      Menu_Tabs_171: -6570012568792681332
+      Menu_Tabs_172: -3498068974378794941
+      Menu_Tabs_173: -7123455700245732241
+      Menu_Tabs_174: 7051713378731041670
+      Menu_Tabs_175: -3180851361329271550
+      Menu_Tabs_176: -771932093538525612
+      Menu_Tabs_177: -2739449158435570852
+      Menu_Tabs_178: -1447206059800324152
+      Menu_Tabs_179: -7307889877435000631
+      Menu_Tabs_18: 2261922464066316290
+      Menu_Tabs_180: 9092116907308463084
+      Menu_Tabs_181: -8116509468697488102
+      Menu_Tabs_182: 2215341935235497387
+      Menu_Tabs_183: 4539299699139285680
+      Menu_Tabs_184: -6041108892484446573
+      Menu_Tabs_185: -499372260690805278
+      Menu_Tabs_186: 7079946951384162047
+      Menu_Tabs_187: 3888471190265038128
+      Menu_Tabs_188: -4486443401796063125
+      Menu_Tabs_189: -4127445833332485388
+      Menu_Tabs_19: -1598941917378018911
+      Menu_Tabs_190: 5051133273656302201
+      Menu_Tabs_191: 5486451105066373460
+      Menu_Tabs_192: 4557356931539641113
+      Menu_Tabs_193: -6511116480369413180
+      Menu_Tabs_194: -5222643672706493333
+      Menu_Tabs_195: 4693894308665360777
+      Menu_Tabs_196: -5962956373839148435
+      Menu_Tabs_197: -1074271146305889065
+      Menu_Tabs_198: -6188500633901917268
+      Menu_Tabs_199: -334956006424688968
+      Menu_Tabs_2: 7047093807772200624
+      Menu_Tabs_20: -4242221773823197458
+      Menu_Tabs_200: -3878043119039220183
+      Menu_Tabs_201: -8250566546310261316
+      Menu_Tabs_202: 1369058934983750602
+      Menu_Tabs_203: -7199014335720214620
+      Menu_Tabs_204: 6302167501609939104
+      Menu_Tabs_205: 2141439914790489160
+      Menu_Tabs_206: -5738264000144579804
+      Menu_Tabs_207: 950509074979811537
+      Menu_Tabs_208: -7911940450168668365
+      Menu_Tabs_209: 468991867828307655
+      Menu_Tabs_21: 2802520042822937063
+      Menu_Tabs_210: 7707699382148675127
+      Menu_Tabs_211: -3515913970452442627
+      Menu_Tabs_212: 8958946864820897408
+      Menu_Tabs_213: -2668070276933121497
+      Menu_Tabs_214: 1061959616708679210
+      Menu_Tabs_215: 1442451130335291513
+      Menu_Tabs_216: 1840728646305217151
+      Menu_Tabs_217: -3714699008901468632
+      Menu_Tabs_218: -6139456051230393087
+      Menu_Tabs_219: 5510941960629026563
+      Menu_Tabs_22: -7690357704225672850
+      Menu_Tabs_220: -589005950314551978
+      Menu_Tabs_221: 1788371344049531516
+      Menu_Tabs_222: 5440033419694376848
+      Menu_Tabs_223: 8215831267805482005
+      Menu_Tabs_224: -962560932191010202
+      Menu_Tabs_225: -5970898995091975395
+      Menu_Tabs_226: 9020793450838659064
+      Menu_Tabs_227: 3084114760974497386
+      Menu_Tabs_228: -6368054496982058444
+      Menu_Tabs_229: 8415688160341080235
+      Menu_Tabs_23: -4613596045456136533
+      Menu_Tabs_230: 8373696657707130165
+      Menu_Tabs_231: -7208605622614499748
+      Menu_Tabs_232: 8176281497057249516
+      Menu_Tabs_233: -685802788902141184
+      Menu_Tabs_234: -5958744568106171194
+      Menu_Tabs_235: -3318704996455793134
+      Menu_Tabs_236: -5899258206358299632
+      Menu_Tabs_237: 4824076818698978285
+      Menu_Tabs_238: 4011827408113883214
+      Menu_Tabs_239: 8342476295212291909
+      Menu_Tabs_24: -3400373251798539192
+      Menu_Tabs_240: 2108350886682958143
+      Menu_Tabs_241: 5882044424134364108
+      Menu_Tabs_242: 8364958956653405631
+      Menu_Tabs_243: -5582918761124101837
+      Menu_Tabs_244: 5092078929472311050
+      Menu_Tabs_245: -1986006401609195074
+      Menu_Tabs_246: -6908343825894631730
+      Menu_Tabs_247: 9053601247109777575
+      Menu_Tabs_248: 8255607321325300043
+      Menu_Tabs_249: 6088145348569500999
+      Menu_Tabs_25: -6041228493703041772
+      Menu_Tabs_250: 5090972609591493556
+      Menu_Tabs_251: -2559106702660036244
+      Menu_Tabs_252: 2902219911413162208
+      Menu_Tabs_253: -5196932501203644447
+      Menu_Tabs_254: 4728523777649804046
+      Menu_Tabs_255: 6453347552560150487
+      Menu_Tabs_256: 3820136758591614170
+      Menu_Tabs_257: 5973121119671576086
+      Menu_Tabs_258: 8243078624272743031
+      Menu_Tabs_259: -8280579308993982877
+      Menu_Tabs_26: -6488364256437066669
+      Menu_Tabs_260: 1481336898049293690
+      Menu_Tabs_261: -5618066238263140527
+      Menu_Tabs_262: -4049171012625220246
+      Menu_Tabs_263: 5509083195778220925
+      Menu_Tabs_264: 5418141420221274429
+      Menu_Tabs_265: -2475626634626751463
+      Menu_Tabs_266: 7615192416337136450
+      Menu_Tabs_267: 1330760719374778197
+      Menu_Tabs_268: 2317571278331539609
+      Menu_Tabs_27: 1365003753262538396
+      Menu_Tabs_28: -6950209016666733023
+      Menu_Tabs_29: -640597309660830137
+      Menu_Tabs_3: 3032746381337442576
+      Menu_Tabs_30: 8811782924911999899
+      Menu_Tabs_31: 383490338078146841
+      Menu_Tabs_32: 8790827649138696252
+      Menu_Tabs_33: 9015372266674716320
+      Menu_Tabs_34: -519998515221123021
+      Menu_Tabs_35: -2890686234112292539
+      Menu_Tabs_36: -4038823133477349479
+      Menu_Tabs_37: 6364338526177377092
+      Menu_Tabs_38: -4651574164759204563
+      Menu_Tabs_39: 8592320082882551411
+      Menu_Tabs_4: 8107516727330057404
+      Menu_Tabs_40: 3402510282065257183
+      Menu_Tabs_41: 6325799415408081423
+      Menu_Tabs_42: 2237702111092902324
+      Menu_Tabs_43: 8613402119695138835
+      Menu_Tabs_44: -7184477282282593204
+      Menu_Tabs_45: -5048725905080620196
+      Menu_Tabs_46: -3019916064679157686
+      Menu_Tabs_47: -4155642541719626646
+      Menu_Tabs_48: 1913281262938672782
+      Menu_Tabs_49: -6393730064214573108
+      Menu_Tabs_5: 3305155868417071117
+      Menu_Tabs_50: -8409214929115642466
+      Menu_Tabs_51: 7418311642187761628
+      Menu_Tabs_52: 5088022166304371541
+      Menu_Tabs_53: 6828062304597785969
+      Menu_Tabs_54: 6435718769309378427
+      Menu_Tabs_55: 1023167123839838713
+      Menu_Tabs_56: -9031819951109028700
+      Menu_Tabs_57: -8434560026109291300
+      Menu_Tabs_58: -7050952175587331381
+      Menu_Tabs_59: -2947912439331087607
+      Menu_Tabs_6: 4896426063544741835
+      Menu_Tabs_60: -5324736103140818174
+      Menu_Tabs_61: 3977627693436856873
+      Menu_Tabs_62: -4890536799188389846
+      Menu_Tabs_63: -8627462805513444019
+      Menu_Tabs_64: 5633147116803604201
+      Menu_Tabs_65: 1158905719032933465
+      Menu_Tabs_66: 8173220712762549952
+      Menu_Tabs_67: -8645150388041683969
+      Menu_Tabs_68: 7506740708911615031
+      Menu_Tabs_69: 4934787418714714801
+      Menu_Tabs_7: 2934243652693804413
+      Menu_Tabs_70: -7908695942161560676
+      Menu_Tabs_71: 7763012974578847656
+      Menu_Tabs_72: -7388155951186499266
+      Menu_Tabs_73: 6095428805124294586
+      Menu_Tabs_74: -5868075103224073117
+      Menu_Tabs_75: 8149519470060624963
+      Menu_Tabs_76: -7149199108953484961
+      Menu_Tabs_77: 3062372896863555383
+      Menu_Tabs_78: -304755996035128512
+      Menu_Tabs_79: -8771001446254961436
+      Menu_Tabs_8: 6062750169072897445
+      Menu_Tabs_80: -6747347895642424089
+      Menu_Tabs_81: 5113330238682764003
+      Menu_Tabs_82: -4251593176850670560
+      Menu_Tabs_83: 1765238891752634964
+      Menu_Tabs_84: -4462704271572333399
+      Menu_Tabs_85: -4309602228311138823
+      Menu_Tabs_86: 8325820638551442619
+      Menu_Tabs_87: 7368395843872590049
+      Menu_Tabs_88: 1418660032308041108
+      Menu_Tabs_89: -6883387876317816847
+      Menu_Tabs_9: 3329614195610194299
+      Menu_Tabs_90: -7751097593770992367
+      Menu_Tabs_91: -3212118586700693540
+      Menu_Tabs_92: 2900032160771867610
+      Menu_Tabs_93: 3215275638393098993
+      Menu_Tabs_94: 4626016424912093735
+      Menu_Tabs_95: -7443491032495019551
+      Menu_Tabs_96: 9009527619379347002
+      Menu_Tabs_97: -3407734769983617715
+      Menu_Tabs_98: -4430403937995953557
+      Menu_Tabs_99: -1410753227882038948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

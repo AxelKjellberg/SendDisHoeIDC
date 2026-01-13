@@ -1,0 +1,4940 @@
+fileFormatVersion: 2
+guid: ae13f9328375b49ffae9bf0405f97119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5735306849413929404
+    second: Settings_Dashboard_0
+  - first:
+      213: -4406328712025335231
+    second: Settings_Dashboard_1
+  - first:
+      213: 5365664338695211352
+    second: Settings_Dashboard_2
+  - first:
+      213: -9154282470975747366
+    second: Settings_Dashboard_3
+  - first:
+      213: 68550169908773131
+    second: Settings_Dashboard_4
+  - first:
+      213: -6432579960118912376
+    second: Settings_Dashboard_5
+  - first:
+      213: 6975915115476032214
+    second: Settings_Dashboard_6
+  - first:
+      213: 526262102710784608
+    second: Settings_Dashboard_7
+  - first:
+      213: 4239254452174267480
+    second: Settings_Dashboard_8
+  - first:
+      213: -3664836004830279374
+    second: Settings_Dashboard_9
+  - first:
+      213: 42716601707158764
+    second: Settings_Dashboard_10
+  - first:
+      213: -5957900076566526165
+    second: Settings_Dashboard_11
+  - first:
+      213: 2890949976026823621
+    second: Settings_Dashboard_12
+  - first:
+      213: -7451000159530666102
+    second: Settings_Dashboard_13
+  - first:
+      213: 8049022553090408076
+    second: Settings_Dashboard_14
+  - first:
+      213: -5630355219414426171
+    second: Settings_Dashboard_15
+  - first:
+      213: -6874072968011215652
+    second: Settings_Dashboard_16
+  - first:
+      213: -1001563346213940074
+    second: Settings_Dashboard_17
+  - first:
+      213: 1860824462868783188
+    second: Settings_Dashboard_18
+  - first:
+      213: 8396145074597394791
+    second: Settings_Dashboard_19
+  - first:
+      213: -5510752607919886413
+    second: Settings_Dashboard_20
+  - first:
+      213: -7854839100933870163
+    second: Settings_Dashboard_21
+  - first:
+      213: 500704600144361740
+    second: Settings_Dashboard_22
+  - first:
+      213: 3536311053331096079
+    second: Settings_Dashboard_23
+  - first:
+      213: 3077383117040772154
+    second: Settings_Dashboard_24
+  - first:
+      213: -9156468120105071591
+    second: Settings_Dashboard_25
+  - first:
+      213: -4189967167596932538
+    second: Settings_Dashboard_26
+  - first:
+      213: 2258600777777143635
+    second: Settings_Dashboard_27
+  - first:
+      213: 2204066153015933616
+    second: Settings_Dashboard_28
+  - first:
+      213: 1968486249035781569
+    second: Settings_Dashboard_29
+  - first:
+      213: -3509298044287868697
+    second: Settings_Dashboard_30
+  - first:
+      213: -5131617243457171805
+    second: Settings_Dashboard_31
+  - first:
+      213: 9103486436063725768
+    second: Settings_Dashboard_32
+  - first:
+      213: -8186463582794196529
+    second: Settings_Dashboard_33
+  - first:
+      213: 3816006233691584294
+    second: Settings_Dashboard_34
+  - first:
+      213: -8200093176916620539
+    second: Settings_Dashboard_35
+  - first:
+      213: 7997854767608779354
+    second: Settings_Dashboard_36
+  - first:
+      213: 2433536184405064448
+    second: Settings_Dashboard_37
+  - first:
+      213: 8323317031586109037
+    second: Settings_Dashboard_38
+  - first:
+      213: 1172841561678237736
+    second: Settings_Dashboard_39
+  - first:
+      213: -301201077430241835
+    second: Settings_Dashboard_40
+  - first:
+      213: 3106532190661969708
+    second: Settings_Dashboard_41
+  - first:
+      213: 5839389906302096335
+    second: Settings_Dashboard_42
+  - first:
+      213: 1668203046622859586
+    second: Settings_Dashboard_43
+  - first:
+      213: 8490421860460497030
+    second: Settings_Dashboard_44
+  - first:
+      213: 3701974791622788500
+    second: Settings_Dashboard_45
+  - first:
+      213: 8246687105175369916
+    second: Settings_Dashboard_46
+  - first:
+      213: 7488066022589033827
+    second: Settings_Dashboard_47
+  - first:
+      213: -2135984516230526807
+    second: Settings_Dashboard_48
+  - first:
+      213: -1189207164402421927
+    second: Settings_Dashboard_49
+  - first:
+      213: 875703017282100881
+    second: Settings_Dashboard_50
+  - first:
+      213: -6407152142354671546
+    second: Settings_Dashboard_51
+  - first:
+      213: 6651910518285739214
+    second: Settings_Dashboard_52
+  - first:
+      213: -1178826433047618175
+    second: Settings_Dashboard_53
+  - first:
+      213: -2880389634932863786
+    second: Settings_Dashboard_54
+  - first:
+      213: 9167927376809855434
+    second: Settings_Dashboard_55
+  - first:
+      213: 7726146976177994685
+    second: Settings_Dashboard_56
+  - first:
+      213: 5157357168522458940
+    second: Settings_Dashboard_57
+  - first:
+      213: -2527820071541933080
+    second: Settings_Dashboard_58
+  - first:
+      213: 6311349224415821934
+    second: Settings_Dashboard_59
+  - first:
+      213: -2347305516256673906
+    second: Settings_Dashboard_60
+  - first:
+      213: -7986198730732690566
+    second: Settings_Dashboard_61
+  - first:
+      213: -5676479181754196417
+    second: Settings_Dashboard_62
+  - first:
+      213: 7532726970391704959
+    second: Settings_Dashboard_63
+  - first:
+      213: -3022500562123996901
+    second: Settings_Dashboard_64
+  - first:
+      213: 5712585743645379912
+    second: Settings_Dashboard_65
+  - first:
+      213: 2862083685900804941
+    second: Settings_Dashboard_66
+  - first:
+      213: 271065962555223899
+    second: Settings_Dashboard_67
+  - first:
+      213: 1661375574435661273
+    second: Settings_Dashboard_68
+  - first:
+      213: -2651502673722031949
+    second: Settings_Dashboard_69
+  - first:
+      213: -1217512132371082942
+    second: Settings_Dashboard_70
+  - first:
+      213: 7389931733980838561
+    second: Settings_Dashboard_71
+  - first:
+      213: -823649666246330850
+    second: Settings_Dashboard_72
+  - first:
+      213: 1747852254414281819
+    second: Settings_Dashboard_73
+  - first:
+      213: -1049266777896881050
+    second: Settings_Dashboard_74
+  - first:
+      213: -6228729345464728405
+    second: Settings_Dashboard_75
+  - first:
+      213: -8261481934460232587
+    second: Settings_Dashboard_76
+  - first:
+      213: -7573792745484537558
+    second: Settings_Dashboard_77
+  - first:
+      213: 9096967120059109569
+    second: Settings_Dashboard_78
+  - first:
+      213: -7015376773719428060
+    second: Settings_Dashboard_79
+  - first:
+      213: 8208378239947561888
+    second: Settings_Dashboard_80
+  - first:
+      213: -8869710606455932079
+    second: Settings_Dashboard_81
+  - first:
+      213: -3356873365810940923
+    second: Settings_Dashboard_82
+  - first:
+      213: 7062008970821436444
+    second: Settings_Dashboard_83
+  - first:
+      213: 8368234477070444810
+    second: Settings_Dashboard_84
+  - first:
+      213: -1565848890332206541
+    second: Settings_Dashboard_85
+  - first:
+      213: 4326029513544607866
+    second: Settings_Dashboard_86
+  - first:
+      213: 3581448323741378115
+    second: Settings_Dashboard_87
+  - first:
+      213: 5537866618766932144
+    second: Settings_Dashboard_88
+  - first:
+      213: 6622701241427249593
+    second: Settings_Dashboard_89
+  - first:
+      213: -207466770144127320
+    second: Settings_Dashboard_90
+  - first:
+      213: -8944702316834486930
+    second: Settings_Dashboard_91
+  - first:
+      213: 3873916844885962403
+    second: Settings_Dashboard_92
+  - first:
+      213: 601176318518580334
+    second: Settings_Dashboard_93
+  - first:
+      213: 1765783941485910037
+    second: Settings_Dashboard_94
+  - first:
+      213: -7268333512742347970
+    second: Settings_Dashboard_95
+  - first:
+      213: 8334393631448869880
+    second: Settings_Dashboard_96
+  - first:
+      213: 2047256916682490252
+    second: Settings_Dashboard_97
+  - first:
+      213: 691368563571002878
+    second: Settings_Dashboard_98
+  - first:
+      213: -4326656028088335642
+    second: Settings_Dashboard_99
+  - first:
+      213: -7152287276939536911
+    second: Settings_Dashboard_100
+  - first:
+      213: 5896101214056532097
+    second: Settings_Dashboard_101
+  - first:
+      213: -7418643734603292080
+    second: Settings_Dashboard_102
+  - first:
+      213: 3776664467352205054
+    second: Settings_Dashboard_103
+  - first:
+      213: 5478004216152321088
+    second: Settings_Dashboard_104
+  - first:
+      213: 9132413848360233826
+    second: Settings_Dashboard_105
+  - first:
+      213: -1158334627762352087
+    second: Settings_Dashboard_106
+  - first:
+      213: 7158612017456768127
+    second: Settings_Dashboard_107
+  - first:
+      213: 1381507670570579612
+    second: Settings_Dashboard_108
+  - first:
+      213: -2260087482706601558
+    second: Settings_Dashboard_109
+  - first:
+      213: 4094100624521924771
+    second: Settings_Dashboard_110
+  - first:
+      213: -2887527582857555649
+    second: Settings_Dashboard_111
+  - first:
+      213: 5408865039408299071
+    second: Settings_Dashboard_112
+  - first:
+      213: 3919467896476854409
+    second: Settings_Dashboard_113
+  - first:
+      213: -3023460500884778797
+    second: Settings_Dashboard_114
+  - first:
+      213: -6652256511561219725
+    second: Settings_Dashboard_115
+  - first:
+      213: 4754625006028980171
+    second: Settings_Dashboard_116
+  - first:
+      213: 3862206744979885617
+    second: Settings_Dashboard_117
+  - first:
+      213: -1526472637887173845
+    second: Settings_Dashboard_118
+  - first:
+      213: -2277340343811453467
+    second: Settings_Dashboard_119
+  - first:
+      213: 914987917551842929
+    second: Settings_Dashboard_120
+  - first:
+      213: -3893165972877548004
+    second: Settings_Dashboard_121
+  - first:
+      213: -2214674017692056569
+    second: Settings_Dashboard_122
+  - first:
+      213: 6265487650461500056
+    second: Settings_Dashboard_123
+  - first:
+      213: 538723436457413025
+    second: Settings_Dashboard_124
+  - first:
+      213: 190365125198119169
+    second: Settings_Dashboard_125
+  - first:
+      213: 393939445866291350
+    second: Settings_Dashboard_126
+  - first:
+      213: -356022121567410887
+    second: Settings_Dashboard_127
+  - first:
+      213: -6179001985081313249
+    second: Settings_Dashboard_128
+  - first:
+      213: 5873659090632192561
+    second: Settings_Dashboard_129
+  - first:
+      213: -5174974254155198398
+    second: Settings_Dashboard_130
+  - first:
+      213: -2968905718352400221
+    second: Settings_Dashboard_131
+  - first:
+      213: 6474464822456060206
+    second: Settings_Dashboard_132
+  - first:
+      213: -8021733454503722311
+    second: Settings_Dashboard_133
+  - first:
+      213: -8308794949648677751
+    second: Settings_Dashboard_134
+  - first:
+      213: 1970262106771371819
+    second: Settings_Dashboard_135
+  - first:
+      213: 4032471670705306235
+    second: Settings_Dashboard_136
+  - first:
+      213: -3243755111410602900
+    second: Settings_Dashboard_137
+  - first:
+      213: -6641727705031107723
+    second: Settings_Dashboard_138
+  - first:
+      213: 1018822086211857984
+    second: Settings_Dashboard_139
+  - first:
+      213: 3855452046263405424
+    second: Settings_Dashboard_140
+  - first:
+      213: -6993819836794220720
+    second: Settings_Dashboard_141
+  - first:
+      213: 6147128502342412051
+    second: Settings_Dashboard_142
+  - first:
+      213: 2163671742321751938
+    second: Settings_Dashboard_143
+  - first:
+      213: -5749354223297952855
+    second: Settings_Dashboard_144
+  - first:
+      213: -6027147329124827283
+    second: Settings_Dashboard_145
+  - first:
+      213: -8413940038945090337
+    second: Settings_Dashboard_146
+  - first:
+      213: -5087802905718236275
+    second: Settings_Dashboard_147
+  - first:
+      213: 529766412524415360
+    second: Settings_Dashboard_148
+  - first:
+      213: -8398364922548364345
+    second: Settings_Dashboard_149
+  - first:
+      213: -7721006884288647314
+    second: Settings_Dashboard_150
+  - first:
+      213: 2616901067787101366
+    second: Settings_Dashboard_151
+  - first:
+      213: -4948438263601471186
+    second: Settings_Dashboard_152
+  - first:
+      213: -2598854687959233479
+    second: Settings_Dashboard_153
+  - first:
+      213: -6357679598458921494
+    second: Settings_Dashboard_154
+  - first:
+      213: 873507106778531372
+    second: Settings_Dashboard_155
+  - first:
+      213: 5165536301998646529
+    second: Settings_Dashboard_156
+  - first:
+      213: 2183994354193650806
+    second: Settings_Dashboard_157
+  - first:
+      213: -5452482087154434240
+    second: Settings_Dashboard_158
+  - first:
+      213: 5085063027035918229
+    second: Settings_Dashboard_159
+  - first:
+      213: -5376131812183154873
+    second: Settings_Dashboard_160
+  - first:
+      213: 5373475670760663394
+    second: Settings_Dashboard_161
+  - first:
+      213: -6771210612748462046
+    second: Settings_Dashboard_162
+  - first:
+      213: -3398037022314296337
+    second: Settings_Dashboard_163
+  - first:
+      213: 2027794773900062575
+    second: Settings_Dashboard_164
+  - first:
+      213: -9042435831530209335
+    second: Settings_Dashboard_165
+  - first:
+      213: 2035883037531975801
+    second: Settings_Dashboard_166
+  - first:
+      213: 1611453363968205167
+    second: Settings_Dashboard_167
+  - first:
+      213: 7011478301605574514
+    second: Settings_Dashboard_168
+  - first:
+      213: -147296153213729947
+    second: Settings_Dashboard_169
+  - first:
+      213: -5899224979908975544
+    second: Settings_Dashboard_170
+  - first:
+      213: -3824712301292630745
+    second: Settings_Dashboard_171
+  - first:
+      213: -2394697052276806969
+    second: Settings_Dashboard_172
+  - first:
+      213: 3400543961548309051
+    second: Settings_Dashboard_173
+  - first:
+      213: -5406408692709383263
+    second: Settings_Dashboard_174
+  - first:
+      213: 8343692752490659283
+    second: Settings_Dashboard_175
+  - first:
+      213: -6321925720539496989
+    second: Settings_Dashboard_176
+  - first:
+      213: 8847962826182047678
+    second: Settings_Dashboard_177
+  - first:
+      213: 3403870557499942534
+    second: Settings_Dashboard_178
+  - first:
+      213: 7689496030780897410
+    second: Settings_Dashboard_179
+  - first:
+      213: 3038786975544541901
+    second: Settings_Dashboard_180
+  - first:
+      213: -6088160829257913219
+    second: Settings_Dashboard_181
+  - first:
+      213: 2249866352307761995
+    second: Settings_Dashboard_182
+  - first:
+      213: 8605783705809229473
+    second: Settings_Dashboard_183
+  - first:
+      213: -1647066006605901539
+    second: Settings_Dashboard_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Settings_Dashboard_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2903
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44661d2bec81860b0800000000000000
+      internalID: -5735306849413929404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2915
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1024d16399d2c0800000000000000
+      internalID: -4406328712025335231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2915
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859c8eb994ba67a40800000000000000
+      internalID: 5365664338695211352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2913
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adac7e7189475f080800000000000000
+      internalID: -9154282470975747366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2915
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0184be240a83f000800000000000000
+      internalID: 68550169908773131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2914
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad0d78b92eab6a0800000000000000
+      internalID: -6432579960118912376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2915
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da1a3966dd6fc060800000000000000
+      internalID: 6975915115476032214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2913
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06293da1898ad4700800000000000000
+      internalID: 526262102710784608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2915
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542756b67bd4da30800000000000000
+      internalID: 4239254452174267480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2913
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239870c1213e32dc0800000000000000
+      internalID: -3664836004830279374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_10
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2903
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec54ced582c79000800000000000000
+      internalID: 42716601707158764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_11
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2913
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27caf85279415da0800000000000000
+      internalID: -5957900076566526165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2891
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbb080bfa7be1820800000000000000
+      internalID: 2890949976026823621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_13
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2913
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87bbcdf4dab89890800000000000000
+      internalID: -7451000159530666102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_14
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2913
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ebf02dd5fd3bf60800000000000000
+      internalID: 8049022553090408076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_15
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2891
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd598342c5fcd1b0800000000000000
+      internalID: -5630355219414426171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_16
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2913
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc83955e036a90a0800000000000000
+      internalID: -6874072968011215652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_17
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2913
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694ddd0717bb912f0800000000000000
+      internalID: -1001563346213940074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_18
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2913
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a6aa6df9f2d910800000000000000
+      internalID: 1860824462868783188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_19
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2913
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769f50ee579158470800000000000000
+      internalID: 8396145074597394791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_20
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2913
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfa0e743bfd583b0800000000000000
+      internalID: -5510752607919886413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_21
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2915
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadecf454710ef290800000000000000
+      internalID: -7854839100933870163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_22
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 2964
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0932055e2cd2f600800000000000000
+      internalID: 500704600144361740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_23
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2930
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f026615ba20831130800000000000000
+      internalID: 3536311053331096079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2819
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34eff8e3af05ba20800000000000000
+      internalID: 3077383117040772154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2819
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc2fff1c0bde080800000000000000
+      internalID: -9156468120105071591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2820
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d5da7f0f3ad5c0800000000000000
+      internalID: -4189967167596932538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2819
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fd3d8d079285f10800000000000000
+      internalID: 2258600777777143635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2820
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf9ff0d7a669e10800000000000000
+      internalID: 2204066153015933616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2819
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5d40360d7715b10800000000000000
+      internalID: 1968486249035781569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2819
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0af3395087c4fc0800000000000000
+      internalID: -3509298044287868697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2808
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae47783e45d8c8b0800000000000000
+      internalID: -5131617243457171805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c84a276ea4165e70800000000000000
+      internalID: 9103486436063725768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2820
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc951e4ceb6d36e80800000000000000
+      internalID: -8186463582794196529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2820
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627fcd3937d25f430800000000000000
+      internalID: 3816006233691584294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2819
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc7c893ba633e80800000000000000
+      internalID: -8200093176916620539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2820
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a525c7469861efe60800000000000000
+      internalID: 7997854767608779354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2820
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf58b2448a5c120800000000000000
+      internalID: 2433536184405064448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_38
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2819
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6616accdbc528370800000000000000
+      internalID: 8323317031586109037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2820
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82055a5bf25c64010800000000000000
+      internalID: 1172841561678237736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2819
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53ec5473be1dbf0800000000000000
+      internalID: -301201077430241835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_41
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2709bb719e9c1b20800000000000000
+      internalID: 3106532190661969708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_42
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3532e6e2ea90150800000000000000
+      internalID: 5839389906302096335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_43
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2839
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411e2715d5a62710800000000000000
+      internalID: 1668203046622859586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_44
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68885f9a2b904d570800000000000000
+      internalID: 8490421860460497030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_45
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4958026857e006330800000000000000
+      internalID: 3701974791622788500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_46
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2819
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8b5c5ba3e127270800000000000000
+      internalID: 8246687105175369916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_47
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2820
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d6713cf54fae760800000000000000
+      internalID: 7488066022589033827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2820
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8485046657b52e0800000000000000
+      internalID: -2135984516230526807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_49
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2827
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fa17972661f7fe0800000000000000
+      internalID: -1189207164402421927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e56d9214f172c00800000000000000
+      internalID: 875703017282100881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_51
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2820
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481115b2193517a0800000000000000
+      internalID: -6407152142354671546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_52
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2839
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42b108f55505c50800000000000000
+      internalID: 6651910518285739214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_53
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d1b56da97f3afe0800000000000000
+      internalID: -1178826433047618175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_54
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc0c1353ecc608d0800000000000000
+      internalID: -2880389634932863786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2811
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9845d10650b3f70800000000000000
+      internalID: 9167927376809855434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_56
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2819
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb3c8d6db9c83b60800000000000000
+      internalID: 7726146976177994685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_57
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2819
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c377899150d929740800000000000000
+      internalID: 5157357168522458940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2733
+        width: 104
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebf3a3b9016becd0800000000000000
+      internalID: -2527820071541933080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2678
+        width: 4746
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e600ebe3eaa669750800000000000000
+      internalID: 6311349224415821934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2741
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fb43cc112bc6fd0800000000000000
+      internalID: -2347305516256673906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2733
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73a00d21925b2190800000000000000
+      internalID: -7986198730732690566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_62
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2733
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e14ac62481931b0800000000000000
+      internalID: -5676479181754196417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2735
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75b33cf44f998860800000000000000
+      internalID: 7532726970391704959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_64
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2740
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b114e2da0cbed06d0800000000000000
+      internalID: -3022500562123996901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2741
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d81fe977e274f40800000000000000
+      internalID: 5712585743645379912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_66
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2741
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ee87c2f928b720800000000000000
+      internalID: 2862083685900804941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_67
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2741
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fadc88e0503c300800000000000000
+      internalID: 271065962555223899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2733
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d58fb858446e0710800000000000000
+      internalID: 1661375574435661273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2733
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ccc3dd58f33bd0800000000000000
+      internalID: -2651502673722031949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_70
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2740
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411b409a278a1fe0800000000000000
+      internalID: -1217512132371082942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_71
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2741
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa705e22cf4e8660800000000000000
+      internalID: 7389931733980838561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_72
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2740
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b4001efec194f0800000000000000
+      internalID: -823649666246330850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_73
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2741
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c9a386d5e914810800000000000000
+      internalID: 1747852254414281819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_74
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2740
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66476dcbc614071f0800000000000000
+      internalID: -1049266777896881050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_75
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2741
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4068959ab1f89a0800000000000000
+      internalID: -6228729345464728405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_76
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 2715
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cd03aa3f1595d80800000000000000
+      internalID: -8261481934460232587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_77
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 2714
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b6fa20ab74e690800000000000000
+      internalID: -7573792745484537558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_78
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 2714
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0188cd56bee3e70800000000000000
+      internalID: 9096967120059109569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_79
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 2715
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4247dec4eff54ae90800000000000000
+      internalID: -7015376773719428060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_80
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 2714
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abde16f4840ae170800000000000000
+      internalID: 8208378239947561888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2579
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bfda9723578e480800000000000000
+      internalID: -8869710606455932079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_82
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2597
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5047ed2957df961d0800000000000000
+      internalID: -3356873365810940923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2596
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c140f6a2ebb410260800000000000000
+      internalID: 7062008970821436444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2596
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09e5fa8be0f12470800000000000000
+      internalID: 8368234477070444810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_85
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2597
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a2fcffabcf44ae0800000000000000
+      internalID: -1565848890332206541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_86
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2621
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78aeaa1ce4290c30800000000000000
+      internalID: 4326029513544607866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_87
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2579
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346e50e664cd3b130800000000000000
+      internalID: 3581448323741378115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_88
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b81159547adc40800000000000000
+      internalID: 5537866618766932144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_89
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2597
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b94fc4c0bf88eb50800000000000000
+      internalID: 6622701241427249593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_90
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2577
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a69cde521eee1df0800000000000000
+      internalID: -207466770144127320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_91
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2596
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65877742a80ed380800000000000000
+      internalID: -8944702316834486930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_92
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2579
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae64d478dae2c530800000000000000
+      internalID: 3873916844885962403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_93
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645da03daec75800800000000000000
+      internalID: 601176318518580334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_94
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2596
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5185b56a323518810800000000000000
+      internalID: 1765783941485910037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_95
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2596
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bdcefed21b12b90800000000000000
+      internalID: -7268333512742347970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_96
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2579
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fba9cca9d6b9a370800000000000000
+      internalID: 8334393631448869880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_97
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2584
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8142d2a151596c10800000000000000
+      internalID: 2047256916682490252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_98
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 2597
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8588ab0c389900800000000000000
+      internalID: 691368563571002878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_99
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2596
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e20e7c1441a4f3c0800000000000000
+      internalID: -4326656028088335642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_100
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51976bd98fdbc90800000000000000
+      internalID: -7152287276939536911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_101
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2597
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188c697b0d823d150800000000000000
+      internalID: 5896101214056532097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_102
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522bcb34deab0990800000000000000
+      internalID: -7418643734603292080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_103
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef63e5cc258696430800000000000000
+      internalID: 3776664467352205054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_104
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2584
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce9d59fc7c50c40800000000000000
+      internalID: 5478004216152321088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_105
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2597
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bae5d620adcbe70800000000000000
+      internalID: 9132413848360233826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_106
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2596
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d03d0bc4ccefe0800000000000000
+      internalID: -1158334627762352087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_107
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 2587
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f746a51b3bf785360800000000000000
+      internalID: 7158612017456768127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_108
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2596
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9636d628e91c2310800000000000000
+      internalID: 1381507670570579612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_109
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2597
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa957ffa86e82a0e0800000000000000
+      internalID: -2260087482706601558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_110
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2597
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0955793da21d830800000000000000
+      internalID: 4094100624521924771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_111
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2596
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3112a056f07de7d0800000000000000
+      internalID: -2887527582857555649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_112
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2596
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf5ff8816201b40800000000000000
+      internalID: 5408865039408299071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_113
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988ec0e194fb46630800000000000000
+      internalID: 3919467896476854409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_114
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2597
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0965481b28a06d0800000000000000
+      internalID: -3023460500884778797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_115
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2597
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3714d99a2ff6ea3a0800000000000000
+      internalID: -6652256511561219725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2596
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcffb8c7042dbf140800000000000000
+      internalID: 4754625006028980171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_117
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ec4ab5290599530800000000000000
+      internalID: 3862206744979885617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba1633931e0dae0800000000000000
+      internalID: -1526472637887173845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2597
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edc37ee5034560e0800000000000000
+      internalID: -2277340343811453467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_120
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b377c9a0b2bc00800000000000000
+      internalID: 914987917551842929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_121
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16eefeac22b8f9c0800000000000000
+      internalID: -3893165972877548004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_122
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7048d2af6b5e341e0800000000000000
+      internalID: -2214674017692056569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_123
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2589
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892ca5672db73f650800000000000000
+      internalID: 6265487650461500056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_124
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c8367c1ee97700800000000000000
+      internalID: 538723436457413025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_125
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1018e01a21054a200800000000000000
+      internalID: 190365125198119169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_126
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690efddb6dd877500800000000000000
+      internalID: 393939445866291350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_127
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9352bc744c72f0bf0800000000000000
+      internalID: -356022121567410887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_128
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2596
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f187bccae66cf3aa0800000000000000
+      internalID: -6179001985081313249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_129
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13230eca2dd638150800000000000000
+      internalID: 5873659090632192561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_130
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2597
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409943855cce28b0800000000000000
+      internalID: -5174974254155198398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_131
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0baf5aaf35cc6d0800000000000000
+      internalID: -2968905718352400221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_132
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2596
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29814de37be9d950800000000000000
+      internalID: 6474464822456060206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_133
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2596
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b240719ce31da090800000000000000
+      internalID: -8021733454503722311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_134
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98481a2e30b31bc80800000000000000
+      internalID: -8308794949648677751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_135
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2596
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27358c72f6c75b10800000000000000
+      internalID: 1970262106771371819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_136
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a373b9e9736f730800000000000000
+      internalID: 4032471670705306235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_137
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c630e89eddbf2d0800000000000000
+      internalID: -3243755111410602900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_138
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b10c677d7d3d3a0800000000000000
+      internalID: -6641727705031107723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_139
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eeaf91a45932e00800000000000000
+      internalID: 1018822086211857984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_140
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b45128531518530800000000000000
+      internalID: 3855452046263405424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_141
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2596
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fccccc9e5f0fe90800000000000000
+      internalID: -6993819836794220720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_142
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176cc2ddccfe4550800000000000000
+      internalID: 6147128502342412051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_143
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28773ab6cf7e60e10800000000000000
+      internalID: 2163671742321751938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_144
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2596
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a30f689bc03630b0800000000000000
+      internalID: -5749354223297952855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2532
+        width: 4746
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff196ff654b5ca0800000000000000
+      internalID: -6027147329124827283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_146
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2426
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4dd311d1eab3b80800000000000000
+      internalID: -8413940038945090337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2426
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd67da63e7469b0800000000000000
+      internalID: -5087802905718236275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_148
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2426
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896370debb1a5700800000000000000
+      internalID: 529766412524415360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_149
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2426
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb57617993037b80800000000000000
+      internalID: -8398364922548364345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_150
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2426
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f21a9752979d490800000000000000
+      internalID: -7721006884288647314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_151
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2426
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b46acdf7a9115420800000000000000
+      internalID: 2616901067787101366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_152
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2426
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2165110e9d935bb0800000000000000
+      internalID: -4948438263601471186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_153
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2426
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cc45d3e630febd0800000000000000
+      internalID: -2598854687959233479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_154
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2419
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9b12f61cf4c7a0800000000000000
+      internalID: -6357679598458921494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_155
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2419
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c264058e5125f1c00800000000000000
+      internalID: 873507106778531372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_156
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2426
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105a30306ebafa740800000000000000
+      internalID: 5165536301998646529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_157
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2391
+        width: 1056
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674db293b4b1f4e10800000000000000
+      internalID: 2183994354193650806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_158
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2428
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fbaf22e64e454b0800000000000000
+      internalID: -5452482087154434240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_159
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2428
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fc2fa91e5c19640800000000000000
+      internalID: 5085063027035918229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_160
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2428
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f552dc9942465b0800000000000000
+      internalID: -5376131812183154873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_161
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2428
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269a4e417ab629a40800000000000000
+      internalID: 5373475670760663394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_162
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2428
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d5c7b2d3d702a0800000000000000
+      internalID: -6771210612748462046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_163
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2428
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb845fe45fb7d0d0800000000000000
+      internalID: -3398037022314296337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_164
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2391
+        width: 1056
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fe4b76a9c242c10800000000000000
+      internalID: 2027794773900062575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1894
+        width: 1813
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfb0652580d28280800000000000000
+      internalID: -9042435831530209335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_166
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1894
+        width: 1813
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970365806d8e04c10800000000000000
+      internalID: 2035883037531975801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_167
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1734
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ee63fb480d5610800000000000000
+      internalID: 1611453363968205167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_168
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773f8ded56cd4160800000000000000
+      internalID: 7011478301605574514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_169
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1735
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5630ae6dde2b4fdf0800000000000000
+      internalID: -147296153213729947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_170
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8442a6ed22eb12ea0800000000000000
+      internalID: -5899224979908975544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_171
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1734
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc2691d64ebeac0800000000000000
+      internalID: -3824712301292630745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_172
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1767
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caad56f7b354ced0800000000000000
+      internalID: -2394697052276806969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_173
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1735
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32cf2757b8213f20800000000000000
+      internalID: 3400543961548309051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_174
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1735
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3297830f398f4b0800000000000000
+      internalID: -5406408692709383263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_175
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1735
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf4330a50cac370800000000000000
+      internalID: 8343692752490659283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_176
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1734
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed76da5d020448a0800000000000000
+      internalID: -6321925720539496989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_177
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1734
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb73178df474aca70800000000000000
+      internalID: 8847962826182047678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_178
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1735
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e131dc3afc3f20800000000000000
+      internalID: 3403870557499942534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_179
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1735
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288b87836e396ba60800000000000000
+      internalID: 7689496030780897410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_180
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc28a6177a0fb2a20800000000000000
+      internalID: 3038786975544541901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_181
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c62a47bf1828ba0800000000000000
+      internalID: -6088160829257913219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_182
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1735
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b437861f681293f10800000000000000
+      internalID: 2249866352307761995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_183
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1734
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a69a9e5fa2ed6770800000000000000
+      internalID: 8605783705809229473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Dashboard_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4745
+        height: 1700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1152aa81327429e0800000000000000
+      internalID: -1647066006605901539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Settings_Dashboard_0: -5735306849413929404
+      Settings_Dashboard_1: -4406328712025335231
+      Settings_Dashboard_10: 42716601707158764
+      Settings_Dashboard_100: -7152287276939536911
+      Settings_Dashboard_101: 5896101214056532097
+      Settings_Dashboard_102: -7418643734603292080
+      Settings_Dashboard_103: 3776664467352205054
+      Settings_Dashboard_104: 5478004216152321088
+      Settings_Dashboard_105: 9132413848360233826
+      Settings_Dashboard_106: -1158334627762352087
+      Settings_Dashboard_107: 7158612017456768127
+      Settings_Dashboard_108: 1381507670570579612
+      Settings_Dashboard_109: -2260087482706601558
+      Settings_Dashboard_11: -5957900076566526165
+      Settings_Dashboard_110: 4094100624521924771
+      Settings_Dashboard_111: -2887527582857555649
+      Settings_Dashboard_112: 5408865039408299071
+      Settings_Dashboard_113: 3919467896476854409
+      Settings_Dashboard_114: -3023460500884778797
+      Settings_Dashboard_115: -6652256511561219725
+      Settings_Dashboard_116: 4754625006028980171
+      Settings_Dashboard_117: 3862206744979885617
+      Settings_Dashboard_118: -1526472637887173845
+      Settings_Dashboard_119: -2277340343811453467
+      Settings_Dashboard_12: 2890949976026823621
+      Settings_Dashboard_120: 914987917551842929
+      Settings_Dashboard_121: -3893165972877548004
+      Settings_Dashboard_122: -2214674017692056569
+      Settings_Dashboard_123: 6265487650461500056
+      Settings_Dashboard_124: 538723436457413025
+      Settings_Dashboard_125: 190365125198119169
+      Settings_Dashboard_126: 393939445866291350
+      Settings_Dashboard_127: -356022121567410887
+      Settings_Dashboard_128: -6179001985081313249
+      Settings_Dashboard_129: 5873659090632192561
+      Settings_Dashboard_13: -7451000159530666102
+      Settings_Dashboard_130: -5174974254155198398
+      Settings_Dashboard_131: -2968905718352400221
+      Settings_Dashboard_132: 6474464822456060206
+      Settings_Dashboard_133: -8021733454503722311
+      Settings_Dashboard_134: -8308794949648677751
+      Settings_Dashboard_135: 1970262106771371819
+      Settings_Dashboard_136: 4032471670705306235
+      Settings_Dashboard_137: -3243755111410602900
+      Settings_Dashboard_138: -6641727705031107723
+      Settings_Dashboard_139: 1018822086211857984
+      Settings_Dashboard_14: 8049022553090408076
+      Settings_Dashboard_140: 3855452046263405424
+      Settings_Dashboard_141: -6993819836794220720
+      Settings_Dashboard_142: 6147128502342412051
+      Settings_Dashboard_143: 2163671742321751938
+      Settings_Dashboard_144: -5749354223297952855
+      Settings_Dashboard_145: -6027147329124827283
+      Settings_Dashboard_146: -8413940038945090337
+      Settings_Dashboard_147: -5087802905718236275
+      Settings_Dashboard_148: 529766412524415360
+      Settings_Dashboard_149: -8398364922548364345
+      Settings_Dashboard_15: -5630355219414426171
+      Settings_Dashboard_150: -7721006884288647314
+      Settings_Dashboard_151: 2616901067787101366
+      Settings_Dashboard_152: -4948438263601471186
+      Settings_Dashboard_153: -2598854687959233479
+      Settings_Dashboard_154: -6357679598458921494
+      Settings_Dashboard_155: 873507106778531372
+      Settings_Dashboard_156: 5165536301998646529
+      Settings_Dashboard_157: 2183994354193650806
+      Settings_Dashboard_158: -5452482087154434240
+      Settings_Dashboard_159: 5085063027035918229
+      Settings_Dashboard_16: -6874072968011215652
+      Settings_Dashboard_160: -5376131812183154873
+      Settings_Dashboard_161: 5373475670760663394
+      Settings_Dashboard_162: -6771210612748462046
+      Settings_Dashboard_163: -3398037022314296337
+      Settings_Dashboard_164: 2027794773900062575
+      Settings_Dashboard_165: -9042435831530209335
+      Settings_Dashboard_166: 2035883037531975801
+      Settings_Dashboard_167: 1611453363968205167
+      Settings_Dashboard_168: 7011478301605574514
+      Settings_Dashboard_169: -147296153213729947
+      Settings_Dashboard_17: -1001563346213940074
+      Settings_Dashboard_170: -5899224979908975544
+      Settings_Dashboard_171: -3824712301292630745
+      Settings_Dashboard_172: -2394697052276806969
+      Settings_Dashboard_173: 3400543961548309051
+      Settings_Dashboard_174: -5406408692709383263
+      Settings_Dashboard_175: 8343692752490659283
+      Settings_Dashboard_176: -6321925720539496989
+      Settings_Dashboard_177: 8847962826182047678
+      Settings_Dashboard_178: 3403870557499942534
+      Settings_Dashboard_179: 7689496030780897410
+      Settings_Dashboard_18: 1860824462868783188
+      Settings_Dashboard_180: 3038786975544541901
+      Settings_Dashboard_181: -6088160829257913219
+      Settings_Dashboard_182: 2249866352307761995
+      Settings_Dashboard_183: 8605783705809229473
+      Settings_Dashboard_184: -1647066006605901539
+      Settings_Dashboard_19: 8396145074597394791
+      Settings_Dashboard_2: 5365664338695211352
+      Settings_Dashboard_20: -5510752607919886413
+      Settings_Dashboard_21: -7854839100933870163
+      Settings_Dashboard_22: 500704600144361740
+      Settings_Dashboard_23: 3536311053331096079
+      Settings_Dashboard_24: 3077383117040772154
+      Settings_Dashboard_25: -9156468120105071591
+      Settings_Dashboard_26: -4189967167596932538
+      Settings_Dashboard_27: 2258600777777143635
+      Settings_Dashboard_28: 2204066153015933616
+      Settings_Dashboard_29: 1968486249035781569
+      Settings_Dashboard_3: -9154282470975747366
+      Settings_Dashboard_30: -3509298044287868697
+      Settings_Dashboard_31: -5131617243457171805
+      Settings_Dashboard_32: 9103486436063725768
+      Settings_Dashboard_33: -8186463582794196529
+      Settings_Dashboard_34: 3816006233691584294
+      Settings_Dashboard_35: -8200093176916620539
+      Settings_Dashboard_36: 7997854767608779354
+      Settings_Dashboard_37: 2433536184405064448
+      Settings_Dashboard_38: 8323317031586109037
+      Settings_Dashboard_39: 1172841561678237736
+      Settings_Dashboard_4: 68550169908773131
+      Settings_Dashboard_40: -301201077430241835
+      Settings_Dashboard_41: 3106532190661969708
+      Settings_Dashboard_42: 5839389906302096335
+      Settings_Dashboard_43: 1668203046622859586
+      Settings_Dashboard_44: 8490421860460497030
+      Settings_Dashboard_45: 3701974791622788500
+      Settings_Dashboard_46: 8246687105175369916
+      Settings_Dashboard_47: 7488066022589033827
+      Settings_Dashboard_48: -2135984516230526807
+      Settings_Dashboard_49: -1189207164402421927
+      Settings_Dashboard_5: -6432579960118912376
+      Settings_Dashboard_50: 875703017282100881
+      Settings_Dashboard_51: -6407152142354671546
+      Settings_Dashboard_52: 6651910518285739214
+      Settings_Dashboard_53: -1178826433047618175
+      Settings_Dashboard_54: -2880389634932863786
+      Settings_Dashboard_55: 9167927376809855434
+      Settings_Dashboard_56: 7726146976177994685
+      Settings_Dashboard_57: 5157357168522458940
+      Settings_Dashboard_58: -2527820071541933080
+      Settings_Dashboard_59: 6311349224415821934
+      Settings_Dashboard_6: 6975915115476032214
+      Settings_Dashboard_60: -2347305516256673906
+      Settings_Dashboard_61: -7986198730732690566
+      Settings_Dashboard_62: -5676479181754196417
+      Settings_Dashboard_63: 7532726970391704959
+      Settings_Dashboard_64: -3022500562123996901
+      Settings_Dashboard_65: 5712585743645379912
+      Settings_Dashboard_66: 2862083685900804941
+      Settings_Dashboard_67: 271065962555223899
+      Settings_Dashboard_68: 1661375574435661273
+      Settings_Dashboard_69: -2651502673722031949
+      Settings_Dashboard_7: 526262102710784608
+      Settings_Dashboard_70: -1217512132371082942
+      Settings_Dashboard_71: 7389931733980838561
+      Settings_Dashboard_72: -823649666246330850
+      Settings_Dashboard_73: 1747852254414281819
+      Settings_Dashboard_74: -1049266777896881050
+      Settings_Dashboard_75: -6228729345464728405
+      Settings_Dashboard_76: -8261481934460232587
+      Settings_Dashboard_77: -7573792745484537558
+      Settings_Dashboard_78: 9096967120059109569
+      Settings_Dashboard_79: -7015376773719428060
+      Settings_Dashboard_8: 4239254452174267480
+      Settings_Dashboard_80: 8208378239947561888
+      Settings_Dashboard_81: -8869710606455932079
+      Settings_Dashboard_82: -3356873365810940923
+      Settings_Dashboard_83: 7062008970821436444
+      Settings_Dashboard_84: 8368234477070444810
+      Settings_Dashboard_85: -1565848890332206541
+      Settings_Dashboard_86: 4326029513544607866
+      Settings_Dashboard_87: 3581448323741378115
+      Settings_Dashboard_88: 5537866618766932144
+      Settings_Dashboard_89: 6622701241427249593
+      Settings_Dashboard_9: -3664836004830279374
+      Settings_Dashboard_90: -207466770144127320
+      Settings_Dashboard_91: -8944702316834486930
+      Settings_Dashboard_92: 3873916844885962403
+      Settings_Dashboard_93: 601176318518580334
+      Settings_Dashboard_94: 1765783941485910037
+      Settings_Dashboard_95: -7268333512742347970
+      Settings_Dashboard_96: 8334393631448869880
+      Settings_Dashboard_97: 2047256916682490252
+      Settings_Dashboard_98: 691368563571002878
+      Settings_Dashboard_99: -4326656028088335642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

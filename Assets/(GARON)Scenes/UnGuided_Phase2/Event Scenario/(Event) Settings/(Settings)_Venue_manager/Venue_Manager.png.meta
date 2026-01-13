@@ -1,0 +1,4940 @@
+fileFormatVersion: 2
+guid: 6593c932e27144b8ba65a987130fcb41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3228618694656932021
+    second: Venue_Manager_0
+  - first:
+      213: 5215330144789901515
+    second: Venue_Manager_1
+  - first:
+      213: -4265136954278754425
+    second: Venue_Manager_2
+  - first:
+      213: -844706710854118384
+    second: Venue_Manager_3
+  - first:
+      213: 5037327069265497176
+    second: Venue_Manager_4
+  - first:
+      213: -3641298240370056190
+    second: Venue_Manager_5
+  - first:
+      213: 3583319941809780604
+    second: Venue_Manager_6
+  - first:
+      213: -4933016663647440012
+    second: Venue_Manager_7
+  - first:
+      213: -5960311860225475277
+    second: Venue_Manager_8
+  - first:
+      213: -3152691240085804255
+    second: Venue_Manager_9
+  - first:
+      213: -5077986601637276270
+    second: Venue_Manager_10
+  - first:
+      213: -5807453976396030201
+    second: Venue_Manager_11
+  - first:
+      213: 4721702678636492993
+    second: Venue_Manager_12
+  - first:
+      213: 7442887802883261664
+    second: Venue_Manager_13
+  - first:
+      213: -9169178196623757634
+    second: Venue_Manager_14
+  - first:
+      213: -479178579026753258
+    second: Venue_Manager_15
+  - first:
+      213: -3883131524576685505
+    second: Venue_Manager_16
+  - first:
+      213: -6682599897643312854
+    second: Venue_Manager_17
+  - first:
+      213: 6377271285244275715
+    second: Venue_Manager_18
+  - first:
+      213: 9186899182401013774
+    second: Venue_Manager_19
+  - first:
+      213: 6785250373237527519
+    second: Venue_Manager_20
+  - first:
+      213: 7333255235906508443
+    second: Venue_Manager_21
+  - first:
+      213: -2405271625507366795
+    second: Venue_Manager_22
+  - first:
+      213: -4149127698800140122
+    second: Venue_Manager_23
+  - first:
+      213: -155317384248170040
+    second: Venue_Manager_24
+  - first:
+      213: -6038829991239412587
+    second: Venue_Manager_25
+  - first:
+      213: -6804034092882497456
+    second: Venue_Manager_26
+  - first:
+      213: -5172647034839661376
+    second: Venue_Manager_27
+  - first:
+      213: -1409253525627663256
+    second: Venue_Manager_28
+  - first:
+      213: -2611197233386541009
+    second: Venue_Manager_29
+  - first:
+      213: 7071575001860484578
+    second: Venue_Manager_30
+  - first:
+      213: -7225992817568494211
+    second: Venue_Manager_31
+  - first:
+      213: -4634037609851237975
+    second: Venue_Manager_32
+  - first:
+      213: 5568487543306011510
+    second: Venue_Manager_33
+  - first:
+      213: -7053165886078925848
+    second: Venue_Manager_34
+  - first:
+      213: 6142901231016343101
+    second: Venue_Manager_35
+  - first:
+      213: -8428823776551342677
+    second: Venue_Manager_36
+  - first:
+      213: 8670302009540613024
+    second: Venue_Manager_37
+  - first:
+      213: -6592304707770254905
+    second: Venue_Manager_38
+  - first:
+      213: 8658041834576232938
+    second: Venue_Manager_39
+  - first:
+      213: -1296795266019832533
+    second: Venue_Manager_40
+  - first:
+      213: 1840093315782422957
+    second: Venue_Manager_41
+  - first:
+      213: -7532586007095132976
+    second: Venue_Manager_42
+  - first:
+      213: 449633878282819690
+    second: Venue_Manager_43
+  - first:
+      213: -2219312311269758110
+    second: Venue_Manager_44
+  - first:
+      213: 3738230009697552179
+    second: Venue_Manager_45
+  - first:
+      213: 8073541015675731015
+    second: Venue_Manager_46
+  - first:
+      213: -8662459275557174624
+    second: Venue_Manager_47
+  - first:
+      213: -6766022664362947525
+    second: Venue_Manager_48
+  - first:
+      213: -5254116058459635238
+    second: Venue_Manager_49
+  - first:
+      213: -2682349043359640344
+    second: Venue_Manager_50
+  - first:
+      213: 8074797865053754105
+    second: Venue_Manager_51
+  - first:
+      213: -2250732637599394279
+    second: Venue_Manager_52
+  - first:
+      213: 3465245343582876449
+    second: Venue_Manager_53
+  - first:
+      213: 1065740428925924201
+    second: Venue_Manager_54
+  - first:
+      213: -749591354845545760
+    second: Venue_Manager_55
+  - first:
+      213: 4537196989366619003
+    second: Venue_Manager_56
+  - first:
+      213: 512430357160994624
+    second: Venue_Manager_57
+  - first:
+      213: -4336850533092921790
+    second: Venue_Manager_58
+  - first:
+      213: 4952622478914172706
+    second: Venue_Manager_59
+  - first:
+      213: -1236722521020344584
+    second: Venue_Manager_60
+  - first:
+      213: -7708663338087279641
+    second: Venue_Manager_61
+  - first:
+      213: 3894397058723749916
+    second: Venue_Manager_62
+  - first:
+      213: -4947655706894080668
+    second: Venue_Manager_63
+  - first:
+      213: -9136141430808729228
+    second: Venue_Manager_64
+  - first:
+      213: 3568127826904845256
+    second: Venue_Manager_65
+  - first:
+      213: -3908780284981323881
+    second: Venue_Manager_66
+  - first:
+      213: 6965324856050238857
+    second: Venue_Manager_67
+  - first:
+      213: -6315365450270590886
+    second: Venue_Manager_68
+  - first:
+      213: 8141517400890032008
+    second: Venue_Manager_69
+  - first:
+      213: 2851048306849392003
+    second: Venue_Manager_70
+  - first:
+      213: 4171858816446152121
+    second: Venue_Manager_71
+  - first:
+      213: -1804690562178864441
+    second: Venue_Manager_72
+  - first:
+      213: 2935817252664293307
+    second: Venue_Manager_73
+  - first:
+      213: -6384521364985062590
+    second: Venue_Manager_74
+  - first:
+      213: -6224701408511818810
+    second: Venue_Manager_75
+  - first:
+      213: 5690486854274722973
+    second: Venue_Manager_76
+  - first:
+      213: 6220471799066386582
+    second: Venue_Manager_77
+  - first:
+      213: -8813215115073597207
+    second: Venue_Manager_78
+  - first:
+      213: 4382003593616995441
+    second: Venue_Manager_79
+  - first:
+      213: -1240407616902236764
+    second: Venue_Manager_80
+  - first:
+      213: 3188442528422323847
+    second: Venue_Manager_81
+  - first:
+      213: -7627902237008931869
+    second: Venue_Manager_82
+  - first:
+      213: 3424048112839941956
+    second: Venue_Manager_83
+  - first:
+      213: 8967556924930140720
+    second: Venue_Manager_84
+  - first:
+      213: 8102188243175599888
+    second: Venue_Manager_85
+  - first:
+      213: 319309301091903114
+    second: Venue_Manager_86
+  - first:
+      213: 2617515570025779156
+    second: Venue_Manager_87
+  - first:
+      213: -3434607598829777506
+    second: Venue_Manager_88
+  - first:
+      213: -2519861557302237144
+    second: Venue_Manager_89
+  - first:
+      213: -7390585855269353969
+    second: Venue_Manager_90
+  - first:
+      213: 5134003587259551716
+    second: Venue_Manager_91
+  - first:
+      213: 944694086022552820
+    second: Venue_Manager_92
+  - first:
+      213: 1121548456310324951
+    second: Venue_Manager_93
+  - first:
+      213: 1274197812454964547
+    second: Venue_Manager_94
+  - first:
+      213: -4263696619647262300
+    second: Venue_Manager_95
+  - first:
+      213: -7588744902736227059
+    second: Venue_Manager_96
+  - first:
+      213: -2565109296404809892
+    second: Venue_Manager_97
+  - first:
+      213: -890156059498674531
+    second: Venue_Manager_98
+  - first:
+      213: -433395211020097972
+    second: Venue_Manager_99
+  - first:
+      213: -7052959332490118049
+    second: Venue_Manager_100
+  - first:
+      213: -5546795839365620555
+    second: Venue_Manager_101
+  - first:
+      213: 8662541892892503110
+    second: Venue_Manager_102
+  - first:
+      213: 451672126382131680
+    second: Venue_Manager_103
+  - first:
+      213: 1233487019390460380
+    second: Venue_Manager_104
+  - first:
+      213: 5835720803249082518
+    second: Venue_Manager_105
+  - first:
+      213: 5043953685410934435
+    second: Venue_Manager_106
+  - first:
+      213: 7793404735150586937
+    second: Venue_Manager_107
+  - first:
+      213: 7376729816612139685
+    second: Venue_Manager_108
+  - first:
+      213: -5210915096253436407
+    second: Venue_Manager_109
+  - first:
+      213: -6247200269051213239
+    second: Venue_Manager_110
+  - first:
+      213: 2736267552098963167
+    second: Venue_Manager_111
+  - first:
+      213: -696121786556335482
+    second: Venue_Manager_112
+  - first:
+      213: 3227612877945113796
+    second: Venue_Manager_113
+  - first:
+      213: -1171221910748806273
+    second: Venue_Manager_114
+  - first:
+      213: -3874952126246603023
+    second: Venue_Manager_115
+  - first:
+      213: -2729365779941529450
+    second: Venue_Manager_116
+  - first:
+      213: -825933392260179362
+    second: Venue_Manager_117
+  - first:
+      213: 8976176417651617167
+    second: Venue_Manager_118
+  - first:
+      213: 6215168613294460327
+    second: Venue_Manager_119
+  - first:
+      213: -1446670723862411314
+    second: Venue_Manager_120
+  - first:
+      213: -7281593236141686672
+    second: Venue_Manager_121
+  - first:
+      213: -1997651578835444222
+    second: Venue_Manager_122
+  - first:
+      213: -6371341310757329003
+    second: Venue_Manager_123
+  - first:
+      213: 5002102330179099300
+    second: Venue_Manager_124
+  - first:
+      213: 8567562597783488031
+    second: Venue_Manager_125
+  - first:
+      213: -3323936011923761303
+    second: Venue_Manager_126
+  - first:
+      213: -900678629585766574
+    second: Venue_Manager_127
+  - first:
+      213: 3364544960059353427
+    second: Venue_Manager_128
+  - first:
+      213: -2254610464174697103
+    second: Venue_Manager_129
+  - first:
+      213: -3683594752386956328
+    second: Venue_Manager_130
+  - first:
+      213: 6827734105330528796
+    second: Venue_Manager_131
+  - first:
+      213: -6223378022571491546
+    second: Venue_Manager_132
+  - first:
+      213: -7468500406642198037
+    second: Venue_Manager_133
+  - first:
+      213: 3852793505784186866
+    second: Venue_Manager_134
+  - first:
+      213: 5210421354428391147
+    second: Venue_Manager_135
+  - first:
+      213: -2013896205789622786
+    second: Venue_Manager_136
+  - first:
+      213: -8219741736923525238
+    second: Venue_Manager_137
+  - first:
+      213: -3092837488490869050
+    second: Venue_Manager_138
+  - first:
+      213: -44205666960469339
+    second: Venue_Manager_139
+  - first:
+      213: 8607843568903147626
+    second: Venue_Manager_140
+  - first:
+      213: 7145669769057535592
+    second: Venue_Manager_141
+  - first:
+      213: -3508299740697877517
+    second: Venue_Manager_142
+  - first:
+      213: -6744963004081453920
+    second: Venue_Manager_143
+  - first:
+      213: -1066479616642621124
+    second: Venue_Manager_144
+  - first:
+      213: 1721241556651854193
+    second: Venue_Manager_145
+  - first:
+      213: 1736364810950597750
+    second: Venue_Manager_146
+  - first:
+      213: -3923839130102848636
+    second: Venue_Manager_147
+  - first:
+      213: 7543582674297351646
+    second: Venue_Manager_148
+  - first:
+      213: 5302568780179794989
+    second: Venue_Manager_149
+  - first:
+      213: -7901461911808604835
+    second: Venue_Manager_150
+  - first:
+      213: -783332547880654980
+    second: Venue_Manager_151
+  - first:
+      213: 5690858755131127449
+    second: Venue_Manager_152
+  - first:
+      213: 2562145369250017984
+    second: Venue_Manager_153
+  - first:
+      213: 8365650478200379955
+    second: Venue_Manager_154
+  - first:
+      213: 8965602373879967478
+    second: Venue_Manager_155
+  - first:
+      213: 6949595559490410286
+    second: Venue_Manager_156
+  - first:
+      213: 3904697163602115884
+    second: Venue_Manager_157
+  - first:
+      213: 3190774470100997376
+    second: Venue_Manager_158
+  - first:
+      213: -6529595739038139880
+    second: Venue_Manager_159
+  - first:
+      213: 322354609766267799
+    second: Venue_Manager_160
+  - first:
+      213: -2524346911233821402
+    second: Venue_Manager_161
+  - first:
+      213: -2856798844061782615
+    second: Venue_Manager_162
+  - first:
+      213: 6699676547170831495
+    second: Venue_Manager_163
+  - first:
+      213: -4964955805026929895
+    second: Venue_Manager_164
+  - first:
+      213: -8824992114364081039
+    second: Venue_Manager_165
+  - first:
+      213: -566297393924156866
+    second: Venue_Manager_166
+  - first:
+      213: 827737153941938460
+    second: Venue_Manager_167
+  - first:
+      213: 3558513378121135689
+    second: Venue_Manager_168
+  - first:
+      213: -2455847069062372364
+    second: Venue_Manager_169
+  - first:
+      213: -8033263771803950085
+    second: Venue_Manager_170
+  - first:
+      213: -5578668663940999777
+    second: Venue_Manager_171
+  - first:
+      213: -4848683113038601759
+    second: Venue_Manager_172
+  - first:
+      213: 4258609862043187376
+    second: Venue_Manager_173
+  - first:
+      213: -7047214023248558016
+    second: Venue_Manager_174
+  - first:
+      213: -2464778956256680200
+    second: Venue_Manager_175
+  - first:
+      213: 9206986260536136221
+    second: Venue_Manager_176
+  - first:
+      213: 3668718702570182725
+    second: Venue_Manager_177
+  - first:
+      213: -2177408851523315491
+    second: Venue_Manager_178
+  - first:
+      213: 5668027759784962502
+    second: Venue_Manager_179
+  - first:
+      213: 5301668466451438363
+    second: Venue_Manager_180
+  - first:
+      213: -8074681938461053171
+    second: Venue_Manager_181
+  - first:
+      213: -2789401766709644399
+    second: Venue_Manager_182
+  - first:
+      213: -7572191068187643159
+    second: Venue_Manager_183
+  - first:
+      213: -3580001967599916093
+    second: Venue_Manager_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Venue_Manager_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2908
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47c9c53764a133d0800000000000000
+      internalID: -3228618694656932021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2920
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0b69a7223906840800000000000000
+      internalID: 5215330144789901515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2920
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787c2d9a9803fc4c0800000000000000
+      internalID: -4265136954278754425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2918
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d620d8bff644f0800000000000000
+      internalID: -844706710854118384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2920
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c8705d74e28e540800000000000000
+      internalID: 5037327069265497176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2919
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ec75fa82877dc0800000000000000
+      internalID: -3641298240370056190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2920
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77352870828ab130800000000000000
+      internalID: 3583319941809780604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2918
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473363c0b776a8bb0800000000000000
+      internalID: -4933016663647440012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2920
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d76b431f7b84da0800000000000000
+      internalID: -5960311860225475277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2918
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b233455046f34d0800000000000000
+      internalID: -3152691240085804255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2908
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2959733171e5789b0800000000000000
+      internalID: -5077986601637276270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2918
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f1c7fa067c76fa0800000000000000
+      internalID: -5807453976396030201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2896
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8732fc19bd68140800000000000000
+      internalID: 4721702678636492993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2918
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4c1f9c5037a4760800000000000000
+      internalID: 7442887802883261664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2918
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeebf3b20980c080800000000000000
+      internalID: -9169178196623757634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2896
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61942250f9d9959f0800000000000000
+      internalID: -479178579026753258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2918
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f325c7db3785c1ac0800000000000000
+      internalID: -3883131524576685505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2918
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2998ec8cc2a243a0800000000000000
+      internalID: -6682599897643312854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2918
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ca849127e908850800000000000000
+      internalID: 6377271285244275715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2918
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08c652d12c6e7f70800000000000000
+      internalID: 9186899182401013774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2918
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d8e0c34d0a2e50800000000000000
+      internalID: 6785250373237527519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2920
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b961b77a8c4f4c560800000000000000
+      internalID: 7333255235906508443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_22
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 2969
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5789e454332ce9ed0800000000000000
+      internalID: -2405271625507366795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_23
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2935
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0a84947565b66c0800000000000000
+      internalID: -4149127698800140122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2824
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9e17479a338ddf0800000000000000
+      internalID: -155317384248170040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2824
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59413393e14c13ca0800000000000000
+      internalID: -6038829991239412587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2825
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0507716ba073391a0800000000000000
+      internalID: -6804034092882497456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2824
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c487eb7de01738b0800000000000000
+      internalID: -5172647034839661376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2825
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c0f7e8263517ce0800000000000000
+      internalID: -1409253525627663256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2824
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20338173f923cbd0800000000000000
+      internalID: -2611197233386541009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2824
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed2d645ff7432260800000000000000
+      internalID: 7071575001860484578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2813
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4e4f31dd18bb90800000000000000
+      internalID: -7225992817568494211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2824
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a94405985790bfb0800000000000000
+      internalID: -4634037609851237975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2825
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67341f2eaed374d40800000000000000
+      internalID: 5568487543306011510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2825
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3cc52fefe1e1e90800000000000000
+      internalID: -7053165886078925848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2824
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36f9058f18ff3550800000000000000
+      internalID: 6142901231016343101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2825
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6a4cde6dc60b80800000000000000
+      internalID: -8428823776551342677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2825
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3160e8db9135870800000000000000
+      internalID: 8670302009540613024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2824
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9f73abbcd6384a0800000000000000
+      internalID: -6592304707770254905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2825
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae143602d2b872870800000000000000
+      internalID: 8658041834576232938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2824
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dca76839bd00ee0800000000000000
+      internalID: -1296795266019832533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2824
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da138c81f13598910800000000000000
+      internalID: 1840093315782422957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2824
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc34079fe0e67790800000000000000
+      internalID: -7532586007095132976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2844
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68570a41ab6d3600800000000000000
+      internalID: 449633878282819690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2824
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b6d19163b6331e0800000000000000
+      internalID: -2219312311269758110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2824
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3374ab8436cd0e330800000000000000
+      internalID: 3738230009697552179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2824
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cf5ee37cafa0070800000000000000
+      internalID: 8073541015675731015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2825
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2802f3f23c8c780800000000000000
+      internalID: -8662459275557174624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2825
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c87641c324a12a0800000000000000
+      internalID: -6766022664362947525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2832
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad186d64841a517b0800000000000000
+      internalID: -5254116058459635238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2824
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e490fab1c166cad0800000000000000
+      internalID: -2682349043359640344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2825
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f29c9b40e17f0070800000000000000
+      internalID: 8074797865053754105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_52
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2844
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916928b479ac3c0e0800000000000000
+      internalID: -2250732637599394279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2824
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12375d3c746071030800000000000000
+      internalID: 3465245343582876449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_54
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2824
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963f6e806454ace00800000000000000
+      internalID: 1065740428925924201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2816
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea3abf52aae895f0800000000000000
+      internalID: -749591354845545760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2824
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b4b2b6f9c57fe30800000000000000
+      internalID: 4537196989366619003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_57
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2824
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04725b2e1b48c1700800000000000000
+      internalID: 512430357160994624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2738
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e6803fa6960d3c0800000000000000
+      internalID: -4336850533092921790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2746
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2273b4a87ef3bb440800000000000000
+      internalID: 4952622478914172706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2738
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f65bd86b6746dee0800000000000000
+      internalID: -1236722521020344584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2738
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e31b384983550590800000000000000
+      internalID: -7708663338087279641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2746
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c102e83dd7dab0630800000000000000
+      internalID: 3894397058723749916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2746
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465e4af2955665bb0800000000000000
+      internalID: -4947655706894080668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2770
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479aae626c7e53180800000000000000
+      internalID: -9136141430808729228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2746
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb89d39a59848130800000000000000
+      internalID: 3568127826904845256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2746
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79753a85a0931c9c0800000000000000
+      internalID: -3908780284981323881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2745
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985c21e7d0ec9a060800000000000000
+      internalID: 6965324856050238857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2745
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58b8dd45905b58a0800000000000000
+      internalID: -6315365450270590886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2738
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f36b4c0fa7cf070800000000000000
+      internalID: 8141517400890032008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2738
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385ac3f5455f09720800000000000000
+      internalID: 2851048306849392003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2745
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdba577d7b65e930800000000000000
+      internalID: 4171858816446152121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2745
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca24dfce7374f6e0800000000000000
+      internalID: -1804690562178864441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2746
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b4869c3e1eb820800000000000000
+      internalID: 2935817252664293307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2745
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b5c2b25af9567a0800000000000000
+      internalID: -6384521364985062590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2616
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c387c08c0b6d99a0800000000000000
+      internalID: -6224701408511818810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2615
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c231cf4aba8fe40800000000000000
+      internalID: 5690486854274722973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2616
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690efaec42e835650800000000000000
+      internalID: 6220471799066386582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2615
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05fe81c8b21b580800000000000000
+      internalID: -8813215115073597207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_79
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2615
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174b6023d0100dc30800000000000000
+      internalID: 4382003593616995441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2616
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57ad928df29cee0800000000000000
+      internalID: -1240407616902236764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2615
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7866c55269f9f3c20800000000000000
+      internalID: 3188442528422323847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2616
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3dcad645f342690800000000000000
+      internalID: -7627902237008931869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2615
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fdba30e99a48f20800000000000000
+      internalID: 3424048112839941956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_84
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2603
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2e85d289237c70800000000000000
+      internalID: 8967556924930140720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_85
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2615
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fe3d9a741c07070800000000000000
+      internalID: 8102188243175599888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_86
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2616
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86af091e1a6e6400800000000000000
+      internalID: 319309301091903114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2611
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfc071fa88435420800000000000000
+      internalID: 2617515570025779156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_88
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2611
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dc4e01692d550d0800000000000000
+      internalID: -3434607598829777506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_89
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2611
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82866d1b347a70dd0800000000000000
+      internalID: -2519861557302237144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_90
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2636
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06c4a6525d5f6990800000000000000
+      internalID: -7390585855269353969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_91
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2611
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efcf2ebf05af3740800000000000000
+      internalID: 5134003587259551716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2611
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc59ca144a3c1d00800000000000000
+      internalID: 944694086022552820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_93
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2611
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deb3c8f06a809f00800000000000000
+      internalID: 1121548456310324951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_94
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2611
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d35f0d82cdea110800000000000000
+      internalID: 1274197812454964547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_95
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2611
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a124e3b38e44d4c0800000000000000
+      internalID: -4263696619647262300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_96
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2612
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05d955c7bc5fa690800000000000000
+      internalID: -7588744902736227059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2572
+        width: 4776
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573db97fa6e66cd0800000000000000
+      internalID: -2565109296404809892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_98
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2424
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968be6b7c785a3f0800000000000000
+      internalID: -890156059498674531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_99
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2423
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46aacf0a554cf9f0800000000000000
+      internalID: -433395211020097972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_100
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2423
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c76a3fadade1e90800000000000000
+      internalID: -7052959332490118049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_101
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2423
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5ff08292d503b0800000000000000
+      internalID: -5546795839365620555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_102
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2423
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c2cc994f7873870800000000000000
+      internalID: 8662541892892503110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2424
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9c3f7e769a44600800000000000000
+      internalID: 451672126382131680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_104
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2423
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e2d9a8e93e1110800000000000000
+      internalID: 1233487019390460380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2424
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d40ec625acf050800000000000000
+      internalID: 5835720803249082518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_106
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2424
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee0722729bff540800000000000000
+      internalID: 5043953685410934435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_107
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2424
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c7f7db05cb72c60800000000000000
+      internalID: 7793404735150586937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_108
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2424
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f2334fa86f5660800000000000000
+      internalID: 7376729816612139685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_109
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2424
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ee71d145c1fa7b0800000000000000
+      internalID: -5210915096253436407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_110
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2423
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a4a72547c7d49a0800000000000000
+      internalID: -6247200269051213239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_111
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2424
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde494d57dc29f520800000000000000
+      internalID: 2736267552098963167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_112
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2424
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a36ef5ce0e656f0800000000000000
+      internalID: -696121786556335482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_113
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2423
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc0566dfc8cacc20800000000000000
+      internalID: 3227612877945113796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_114
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2424
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73c9a8a0ebfebfe0800000000000000
+      internalID: -1171221910748806273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_115
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63d615297693ac0800000000000000
+      internalID: -3874952126246603023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_116
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2424
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986a70b8485f1ad0800000000000000
+      internalID: -2729365779941529450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_117
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2423
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad23aa4f1b984f0800000000000000
+      internalID: -825933392260179362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_118
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2423
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dec5fd4e8c19c70800000000000000
+      internalID: 8976176417651617167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_119
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2423
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adc296ace6b04650800000000000000
+      internalID: 6215168613294460327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_120
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2423
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7493534a46cebe0800000000000000
+      internalID: -1446670723862411314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_121
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07043e0088592fa90800000000000000
+      internalID: -7281593236141686672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_122
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2414
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ed38a197ae644e0800000000000000
+      internalID: -1997651578835444222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_123
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2423
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597a98da5d27497a0800000000000000
+      internalID: -6371341310757329003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_124
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2419
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa9a7821990b6540800000000000000
+      internalID: 5002102330179099300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_125
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2423
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16cecf2ac816e670800000000000000
+      internalID: 8567562597783488031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_126
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2424
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967d721eec10fd1d0800000000000000
+      internalID: -3323936011923761303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_127
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2424
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25731c2fe852083f0800000000000000
+      internalID: -900678629585766574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_128
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2424
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592b27a0d341be20800000000000000
+      internalID: 3364544960059353427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_129
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2423
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751dff6ab306b0e0800000000000000
+      internalID: -2254610464174697103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_130
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2424
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d38b77d61e31ecc0800000000000000
+      internalID: -3683594752386956328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_131
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2423
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12bb017efbf0ce50800000000000000
+      internalID: 6827734105330528796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_132
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2423
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f37ad49ae12a9a0800000000000000
+      internalID: -6223378022571491546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_133
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 2423
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be93b31337e8a5890800000000000000
+      internalID: -7468500406642198037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_134
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2423
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7c231d74fd77530800000000000000
+      internalID: 3852793505784186866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_135
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2419
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee50d8ad922f4840800000000000000
+      internalID: 5210421354428391147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_136
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 2408
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd076722143d04e0800000000000000
+      internalID: -2013896205789622786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_137
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 2408
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f8839b07c9ded80800000000000000
+      internalID: -8219741736923525238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_138
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2408
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce8d76d0b80415d0800000000000000
+      internalID: -3092837488490869050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_139
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 2408
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a213cb1e23f26ff0800000000000000
+      internalID: -44205666960469339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_140
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2423
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605a9e9e14357770800000000000000
+      internalID: 8607843568903147626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_141
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2424
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660ceaabc48a2360800000000000000
+      internalID: 7145669769057535592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_142
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2424
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3ab1e39f3005fc0800000000000000
+      internalID: -3508299740697877517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_143
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4c29652e31562a0800000000000000
+      internalID: -6744963004081453920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_144
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2423
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3162d9607a1331f0800000000000000
+      internalID: -1066479616642621124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_145
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2414
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179cfd4831413e710800000000000000
+      internalID: 1721241556651854193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_146
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2423
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd23d889ec81810800000000000000
+      internalID: 1736364810950597750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_147
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2424
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483217eb919bb89c0800000000000000
+      internalID: -3923839130102848636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_148
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde843897030b860800000000000000
+      internalID: 7543582674297351646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_149
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2423
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c61bb1632869940800000000000000
+      internalID: 5302568780179794989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_150
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2423
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558e54414e585290800000000000000
+      internalID: -7901461911808604835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_151
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2423
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77629ea23b0125f0800000000000000
+      internalID: -783332547880654980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_152
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2423
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963386e2edf9fe40800000000000000
+      internalID: 5690858755131127449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_153
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23f0573a19e8320800000000000000
+      internalID: 2562145369250017984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_154
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2423
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ad53c69c2c81470800000000000000
+      internalID: 8365650478200379955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_155
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2424
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea3847bd73c6c70800000000000000
+      internalID: 8965602373879967478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_156
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2423
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27de00475ce17060800000000000000
+      internalID: 6949595559490410286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_157
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dbaffd165403630800000000000000
+      internalID: 3904697163602115884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_158
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2423
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00551c0a978e74c20800000000000000
+      internalID: 3190774470100997376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_159
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a3ab745473265a0800000000000000
+      internalID: -6529595739038139880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_160
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2423
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf3d64fcb397400800000000000000
+      internalID: 322354609766267799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_161
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2423
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625bd0adbd7b7fcd0800000000000000
+      internalID: -2524346911233821402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_162
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2423
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad63f8569c9a58d0800000000000000
+      internalID: -2856798844061782615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_163
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2423
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c0220c2580afc50800000000000000
+      internalID: 6699676547170831495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_164
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9133bd3300fe81bb0800000000000000
+      internalID: -4964955805026929895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_165
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2423
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c94b5cd64578580800000000000000
+      internalID: -8824992114364081039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_166
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32dbe5458b1428f0800000000000000
+      internalID: -566297393924156866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_167
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 2423
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c112a145e86bc7b00800000000000000
+      internalID: 827737153941938460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_168
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2423
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946b2674011626130800000000000000
+      internalID: 3558513378121135689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_169
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2423
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f36ad13a141bedd0800000000000000
+      internalID: -2455847069062372364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_170
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 3294
+        height: 2358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf36c9e592d148090800000000000000
+      internalID: -8033263771803950085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_171
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2288
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95913e38669492b0800000000000000
+      internalID: -5578668663940999777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_172
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 2287
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e126eae56406bcb0800000000000000
+      internalID: -4848683113038601759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_173
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 2316
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b83f004b1f991b30800000000000000
+      internalID: 4258609862043187376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_174
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 2288
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484e100f24433e90800000000000000
+      internalID: -7047214023248558016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_175
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 2276
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6667629985bcdd0800000000000000
+      internalID: -2464778956256680200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_176
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 2288
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1298272939c5cf70800000000000000
+      internalID: 9206986260536136221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_177
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 2287
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5481787e838e9e230800000000000000
+      internalID: 3668718702570182725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_178
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 2287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8592a9f2a48c1e0800000000000000
+      internalID: -2177408851523315491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_179
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 2277
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9290f8731e8ae40800000000000000
+      internalID: 5668027759784962502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_180
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 2287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b5abb716f439940800000000000000
+      internalID: 5301668466451438363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_181
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 2287
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f24c7fe87f0ff80800000000000000
+      internalID: -8074681938461053171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_182
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 2288
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193bc6f3fdd0a49d0800000000000000
+      internalID: -2789401766709644399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_183
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 1980
+        width: 1098
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e23a49b75c2ae690800000000000000
+      internalID: -7572191068187643159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venue_Manager_184
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 1748
+        width: 1098
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe10a9d27415ec0800000000000000
+      internalID: -3580001967599916093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Venue_Manager_0: -3228618694656932021
+      Venue_Manager_1: 5215330144789901515
+      Venue_Manager_10: -5077986601637276270
+      Venue_Manager_100: -7052959332490118049
+      Venue_Manager_101: -5546795839365620555
+      Venue_Manager_102: 8662541892892503110
+      Venue_Manager_103: 451672126382131680
+      Venue_Manager_104: 1233487019390460380
+      Venue_Manager_105: 5835720803249082518
+      Venue_Manager_106: 5043953685410934435
+      Venue_Manager_107: 7793404735150586937
+      Venue_Manager_108: 7376729816612139685
+      Venue_Manager_109: -5210915096253436407
+      Venue_Manager_11: -5807453976396030201
+      Venue_Manager_110: -6247200269051213239
+      Venue_Manager_111: 2736267552098963167
+      Venue_Manager_112: -696121786556335482
+      Venue_Manager_113: 3227612877945113796
+      Venue_Manager_114: -1171221910748806273
+      Venue_Manager_115: -3874952126246603023
+      Venue_Manager_116: -2729365779941529450
+      Venue_Manager_117: -825933392260179362
+      Venue_Manager_118: 8976176417651617167
+      Venue_Manager_119: 6215168613294460327
+      Venue_Manager_12: 4721702678636492993
+      Venue_Manager_120: -1446670723862411314
+      Venue_Manager_121: -7281593236141686672
+      Venue_Manager_122: -1997651578835444222
+      Venue_Manager_123: -6371341310757329003
+      Venue_Manager_124: 5002102330179099300
+      Venue_Manager_125: 8567562597783488031
+      Venue_Manager_126: -3323936011923761303
+      Venue_Manager_127: -900678629585766574
+      Venue_Manager_128: 3364544960059353427
+      Venue_Manager_129: -2254610464174697103
+      Venue_Manager_13: 7442887802883261664
+      Venue_Manager_130: -3683594752386956328
+      Venue_Manager_131: 6827734105330528796
+      Venue_Manager_132: -6223378022571491546
+      Venue_Manager_133: -7468500406642198037
+      Venue_Manager_134: 3852793505784186866
+      Venue_Manager_135: 5210421354428391147
+      Venue_Manager_136: -2013896205789622786
+      Venue_Manager_137: -8219741736923525238
+      Venue_Manager_138: -3092837488490869050
+      Venue_Manager_139: -44205666960469339
+      Venue_Manager_14: -9169178196623757634
+      Venue_Manager_140: 8607843568903147626
+      Venue_Manager_141: 7145669769057535592
+      Venue_Manager_142: -3508299740697877517
+      Venue_Manager_143: -6744963004081453920
+      Venue_Manager_144: -1066479616642621124
+      Venue_Manager_145: 1721241556651854193
+      Venue_Manager_146: 1736364810950597750
+      Venue_Manager_147: -3923839130102848636
+      Venue_Manager_148: 7543582674297351646
+      Venue_Manager_149: 5302568780179794989
+      Venue_Manager_15: -479178579026753258
+      Venue_Manager_150: -7901461911808604835
+      Venue_Manager_151: -783332547880654980
+      Venue_Manager_152: 5690858755131127449
+      Venue_Manager_153: 2562145369250017984
+      Venue_Manager_154: 8365650478200379955
+      Venue_Manager_155: 8965602373879967478
+      Venue_Manager_156: 6949595559490410286
+      Venue_Manager_157: 3904697163602115884
+      Venue_Manager_158: 3190774470100997376
+      Venue_Manager_159: -6529595739038139880
+      Venue_Manager_16: -3883131524576685505
+      Venue_Manager_160: 322354609766267799
+      Venue_Manager_161: -2524346911233821402
+      Venue_Manager_162: -2856798844061782615
+      Venue_Manager_163: 6699676547170831495
+      Venue_Manager_164: -4964955805026929895
+      Venue_Manager_165: -8824992114364081039
+      Venue_Manager_166: -566297393924156866
+      Venue_Manager_167: 827737153941938460
+      Venue_Manager_168: 3558513378121135689
+      Venue_Manager_169: -2455847069062372364
+      Venue_Manager_17: -6682599897643312854
+      Venue_Manager_170: -8033263771803950085
+      Venue_Manager_171: -5578668663940999777
+      Venue_Manager_172: -4848683113038601759
+      Venue_Manager_173: 4258609862043187376
+      Venue_Manager_174: -7047214023248558016
+      Venue_Manager_175: -2464778956256680200
+      Venue_Manager_176: 9206986260536136221
+      Venue_Manager_177: 3668718702570182725
+      Venue_Manager_178: -2177408851523315491
+      Venue_Manager_179: 5668027759784962502
+      Venue_Manager_18: 6377271285244275715
+      Venue_Manager_180: 5301668466451438363
+      Venue_Manager_181: -8074681938461053171
+      Venue_Manager_182: -2789401766709644399
+      Venue_Manager_183: -7572191068187643159
+      Venue_Manager_184: -3580001967599916093
+      Venue_Manager_19: 9186899182401013774
+      Venue_Manager_2: -4265136954278754425
+      Venue_Manager_20: 6785250373237527519
+      Venue_Manager_21: 7333255235906508443
+      Venue_Manager_22: -2405271625507366795
+      Venue_Manager_23: -4149127698800140122
+      Venue_Manager_24: -155317384248170040
+      Venue_Manager_25: -6038829991239412587
+      Venue_Manager_26: -6804034092882497456
+      Venue_Manager_27: -5172647034839661376
+      Venue_Manager_28: -1409253525627663256
+      Venue_Manager_29: -2611197233386541009
+      Venue_Manager_3: -844706710854118384
+      Venue_Manager_30: 7071575001860484578
+      Venue_Manager_31: -7225992817568494211
+      Venue_Manager_32: -4634037609851237975
+      Venue_Manager_33: 5568487543306011510
+      Venue_Manager_34: -7053165886078925848
+      Venue_Manager_35: 6142901231016343101
+      Venue_Manager_36: -8428823776551342677
+      Venue_Manager_37: 8670302009540613024
+      Venue_Manager_38: -6592304707770254905
+      Venue_Manager_39: 8658041834576232938
+      Venue_Manager_4: 5037327069265497176
+      Venue_Manager_40: -1296795266019832533
+      Venue_Manager_41: 1840093315782422957
+      Venue_Manager_42: -7532586007095132976
+      Venue_Manager_43: 449633878282819690
+      Venue_Manager_44: -2219312311269758110
+      Venue_Manager_45: 3738230009697552179
+      Venue_Manager_46: 8073541015675731015
+      Venue_Manager_47: -8662459275557174624
+      Venue_Manager_48: -6766022664362947525
+      Venue_Manager_49: -5254116058459635238
+      Venue_Manager_5: -3641298240370056190
+      Venue_Manager_50: -2682349043359640344
+      Venue_Manager_51: 8074797865053754105
+      Venue_Manager_52: -2250732637599394279
+      Venue_Manager_53: 3465245343582876449
+      Venue_Manager_54: 1065740428925924201
+      Venue_Manager_55: -749591354845545760
+      Venue_Manager_56: 4537196989366619003
+      Venue_Manager_57: 512430357160994624
+      Venue_Manager_58: -4336850533092921790
+      Venue_Manager_59: 4952622478914172706
+      Venue_Manager_6: 3583319941809780604
+      Venue_Manager_60: -1236722521020344584
+      Venue_Manager_61: -7708663338087279641
+      Venue_Manager_62: 3894397058723749916
+      Venue_Manager_63: -4947655706894080668
+      Venue_Manager_64: -9136141430808729228
+      Venue_Manager_65: 3568127826904845256
+      Venue_Manager_66: -3908780284981323881
+      Venue_Manager_67: 6965324856050238857
+      Venue_Manager_68: -6315365450270590886
+      Venue_Manager_69: 8141517400890032008
+      Venue_Manager_7: -4933016663647440012
+      Venue_Manager_70: 2851048306849392003
+      Venue_Manager_71: 4171858816446152121
+      Venue_Manager_72: -1804690562178864441
+      Venue_Manager_73: 2935817252664293307
+      Venue_Manager_74: -6384521364985062590
+      Venue_Manager_75: -6224701408511818810
+      Venue_Manager_76: 5690486854274722973
+      Venue_Manager_77: 6220471799066386582
+      Venue_Manager_78: -8813215115073597207
+      Venue_Manager_79: 4382003593616995441
+      Venue_Manager_8: -5960311860225475277
+      Venue_Manager_80: -1240407616902236764
+      Venue_Manager_81: 3188442528422323847
+      Venue_Manager_82: -7627902237008931869
+      Venue_Manager_83: 3424048112839941956
+      Venue_Manager_84: 8967556924930140720
+      Venue_Manager_85: 8102188243175599888
+      Venue_Manager_86: 319309301091903114
+      Venue_Manager_87: 2617515570025779156
+      Venue_Manager_88: -3434607598829777506
+      Venue_Manager_89: -2519861557302237144
+      Venue_Manager_9: -3152691240085804255
+      Venue_Manager_90: -7390585855269353969
+      Venue_Manager_91: 5134003587259551716
+      Venue_Manager_92: 944694086022552820
+      Venue_Manager_93: 1121548456310324951
+      Venue_Manager_94: 1274197812454964547
+      Venue_Manager_95: -4263696619647262300
+      Venue_Manager_96: -7588744902736227059
+      Venue_Manager_97: -2565109296404809892
+      Venue_Manager_98: -890156059498674531
+      Venue_Manager_99: -433395211020097972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

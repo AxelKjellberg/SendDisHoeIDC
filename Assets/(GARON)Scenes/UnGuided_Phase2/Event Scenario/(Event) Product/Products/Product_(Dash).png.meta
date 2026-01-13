@@ -1,0 +1,6838 @@
+fileFormatVersion: 2
+guid: d8e7bdae27f7944b3998fabb153d304f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1036686133009185743
+    second: Product_(Dash)_0
+  - first:
+      213: -8263175052151062585
+    second: Product_(Dash)_1
+  - first:
+      213: 2437766898735106031
+    second: Product_(Dash)_2
+  - first:
+      213: 3802757248459408539
+    second: Product_(Dash)_3
+  - first:
+      213: 6167814097083101725
+    second: Product_(Dash)_4
+  - first:
+      213: 7445401068389675825
+    second: Product_(Dash)_5
+  - first:
+      213: -8948406714294641136
+    second: Product_(Dash)_6
+  - first:
+      213: 470746725863520227
+    second: Product_(Dash)_7
+  - first:
+      213: 8337580991475308657
+    second: Product_(Dash)_8
+  - first:
+      213: 2846172551690524260
+    second: Product_(Dash)_9
+  - first:
+      213: 5305018688508254557
+    second: Product_(Dash)_10
+  - first:
+      213: 3933861215555049437
+    second: Product_(Dash)_11
+  - first:
+      213: -2393691696242271261
+    second: Product_(Dash)_12
+  - first:
+      213: 6504737519866581715
+    second: Product_(Dash)_13
+  - first:
+      213: -6343216052727404248
+    second: Product_(Dash)_14
+  - first:
+      213: 5081675197559549701
+    second: Product_(Dash)_15
+  - first:
+      213: -4980517318313473332
+    second: Product_(Dash)_16
+  - first:
+      213: 4844672650131834479
+    second: Product_(Dash)_17
+  - first:
+      213: -2573888054208052326
+    second: Product_(Dash)_18
+  - first:
+      213: -9036568791926180110
+    second: Product_(Dash)_19
+  - first:
+      213: -5691261027007530174
+    second: Product_(Dash)_20
+  - first:
+      213: -2158961799194631326
+    second: Product_(Dash)_21
+  - first:
+      213: 4173599012443890436
+    second: Product_(Dash)_22
+  - first:
+      213: 1867086128087953256
+    second: Product_(Dash)_23
+  - first:
+      213: 1835725927842701695
+    second: Product_(Dash)_24
+  - first:
+      213: -2226550765451349559
+    second: Product_(Dash)_25
+  - first:
+      213: 4994936175923939038
+    second: Product_(Dash)_26
+  - first:
+      213: 5614362805818005683
+    second: Product_(Dash)_27
+  - first:
+      213: -6367434319511515632
+    second: Product_(Dash)_28
+  - first:
+      213: -8939395553812453127
+    second: Product_(Dash)_29
+  - first:
+      213: 2228825037755807778
+    second: Product_(Dash)_30
+  - first:
+      213: 4230808750700848065
+    second: Product_(Dash)_31
+  - first:
+      213: -8510437988147429981
+    second: Product_(Dash)_32
+  - first:
+      213: 2820493111084513298
+    second: Product_(Dash)_33
+  - first:
+      213: 7763564714155431937
+    second: Product_(Dash)_34
+  - first:
+      213: -788725396399332073
+    second: Product_(Dash)_35
+  - first:
+      213: -9009978386671076837
+    second: Product_(Dash)_36
+  - first:
+      213: -1855186818382491634
+    second: Product_(Dash)_37
+  - first:
+      213: -4957643813468924851
+    second: Product_(Dash)_38
+  - first:
+      213: -6440787717316801074
+    second: Product_(Dash)_39
+  - first:
+      213: 3297591187082405439
+    second: Product_(Dash)_40
+  - first:
+      213: 9119923068243357557
+    second: Product_(Dash)_41
+  - first:
+      213: -8399867403703403691
+    second: Product_(Dash)_42
+  - first:
+      213: -2914482587264401024
+    second: Product_(Dash)_43
+  - first:
+      213: -7270892032450132589
+    second: Product_(Dash)_44
+  - first:
+      213: 5572863955575994577
+    second: Product_(Dash)_45
+  - first:
+      213: -7616010180529281283
+    second: Product_(Dash)_46
+  - first:
+      213: 205165007530867436
+    second: Product_(Dash)_47
+  - first:
+      213: -668203290382162113
+    second: Product_(Dash)_48
+  - first:
+      213: -541865700443381335
+    second: Product_(Dash)_49
+  - first:
+      213: -6592733171671678555
+    second: Product_(Dash)_50
+  - first:
+      213: -7729690249066271187
+    second: Product_(Dash)_51
+  - first:
+      213: 3008825451147011672
+    second: Product_(Dash)_52
+  - first:
+      213: 6363847667174452252
+    second: Product_(Dash)_53
+  - first:
+      213: 5684743399158132037
+    second: Product_(Dash)_54
+  - first:
+      213: -4879548661073239705
+    second: Product_(Dash)_55
+  - first:
+      213: -8793861496272533091
+    second: Product_(Dash)_56
+  - first:
+      213: 4519642393261450127
+    second: Product_(Dash)_57
+  - first:
+      213: -7839721511581967768
+    second: Product_(Dash)_58
+  - first:
+      213: -3186644527181403699
+    second: Product_(Dash)_59
+  - first:
+      213: -9161344489815651323
+    second: Product_(Dash)_60
+  - first:
+      213: -4938690473226041398
+    second: Product_(Dash)_61
+  - first:
+      213: 6328108567281579758
+    second: Product_(Dash)_62
+  - first:
+      213: 2975064366311143968
+    second: Product_(Dash)_63
+  - first:
+      213: 588745324665863639
+    second: Product_(Dash)_64
+  - first:
+      213: 8845631997573780118
+    second: Product_(Dash)_65
+  - first:
+      213: -4297665697542714024
+    second: Product_(Dash)_66
+  - first:
+      213: 3936164468591291138
+    second: Product_(Dash)_67
+  - first:
+      213: -2647837027872231178
+    second: Product_(Dash)_68
+  - first:
+      213: 1292246780980079046
+    second: Product_(Dash)_69
+  - first:
+      213: -7828369271211439672
+    second: Product_(Dash)_70
+  - first:
+      213: 414060532183631342
+    second: Product_(Dash)_71
+  - first:
+      213: 5417146630206739731
+    second: Product_(Dash)_72
+  - first:
+      213: 1803243648299827738
+    second: Product_(Dash)_73
+  - first:
+      213: -5970092952410051748
+    second: Product_(Dash)_74
+  - first:
+      213: -876855407193121606
+    second: Product_(Dash)_75
+  - first:
+      213: 3115546539894235227
+    second: Product_(Dash)_76
+  - first:
+      213: 8959376944462693742
+    second: Product_(Dash)_77
+  - first:
+      213: -2441408169619381959
+    second: Product_(Dash)_78
+  - first:
+      213: -7684133858812094774
+    second: Product_(Dash)_79
+  - first:
+      213: 6878226042451794756
+    second: Product_(Dash)_80
+  - first:
+      213: -7205952510181470359
+    second: Product_(Dash)_81
+  - first:
+      213: -6886776438132118033
+    second: Product_(Dash)_82
+  - first:
+      213: -1895969376061182930
+    second: Product_(Dash)_83
+  - first:
+      213: -3503051726033820814
+    second: Product_(Dash)_84
+  - first:
+      213: -87382327617522772
+    second: Product_(Dash)_85
+  - first:
+      213: -3067798802306505292
+    second: Product_(Dash)_86
+  - first:
+      213: -8632698007752907987
+    second: Product_(Dash)_87
+  - first:
+      213: -7240270614403203807
+    second: Product_(Dash)_88
+  - first:
+      213: -4741787215402189623
+    second: Product_(Dash)_89
+  - first:
+      213: -1766244123125907317
+    second: Product_(Dash)_90
+  - first:
+      213: -8530900708575631196
+    second: Product_(Dash)_91
+  - first:
+      213: 6417470553301235820
+    second: Product_(Dash)_92
+  - first:
+      213: -2697740644057654586
+    second: Product_(Dash)_93
+  - first:
+      213: -3110407952939287895
+    second: Product_(Dash)_94
+  - first:
+      213: -6061938650332257106
+    second: Product_(Dash)_95
+  - first:
+      213: 4707304108799985639
+    second: Product_(Dash)_96
+  - first:
+      213: -4596681521923996182
+    second: Product_(Dash)_97
+  - first:
+      213: -379262854504226929
+    second: Product_(Dash)_98
+  - first:
+      213: -6299413423138374067
+    second: Product_(Dash)_99
+  - first:
+      213: 1167551938872620777
+    second: Product_(Dash)_100
+  - first:
+      213: -223013489495533422
+    second: Product_(Dash)_101
+  - first:
+      213: 4865619362244679290
+    second: Product_(Dash)_102
+  - first:
+      213: 7201691937459648497
+    second: Product_(Dash)_103
+  - first:
+      213: -1819090525177034078
+    second: Product_(Dash)_104
+  - first:
+      213: 6983540082256321932
+    second: Product_(Dash)_105
+  - first:
+      213: 6886801254467823331
+    second: Product_(Dash)_106
+  - first:
+      213: -3150152424726798276
+    second: Product_(Dash)_107
+  - first:
+      213: 6285786199922743476
+    second: Product_(Dash)_108
+  - first:
+      213: 3603339911521068378
+    second: Product_(Dash)_109
+  - first:
+      213: 5306793384087742797
+    second: Product_(Dash)_110
+  - first:
+      213: -9159927615037671889
+    second: Product_(Dash)_111
+  - first:
+      213: -8321773715029487126
+    second: Product_(Dash)_112
+  - first:
+      213: -8002842499969717656
+    second: Product_(Dash)_113
+  - first:
+      213: 9053559877896980911
+    second: Product_(Dash)_114
+  - first:
+      213: -1546551212662850659
+    second: Product_(Dash)_115
+  - first:
+      213: 2026049558502325749
+    second: Product_(Dash)_116
+  - first:
+      213: 2503061505226450641
+    second: Product_(Dash)_117
+  - first:
+      213: -1803290757388175182
+    second: Product_(Dash)_118
+  - first:
+      213: -1717668257610075208
+    second: Product_(Dash)_119
+  - first:
+      213: -5707835222273533702
+    second: Product_(Dash)_120
+  - first:
+      213: -2279980598049144496
+    second: Product_(Dash)_121
+  - first:
+      213: -8187585081478785190
+    second: Product_(Dash)_122
+  - first:
+      213: -9032699484459583228
+    second: Product_(Dash)_123
+  - first:
+      213: 2957054206221609264
+    second: Product_(Dash)_124
+  - first:
+      213: -6965652340612604620
+    second: Product_(Dash)_125
+  - first:
+      213: -1587324903961491214
+    second: Product_(Dash)_126
+  - first:
+      213: -3802584053277641919
+    second: Product_(Dash)_127
+  - first:
+      213: -7527639112531506427
+    second: Product_(Dash)_128
+  - first:
+      213: 6794462570632607340
+    second: Product_(Dash)_129
+  - first:
+      213: 8121664212595736519
+    second: Product_(Dash)_130
+  - first:
+      213: -2307869839219647624
+    second: Product_(Dash)_131
+  - first:
+      213: -5569221416403480454
+    second: Product_(Dash)_132
+  - first:
+      213: -4451740889526468344
+    second: Product_(Dash)_133
+  - first:
+      213: -7893799864044977957
+    second: Product_(Dash)_134
+  - first:
+      213: -4035642737834510375
+    second: Product_(Dash)_135
+  - first:
+      213: 6406967125485590715
+    second: Product_(Dash)_136
+  - first:
+      213: -5282374191864840399
+    second: Product_(Dash)_137
+  - first:
+      213: 1428856141628224255
+    second: Product_(Dash)_138
+  - first:
+      213: 8407653336396978521
+    second: Product_(Dash)_139
+  - first:
+      213: 9062256805185929012
+    second: Product_(Dash)_140
+  - first:
+      213: 7701012209192652384
+    second: Product_(Dash)_141
+  - first:
+      213: -6836345961433066095
+    second: Product_(Dash)_142
+  - first:
+      213: -5274649116485145118
+    second: Product_(Dash)_143
+  - first:
+      213: -7240116666614553433
+    second: Product_(Dash)_144
+  - first:
+      213: -4573486133442683055
+    second: Product_(Dash)_145
+  - first:
+      213: -4075695200810190237
+    second: Product_(Dash)_146
+  - first:
+      213: 7848164083979066664
+    second: Product_(Dash)_147
+  - first:
+      213: 2667812677842721664
+    second: Product_(Dash)_148
+  - first:
+      213: 437932521341425814
+    second: Product_(Dash)_149
+  - first:
+      213: -7182336893409323556
+    second: Product_(Dash)_150
+  - first:
+      213: 4400197459065742049
+    second: Product_(Dash)_151
+  - first:
+      213: 4151969360727486395
+    second: Product_(Dash)_152
+  - first:
+      213: 9148899054473421951
+    second: Product_(Dash)_153
+  - first:
+      213: 1103283434200669758
+    second: Product_(Dash)_154
+  - first:
+      213: 3659486211987544335
+    second: Product_(Dash)_155
+  - first:
+      213: -4265143165060431357
+    second: Product_(Dash)_156
+  - first:
+      213: -6306712932503796947
+    second: Product_(Dash)_157
+  - first:
+      213: 5621312572384072690
+    second: Product_(Dash)_158
+  - first:
+      213: 5352271364791909985
+    second: Product_(Dash)_159
+  - first:
+      213: -6259158880450769134
+    second: Product_(Dash)_160
+  - first:
+      213: 7628728418908318864
+    second: Product_(Dash)_161
+  - first:
+      213: -4787750803783687400
+    second: Product_(Dash)_162
+  - first:
+      213: 7777232851614621894
+    second: Product_(Dash)_163
+  - first:
+      213: 5612010686014980525
+    second: Product_(Dash)_164
+  - first:
+      213: 1429470664090398958
+    second: Product_(Dash)_165
+  - first:
+      213: 5823033677672148865
+    second: Product_(Dash)_166
+  - first:
+      213: -825168660311194469
+    second: Product_(Dash)_167
+  - first:
+      213: 6837359388524709308
+    second: Product_(Dash)_168
+  - first:
+      213: -5325592742674543640
+    second: Product_(Dash)_169
+  - first:
+      213: 8389377947833631051
+    second: Product_(Dash)_170
+  - first:
+      213: 3966992528537340560
+    second: Product_(Dash)_171
+  - first:
+      213: 5971851822425008040
+    second: Product_(Dash)_172
+  - first:
+      213: 8085791323865639314
+    second: Product_(Dash)_173
+  - first:
+      213: 3400785342717770588
+    second: Product_(Dash)_174
+  - first:
+      213: 8187100173417675342
+    second: Product_(Dash)_175
+  - first:
+      213: -7701518602359499332
+    second: Product_(Dash)_176
+  - first:
+      213: -8783332565215462746
+    second: Product_(Dash)_177
+  - first:
+      213: -5095799604315038176
+    second: Product_(Dash)_178
+  - first:
+      213: 8994879247486633940
+    second: Product_(Dash)_179
+  - first:
+      213: 8464981401653979806
+    second: Product_(Dash)_180
+  - first:
+      213: -404356992583703347
+    second: Product_(Dash)_181
+  - first:
+      213: -5651273741057197977
+    second: Product_(Dash)_182
+  - first:
+      213: 5228716893006323217
+    second: Product_(Dash)_183
+  - first:
+      213: -2103531939206397527
+    second: Product_(Dash)_184
+  - first:
+      213: -581972593845716625
+    second: Product_(Dash)_185
+  - first:
+      213: -8854374425725255143
+    second: Product_(Dash)_186
+  - first:
+      213: 9186892900706380011
+    second: Product_(Dash)_187
+  - first:
+      213: 7052181468860264271
+    second: Product_(Dash)_188
+  - first:
+      213: 45490706676407106
+    second: Product_(Dash)_189
+  - first:
+      213: -5575993357432480336
+    second: Product_(Dash)_190
+  - first:
+      213: -1118073814633650421
+    second: Product_(Dash)_191
+  - first:
+      213: 1182401956356545056
+    second: Product_(Dash)_192
+  - first:
+      213: -1383554984124755350
+    second: Product_(Dash)_193
+  - first:
+      213: 7826245164228572528
+    second: Product_(Dash)_194
+  - first:
+      213: -3668165145468924489
+    second: Product_(Dash)_195
+  - first:
+      213: -7506123131054831023
+    second: Product_(Dash)_196
+  - first:
+      213: 9033870177509268157
+    second: Product_(Dash)_197
+  - first:
+      213: 6865377974340735588
+    second: Product_(Dash)_198
+  - first:
+      213: 6818406401493562888
+    second: Product_(Dash)_199
+  - first:
+      213: 2781490066564345748
+    second: Product_(Dash)_200
+  - first:
+      213: 3033722866895092537
+    second: Product_(Dash)_201
+  - first:
+      213: -2764585964485090480
+    second: Product_(Dash)_202
+  - first:
+      213: 3994344336597332850
+    second: Product_(Dash)_203
+  - first:
+      213: 6838872679314028252
+    second: Product_(Dash)_204
+  - first:
+      213: 1523437843979346068
+    second: Product_(Dash)_205
+  - first:
+      213: 2219863283078806718
+    second: Product_(Dash)_206
+  - first:
+      213: -35596916338647617
+    second: Product_(Dash)_207
+  - first:
+      213: -3253971448750629424
+    second: Product_(Dash)_208
+  - first:
+      213: -6483511133169420328
+    second: Product_(Dash)_209
+  - first:
+      213: -4399216442347509777
+    second: Product_(Dash)_210
+  - first:
+      213: -7091915345418745260
+    second: Product_(Dash)_211
+  - first:
+      213: 6606119351028992960
+    second: Product_(Dash)_212
+  - first:
+      213: -6228524793586535731
+    second: Product_(Dash)_213
+  - first:
+      213: 7723510601925150089
+    second: Product_(Dash)_214
+  - first:
+      213: 2898715020324626777
+    second: Product_(Dash)_215
+  - first:
+      213: 4470888609165890997
+    second: Product_(Dash)_216
+  - first:
+      213: 3788227973173500252
+    second: Product_(Dash)_217
+  - first:
+      213: -8444080367703419689
+    second: Product_(Dash)_218
+  - first:
+      213: 2557703590029460258
+    second: Product_(Dash)_219
+  - first:
+      213: -6588635782229285317
+    second: Product_(Dash)_220
+  - first:
+      213: -4589242813091401557
+    second: Product_(Dash)_221
+  - first:
+      213: 125488443416721285
+    second: Product_(Dash)_222
+  - first:
+      213: -8866137485667324079
+    second: Product_(Dash)_223
+  - first:
+      213: 5247981043914541648
+    second: Product_(Dash)_224
+  - first:
+      213: 6318717219962932153
+    second: Product_(Dash)_225
+  - first:
+      213: -293263792161970001
+    second: Product_(Dash)_226
+  - first:
+      213: 4447185792686045527
+    second: Product_(Dash)_227
+  - first:
+      213: -6448139512196857504
+    second: Product_(Dash)_228
+  - first:
+      213: -1290683373760569215
+    second: Product_(Dash)_229
+  - first:
+      213: 6228550274284448284
+    second: Product_(Dash)_230
+  - first:
+      213: -7078705173009311751
+    second: Product_(Dash)_231
+  - first:
+      213: -6847587880539115960
+    second: Product_(Dash)_232
+  - first:
+      213: 6182387628446360800
+    second: Product_(Dash)_233
+  - first:
+      213: -3171228705069551765
+    second: Product_(Dash)_234
+  - first:
+      213: -3952436368149580522
+    second: Product_(Dash)_235
+  - first:
+      213: -3274510860991831611
+    second: Product_(Dash)_236
+  - first:
+      213: 8209456137519438251
+    second: Product_(Dash)_237
+  - first:
+      213: -7737227204440712829
+    second: Product_(Dash)_238
+  - first:
+      213: 837729159371187750
+    second: Product_(Dash)_239
+  - first:
+      213: -3434467607482555436
+    second: Product_(Dash)_240
+  - first:
+      213: -2350012508960183076
+    second: Product_(Dash)_241
+  - first:
+      213: 1335783183132400296
+    second: Product_(Dash)_242
+  - first:
+      213: 801120203371479536
+    second: Product_(Dash)_243
+  - first:
+      213: 2003014056422183010
+    second: Product_(Dash)_244
+  - first:
+      213: 2369967779844230183
+    second: Product_(Dash)_245
+  - first:
+      213: -8054456040334456577
+    second: Product_(Dash)_246
+  - first:
+      213: -4538901175857271686
+    second: Product_(Dash)_247
+  - first:
+      213: -7030991110156555160
+    second: Product_(Dash)_248
+  - first:
+      213: 7266943696951012173
+    second: Product_(Dash)_249
+  - first:
+      213: 4535589497086859922
+    second: Product_(Dash)_250
+  - first:
+      213: -5256408119569942433
+    second: Product_(Dash)_251
+  - first:
+      213: 1808318564105940669
+    second: Product_(Dash)_252
+  - first:
+      213: -5691416559647476358
+    second: Product_(Dash)_253
+  - first:
+      213: -3028634732042862303
+    second: Product_(Dash)_254
+  - first:
+      213: 2531984275513127024
+    second: Product_(Dash)_255
+  - first:
+      213: -2573455257110335231
+    second: Product_(Dash)_256
+  - first:
+      213: 9110128568411080951
+    second: Product_(Dash)_257
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Product_(Dash)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1466
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1340a626473fc91f0800000000000000
+      internalID: -1036686133009185743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1478
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf7aabf11e435d80800000000000000
+      internalID: -8263175052151062585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1478
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7cf4c1410b4d120800000000000000
+      internalID: 2437766898735106031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1476
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b940771d19b16c430800000000000000
+      internalID: 3802757248459408539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1478
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12f8492e3a789550800000000000000
+      internalID: 6167814097083101725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1477
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1333ea303d0635760800000000000000
+      internalID: 7445401068389675825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1478
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e5fb8018fd0d380800000000000000
+      internalID: -8948406714294641136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1476
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f54e27ad688600800000000000000
+      internalID: 470746725863520227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1478
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1785fe2ccb905b370800000000000000
+      internalID: 8337580991475308657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1476
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4661bf82bd2af7720800000000000000
+      internalID: 2846172551690524260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1466
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d757d3663f9940800000000000000
+      internalID: 5305018688508254557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1476
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd758dcdee1e79630800000000000000
+      internalID: 3933861215555049437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1454
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb5da7a516e7ced0800000000000000
+      internalID: -2393691696242271261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1476
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29dcc8f48754a50800000000000000
+      internalID: 6504737519866581715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1476
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a0ab9b9e58f7a0800000000000000
+      internalID: -6343216052727404248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1454
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f23761bacb58640800000000000000
+      internalID: 5081675197559549701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1476
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca8e3c03e5a1eab0800000000000000
+      internalID: -4980517318313473332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1476
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66882c6b1cbb3340800000000000000
+      internalID: 4844672650131834479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1476
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ce45a376b74cd0800000000000000
+      internalID: -2573888054208052326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1476
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6fbd0cf88a79280800000000000000
+      internalID: -9036568791926180110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1476
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bf031ef349401b0800000000000000
+      internalID: -5691261027007530174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1478
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263ad5baea3d902e0800000000000000
+      internalID: -2158961799194631326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_22
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 1527
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403a3ab603a9be930800000000000000
+      internalID: 4173599012443890436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_23
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1493
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fedb5f0f839e910800000000000000
+      internalID: 1867086128087953256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1382
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71e90a510fc97910800000000000000
+      internalID: 1835725927842701695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1382
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f5e620e3b911e0800000000000000
+      internalID: -2226550765451349559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1383
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6c1b9dcf3915540800000000000000
+      internalID: 4994936175923939038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1382
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b892f8c9393aed40800000000000000
+      internalID: 5614362805818005683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1383
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e82e6f83452a7a0800000000000000
+      internalID: -6367434319511515632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1382
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f86d445b13e0f380800000000000000
+      internalID: -8939395553812453127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1382
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2287ee120906eee10800000000000000
+      internalID: 2228825037755807778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1371
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3632a942ad6ba30800000000000000
+      internalID: 4230808750700848065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1382
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad7b717db9d4e980800000000000000
+      internalID: -8510437988147429981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1383
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f0a97a87642720800000000000000
+      internalID: 2820493111084513298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1383
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108ddf179f8bdbb60800000000000000
+      internalID: 7763564714155431937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1382
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e94a4e62ed05f0800000000000000
+      internalID: -788725396399332073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1383
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af58ce46026f280800000000000000
+      internalID: -9009978386671076837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1383
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00135afa6d0146e0800000000000000
+      internalID: -1855186818382491634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1382
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d449547e739e23bb0800000000000000
+      internalID: -4957643813468924851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1383
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd02a322b9bd96a0800000000000000
+      internalID: -6440787717316801074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1382
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36618896b563cd20800000000000000
+      internalID: 3297591187082405439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1382
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f298d06b9709e70800000000000000
+      internalID: 9119923068243357557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1382
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b30e9c91dad6b80800000000000000
+      internalID: -8399867403703403691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1402
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0814b0a478dad87d0800000000000000
+      internalID: -2914482587264401024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1382
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3958795283a981b90800000000000000
+      internalID: -7270892032450132589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1382
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d87fa5cd3ac65d40800000000000000
+      internalID: 5572863955575994577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1382
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df62bc7971f7e4690800000000000000
+      internalID: -7616010180529281283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1383
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceab732cc74e8d200800000000000000
+      internalID: 205165007530867436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1383
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37260fc5a01ab6f0800000000000000
+      internalID: -668203290382162113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1390
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1aa113408ea78f0800000000000000
+      internalID: -541865700443381335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1382
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a143933c18e184a0800000000000000
+      internalID: -6592733171671678555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1383
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eaa901caf9ab490800000000000000
+      internalID: -7729690249066271187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_52
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1402
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a5ce6ece71c920800000000000000
+      internalID: 3008825451147011672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1382
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca1a67cbde05850800000000000000
+      internalID: 6363847667174452252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_54
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1382
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d2112a00444ee40800000000000000
+      internalID: 5684743399158132037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1374
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7612f70885c584cb0800000000000000
+      internalID: -4879548661073239705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1382
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c0be9f8de5f580800000000000000
+      internalID: -8793861496272533091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_57
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1382
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8325228fcef8be30800000000000000
+      internalID: 4519642393261450127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a1b2462d6b33390800000000000000
+      internalID: -7839721511581967768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1304
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e8e3afa3c6c3d0800000000000000
+      internalID: -3186644527181403699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1296
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c4e83b9bd5cd080800000000000000
+      internalID: -9161344489815651323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1296
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac781cf4e2f367bb0800000000000000
+      internalID: -4938690473226041398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1304
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6bce4d635f1d750800000000000000
+      internalID: 6328108567281579758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1304
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02af5e1574d894920800000000000000
+      internalID: 2975064366311143968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd71e3e0c4ab2800800000000000000
+      internalID: 588745324665863639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1304
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d6358f6ff1ca70800000000000000
+      internalID: 8845631997573780118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1304
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dc59e61df9b54c0800000000000000
+      internalID: -4297665697542714024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1303
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20be5efbab010a630800000000000000
+      internalID: 3936164468591291138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1303
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0bc82804ef04bd0800000000000000
+      internalID: -2647837027872231178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1296
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9a576c99bfee110800000000000000
+      internalID: 1292246780980079046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9cbd2df9b0c5390800000000000000
+      internalID: -7828369271211439672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1303
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee580583cd90fb500800000000000000
+      internalID: 414060532183631342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1303
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3155dada8229d2b40800000000000000
+      internalID: 5417146630206739731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1304
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12046c4b88660910800000000000000
+      internalID: 1803243648299827738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1303
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b29873718f52da0800000000000000
+      internalID: -5970092952410051748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1174
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc9fd627a8c4d3f0800000000000000
+      internalID: -876855407193121606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1174
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e7973215ac3b20800000000000000
+      internalID: 3115546539894235227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_77
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1173
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e650687bcd9165c70800000000000000
+      internalID: 8959376944462693742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1173
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931a91274306e1ed0800000000000000
+      internalID: -2441408169619381959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1173
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac614fab7f87c5590800000000000000
+      internalID: -7684133858812094774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1173
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b1e29a42e547f50800000000000000
+      internalID: 6878226042451794756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_81
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1173
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f8c4aee505ffb90800000000000000
+      internalID: -7205952510181470359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_82
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1174
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedea9531514d60a0800000000000000
+      internalID: -6886776438132118033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_83
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1173
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2caad2d5e920b5e0800000000000000
+      internalID: -1895969376061182930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_84
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1173
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2736fefd309a26fc0800000000000000
+      internalID: -3503051726033820814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_85
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1174
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f5ba6c3e89cef0800000000000000
+      internalID: -87382327617522772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_86
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1173
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e6224e3dfc65d0800000000000000
+      internalID: -3067798802306505292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_87
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d236aa266ee723880800000000000000
+      internalID: -8632698007752907987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_88
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1174
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d3cce9c34658b90800000000000000
+      internalID: -7240270614403203807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_89
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccb67196a9c13eb0800000000000000
+      internalID: -4741787215402189623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_90
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808576f35a0d77e0800000000000000
+      internalID: -1766244123125907317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_91
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1173
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a83311072c9980800000000000000
+      internalID: -8530900708575631196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_92
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1173
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68bc0e877f6f0950800000000000000
+      internalID: 6417470553301235820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_93
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1173
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca5fce6d23bf8ad0800000000000000
+      internalID: -2697740644057654586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_94
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf08a427c95d4d0800000000000000
+      internalID: -3110407952939287895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_95
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1170
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42cb04aeaafdba0800000000000000
+      internalID: -6061938650332257106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_96
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1169
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e782c68524b35140800000000000000
+      internalID: 4707304108799985639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_97
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1169
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae54e14928e4530c0800000000000000
+      internalID: -4596681521923996182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_98
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1169
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f56c871769cbaf0800000000000000
+      internalID: -379262854504226929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_99
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1169
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e728c0edcf398a0800000000000000
+      internalID: -6299413423138374067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_100
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6325d6d4af33010800000000000000
+      internalID: 1167551938872620777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_101
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1169
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2989f72b962b7ecf0800000000000000
+      internalID: -223013489495533422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_102
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a765bd2e707268340800000000000000
+      internalID: 4865619362244679290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_103
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1174
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7b31239ac81f360800000000000000
+      internalID: 7201691937459648497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_104
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa4b882eca41c6e0800000000000000
+      internalID: -1819090525177034078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_105
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1173
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d179554b48ae060800000000000000
+      internalID: 6983540082256321932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_106
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1173
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6e44bc045d29f50800000000000000
+      internalID: 6886801254467823331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_107
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1173
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e2d75f096844d0800000000000000
+      internalID: -3150152424726798276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_108
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1173
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8927cce399b3750800000000000000
+      internalID: 6285786199922743476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_109
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1173
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a556337ee82a10230800000000000000
+      internalID: 3603339911521068378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_110
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1173
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4961fa577485a940800000000000000
+      internalID: 5306793384087742797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_111
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1174
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2673619d5661e080800000000000000
+      internalID: -9159927615037671889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_112
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1165
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11c7695ee138c80800000000000000
+      internalID: -8321773715029487126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_113
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1173
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ae7eba52130f090800000000000000
+      internalID: -8002842499969717656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_114
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1174
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa947cabdb4b4ad70800000000000000
+      internalID: 9053559877896980911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_115
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bf746bddb898ae0800000000000000
+      internalID: -1546551212662850659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_116
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1174
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3ed7c659fd1c10800000000000000
+      internalID: 2026049558502325749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_117
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1173
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62afd5d29acb220800000000000000
+      internalID: 2503061505226450641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_118
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1173
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8f1234c9c69f6e0800000000000000
+      internalID: -1803290757388175182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_119
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1173
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3ff2ff1dd9928e0800000000000000
+      internalID: -1717668257610075208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_120
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1174
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af85ce35b12b9c0b0800000000000000
+      internalID: -5707835222273533702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_121
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1165
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0518f76d9b1eb50e0800000000000000
+      internalID: -2279980598049144496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_122
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1173
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a575b228fbadf5e80800000000000000
+      internalID: -8187585081478785190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_123
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1170
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409bee91da765a280800000000000000
+      internalID: -9032699484459583228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_124
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1162
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e9672221990920800000000000000
+      internalID: 2957054206221609264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_125
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ddae01a18055f90800000000000000
+      internalID: -6965652340612604620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_126
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1170
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f88e3ce860b8f9e0800000000000000
+      internalID: -1587324903961491214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_127
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1162
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14332d353f18a3bc0800000000000000
+      internalID: -3802584053277641919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_128
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1170
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b093c3c14788790800000000000000
+      internalID: -7527639112531506427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_129
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c667e3a95b7ca4e50800000000000000
+      internalID: 6794462570632607340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_130
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1169
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf75c82292f5b070800000000000000
+      internalID: 8121664212595736519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_131
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1169
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b997ddb9cc8ffd0800000000000000
+      internalID: -2307869839219647624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_132
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1169
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d5c7f0a626b2b0800000000000000
+      internalID: -5569221416403480454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_133
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80181bf4f3d3832c0800000000000000
+      internalID: -4451740889526468344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_134
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1162
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd08297c8d6937290800000000000000
+      internalID: -7893799864044977957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_135
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d73dfacf448ef7c0800000000000000
+      internalID: -4035642737834510375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_136
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1169
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb89c22b7ae1ae850800000000000000
+      internalID: 6406967125485590715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_137
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1169
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7433e8ac31b6b0800000000000000
+      internalID: -5282374191864840399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_138
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1169
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b2e4271154d310800000000000000
+      internalID: 1428856141628224255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 4777
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d19ee92cfda470800000000000000
+      internalID: 8407653336396978521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 609
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3978ec8a93cd70800000000000000
+      internalID: 9062256805185929012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_141
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 934
+        width: 299
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ecfd37dcd7fda60800000000000000
+      internalID: 7701012209192652384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_142
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 934
+        width: 989
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951b1f819b6021a0800000000000000
+      internalID: -6836345961433066095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_143
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 766
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed2319239eacc6b0800000000000000
+      internalID: -5274649116485145118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_144
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 766
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4ed026040f58b90800000000000000
+      internalID: -7240116666614553433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_145
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 766
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f59fec796b780c0800000000000000
+      internalID: -4573486133442683055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_146
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab1fe0fc83077c0800000000000000
+      internalID: -4075695200810190237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_147
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 766
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d1d8c27a74aec60800000000000000
+      internalID: 7848164083979066664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_148
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b591eee79f50520800000000000000
+      internalID: 2667812677842721664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_149
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6989522de49d31600800000000000000
+      internalID: 437932521341425814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_150
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 766
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5972b26a6335c90800000000000000
+      internalID: -7182336893409323556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_151
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 757
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2a0399644a01d30800000000000000
+      internalID: 4400197459065742049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_152
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfa770b222ce9930800000000000000
+      internalID: 4151969360727486395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_153
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 765
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74abc3973b67fe70800000000000000
+      internalID: 9148899054473421951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_154
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e9a1e1076af4f00800000000000000
+      internalID: 1103283434200669758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_155
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 766
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0915fd225b19c230800000000000000
+      internalID: 3659486211987544335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_156
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 766
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302436a93ea2fc4c0800000000000000
+      internalID: -4265143165060431357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_157
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 766
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23cfb5900e0a78a0800000000000000
+      internalID: -6306712932503796947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_158
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3d368600ae20e40800000000000000
+      internalID: 5621312572384072690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_159
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 765
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ebaefd276174a40800000000000000
+      internalID: 5352271364791909985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_160
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 765
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f000229200329a0800000000000000
+      internalID: -6259158880450769134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_161
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 765
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c25f80410bed960800000000000000
+      internalID: 7628728418908318864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_162
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 766
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e163b20e7e8db0800000000000000
+      internalID: -4787750803783687400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_163
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 766
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ecffa2184eeb60800000000000000
+      internalID: 7777232851614621894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_164
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da18e973cfdd1ed40800000000000000
+      internalID: 5612010686014980525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_165
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee033fdceff76d310800000000000000
+      internalID: 1429470664090398958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_166
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fe8c037429fc050800000000000000
+      internalID: 5823033677672148865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_167
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94cd52b9796c84f0800000000000000
+      internalID: -825168660311194469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_168
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 766
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb582b2532e23ee50800000000000000
+      internalID: 6837359388524709308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_169
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4c72ed91b716b0800000000000000
+      internalID: -5325592742674543640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_170
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b418e137bce0d6470800000000000000
+      internalID: 8389377947833631051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_171
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 766
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac81acfa69d0730800000000000000
+      internalID: 3966992528537340560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_172
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 765
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a769ee979740e250800000000000000
+      internalID: 5971851822425008040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_173
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29962f26e50863070800000000000000
+      internalID: 8085791323865639314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_174
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 766
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b3c064044023f20800000000000000
+      internalID: 3400785342717770588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_175
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a79190b3c6e9170800000000000000
+      internalID: 8187100173417675342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_176
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59c43b2a5be1590800000000000000
+      internalID: -7701518602359499332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_177
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 765
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa363a61955b1680800000000000000
+      internalID: -8783332565215462746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_178
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ed93232451849b0800000000000000
+      internalID: -5095799604315038176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_179
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 765
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d749f7c40b34dc70800000000000000
+      internalID: 8994879247486633940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_180
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 765
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aafd34cb7a97570800000000000000
+      internalID: 8464981401653979806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_181
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 766
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46a96257f636af0800000000000000
+      internalID: -404356992583703347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_182
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768fac76974a291b0800000000000000
+      internalID: -5651273741057197977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_183
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 758
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed9beaf42209840800000000000000
+      internalID: 5228716893006323217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_184
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 766
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a10ae5a8d0cec2e0800000000000000
+      internalID: -2103531939206397527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_185
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6930d2620b6ce7f0800000000000000
+      internalID: -581972593845716625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_186
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 757
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c75e4f51fe1580800000000000000
+      internalID: -8854374425725255143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_187
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be869204b666e7f70800000000000000
+      internalID: 9186892900706380011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_188
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 766
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f220f8ea16ed160800000000000000
+      internalID: 7052181468860264271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_189
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 765
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b57048e8d91a000800000000000000
+      internalID: 45490706676407106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_190
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 765
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd9c4495971e92b0800000000000000
+      internalID: -5575993357432480336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_191
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0768161acdcb70f0800000000000000
+      internalID: -1118073814633650421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_192
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02adb5e805cb86010800000000000000
+      internalID: 1182401956356545056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_193
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62d5048210accce0800000000000000
+      internalID: -1383554984124755350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_194
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 765
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07576faf2886c9c60800000000000000
+      internalID: 7826245164228572528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_195
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 758
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd0bd62c3f081dc0800000000000000
+      internalID: -3668165145468924489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_196
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 765
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a422d08c4e4d790800000000000000
+      internalID: -7506123131054831023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_197
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 766
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba5f6d1011ce5d70800000000000000
+      internalID: 9033870177509268157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_198
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 766
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462de51b4e8b64f50800000000000000
+      internalID: 6865377974340735588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_199
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 765
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806f5472f78df9e50800000000000000
+      internalID: 6818406401493562888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_200
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 491
+        width: 4726
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f68d38a76d99620800000000000000
+      internalID: 2781490066564345748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_201
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 4726
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf244cfd2f91a20800000000000000
+      internalID: 3033722866895092537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_202
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 57
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e5d376b732a9d0800000000000000
+      internalID: -2764585964485090480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_203
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2733a7dd203ce6730800000000000000
+      internalID: 3994344336597332850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_204
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 26
+        width: 153
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f2aac77e88ee50800000000000000
+      internalID: 6838872679314028252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_205
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 59
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490a6c7c5a6542510800000000000000
+      internalID: 1523437843979346068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_206
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 60
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc38d505e98ece10800000000000000
+      internalID: 2219863283078806718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_207
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd198e0bc8818ff0800000000000000
+      internalID: -35596916338647617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_208
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 60
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd94f7253297d2d0800000000000000
+      internalID: -3253971448750629424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_209
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 59
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7752ab9f0f506a0800000000000000
+      internalID: -6483511133169420328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_210
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 60
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7a1d724f7d2f2c0800000000000000
+      internalID: -4399216442347509777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_211
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8c236194749d90800000000000000
+      internalID: -7091915345418745260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_212
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 60
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbcaed8c86adab50800000000000000
+      internalID: 6606119351028992960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_213
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 59
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2bf8b43b5df89a0800000000000000
+      internalID: -6228524793586535731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_214
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98546b6b8fb6f2b60800000000000000
+      internalID: 7723510601925150089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_215
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 87
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951e983f3fd4a3820800000000000000
+      internalID: 2898715020324626777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_216
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 87
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b55ca39089cb0e30800000000000000
+      internalID: 4470888609165890997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_217
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 87
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59543d454d729430800000000000000
+      internalID: 3788227973173500252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_218
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 87
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4103ce4a990da80800000000000000
+      internalID: -8444080367703419689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_219
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 87
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22382742dd9ce7320800000000000000
+      internalID: 2557703590029460258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_220
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 87
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36abc50aa67094a0800000000000000
+      internalID: -6588635782229285317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_221
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 87
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03ca1f9fbbf40c0800000000000000
+      internalID: -4589242813091401557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_222
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587354d0313ddb100800000000000000
+      internalID: 125488443416721285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_223
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 87
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f260d7ee625f480800000000000000
+      internalID: -8866137485667324079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_224
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 87
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a828654f294d840800000000000000
+      internalID: 5247981043914541648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_225
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 87
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc80465d790b750800000000000000
+      internalID: 6318717219962932153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_226
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 73
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8a3b2822e1eebf0800000000000000
+      internalID: -293263792161970001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_227
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 87
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759373f8ae397bd30800000000000000
+      internalID: 4447185792686045527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_228
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 87
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618851074b9386a0800000000000000
+      internalID: -6448139512196857504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_229
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 87
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180af755f42961ee0800000000000000
+      internalID: -1290683373760569215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_230
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 87
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ae2646971407650800000000000000
+      internalID: 6228550274284448284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_231
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 87
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f75f05562363cd90800000000000000
+      internalID: -7078705173009311751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_232
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 87
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e223c4a1b78f0a0800000000000000
+      internalID: -6847587880539115960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_233
+      rect:
+        serializedVersion: 2
+        x: 4687
+        y: 87
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a059dac04cc550800000000000000
+      internalID: 6182387628446360800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_234
+      rect:
+        serializedVersion: 2
+        x: 4702
+        y: 87
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6faecc6b488df3d0800000000000000
+      internalID: -3171228705069551765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_235
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 57
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615fb1760102629c0800000000000000
+      internalID: -3952436368149580522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_236
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 57
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c16c6598b99e82d0800000000000000
+      internalID: -3274510860991831611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_237
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba91ffb8cd8dde170800000000000000
+      internalID: 8209456137519438251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_238
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38992d4e9d8df9490800000000000000
+      internalID: -7737227204440712829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_239
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6266e426b3630ab00800000000000000
+      internalID: 837729159371187750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_240
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3aa6758e15650d0800000000000000
+      internalID: -3434467607482555436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_241
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 57
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc24b1f214136fd0800000000000000
+      internalID: -2350012508960183076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_242
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 57
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa1c8f4ab7a98210800000000000000
+      internalID: 1335783183132400296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_243
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 49
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1885894962e1b00800000000000000
+      internalID: 801120203371479536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_244
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 57
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26098210ca22ccb10800000000000000
+      internalID: 2003014056422183010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_245
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8cbe9321d3e020800000000000000
+      internalID: 2369967779844230183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_246
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 57
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff88dd8d7e2d83090800000000000000
+      internalID: -8054456040334456577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_247
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 59
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cac6ebd659201c0800000000000000
+      internalID: -4538901175857271686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_248
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 60
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c603c46d6ec6e90800000000000000
+      internalID: -7030991110156555160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_249
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 60
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b678b5ace59d460800000000000000
+      internalID: 7266943696951012173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_250
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 51
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29adad4fd96a1fe30800000000000000
+      internalID: 4535589497086859922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_251
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58fd863aac7d07b0800000000000000
+      internalID: -5256408119569942433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_252
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe67463720781910800000000000000
+      internalID: 1808318564105940669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_253
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75bf6d1bc60401b0800000000000000
+      internalID: -5691416559647476358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_254
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 60
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121cc22f1c028f5d0800000000000000
+      internalID: -3028634732042862303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 60
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b5d6984a632320800000000000000
+      internalID: 2531984275513127024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_256
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 59
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101b3921410494cd0800000000000000
+      internalID: -2573455257110335231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Product_(Dash)_257
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 59
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8c74a5aadad6e70800000000000000
+      internalID: 9110128568411080951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Product_(Dash)_0: -1036686133009185743
+      Product_(Dash)_1: -8263175052151062585
+      Product_(Dash)_10: 5305018688508254557
+      Product_(Dash)_100: 1167551938872620777
+      Product_(Dash)_101: -223013489495533422
+      Product_(Dash)_102: 4865619362244679290
+      Product_(Dash)_103: 7201691937459648497
+      Product_(Dash)_104: -1819090525177034078
+      Product_(Dash)_105: 6983540082256321932
+      Product_(Dash)_106: 6886801254467823331
+      Product_(Dash)_107: -3150152424726798276
+      Product_(Dash)_108: 6285786199922743476
+      Product_(Dash)_109: 3603339911521068378
+      Product_(Dash)_11: 3933861215555049437
+      Product_(Dash)_110: 5306793384087742797
+      Product_(Dash)_111: -9159927615037671889
+      Product_(Dash)_112: -8321773715029487126
+      Product_(Dash)_113: -8002842499969717656
+      Product_(Dash)_114: 9053559877896980911
+      Product_(Dash)_115: -1546551212662850659
+      Product_(Dash)_116: 2026049558502325749
+      Product_(Dash)_117: 2503061505226450641
+      Product_(Dash)_118: -1803290757388175182
+      Product_(Dash)_119: -1717668257610075208
+      Product_(Dash)_12: -2393691696242271261
+      Product_(Dash)_120: -5707835222273533702
+      Product_(Dash)_121: -2279980598049144496
+      Product_(Dash)_122: -8187585081478785190
+      Product_(Dash)_123: -9032699484459583228
+      Product_(Dash)_124: 2957054206221609264
+      Product_(Dash)_125: -6965652340612604620
+      Product_(Dash)_126: -1587324903961491214
+      Product_(Dash)_127: -3802584053277641919
+      Product_(Dash)_128: -7527639112531506427
+      Product_(Dash)_129: 6794462570632607340
+      Product_(Dash)_13: 6504737519866581715
+      Product_(Dash)_130: 8121664212595736519
+      Product_(Dash)_131: -2307869839219647624
+      Product_(Dash)_132: -5569221416403480454
+      Product_(Dash)_133: -4451740889526468344
+      Product_(Dash)_134: -7893799864044977957
+      Product_(Dash)_135: -4035642737834510375
+      Product_(Dash)_136: 6406967125485590715
+      Product_(Dash)_137: -5282374191864840399
+      Product_(Dash)_138: 1428856141628224255
+      Product_(Dash)_139: 8407653336396978521
+      Product_(Dash)_14: -6343216052727404248
+      Product_(Dash)_140: 9062256805185929012
+      Product_(Dash)_141: 7701012209192652384
+      Product_(Dash)_142: -6836345961433066095
+      Product_(Dash)_143: -5274649116485145118
+      Product_(Dash)_144: -7240116666614553433
+      Product_(Dash)_145: -4573486133442683055
+      Product_(Dash)_146: -4075695200810190237
+      Product_(Dash)_147: 7848164083979066664
+      Product_(Dash)_148: 2667812677842721664
+      Product_(Dash)_149: 437932521341425814
+      Product_(Dash)_15: 5081675197559549701
+      Product_(Dash)_150: -7182336893409323556
+      Product_(Dash)_151: 4400197459065742049
+      Product_(Dash)_152: 4151969360727486395
+      Product_(Dash)_153: 9148899054473421951
+      Product_(Dash)_154: 1103283434200669758
+      Product_(Dash)_155: 3659486211987544335
+      Product_(Dash)_156: -4265143165060431357
+      Product_(Dash)_157: -6306712932503796947
+      Product_(Dash)_158: 5621312572384072690
+      Product_(Dash)_159: 5352271364791909985
+      Product_(Dash)_16: -4980517318313473332
+      Product_(Dash)_160: -6259158880450769134
+      Product_(Dash)_161: 7628728418908318864
+      Product_(Dash)_162: -4787750803783687400
+      Product_(Dash)_163: 7777232851614621894
+      Product_(Dash)_164: 5612010686014980525
+      Product_(Dash)_165: 1429470664090398958
+      Product_(Dash)_166: 5823033677672148865
+      Product_(Dash)_167: -825168660311194469
+      Product_(Dash)_168: 6837359388524709308
+      Product_(Dash)_169: -5325592742674543640
+      Product_(Dash)_17: 4844672650131834479
+      Product_(Dash)_170: 8389377947833631051
+      Product_(Dash)_171: 3966992528537340560
+      Product_(Dash)_172: 5971851822425008040
+      Product_(Dash)_173: 8085791323865639314
+      Product_(Dash)_174: 3400785342717770588
+      Product_(Dash)_175: 8187100173417675342
+      Product_(Dash)_176: -7701518602359499332
+      Product_(Dash)_177: -8783332565215462746
+      Product_(Dash)_178: -5095799604315038176
+      Product_(Dash)_179: 8994879247486633940
+      Product_(Dash)_18: -2573888054208052326
+      Product_(Dash)_180: 8464981401653979806
+      Product_(Dash)_181: -404356992583703347
+      Product_(Dash)_182: -5651273741057197977
+      Product_(Dash)_183: 5228716893006323217
+      Product_(Dash)_184: -2103531939206397527
+      Product_(Dash)_185: -581972593845716625
+      Product_(Dash)_186: -8854374425725255143
+      Product_(Dash)_187: 9186892900706380011
+      Product_(Dash)_188: 7052181468860264271
+      Product_(Dash)_189: 45490706676407106
+      Product_(Dash)_19: -9036568791926180110
+      Product_(Dash)_190: -5575993357432480336
+      Product_(Dash)_191: -1118073814633650421
+      Product_(Dash)_192: 1182401956356545056
+      Product_(Dash)_193: -1383554984124755350
+      Product_(Dash)_194: 7826245164228572528
+      Product_(Dash)_195: -3668165145468924489
+      Product_(Dash)_196: -7506123131054831023
+      Product_(Dash)_197: 9033870177509268157
+      Product_(Dash)_198: 6865377974340735588
+      Product_(Dash)_199: 6818406401493562888
+      Product_(Dash)_2: 2437766898735106031
+      Product_(Dash)_20: -5691261027007530174
+      Product_(Dash)_200: 2781490066564345748
+      Product_(Dash)_201: 3033722866895092537
+      Product_(Dash)_202: -2764585964485090480
+      Product_(Dash)_203: 3994344336597332850
+      Product_(Dash)_204: 6838872679314028252
+      Product_(Dash)_205: 1523437843979346068
+      Product_(Dash)_206: 2219863283078806718
+      Product_(Dash)_207: -35596916338647617
+      Product_(Dash)_208: -3253971448750629424
+      Product_(Dash)_209: -6483511133169420328
+      Product_(Dash)_21: -2158961799194631326
+      Product_(Dash)_210: -4399216442347509777
+      Product_(Dash)_211: -7091915345418745260
+      Product_(Dash)_212: 6606119351028992960
+      Product_(Dash)_213: -6228524793586535731
+      Product_(Dash)_214: 7723510601925150089
+      Product_(Dash)_215: 2898715020324626777
+      Product_(Dash)_216: 4470888609165890997
+      Product_(Dash)_217: 3788227973173500252
+      Product_(Dash)_218: -8444080367703419689
+      Product_(Dash)_219: 2557703590029460258
+      Product_(Dash)_22: 4173599012443890436
+      Product_(Dash)_220: -6588635782229285317
+      Product_(Dash)_221: -4589242813091401557
+      Product_(Dash)_222: 125488443416721285
+      Product_(Dash)_223: -8866137485667324079
+      Product_(Dash)_224: 5247981043914541648
+      Product_(Dash)_225: 6318717219962932153
+      Product_(Dash)_226: -293263792161970001
+      Product_(Dash)_227: 4447185792686045527
+      Product_(Dash)_228: -6448139512196857504
+      Product_(Dash)_229: -1290683373760569215
+      Product_(Dash)_23: 1867086128087953256
+      Product_(Dash)_230: 6228550274284448284
+      Product_(Dash)_231: -7078705173009311751
+      Product_(Dash)_232: -6847587880539115960
+      Product_(Dash)_233: 6182387628446360800
+      Product_(Dash)_234: -3171228705069551765
+      Product_(Dash)_235: -3952436368149580522
+      Product_(Dash)_236: -3274510860991831611
+      Product_(Dash)_237: 8209456137519438251
+      Product_(Dash)_238: -7737227204440712829
+      Product_(Dash)_239: 837729159371187750
+      Product_(Dash)_24: 1835725927842701695
+      Product_(Dash)_240: -3434467607482555436
+      Product_(Dash)_241: -2350012508960183076
+      Product_(Dash)_242: 1335783183132400296
+      Product_(Dash)_243: 801120203371479536
+      Product_(Dash)_244: 2003014056422183010
+      Product_(Dash)_245: 2369967779844230183
+      Product_(Dash)_246: -8054456040334456577
+      Product_(Dash)_247: -4538901175857271686
+      Product_(Dash)_248: -7030991110156555160
+      Product_(Dash)_249: 7266943696951012173
+      Product_(Dash)_25: -2226550765451349559
+      Product_(Dash)_250: 4535589497086859922
+      Product_(Dash)_251: -5256408119569942433
+      Product_(Dash)_252: 1808318564105940669
+      Product_(Dash)_253: -5691416559647476358
+      Product_(Dash)_254: -3028634732042862303
+      Product_(Dash)_255: 2531984275513127024
+      Product_(Dash)_256: -2573455257110335231
+      Product_(Dash)_257: 9110128568411080951
+      Product_(Dash)_26: 4994936175923939038
+      Product_(Dash)_27: 5614362805818005683
+      Product_(Dash)_28: -6367434319511515632
+      Product_(Dash)_29: -8939395553812453127
+      Product_(Dash)_3: 3802757248459408539
+      Product_(Dash)_30: 2228825037755807778
+      Product_(Dash)_31: 4230808750700848065
+      Product_(Dash)_32: -8510437988147429981
+      Product_(Dash)_33: 2820493111084513298
+      Product_(Dash)_34: 7763564714155431937
+      Product_(Dash)_35: -788725396399332073
+      Product_(Dash)_36: -9009978386671076837
+      Product_(Dash)_37: -1855186818382491634
+      Product_(Dash)_38: -4957643813468924851
+      Product_(Dash)_39: -6440787717316801074
+      Product_(Dash)_4: 6167814097083101725
+      Product_(Dash)_40: 3297591187082405439
+      Product_(Dash)_41: 9119923068243357557
+      Product_(Dash)_42: -8399867403703403691
+      Product_(Dash)_43: -2914482587264401024
+      Product_(Dash)_44: -7270892032450132589
+      Product_(Dash)_45: 5572863955575994577
+      Product_(Dash)_46: -7616010180529281283
+      Product_(Dash)_47: 205165007530867436
+      Product_(Dash)_48: -668203290382162113
+      Product_(Dash)_49: -541865700443381335
+      Product_(Dash)_5: 7445401068389675825
+      Product_(Dash)_50: -6592733171671678555
+      Product_(Dash)_51: -7729690249066271187
+      Product_(Dash)_52: 3008825451147011672
+      Product_(Dash)_53: 6363847667174452252
+      Product_(Dash)_54: 5684743399158132037
+      Product_(Dash)_55: -4879548661073239705
+      Product_(Dash)_56: -8793861496272533091
+      Product_(Dash)_57: 4519642393261450127
+      Product_(Dash)_58: -7839721511581967768
+      Product_(Dash)_59: -3186644527181403699
+      Product_(Dash)_6: -8948406714294641136
+      Product_(Dash)_60: -9161344489815651323
+      Product_(Dash)_61: -4938690473226041398
+      Product_(Dash)_62: 6328108567281579758
+      Product_(Dash)_63: 2975064366311143968
+      Product_(Dash)_64: 588745324665863639
+      Product_(Dash)_65: 8845631997573780118
+      Product_(Dash)_66: -4297665697542714024
+      Product_(Dash)_67: 3936164468591291138
+      Product_(Dash)_68: -2647837027872231178
+      Product_(Dash)_69: 1292246780980079046
+      Product_(Dash)_7: 470746725863520227
+      Product_(Dash)_70: -7828369271211439672
+      Product_(Dash)_71: 414060532183631342
+      Product_(Dash)_72: 5417146630206739731
+      Product_(Dash)_73: 1803243648299827738
+      Product_(Dash)_74: -5970092952410051748
+      Product_(Dash)_75: -876855407193121606
+      Product_(Dash)_76: 3115546539894235227
+      Product_(Dash)_77: 8959376944462693742
+      Product_(Dash)_78: -2441408169619381959
+      Product_(Dash)_79: -7684133858812094774
+      Product_(Dash)_8: 8337580991475308657
+      Product_(Dash)_80: 6878226042451794756
+      Product_(Dash)_81: -7205952510181470359
+      Product_(Dash)_82: -6886776438132118033
+      Product_(Dash)_83: -1895969376061182930
+      Product_(Dash)_84: -3503051726033820814
+      Product_(Dash)_85: -87382327617522772
+      Product_(Dash)_86: -3067798802306505292
+      Product_(Dash)_87: -8632698007752907987
+      Product_(Dash)_88: -7240270614403203807
+      Product_(Dash)_89: -4741787215402189623
+      Product_(Dash)_9: 2846172551690524260
+      Product_(Dash)_90: -1766244123125907317
+      Product_(Dash)_91: -8530900708575631196
+      Product_(Dash)_92: 6417470553301235820
+      Product_(Dash)_93: -2697740644057654586
+      Product_(Dash)_94: -3110407952939287895
+      Product_(Dash)_95: -6061938650332257106
+      Product_(Dash)_96: 4707304108799985639
+      Product_(Dash)_97: -4596681521923996182
+      Product_(Dash)_98: -379262854504226929
+      Product_(Dash)_99: -6299413423138374067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6734 @@
+fileFormatVersion: 2
+guid: 4f4f43c5a85c14038b3a5ce360228cdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3213420717478832354
+    second: Marketing_Tag_0
+  - first:
+      213: 5355195833482868612
+    second: Marketing_Tag_1
+  - first:
+      213: -8325338846922405225
+    second: Marketing_Tag_2
+  - first:
+      213: 1985608359942888705
+    second: Marketing_Tag_3
+  - first:
+      213: -4382676056360068555
+    second: Marketing_Tag_4
+  - first:
+      213: 8847641407728808140
+    second: Marketing_Tag_5
+  - first:
+      213: -7943457501656255357
+    second: Marketing_Tag_6
+  - first:
+      213: -999545181531583754
+    second: Marketing_Tag_7
+  - first:
+      213: 6419656956438493607
+    second: Marketing_Tag_8
+  - first:
+      213: -948218478261287767
+    second: Marketing_Tag_9
+  - first:
+      213: -5590935100316526050
+    second: Marketing_Tag_10
+  - first:
+      213: -6764145428073801769
+    second: Marketing_Tag_11
+  - first:
+      213: -8065838131555468066
+    second: Marketing_Tag_12
+  - first:
+      213: 8498804465384732387
+    second: Marketing_Tag_13
+  - first:
+      213: -6333670932298674310
+    second: Marketing_Tag_14
+  - first:
+      213: -1650897054934309352
+    second: Marketing_Tag_15
+  - first:
+      213: -273953172278997219
+    second: Marketing_Tag_16
+  - first:
+      213: 4417203046495728637
+    second: Marketing_Tag_17
+  - first:
+      213: 6163516112121856475
+    second: Marketing_Tag_18
+  - first:
+      213: -2229631863585071746
+    second: Marketing_Tag_19
+  - first:
+      213: 6055815676159059919
+    second: Marketing_Tag_20
+  - first:
+      213: -995173425467769318
+    second: Marketing_Tag_21
+  - first:
+      213: -9077226779580715615
+    second: Marketing_Tag_22
+  - first:
+      213: 3838421312866376975
+    second: Marketing_Tag_23
+  - first:
+      213: 5785945883997225691
+    second: Marketing_Tag_24
+  - first:
+      213: -1465405226007657087
+    second: Marketing_Tag_25
+  - first:
+      213: 2414162557163451688
+    second: Marketing_Tag_26
+  - first:
+      213: 5976817764722695395
+    second: Marketing_Tag_27
+  - first:
+      213: -3313703162860413689
+    second: Marketing_Tag_28
+  - first:
+      213: -6439061658381499181
+    second: Marketing_Tag_29
+  - first:
+      213: 5650735302685682283
+    second: Marketing_Tag_30
+  - first:
+      213: 3508178181886433976
+    second: Marketing_Tag_31
+  - first:
+      213: 6488751949761168928
+    second: Marketing_Tag_32
+  - first:
+      213: 8549607655587400516
+    second: Marketing_Tag_33
+  - first:
+      213: 1350828545820068952
+    second: Marketing_Tag_34
+  - first:
+      213: -1549835590731906209
+    second: Marketing_Tag_35
+  - first:
+      213: 5109315411200084549
+    second: Marketing_Tag_36
+  - first:
+      213: 975579182699018453
+    second: Marketing_Tag_37
+  - first:
+      213: 4986154371210578606
+    second: Marketing_Tag_38
+  - first:
+      213: 4781848105815797890
+    second: Marketing_Tag_39
+  - first:
+      213: -1867013124145654577
+    second: Marketing_Tag_40
+  - first:
+      213: -2634870303090640996
+    second: Marketing_Tag_41
+  - first:
+      213: 3964477601575519019
+    second: Marketing_Tag_42
+  - first:
+      213: -190146332875123460
+    second: Marketing_Tag_43
+  - first:
+      213: 3434831051644354035
+    second: Marketing_Tag_44
+  - first:
+      213: 6821719332668959713
+    second: Marketing_Tag_45
+  - first:
+      213: 8036329950730930817
+    second: Marketing_Tag_46
+  - first:
+      213: -6301548392766308177
+    second: Marketing_Tag_47
+  - first:
+      213: 1558734807566633848
+    second: Marketing_Tag_48
+  - first:
+      213: -7130268617048455401
+    second: Marketing_Tag_49
+  - first:
+      213: -7567300350938027766
+    second: Marketing_Tag_50
+  - first:
+      213: -4008367091245609032
+    second: Marketing_Tag_51
+  - first:
+      213: 6726724768145013428
+    second: Marketing_Tag_52
+  - first:
+      213: -2916695410417635881
+    second: Marketing_Tag_53
+  - first:
+      213: -4776845709076109825
+    second: Marketing_Tag_54
+  - first:
+      213: 8681383746332554631
+    second: Marketing_Tag_55
+  - first:
+      213: -4762526091312061336
+    second: Marketing_Tag_56
+  - first:
+      213: -5081580888767318117
+    second: Marketing_Tag_57
+  - first:
+      213: 3218599887567171322
+    second: Marketing_Tag_58
+  - first:
+      213: -3854853107044678246
+    second: Marketing_Tag_59
+  - first:
+      213: -5197743640002408071
+    second: Marketing_Tag_60
+  - first:
+      213: -6240405618298888429
+    second: Marketing_Tag_61
+  - first:
+      213: 6274324847562394553
+    second: Marketing_Tag_62
+  - first:
+      213: 2665822872978682175
+    second: Marketing_Tag_63
+  - first:
+      213: 6162907719345158694
+    second: Marketing_Tag_64
+  - first:
+      213: 8449347197344583770
+    second: Marketing_Tag_65
+  - first:
+      213: -8203547724460000723
+    second: Marketing_Tag_66
+  - first:
+      213: -48011079142951797
+    second: Marketing_Tag_67
+  - first:
+      213: -3072644393130988215
+    second: Marketing_Tag_68
+  - first:
+      213: 7848680122155599632
+    second: Marketing_Tag_69
+  - first:
+      213: 6589818806696860062
+    second: Marketing_Tag_70
+  - first:
+      213: 7983096387499802323
+    second: Marketing_Tag_71
+  - first:
+      213: 8129461916490738276
+    second: Marketing_Tag_72
+  - first:
+      213: 3820330808731785498
+    second: Marketing_Tag_73
+  - first:
+      213: 8532657872357274265
+    second: Marketing_Tag_74
+  - first:
+      213: -8816186614124171897
+    second: Marketing_Tag_75
+  - first:
+      213: 9082598346133067366
+    second: Marketing_Tag_76
+  - first:
+      213: 2132086952894575744
+    second: Marketing_Tag_77
+  - first:
+      213: -6165251012642324650
+    second: Marketing_Tag_78
+  - first:
+      213: 8668730596493965269
+    second: Marketing_Tag_79
+  - first:
+      213: -7600810257824080180
+    second: Marketing_Tag_80
+  - first:
+      213: 4986924219982121422
+    second: Marketing_Tag_81
+  - first:
+      213: 8392385073630857904
+    second: Marketing_Tag_82
+  - first:
+      213: -2158292360731699194
+    second: Marketing_Tag_83
+  - first:
+      213: -2945269524598886365
+    second: Marketing_Tag_84
+  - first:
+      213: 3683030776185292749
+    second: Marketing_Tag_85
+  - first:
+      213: 5834224432732076495
+    second: Marketing_Tag_86
+  - first:
+      213: -883114223868895960
+    second: Marketing_Tag_87
+  - first:
+      213: 1902523885128427295
+    second: Marketing_Tag_88
+  - first:
+      213: -3824505292983647508
+    second: Marketing_Tag_89
+  - first:
+      213: 7691641223074075144
+    second: Marketing_Tag_90
+  - first:
+      213: -7119139128799044347
+    second: Marketing_Tag_91
+  - first:
+      213: -6935294170964275738
+    second: Marketing_Tag_92
+  - first:
+      213: 5605252134580689399
+    second: Marketing_Tag_93
+  - first:
+      213: 2444958806853633905
+    second: Marketing_Tag_94
+  - first:
+      213: 6179482116692098108
+    second: Marketing_Tag_95
+  - first:
+      213: -4200989501032711786
+    second: Marketing_Tag_96
+  - first:
+      213: 4563103443110997751
+    second: Marketing_Tag_97
+  - first:
+      213: -5979512268018939458
+    second: Marketing_Tag_98
+  - first:
+      213: 2528414494139897008
+    second: Marketing_Tag_99
+  - first:
+      213: -7787960235030847611
+    second: Marketing_Tag_100
+  - first:
+      213: 5594925564205625706
+    second: Marketing_Tag_101
+  - first:
+      213: 770790712971964762
+    second: Marketing_Tag_102
+  - first:
+      213: -6616687370672880218
+    second: Marketing_Tag_103
+  - first:
+      213: 1034931276105719399
+    second: Marketing_Tag_104
+  - first:
+      213: 4893330328502348159
+    second: Marketing_Tag_105
+  - first:
+      213: 7205218659778558246
+    second: Marketing_Tag_106
+  - first:
+      213: -496363551576239355
+    second: Marketing_Tag_107
+  - first:
+      213: 8160321073872696367
+    second: Marketing_Tag_108
+  - first:
+      213: 1618263069703042489
+    second: Marketing_Tag_109
+  - first:
+      213: 5898945242627629768
+    second: Marketing_Tag_110
+  - first:
+      213: 3135476453564717047
+    second: Marketing_Tag_111
+  - first:
+      213: -7024641538097558346
+    second: Marketing_Tag_112
+  - first:
+      213: -7483646614917105820
+    second: Marketing_Tag_113
+  - first:
+      213: -8081908688439621098
+    second: Marketing_Tag_114
+  - first:
+      213: 2456706551141903845
+    second: Marketing_Tag_115
+  - first:
+      213: -3261872865538211126
+    second: Marketing_Tag_116
+  - first:
+      213: 1209551681927653104
+    second: Marketing_Tag_117
+  - first:
+      213: -1143294824083570562
+    second: Marketing_Tag_118
+  - first:
+      213: -3492561841461117528
+    second: Marketing_Tag_119
+  - first:
+      213: -6335935820038338968
+    second: Marketing_Tag_120
+  - first:
+      213: -7866602929376249335
+    second: Marketing_Tag_121
+  - first:
+      213: -8618014343511844399
+    second: Marketing_Tag_122
+  - first:
+      213: 6019709741652087552
+    second: Marketing_Tag_123
+  - first:
+      213: 9053847163699546620
+    second: Marketing_Tag_124
+  - first:
+      213: -2983967569086925144
+    second: Marketing_Tag_125
+  - first:
+      213: -8361275048762815746
+    second: Marketing_Tag_126
+  - first:
+      213: 4401501021182376787
+    second: Marketing_Tag_127
+  - first:
+      213: -3613899629190190810
+    second: Marketing_Tag_128
+  - first:
+      213: 6635420979866200746
+    second: Marketing_Tag_129
+  - first:
+      213: -4675079792802368691
+    second: Marketing_Tag_130
+  - first:
+      213: 5909472790173109680
+    second: Marketing_Tag_131
+  - first:
+      213: -4439961468740703604
+    second: Marketing_Tag_132
+  - first:
+      213: -3250756032781093403
+    second: Marketing_Tag_133
+  - first:
+      213: 6616239942635647467
+    second: Marketing_Tag_134
+  - first:
+      213: -4833139639223759927
+    second: Marketing_Tag_135
+  - first:
+      213: 8884636232790720732
+    second: Marketing_Tag_136
+  - first:
+      213: -6447251262609136330
+    second: Marketing_Tag_137
+  - first:
+      213: 869359532008388420
+    second: Marketing_Tag_138
+  - first:
+      213: 795258551870910342
+    second: Marketing_Tag_139
+  - first:
+      213: 3390725190335842804
+    second: Marketing_Tag_140
+  - first:
+      213: -3216699356201142741
+    second: Marketing_Tag_141
+  - first:
+      213: 1168918073807523437
+    second: Marketing_Tag_142
+  - first:
+      213: -1755360343065211862
+    second: Marketing_Tag_143
+  - first:
+      213: 8682036191534619296
+    second: Marketing_Tag_144
+  - first:
+      213: 7845899878011333697
+    second: Marketing_Tag_145
+  - first:
+      213: -1120656896082405244
+    second: Marketing_Tag_146
+  - first:
+      213: 6646029398619982994
+    second: Marketing_Tag_147
+  - first:
+      213: 2941974173808505369
+    second: Marketing_Tag_148
+  - first:
+      213: -5706234905435491270
+    second: Marketing_Tag_149
+  - first:
+      213: 2515542804277961657
+    second: Marketing_Tag_150
+  - first:
+      213: -5519143175956844604
+    second: Marketing_Tag_151
+  - first:
+      213: -1962858322125293638
+    second: Marketing_Tag_152
+  - first:
+      213: -2996201305415702068
+    second: Marketing_Tag_153
+  - first:
+      213: -2208614755754487320
+    second: Marketing_Tag_154
+  - first:
+      213: 1977506455631637223
+    second: Marketing_Tag_155
+  - first:
+      213: 4956842644067451625
+    second: Marketing_Tag_156
+  - first:
+      213: 6233501970590212703
+    second: Marketing_Tag_157
+  - first:
+      213: 3230529424469676459
+    second: Marketing_Tag_158
+  - first:
+      213: 7336875271818137855
+    second: Marketing_Tag_159
+  - first:
+      213: 697333085744179525
+    second: Marketing_Tag_160
+  - first:
+      213: -2785540466500468140
+    second: Marketing_Tag_161
+  - first:
+      213: -6248192883163177673
+    second: Marketing_Tag_162
+  - first:
+      213: 7135653639710625342
+    second: Marketing_Tag_163
+  - first:
+      213: 8571383729756988246
+    second: Marketing_Tag_164
+  - first:
+      213: -4822440661944608383
+    second: Marketing_Tag_165
+  - first:
+      213: 4458678173047273806
+    second: Marketing_Tag_166
+  - first:
+      213: 3140700994302762980
+    second: Marketing_Tag_167
+  - first:
+      213: 7620298624051738212
+    second: Marketing_Tag_168
+  - first:
+      213: -3041205597985377312
+    second: Marketing_Tag_169
+  - first:
+      213: -8172983154329430672
+    second: Marketing_Tag_170
+  - first:
+      213: -312977104676080151
+    second: Marketing_Tag_171
+  - first:
+      213: 8492139929226178143
+    second: Marketing_Tag_172
+  - first:
+      213: -7900383547315371256
+    second: Marketing_Tag_173
+  - first:
+      213: -2466770330254061830
+    second: Marketing_Tag_174
+  - first:
+      213: -1355322754651535230
+    second: Marketing_Tag_175
+  - first:
+      213: 3159487359369593752
+    second: Marketing_Tag_176
+  - first:
+      213: -4178108092415246164
+    second: Marketing_Tag_177
+  - first:
+      213: 3664632251836644936
+    second: Marketing_Tag_178
+  - first:
+      213: -9140054136353314525
+    second: Marketing_Tag_179
+  - first:
+      213: 8277440695173320819
+    second: Marketing_Tag_180
+  - first:
+      213: 6847644071492524248
+    second: Marketing_Tag_181
+  - first:
+      213: -6798586596738157071
+    second: Marketing_Tag_182
+  - first:
+      213: -6701938117697147339
+    second: Marketing_Tag_183
+  - first:
+      213: -3191623417891336493
+    second: Marketing_Tag_184
+  - first:
+      213: -299988203888274189
+    second: Marketing_Tag_185
+  - first:
+      213: -302385560750668041
+    second: Marketing_Tag_186
+  - first:
+      213: -5485609328158765565
+    second: Marketing_Tag_187
+  - first:
+      213: 7269986065076303686
+    second: Marketing_Tag_188
+  - first:
+      213: -3731643741319556668
+    second: Marketing_Tag_189
+  - first:
+      213: -4068853827483499887
+    second: Marketing_Tag_190
+  - first:
+      213: -3826732215318182230
+    second: Marketing_Tag_191
+  - first:
+      213: -6180432163085317005
+    second: Marketing_Tag_192
+  - first:
+      213: 6142984769241210013
+    second: Marketing_Tag_193
+  - first:
+      213: -1098902815637992736
+    second: Marketing_Tag_194
+  - first:
+      213: 5899671941764075561
+    second: Marketing_Tag_195
+  - first:
+      213: -3051892702521510199
+    second: Marketing_Tag_196
+  - first:
+      213: 3747483342546268613
+    second: Marketing_Tag_197
+  - first:
+      213: 3941032390154940540
+    second: Marketing_Tag_198
+  - first:
+      213: -1858482767141046102
+    second: Marketing_Tag_199
+  - first:
+      213: -7551460177509993196
+    second: Marketing_Tag_200
+  - first:
+      213: -3058152762838605591
+    second: Marketing_Tag_201
+  - first:
+      213: -6144496152286956343
+    second: Marketing_Tag_202
+  - first:
+      213: 6839844009921288782
+    second: Marketing_Tag_203
+  - first:
+      213: -983967907914242497
+    second: Marketing_Tag_204
+  - first:
+      213: -2154032008675190699
+    second: Marketing_Tag_205
+  - first:
+      213: 8588081487969724684
+    second: Marketing_Tag_206
+  - first:
+      213: -2118416904321163367
+    second: Marketing_Tag_207
+  - first:
+      213: -4547204144344113249
+    second: Marketing_Tag_208
+  - first:
+      213: -4947296489773948291
+    second: Marketing_Tag_209
+  - first:
+      213: 8823424202675053497
+    second: Marketing_Tag_210
+  - first:
+      213: -4983449877129206531
+    second: Marketing_Tag_211
+  - first:
+      213: 8135202111314434835
+    second: Marketing_Tag_212
+  - first:
+      213: 8728215170666083098
+    second: Marketing_Tag_213
+  - first:
+      213: -6369044466513022921
+    second: Marketing_Tag_214
+  - first:
+      213: 505421876596914801
+    second: Marketing_Tag_215
+  - first:
+      213: 147297277521600645
+    second: Marketing_Tag_216
+  - first:
+      213: -509223327234085271
+    second: Marketing_Tag_217
+  - first:
+      213: 2666466531790606803
+    second: Marketing_Tag_218
+  - first:
+      213: 4830510645902771319
+    second: Marketing_Tag_219
+  - first:
+      213: -8415661490999579469
+    second: Marketing_Tag_220
+  - first:
+      213: -8003712586522357099
+    second: Marketing_Tag_221
+  - first:
+      213: -5169269603500791850
+    second: Marketing_Tag_222
+  - first:
+      213: 520077713548707791
+    second: Marketing_Tag_223
+  - first:
+      213: 4113554790409311602
+    second: Marketing_Tag_224
+  - first:
+      213: 636849640200432889
+    second: Marketing_Tag_225
+  - first:
+      213: -2297024682382246147
+    second: Marketing_Tag_226
+  - first:
+      213: 1787986091946439103
+    second: Marketing_Tag_227
+  - first:
+      213: 9088573188417361550
+    second: Marketing_Tag_228
+  - first:
+      213: 1886249769822545343
+    second: Marketing_Tag_229
+  - first:
+      213: -3264811279903636897
+    second: Marketing_Tag_230
+  - first:
+      213: 5893400305457521356
+    second: Marketing_Tag_231
+  - first:
+      213: -5474190538239391576
+    second: Marketing_Tag_232
+  - first:
+      213: 5356368840440305795
+    second: Marketing_Tag_233
+  - first:
+      213: 3457973505013691555
+    second: Marketing_Tag_234
+  - first:
+      213: -5515993458168797807
+    second: Marketing_Tag_235
+  - first:
+      213: -7307219280358069956
+    second: Marketing_Tag_236
+  - first:
+      213: -251314473061891937
+    second: Marketing_Tag_237
+  - first:
+      213: -5448569372103287396
+    second: Marketing_Tag_238
+  - first:
+      213: 233435146659170029
+    second: Marketing_Tag_239
+  - first:
+      213: 8381989936315927643
+    second: Marketing_Tag_240
+  - first:
+      213: -1591417102834399819
+    second: Marketing_Tag_241
+  - first:
+      213: 4937648622203897138
+    second: Marketing_Tag_242
+  - first:
+      213: -3742227955449673558
+    second: Marketing_Tag_243
+  - first:
+      213: 4439282144417011388
+    second: Marketing_Tag_244
+  - first:
+      213: 6544491076403373934
+    second: Marketing_Tag_245
+  - first:
+      213: 881518342440548763
+    second: Marketing_Tag_246
+  - first:
+      213: 1327369081443764193
+    second: Marketing_Tag_247
+  - first:
+      213: -5673747196008302518
+    second: Marketing_Tag_248
+  - first:
+      213: 3425580996007146624
+    second: Marketing_Tag_249
+  - first:
+      213: 8947741752526726666
+    second: Marketing_Tag_250
+  - first:
+      213: -5493166943615859884
+    second: Marketing_Tag_251
+  - first:
+      213: 1545652260608138825
+    second: Marketing_Tag_252
+  - first:
+      213: -1087528556282132347
+    second: Marketing_Tag_253
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marketing_Tag_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2844
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171bc402e2a763d0800000000000000
+      internalID: -3213420717478832354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2856
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487f56dcc3a715a40800000000000000
+      internalID: 5355195833482868612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2856
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a0e62ad64767c80800000000000000
+      internalID: -8325338846922405225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2854
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d117d784c4e8b10800000000000000
+      internalID: 1985608359942888705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2856
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a5c0fd85b9d23c0800000000000000
+      internalID: -4382676056360068555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2855
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc076b7cbf229ca70800000000000000
+      internalID: 8847641407728808140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2856
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384fd5d0d7b23c190800000000000000
+      internalID: -7943457501656255357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2854
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa4bd504f6e022f0800000000000000
+      internalID: -999545181531583754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2856
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9b1643df3371950800000000000000
+      internalID: 6419656956438493607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2854
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a446c1615047d2f0800000000000000
+      internalID: -948218478261287767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2844
+        width: 33
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ade57f5220962b0800000000000000
+      internalID: -5590935100316526050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2854
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d71496329de022a0800000000000000
+      internalID: -6764145428073801769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2832
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf5d834f2601090800000000000000
+      internalID: -8065838131555468066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2854
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b2c6f1a1d1f570800000000000000
+      internalID: 8498804465384732387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2854
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fce1428d74a18a0800000000000000
+      internalID: -6333670932298674310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2832
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816e6e710e5d619e0800000000000000
+      internalID: -1650897054934309352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2854
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f08319a09b23cf0800000000000000
+      internalID: -273953172278997219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2854
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3b62774ce0d4d30800000000000000
+      internalID: 4417203046495728637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2854
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd18b6e8f35398550800000000000000
+      internalID: 6163516112121856475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_19
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2854
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d9e1712a1ce01e0800000000000000
+      internalID: -2229631863585071746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2854
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7e3bab5449a0450800000000000000
+      internalID: 6055815676159059919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2856
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb51dca0f6032f0800000000000000
+      internalID: -995173425467769318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_22
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 2905
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adad615656370280800000000000000
+      internalID: -9077226779580715615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_23
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2871
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d50b3e8dfc44530800000000000000
+      internalID: 3838421312866376975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2c941502fcb4050800000000000000
+      internalID: 5785945883997225691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2760
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18500d306b5d9abe0800000000000000
+      internalID: -1465405226007657087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2761
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b6c11e04d08120800000000000000
+      internalID: 2414162557163451688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2760
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec5a89271ce1f250800000000000000
+      internalID: 5976817764722695395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2761
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ddd96b78c5302d0800000000000000
+      internalID: -3313703162860413689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2760
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4455d898bd3a6a0800000000000000
+      internalID: -6439061658381499181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2760
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae654a1d17b6e40800000000000000
+      internalID: 5650735302685682283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2749
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8badd14287d8fa030800000000000000
+      internalID: 3508178181886433976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2760
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0264329f48dac0a50800000000000000
+      internalID: 6488751949761168928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2761
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b4f307dde46a670800000000000000
+      internalID: 8549607655587400516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2761
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c001ac76b1fb210800000000000000
+      internalID: 1350828545820068952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2760
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53ca2addb0ed7ae0800000000000000
+      internalID: -1549835590731906209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2761
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a8202db4fe7e640800000000000000
+      internalID: 5109315411200084549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2761
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d87a0b0914f98d00800000000000000
+      internalID: 975579182699018453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2760
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa844b9bf0623540800000000000000
+      internalID: 4986154371210578606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2761
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280760554898c5240800000000000000
+      internalID: 4781848105815797890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2760
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc45e4894790716e0800000000000000
+      internalID: -1867013124145654577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2760
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977e036b6f0f6bd0800000000000000
+      internalID: -2634870303090640996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2760
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23c6e9bf57a40730800000000000000
+      internalID: 3964477601575519019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2780
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf492adeae67c5df0800000000000000
+      internalID: -190146332875123460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2760
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3eb894a8faaf20800000000000000
+      internalID: 3434831051644354035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2760
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe52d079d9bae50800000000000000
+      internalID: 6821719332668959713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2760
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a462b0387c68f60800000000000000
+      internalID: 8036329950730930817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2761
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa00b32bf176c88a0800000000000000
+      internalID: -6301548392766308177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2761
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bcb088c0db1a510800000000000000
+      internalID: 1558734807566633848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_49
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2768
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71706b778723c0d90800000000000000
+      internalID: -7130268617048455401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2760
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0966a19c6c8bf690800000000000000
+      internalID: -7567300350938027766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2761
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf80f42e5b6f58c0800000000000000
+      internalID: -4008367091245609032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_52
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2780
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bafa1379802a5d50800000000000000
+      internalID: 6726724768145013428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2760
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd6b004af0d587d0800000000000000
+      internalID: -2916695410417635881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_54
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2760
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff56babe22c35bdb0800000000000000
+      internalID: -4776845709076109825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2752
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785700775887a7870800000000000000
+      internalID: 8681383746332554631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2760
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a0ddb0cb18edb0800000000000000
+      internalID: -4762526091312061336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_57
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2760
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b973c93ea199a79b0800000000000000
+      internalID: -5081580888767318117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2674
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afead8c7b83caac20800000000000000
+      internalID: 3218599887567171322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2682
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958a45e58fc08ac0800000000000000
+      internalID: -3854853107044678246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2674
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9715c10c2b7edd7b0800000000000000
+      internalID: -5197743640002408071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2674
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f51fa3720a569a0800000000000000
+      internalID: -6240405618298888429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2682
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb0d50c431e21750800000000000000
+      internalID: 6274324847562394553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2682
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31710267c7eef420800000000000000
+      internalID: 2665822872978682175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2706
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ab4131beb078550800000000000000
+      internalID: 6162907719345158694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2682
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509aa9628c124570800000000000000
+      internalID: 8449347197344583770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2682
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af8911fc4272e80800000000000000
+      internalID: -8203547724460000723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2681
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84b66a8d2e655ff0800000000000000
+      internalID: -48011079142951797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2681
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94de45a3436cb55d0800000000000000
+      internalID: -3072644393130988215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2674
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01701ccacfc1cec60800000000000000
+      internalID: 7848680122155599632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2674
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99da535a4db37b50800000000000000
+      internalID: 6589818806696860062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2681
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de31a04ed7a9ce60800000000000000
+      internalID: 7983096387499802323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2681
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a2f739a86a1d070800000000000000
+      internalID: 8129461916490738276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2682
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1950fa21aa840530800000000000000
+      internalID: 3820330808731785498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2681
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992bbcf70271a6670800000000000000
+      internalID: 8532657872357274265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2552
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d239f0cfc96a580800000000000000
+      internalID: -8816186614124171897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_76
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2552
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666dfcaf21fdb0e70800000000000000
+      internalID: 9082598346133067366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2551
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b68199c1b69d10800000000000000
+      internalID: 2132086952894575744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2589
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f36507ed0a07aa0800000000000000
+      internalID: -6165251012642324650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_79
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2552
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d735917c848d4870800000000000000
+      internalID: 8668730596493965269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2551
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce1041675f748690800000000000000
+      internalID: -7600810257824080180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2552
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec983ddf72d153540800000000000000
+      internalID: 4986924219982121422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2551
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bace0c72cdb77470800000000000000
+      internalID: 8392385073630857904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2552
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d52578843c02e0800000000000000
+      internalID: -2158292360731699194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2552
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ff7ad8fc4027d0800000000000000
+      internalID: -2945269524598886365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_85
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2539
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc70b573af0cc1330800000000000000
+      internalID: 3683030776185292749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_86
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2551
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc976e4e53457f050800000000000000
+      internalID: 5834224432732076495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2539
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d1336da4c8eb3f0800000000000000
+      internalID: -883114223868895960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2551
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17a6cdb46f176a10800000000000000
+      internalID: 1902523885128427295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 4776
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2cb1af2b0aceac0800000000000000
+      internalID: -3824505292983647508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2381
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802d419b0f23eba60800000000000000
+      internalID: 7691641223074075144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2382
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d59516eacb33d90800000000000000
+      internalID: -7119139128799044347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_92
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2346
+        width: 154
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed46de32b2e0cf90800000000000000
+      internalID: -6935294170964275738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_93
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2385
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f99e265e1bd9cd40800000000000000
+      internalID: 5605252134580689399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2386
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17749f4b41d3ee120800000000000000
+      internalID: 2444958806853633905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_95
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2385
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cbf4dae3ee1c550800000000000000
+      internalID: 6179482116692098108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_96
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2386
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699bccd7e4613b5c0800000000000000
+      internalID: -4200989501032711786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_97
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe2ef7b766635f30800000000000000
+      internalID: 4563103443110997751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_98
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2385
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb904a6e541840da0800000000000000
+      internalID: -5979512268018939458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2385
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b45828169bb61320800000000000000
+      internalID: 2528414494139897008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_100
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2344
+        width: 1153
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f5e1abd6b9be390800000000000000
+      internalID: -7787960235030847611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_101
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a617a3f482b25ad40800000000000000
+      internalID: 5594925564205625706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_102
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2382
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a513dd2d11662ba00800000000000000
+      internalID: 770790712971964762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_103
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2386
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ca31a4edcc24a0800000000000000
+      internalID: -6616687370672880218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_104
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2252
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e19372380dc5e00800000000000000
+      internalID: 1034931276105719399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_105
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79270ff10a98e340800000000000000
+      internalID: 4893330328502348159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_106
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2280
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629fd1932341ef360800000000000000
+      internalID: 7205218659778558246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_107
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2251
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503d8dccaff8c19f0800000000000000
+      internalID: -496363551576239355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_108
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2252
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24f05d08c84f3170800000000000000
+      internalID: 8160321073872696367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_109
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2251
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b578ce10b9357610800000000000000
+      internalID: 1618263069703042489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_110
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2272
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ec48b1734dd150800000000000000
+      internalID: 5898945242627629768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_111
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2264
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f79358d833738b20800000000000000
+      internalID: 3135476453564717047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_112
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2256
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bccd3f3db5738e90800000000000000
+      internalID: -7024641538097558346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2212
+        width: 4776
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467bf45cd0fb42890800000000000000
+      internalID: -7483646614917105820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2092
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac96e1eda47df80800000000000000
+      internalID: -8081908688439621098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_115
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2092
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed20329799f71220800000000000000
+      internalID: 2456706551141903845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_116
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2091
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20c1339ef7bb2d0800000000000000
+      internalID: -3261872865538211126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2092
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f626c2a8d039c010800000000000000
+      internalID: 1209551681927653104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_118
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2081
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c4f83a633220f0800000000000000
+      internalID: -1143294824083570562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_119
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2092
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad30a3728de78fc0800000000000000
+      internalID: -3492561841461117528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_120
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2091
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86601fed0fb3218a0800000000000000
+      internalID: -6335935820038338968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_121
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2092
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3b75905634d290800000000000000
+      internalID: -7866602929376249335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d951c16d99a66880800000000000000
+      internalID: -8618014343511844399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_123
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1888
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0039122cd1e4a8350800000000000000
+      internalID: 6019709741652087552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_124
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1888
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf94dfaa60ab5ad70800000000000000
+      internalID: 9053847163699546620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_125
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1887
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6b94f3e41d696d0800000000000000
+      internalID: -2983967569086925144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1888
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac721a4a8c6fb80800000000000000
+      internalID: -8361275048762815746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_127
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1877
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b381ecbd5451d30800000000000000
+      internalID: 4401501021182376787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_128
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1888
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629e33c3f69d8ddc0800000000000000
+      internalID: -3613899629190190810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_129
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1887
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6918a930c51c50800000000000000
+      internalID: 6635420979866200746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_130
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1888
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d437865b2b7ce1fb0800000000000000
+      internalID: -4675079792802368691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1804
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdca14613aa20250800000000000000
+      internalID: 5909472790173109680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_132
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1684
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae94f61961262c0800000000000000
+      internalID: -4439961468740703604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1684
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5ff968c9ef2e2d0800000000000000
+      internalID: -3250756032781093403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_134
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be17c896c2b91db50800000000000000
+      internalID: 6616239942635647467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_135
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1684
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb453eea1d3decb0800000000000000
+      internalID: -4833139639223759927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_136
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1673
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd04e06b4919c4b70800000000000000
+      internalID: 8884636232790720732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_137
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1684
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356e7ab223c686a0800000000000000
+      internalID: -6447251262609136330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_138
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1683
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447b57763e5901c00800000000000000
+      internalID: 869359532008388420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_139
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1683
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6bd08073590b00800000000000000
+      internalID: 795258551870910342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9cfe488964e0f20800000000000000
+      internalID: 3390725190335842804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_141
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1480
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2637647afcfb53d0800000000000000
+      internalID: -3216699356201142741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_142
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1480
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec4d08bc4d83010800000000000000
+      internalID: 1168918073807523437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_143
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1479
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c4aca7115b3a7e0800000000000000
+      internalID: -1755360343065211862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_144
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1480
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa9183bae9cc7870800000000000000
+      internalID: 8682036191534619296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1469
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c6524ae5c32ec60800000000000000
+      internalID: 7845899878011333697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_146
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1480
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4889ae19d70a270f0800000000000000
+      internalID: -1120656896082405244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_147
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1479
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c0c8f96807b3c50800000000000000
+      internalID: 6646029398619982994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_148
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1480
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ba308cedf3d820800000000000000
+      internalID: 2941974173808505369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34359026916fc0b0800000000000000
+      internalID: -5706234905435491270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1276
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b327424ad009e220800000000000000
+      internalID: 2515542804277961657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_151
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1276
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf229ce5801863b0800000000000000
+      internalID: -5519143175956844604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_152
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab77d4571c682c4e0800000000000000
+      internalID: -1962858322125293638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1276
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a22b89ca5b66d0800000000000000
+      internalID: -2996201305415702068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_154
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1265
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15195d49c6951e0800000000000000
+      internalID: -2208614755754487320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_155
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1276
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea27f4e4a3817b10800000000000000
+      internalID: 1977506455631637223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_156
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1275
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2062f4f1e3ac440800000000000000
+      internalID: 4956842644067451625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_157
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1275
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f522ab70409d18650800000000000000
+      internalID: 6233501970590212703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba156fd356525dc20800000000000000
+      internalID: 3230529424469676459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_159
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1072
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff05112ff21d1d560800000000000000
+      internalID: 7336875271818137855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_160
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1072
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549a8e13fbc6da900800000000000000
+      internalID: 697333085744179525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_161
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1071
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45283c244b5c759d0800000000000000
+      internalID: -2785540466500468140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_162
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1072
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d5fe65da5f949a0800000000000000
+      internalID: -6248192883163177673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_163
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1061
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ecc23dd2fe60360800000000000000
+      internalID: 7135653639710625342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_164
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1072
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6536abdc61ca3f670800000000000000
+      internalID: 8571383729756988246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_165
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1071
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1895462b4cf331db0800000000000000
+      internalID: -4822440661944608383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_166
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1071
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e493540ec2860ed30800000000000000
+      internalID: 4458678173047273806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efd1270ae2069b20800000000000000
+      internalID: 3140700994302762980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_168
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 868
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4667009793db0c960800000000000000
+      internalID: 7620298624051738212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_169
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 868
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f6232f977bc5d0800000000000000
+      internalID: -3041205597985377312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_170
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 867
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07551fa9f1bb39e80800000000000000
+      internalID: -8172983154329430672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_171
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 868
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5b3f44bf418abf0800000000000000
+      internalID: -312977104676080151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_172
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 857
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eef68b5442ad570800000000000000
+      internalID: 8492139929226178143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_173
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 868
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8034de095033c5290800000000000000
+      internalID: -7900383547315371256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_174
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 867
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afecbb2447544cdd0800000000000000
+      internalID: -2466770330254061830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_175
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 868
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288cdfca22de03de0800000000000000
+      internalID: -1355322754651535230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893cf8f7301c8db20800000000000000
+      internalID: 3159487359369593752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_177
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 664
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0876693d06406c0800000000000000
+      internalID: -4178108092415246164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_178
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 664
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb923fd936bd230800000000000000
+      internalID: 3664632251836644936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_179
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 663
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32922d66031082180800000000000000
+      internalID: -9140054136353314525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_180
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 664
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3701b2dd4706fd270800000000000000
+      internalID: 8277440695173320819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_181
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 653
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81f9da008b70f50800000000000000
+      internalID: 6847644071492524248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_182
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 664
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5b0beb28196a1a0800000000000000
+      internalID: -6798586596738157071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_183
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 663
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee2045aceedf2a0800000000000000
+      internalID: -6701938117697147339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_184
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 663
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec4cf496315b3d0800000000000000
+      internalID: -3191623417891336493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f49e66615a36dbf0800000000000000
+      internalID: -299988203888274189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_186
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 460
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6cf324fe5bdcbf0800000000000000
+      internalID: -302385560750668041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_187
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 460
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e078a41633fd3b0800000000000000
+      internalID: -5485609328158765565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_188
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 459
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647b9e2eecd24e460800000000000000
+      internalID: 7269986065076303686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 460
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19652d9c9863cc0800000000000000
+      internalID: -3731643741319556668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_190
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 449
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1928bd960078887c0800000000000000
+      internalID: -4068853827483499887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_191
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 460
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa68a673357b4eac0800000000000000
+      internalID: -3826732215318182230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_192
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 459
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c86e861b1ba3aa0800000000000000
+      internalID: -6180432163085317005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_193
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 460
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd147c914404550800000000000000
+      internalID: 6142984769241210013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea883f16b9efb0f0800000000000000
+      internalID: -1098902815637992736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_195
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920df2c8f58dfd150800000000000000
+      internalID: 5899671941764075561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_196
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 256
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c63995b1cf75a5d0800000000000000
+      internalID: -3051892702521510199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_197
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 255
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1f92abe3cb10430800000000000000
+      internalID: 3747483342546268613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_198
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 256
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c707e7f041c51b630800000000000000
+      internalID: 3941032390154940540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_199
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 245
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa87f5b15c75536e0800000000000000
+      internalID: -1858482767141046102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_200
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41532085af2d33790800000000000000
+      internalID: -7551460177509993196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_201
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 255
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e02026d3424f85d0800000000000000
+      internalID: -3058152762838605591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_202
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 256
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c47e2fed4d5abaa0800000000000000
+      internalID: -6144496152286956343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_203
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 255
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a117253e10cee50800000000000000
+      internalID: 6839844009921288782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 4776
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36236aa66e3852f0800000000000000
+      internalID: -983967907914242497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_205
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581818fc475b12e0800000000000000
+      internalID: -2154032008675190699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c092b889c9efe2770800000000000000
+      internalID: 8588081487969724684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_207
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f11c3ac0fd992e0800000000000000
+      internalID: -2118416904321163367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_208
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 11
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f5f2f3ce515e0c0800000000000000
+      internalID: -4547204144344113249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_209
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 11
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72ac70fd0ca75bb0800000000000000
+      internalID: -4947296489773948291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_210
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 11
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3e7075099137a70800000000000000
+      internalID: 8823424202675053497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_211
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 11
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4efbd7dba37dab0800000000000000
+      internalID: -4983449877129206531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_212
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 11
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b97e4d73b06e070800000000000000
+      internalID: 8135202111314434835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_213
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 11
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133ab22479d02970800000000000000
+      internalID: 8728215170666083098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_214
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f2d66dcb9c97a0800000000000000
+      internalID: -6369044466513022921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_215
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 11
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a3548d48e930700800000000000000
+      internalID: 505421876596914801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_216
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580ae0fe71e4b0200800000000000000
+      internalID: 147297277521600645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_217
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 12
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eaed4f410eee8f0800000000000000
+      internalID: -509223327234085271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_218
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1d8d0ee21310520800000000000000
+      internalID: 2666466531790606803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_219
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 11
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77407ccd6db690340800000000000000
+      internalID: 4830510645902771319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_220
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 12
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc29074670953b80800000000000000
+      internalID: -8415661490999579469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_221
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592130cdec91de090800000000000000
+      internalID: -8003712586522357099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_222
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 12
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d76c1ffea01348b0800000000000000
+      internalID: -5169269603500791850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_223
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 12
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70babccefa73700800000000000000
+      internalID: 520077713548707791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_224
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 12
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275147e8948461930800000000000000
+      internalID: 4113554790409311602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_225
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 11
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6b73af5b86d800800000000000000
+      internalID: 636849640200432889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_226
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 12
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe3d46b8345f10e0800000000000000
+      internalID: -2297024682382246147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_227
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 11
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb17ec1a0e330d810800000000000000
+      internalID: 1787986091946439103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_228
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 11
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8691ca5929112e70800000000000000
+      internalID: 9088573188417361550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_229
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 11
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb56feffb2e4d2a10800000000000000
+      internalID: 1886249769822545343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_230
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c7aa407f01b2d0800000000000000
+      internalID: -3264811279903636897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_231
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc269fd6a5099c150800000000000000
+      internalID: 5893400305457521356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_232
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 11
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8cf6f75b4c704b0800000000000000
+      internalID: -5474190538239391576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_233
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 11
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3885a64c415a55a40800000000000000
+      internalID: 5356368840440305795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_234
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 11
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4bd09e4903dff20800000000000000
+      internalID: 3457973505013691555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_235
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 11
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195687ebc214373b0800000000000000
+      internalID: -5515993458168797807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_236
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 11
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c392f52a7ca879a90800000000000000
+      internalID: -7307219280358069956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_237
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 11
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904b3a71d6238cf0800000000000000
+      internalID: -251314473061891937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_238
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 11
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dd5b9160bc264b0800000000000000
+      internalID: -5448569372103287396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_239
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 11
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de606b277045d3300800000000000000
+      internalID: 233435146659170029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_240
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 4
+        width: 99
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c8209ff6fc25470800000000000000
+      internalID: 8381989936315927643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_241
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 12
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b50310a3962ae9e0800000000000000
+      internalID: -1591417102834399819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_242
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 12
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2350928d24d068440800000000000000
+      internalID: 4937648622203897138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_243
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 4
+        width: 200
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8c2ee608fe01cc0800000000000000
+      internalID: -3742227955449673558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_244
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 12
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d5bb079f7b9d30800000000000000
+      internalID: 4439282144417011388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_245
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 12
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67acb4b5f3b2da50800000000000000
+      internalID: 6544491076403373934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_246
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 12
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f8201348cb3c00800000000000000
+      internalID: 881518342440548763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_247
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 11
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7ca499523cb6210800000000000000
+      internalID: 1327369081443764193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_248
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 11
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a487e8c6cfcc241b0800000000000000
+      internalID: -5673747196008302518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_249
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 11
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b55034cb1a8f20800000000000000
+      internalID: 3425580996007146624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_250
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 4
+        width: 113
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06694d77b3cc2c70800000000000000
+      internalID: 8947741752526726666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_251
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 12
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453cbd1d4c954c3b0800000000000000
+      internalID: -5493166943615859884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_252
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 4
+        width: 102
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ed3d3ba82437510800000000000000
+      internalID: 1545652260608138825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marketing_Tag_253
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 11
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588c5bf3a8258e0f0800000000000000
+      internalID: -1087528556282132347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Marketing_Tag_0: -3213420717478832354
+      Marketing_Tag_1: 5355195833482868612
+      Marketing_Tag_10: -5590935100316526050
+      Marketing_Tag_100: -7787960235030847611
+      Marketing_Tag_101: 5594925564205625706
+      Marketing_Tag_102: 770790712971964762
+      Marketing_Tag_103: -6616687370672880218
+      Marketing_Tag_104: 1034931276105719399
+      Marketing_Tag_105: 4893330328502348159
+      Marketing_Tag_106: 7205218659778558246
+      Marketing_Tag_107: -496363551576239355
+      Marketing_Tag_108: 8160321073872696367
+      Marketing_Tag_109: 1618263069703042489
+      Marketing_Tag_11: -6764145428073801769
+      Marketing_Tag_110: 5898945242627629768
+      Marketing_Tag_111: 3135476453564717047
+      Marketing_Tag_112: -7024641538097558346
+      Marketing_Tag_113: -7483646614917105820
+      Marketing_Tag_114: -8081908688439621098
+      Marketing_Tag_115: 2456706551141903845
+      Marketing_Tag_116: -3261872865538211126
+      Marketing_Tag_117: 1209551681927653104
+      Marketing_Tag_118: -1143294824083570562
+      Marketing_Tag_119: -3492561841461117528
+      Marketing_Tag_12: -8065838131555468066
+      Marketing_Tag_120: -6335935820038338968
+      Marketing_Tag_121: -7866602929376249335
+      Marketing_Tag_122: -8618014343511844399
+      Marketing_Tag_123: 6019709741652087552
+      Marketing_Tag_124: 9053847163699546620
+      Marketing_Tag_125: -2983967569086925144
+      Marketing_Tag_126: -8361275048762815746
+      Marketing_Tag_127: 4401501021182376787
+      Marketing_Tag_128: -3613899629190190810
+      Marketing_Tag_129: 6635420979866200746
+      Marketing_Tag_13: 8498804465384732387
+      Marketing_Tag_130: -4675079792802368691
+      Marketing_Tag_131: 5909472790173109680
+      Marketing_Tag_132: -4439961468740703604
+      Marketing_Tag_133: -3250756032781093403
+      Marketing_Tag_134: 6616239942635647467
+      Marketing_Tag_135: -4833139639223759927
+      Marketing_Tag_136: 8884636232790720732
+      Marketing_Tag_137: -6447251262609136330
+      Marketing_Tag_138: 869359532008388420
+      Marketing_Tag_139: 795258551870910342
+      Marketing_Tag_14: -6333670932298674310
+      Marketing_Tag_140: 3390725190335842804
+      Marketing_Tag_141: -3216699356201142741
+      Marketing_Tag_142: 1168918073807523437
+      Marketing_Tag_143: -1755360343065211862
+      Marketing_Tag_144: 8682036191534619296
+      Marketing_Tag_145: 7845899878011333697
+      Marketing_Tag_146: -1120656896082405244
+      Marketing_Tag_147: 6646029398619982994
+      Marketing_Tag_148: 2941974173808505369
+      Marketing_Tag_149: -5706234905435491270
+      Marketing_Tag_15: -1650897054934309352
+      Marketing_Tag_150: 2515542804277961657
+      Marketing_Tag_151: -5519143175956844604
+      Marketing_Tag_152: -1962858322125293638
+      Marketing_Tag_153: -2996201305415702068
+      Marketing_Tag_154: -2208614755754487320
+      Marketing_Tag_155: 1977506455631637223
+      Marketing_Tag_156: 4956842644067451625
+      Marketing_Tag_157: 6233501970590212703
+      Marketing_Tag_158: 3230529424469676459
+      Marketing_Tag_159: 7336875271818137855
+      Marketing_Tag_16: -273953172278997219
+      Marketing_Tag_160: 697333085744179525
+      Marketing_Tag_161: -2785540466500468140
+      Marketing_Tag_162: -6248192883163177673
+      Marketing_Tag_163: 7135653639710625342
+      Marketing_Tag_164: 8571383729756988246
+      Marketing_Tag_165: -4822440661944608383
+      Marketing_Tag_166: 4458678173047273806
+      Marketing_Tag_167: 3140700994302762980
+      Marketing_Tag_168: 7620298624051738212
+      Marketing_Tag_169: -3041205597985377312
+      Marketing_Tag_17: 4417203046495728637
+      Marketing_Tag_170: -8172983154329430672
+      Marketing_Tag_171: -312977104676080151
+      Marketing_Tag_172: 8492139929226178143
+      Marketing_Tag_173: -7900383547315371256
+      Marketing_Tag_174: -2466770330254061830
+      Marketing_Tag_175: -1355322754651535230
+      Marketing_Tag_176: 3159487359369593752
+      Marketing_Tag_177: -4178108092415246164
+      Marketing_Tag_178: 3664632251836644936
+      Marketing_Tag_179: -9140054136353314525
+      Marketing_Tag_18: 6163516112121856475
+      Marketing_Tag_180: 8277440695173320819
+      Marketing_Tag_181: 6847644071492524248
+      Marketing_Tag_182: -6798586596738157071
+      Marketing_Tag_183: -6701938117697147339
+      Marketing_Tag_184: -3191623417891336493
+      Marketing_Tag_185: -299988203888274189
+      Marketing_Tag_186: -302385560750668041
+      Marketing_Tag_187: -5485609328158765565
+      Marketing_Tag_188: 7269986065076303686
+      Marketing_Tag_189: -3731643741319556668
+      Marketing_Tag_19: -2229631863585071746
+      Marketing_Tag_190: -4068853827483499887
+      Marketing_Tag_191: -3826732215318182230
+      Marketing_Tag_192: -6180432163085317005
+      Marketing_Tag_193: 6142984769241210013
+      Marketing_Tag_194: -1098902815637992736
+      Marketing_Tag_195: 5899671941764075561
+      Marketing_Tag_196: -3051892702521510199
+      Marketing_Tag_197: 3747483342546268613
+      Marketing_Tag_198: 3941032390154940540
+      Marketing_Tag_199: -1858482767141046102
+      Marketing_Tag_2: -8325338846922405225
+      Marketing_Tag_20: 6055815676159059919
+      Marketing_Tag_200: -7551460177509993196
+      Marketing_Tag_201: -3058152762838605591
+      Marketing_Tag_202: -6144496152286956343
+      Marketing_Tag_203: 6839844009921288782
+      Marketing_Tag_204: -983967907914242497
+      Marketing_Tag_205: -2154032008675190699
+      Marketing_Tag_206: 8588081487969724684
+      Marketing_Tag_207: -2118416904321163367
+      Marketing_Tag_208: -4547204144344113249
+      Marketing_Tag_209: -4947296489773948291
+      Marketing_Tag_21: -995173425467769318
+      Marketing_Tag_210: 8823424202675053497
+      Marketing_Tag_211: -4983449877129206531
+      Marketing_Tag_212: 8135202111314434835
+      Marketing_Tag_213: 8728215170666083098
+      Marketing_Tag_214: -6369044466513022921
+      Marketing_Tag_215: 505421876596914801
+      Marketing_Tag_216: 147297277521600645
+      Marketing_Tag_217: -509223327234085271
+      Marketing_Tag_218: 2666466531790606803
+      Marketing_Tag_219: 4830510645902771319
+      Marketing_Tag_22: -9077226779580715615
+      Marketing_Tag_220: -8415661490999579469
+      Marketing_Tag_221: -8003712586522357099
+      Marketing_Tag_222: -5169269603500791850
+      Marketing_Tag_223: 520077713548707791
+      Marketing_Tag_224: 4113554790409311602
+      Marketing_Tag_225: 636849640200432889
+      Marketing_Tag_226: -2297024682382246147
+      Marketing_Tag_227: 1787986091946439103
+      Marketing_Tag_228: 9088573188417361550
+      Marketing_Tag_229: 1886249769822545343
+      Marketing_Tag_23: 3838421312866376975
+      Marketing_Tag_230: -3264811279903636897
+      Marketing_Tag_231: 5893400305457521356
+      Marketing_Tag_232: -5474190538239391576
+      Marketing_Tag_233: 5356368840440305795
+      Marketing_Tag_234: 3457973505013691555
+      Marketing_Tag_235: -5515993458168797807
+      Marketing_Tag_236: -7307219280358069956
+      Marketing_Tag_237: -251314473061891937
+      Marketing_Tag_238: -5448569372103287396
+      Marketing_Tag_239: 233435146659170029
+      Marketing_Tag_24: 5785945883997225691
+      Marketing_Tag_240: 8381989936315927643
+      Marketing_Tag_241: -1591417102834399819
+      Marketing_Tag_242: 4937648622203897138
+      Marketing_Tag_243: -3742227955449673558
+      Marketing_Tag_244: 4439282144417011388
+      Marketing_Tag_245: 6544491076403373934
+      Marketing_Tag_246: 881518342440548763
+      Marketing_Tag_247: 1327369081443764193
+      Marketing_Tag_248: -5673747196008302518
+      Marketing_Tag_249: 3425580996007146624
+      Marketing_Tag_25: -1465405226007657087
+      Marketing_Tag_250: 8947741752526726666
+      Marketing_Tag_251: -5493166943615859884
+      Marketing_Tag_252: 1545652260608138825
+      Marketing_Tag_253: -1087528556282132347
+      Marketing_Tag_26: 2414162557163451688
+      Marketing_Tag_27: 5976817764722695395
+      Marketing_Tag_28: -3313703162860413689
+      Marketing_Tag_29: -6439061658381499181
+      Marketing_Tag_3: 1985608359942888705
+      Marketing_Tag_30: 5650735302685682283
+      Marketing_Tag_31: 3508178181886433976
+      Marketing_Tag_32: 6488751949761168928
+      Marketing_Tag_33: 8549607655587400516
+      Marketing_Tag_34: 1350828545820068952
+      Marketing_Tag_35: -1549835590731906209
+      Marketing_Tag_36: 5109315411200084549
+      Marketing_Tag_37: 975579182699018453
+      Marketing_Tag_38: 4986154371210578606
+      Marketing_Tag_39: 4781848105815797890
+      Marketing_Tag_4: -4382676056360068555
+      Marketing_Tag_40: -1867013124145654577
+      Marketing_Tag_41: -2634870303090640996
+      Marketing_Tag_42: 3964477601575519019
+      Marketing_Tag_43: -190146332875123460
+      Marketing_Tag_44: 3434831051644354035
+      Marketing_Tag_45: 6821719332668959713
+      Marketing_Tag_46: 8036329950730930817
+      Marketing_Tag_47: -6301548392766308177
+      Marketing_Tag_48: 1558734807566633848
+      Marketing_Tag_49: -7130268617048455401
+      Marketing_Tag_5: 8847641407728808140
+      Marketing_Tag_50: -7567300350938027766
+      Marketing_Tag_51: -4008367091245609032
+      Marketing_Tag_52: 6726724768145013428
+      Marketing_Tag_53: -2916695410417635881
+      Marketing_Tag_54: -4776845709076109825
+      Marketing_Tag_55: 8681383746332554631
+      Marketing_Tag_56: -4762526091312061336
+      Marketing_Tag_57: -5081580888767318117
+      Marketing_Tag_58: 3218599887567171322
+      Marketing_Tag_59: -3854853107044678246
+      Marketing_Tag_6: -7943457501656255357
+      Marketing_Tag_60: -5197743640002408071
+      Marketing_Tag_61: -6240405618298888429
+      Marketing_Tag_62: 6274324847562394553
+      Marketing_Tag_63: 2665822872978682175
+      Marketing_Tag_64: 6162907719345158694
+      Marketing_Tag_65: 8449347197344583770
+      Marketing_Tag_66: -8203547724460000723
+      Marketing_Tag_67: -48011079142951797
+      Marketing_Tag_68: -3072644393130988215
+      Marketing_Tag_69: 7848680122155599632
+      Marketing_Tag_7: -999545181531583754
+      Marketing_Tag_70: 6589818806696860062
+      Marketing_Tag_71: 7983096387499802323
+      Marketing_Tag_72: 8129461916490738276
+      Marketing_Tag_73: 3820330808731785498
+      Marketing_Tag_74: 8532657872357274265
+      Marketing_Tag_75: -8816186614124171897
+      Marketing_Tag_76: 9082598346133067366
+      Marketing_Tag_77: 2132086952894575744
+      Marketing_Tag_78: -6165251012642324650
+      Marketing_Tag_79: 8668730596493965269
+      Marketing_Tag_8: 6419656956438493607
+      Marketing_Tag_80: -7600810257824080180
+      Marketing_Tag_81: 4986924219982121422
+      Marketing_Tag_82: 8392385073630857904
+      Marketing_Tag_83: -2158292360731699194
+      Marketing_Tag_84: -2945269524598886365
+      Marketing_Tag_85: 3683030776185292749
+      Marketing_Tag_86: 5834224432732076495
+      Marketing_Tag_87: -883114223868895960
+      Marketing_Tag_88: 1902523885128427295
+      Marketing_Tag_89: -3824505292983647508
+      Marketing_Tag_9: -948218478261287767
+      Marketing_Tag_90: 7691641223074075144
+      Marketing_Tag_91: -7119139128799044347
+      Marketing_Tag_92: -6935294170964275738
+      Marketing_Tag_93: 5605252134580689399
+      Marketing_Tag_94: 2444958806853633905
+      Marketing_Tag_95: 6179482116692098108
+      Marketing_Tag_96: -4200989501032711786
+      Marketing_Tag_97: 4563103443110997751
+      Marketing_Tag_98: -5979512268018939458
+      Marketing_Tag_99: 2528414494139897008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

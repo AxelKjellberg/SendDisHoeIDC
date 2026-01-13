@@ -1,0 +1,4940 @@
+fileFormatVersion: 2
+guid: 286b16ce43b924b2b9b18d68b15f022c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3094084858197296178
+    second: Tool_Dash_0
+  - first:
+      213: 6934514139906152694
+    second: Tool_Dash_1
+  - first:
+      213: -7292649977045015548
+    second: Tool_Dash_2
+  - first:
+      213: -5739967128072182669
+    second: Tool_Dash_3
+  - first:
+      213: -2242093243643934417
+    second: Tool_Dash_4
+  - first:
+      213: -1380585615989750950
+    second: Tool_Dash_5
+  - first:
+      213: -4682718493163802704
+    second: Tool_Dash_6
+  - first:
+      213: -4677256996197187265
+    second: Tool_Dash_7
+  - first:
+      213: -9192733508988874489
+    second: Tool_Dash_8
+  - first:
+      213: 1996389754152442019
+    second: Tool_Dash_9
+  - first:
+      213: 1769350928019404484
+    second: Tool_Dash_10
+  - first:
+      213: 5764646077364157038
+    second: Tool_Dash_11
+  - first:
+      213: -4454090467539031722
+    second: Tool_Dash_12
+  - first:
+      213: -6895693529669658427
+    second: Tool_Dash_13
+  - first:
+      213: 2129521094170886432
+    second: Tool_Dash_14
+  - first:
+      213: 6795680221993409516
+    second: Tool_Dash_15
+  - first:
+      213: -7296228492365183514
+    second: Tool_Dash_16
+  - first:
+      213: -3286715668483568688
+    second: Tool_Dash_17
+  - first:
+      213: 4533706848341604898
+    second: Tool_Dash_18
+  - first:
+      213: 429618785640549826
+    second: Tool_Dash_19
+  - first:
+      213: -5550771515680757773
+    second: Tool_Dash_20
+  - first:
+      213: -484766718564622993
+    second: Tool_Dash_21
+  - first:
+      213: -4686589754036397729
+    second: Tool_Dash_22
+  - first:
+      213: 6520722950900827748
+    second: Tool_Dash_23
+  - first:
+      213: -8070478990728211864
+    second: Tool_Dash_24
+  - first:
+      213: 3011246546758236862
+    second: Tool_Dash_25
+  - first:
+      213: -8705145965172849512
+    second: Tool_Dash_26
+  - first:
+      213: -226961420972586595
+    second: Tool_Dash_27
+  - first:
+      213: -3747791533499468775
+    second: Tool_Dash_28
+  - first:
+      213: -1202745346573466020
+    second: Tool_Dash_29
+  - first:
+      213: 9069491589981724999
+    second: Tool_Dash_30
+  - first:
+      213: 3191792143657692084
+    second: Tool_Dash_31
+  - first:
+      213: -7088829866744641946
+    second: Tool_Dash_32
+  - first:
+      213: -4572171592444098864
+    second: Tool_Dash_33
+  - first:
+      213: -4017416224990615890
+    second: Tool_Dash_34
+  - first:
+      213: -5246805255027414631
+    second: Tool_Dash_35
+  - first:
+      213: 6411930289454518532
+    second: Tool_Dash_36
+  - first:
+      213: 8243389147735038209
+    second: Tool_Dash_37
+  - first:
+      213: 7204747956709042657
+    second: Tool_Dash_38
+  - first:
+      213: 6491057261305376647
+    second: Tool_Dash_39
+  - first:
+      213: -4945301476410249650
+    second: Tool_Dash_40
+  - first:
+      213: -2230184647583316040
+    second: Tool_Dash_41
+  - first:
+      213: -3070860357474448553
+    second: Tool_Dash_42
+  - first:
+      213: -6032090120098007875
+    second: Tool_Dash_43
+  - first:
+      213: 5323736491976793
+    second: Tool_Dash_44
+  - first:
+      213: 178344958432148497
+    second: Tool_Dash_45
+  - first:
+      213: 6543193651036414016
+    second: Tool_Dash_46
+  - first:
+      213: 442151999204237645
+    second: Tool_Dash_47
+  - first:
+      213: -5091567397339065368
+    second: Tool_Dash_48
+  - first:
+      213: -8464661890159175347
+    second: Tool_Dash_49
+  - first:
+      213: -6788405281846554474
+    second: Tool_Dash_50
+  - first:
+      213: -2534474094967484749
+    second: Tool_Dash_51
+  - first:
+      213: 6610476927327234514
+    second: Tool_Dash_52
+  - first:
+      213: -9205674687963500590
+    second: Tool_Dash_53
+  - first:
+      213: 6057961736498401145
+    second: Tool_Dash_54
+  - first:
+      213: 8330297457084202595
+    second: Tool_Dash_55
+  - first:
+      213: 5314077676451094009
+    second: Tool_Dash_56
+  - first:
+      213: 7905141259569188191
+    second: Tool_Dash_57
+  - first:
+      213: 2108843372718072250
+    second: Tool_Dash_58
+  - first:
+      213: 2772323680654566313
+    second: Tool_Dash_59
+  - first:
+      213: 2407112263148950738
+    second: Tool_Dash_60
+  - first:
+      213: 7045823468390035867
+    second: Tool_Dash_61
+  - first:
+      213: 368246548795860605
+    second: Tool_Dash_62
+  - first:
+      213: 5867966165156131688
+    second: Tool_Dash_63
+  - first:
+      213: 4751378527975042570
+    second: Tool_Dash_64
+  - first:
+      213: -4494868836023841822
+    second: Tool_Dash_65
+  - first:
+      213: -4180861564879362984
+    second: Tool_Dash_66
+  - first:
+      213: -7086489643686017585
+    second: Tool_Dash_67
+  - first:
+      213: 3981587690923127602
+    second: Tool_Dash_68
+  - first:
+      213: 8146314375737532306
+    second: Tool_Dash_69
+  - first:
+      213: -153545467144857731
+    second: Tool_Dash_70
+  - first:
+      213: -8521413570848034761
+    second: Tool_Dash_71
+  - first:
+      213: 4249743178617259785
+    second: Tool_Dash_72
+  - first:
+      213: 7535528639050125673
+    second: Tool_Dash_73
+  - first:
+      213: -2509092815151947566
+    second: Tool_Dash_74
+  - first:
+      213: 5527989092783230046
+    second: Tool_Dash_75
+  - first:
+      213: -6338540355064198194
+    second: Tool_Dash_76
+  - first:
+      213: 4596263977548832751
+    second: Tool_Dash_77
+  - first:
+      213: 4168502566330267538
+    second: Tool_Dash_78
+  - first:
+      213: 2411324897192827852
+    second: Tool_Dash_79
+  - first:
+      213: -7576911598718526783
+    second: Tool_Dash_80
+  - first:
+      213: -7269339426388098478
+    second: Tool_Dash_81
+  - first:
+      213: 2437594502263440802
+    second: Tool_Dash_82
+  - first:
+      213: 3720888420273325444
+    second: Tool_Dash_83
+  - first:
+      213: -9075953107548796952
+    second: Tool_Dash_84
+  - first:
+      213: -3235387909370722926
+    second: Tool_Dash_85
+  - first:
+      213: -2658827302762101459
+    second: Tool_Dash_86
+  - first:
+      213: -1809026268386627730
+    second: Tool_Dash_87
+  - first:
+      213: 7325671207272720918
+    second: Tool_Dash_88
+  - first:
+      213: -4710467513291871496
+    second: Tool_Dash_89
+  - first:
+      213: -685571539560652085
+    second: Tool_Dash_90
+  - first:
+      213: -541362190111561725
+    second: Tool_Dash_91
+  - first:
+      213: -2377814344623667456
+    second: Tool_Dash_92
+  - first:
+      213: -8788299647154719371
+    second: Tool_Dash_93
+  - first:
+      213: -3082791148896244560
+    second: Tool_Dash_94
+  - first:
+      213: -3361799807263181802
+    second: Tool_Dash_95
+  - first:
+      213: -5778877907052881914
+    second: Tool_Dash_96
+  - first:
+      213: 2395166338812916875
+    second: Tool_Dash_97
+  - first:
+      213: -4531595692809631475
+    second: Tool_Dash_98
+  - first:
+      213: 776900514745869500
+    second: Tool_Dash_99
+  - first:
+      213: 6056224489676260719
+    second: Tool_Dash_100
+  - first:
+      213: -6650616544458643974
+    second: Tool_Dash_101
+  - first:
+      213: -2319360655311063465
+    second: Tool_Dash_102
+  - first:
+      213: 8399040729400743148
+    second: Tool_Dash_103
+  - first:
+      213: 6023057860546496928
+    second: Tool_Dash_104
+  - first:
+      213: -4804611624321166105
+    second: Tool_Dash_105
+  - first:
+      213: 982391571460617113
+    second: Tool_Dash_106
+  - first:
+      213: -3411739538475076950
+    second: Tool_Dash_107
+  - first:
+      213: -8927899558993075160
+    second: Tool_Dash_108
+  - first:
+      213: 477057731681926161
+    second: Tool_Dash_109
+  - first:
+      213: -317122406032276384
+    second: Tool_Dash_110
+  - first:
+      213: -6784488908068985189
+    second: Tool_Dash_111
+  - first:
+      213: -8415834160825475451
+    second: Tool_Dash_112
+  - first:
+      213: -5420915749144651926
+    second: Tool_Dash_113
+  - first:
+      213: -5334178905235024073
+    second: Tool_Dash_114
+  - first:
+      213: 2425881988782842761
+    second: Tool_Dash_115
+  - first:
+      213: 793801560549228600
+    second: Tool_Dash_116
+  - first:
+      213: -3795521321392532617
+    second: Tool_Dash_117
+  - first:
+      213: 6951479360428318552
+    second: Tool_Dash_118
+  - first:
+      213: -6910125857304547459
+    second: Tool_Dash_119
+  - first:
+      213: -3240489410425625555
+    second: Tool_Dash_120
+  - first:
+      213: -2691849941261638932
+    second: Tool_Dash_121
+  - first:
+      213: -1533171120977567267
+    second: Tool_Dash_122
+  - first:
+      213: -7721521178321524819
+    second: Tool_Dash_123
+  - first:
+      213: 5588266172952184328
+    second: Tool_Dash_124
+  - first:
+      213: -5109310452796226393
+    second: Tool_Dash_125
+  - first:
+      213: -6789577469724838913
+    second: Tool_Dash_126
+  - first:
+      213: -2231219807264941861
+    second: Tool_Dash_127
+  - first:
+      213: -8860351722496452463
+    second: Tool_Dash_128
+  - first:
+      213: -6684565301052291415
+    second: Tool_Dash_129
+  - first:
+      213: -1775236692733163887
+    second: Tool_Dash_130
+  - first:
+      213: -3194083449872163396
+    second: Tool_Dash_131
+  - first:
+      213: -402872001746499431
+    second: Tool_Dash_132
+  - first:
+      213: 3964480080683202383
+    second: Tool_Dash_133
+  - first:
+      213: -2906461701721804612
+    second: Tool_Dash_134
+  - first:
+      213: 3018418776881415151
+    second: Tool_Dash_135
+  - first:
+      213: -6453744869976962936
+    second: Tool_Dash_136
+  - first:
+      213: 2326192293725578368
+    second: Tool_Dash_137
+  - first:
+      213: 4617509778924056272
+    second: Tool_Dash_138
+  - first:
+      213: 5097464157245889135
+    second: Tool_Dash_139
+  - first:
+      213: -1163164522092553236
+    second: Tool_Dash_140
+  - first:
+      213: 4706498687359940123
+    second: Tool_Dash_141
+  - first:
+      213: -6766136975647048621
+    second: Tool_Dash_142
+  - first:
+      213: -7801212159088316878
+    second: Tool_Dash_143
+  - first:
+      213: -6212970739776825682
+    second: Tool_Dash_144
+  - first:
+      213: -6817110123078180207
+    second: Tool_Dash_145
+  - first:
+      213: -3094696065694964914
+    second: Tool_Dash_146
+  - first:
+      213: -5402693384140278811
+    second: Tool_Dash_147
+  - first:
+      213: 2325138956038453695
+    second: Tool_Dash_148
+  - first:
+      213: -2295675376270799985
+    second: Tool_Dash_149
+  - first:
+      213: -8675979666096193910
+    second: Tool_Dash_150
+  - first:
+      213: -7836440525488929726
+    second: Tool_Dash_151
+  - first:
+      213: -2998684913441471795
+    second: Tool_Dash_152
+  - first:
+      213: 2659559237806502993
+    second: Tool_Dash_153
+  - first:
+      213: 5675061388928381948
+    second: Tool_Dash_154
+  - first:
+      213: -2682474907728160620
+    second: Tool_Dash_155
+  - first:
+      213: 5840997511915261517
+    second: Tool_Dash_156
+  - first:
+      213: -4097393809828451809
+    second: Tool_Dash_157
+  - first:
+      213: -1380289839930848351
+    second: Tool_Dash_158
+  - first:
+      213: -8243246996742241764
+    second: Tool_Dash_159
+  - first:
+      213: 8207167822496769857
+    second: Tool_Dash_160
+  - first:
+      213: -3355532581471816148
+    second: Tool_Dash_161
+  - first:
+      213: 7906377057912379692
+    second: Tool_Dash_162
+  - first:
+      213: 8934538948996887460
+    second: Tool_Dash_163
+  - first:
+      213: -2614450663779087999
+    second: Tool_Dash_164
+  - first:
+      213: -3067318320708164451
+    second: Tool_Dash_165
+  - first:
+      213: -2777301898100696860
+    second: Tool_Dash_166
+  - first:
+      213: 1170918466436055808
+    second: Tool_Dash_167
+  - first:
+      213: -4814269595532359522
+    second: Tool_Dash_168
+  - first:
+      213: 5151284038707303006
+    second: Tool_Dash_169
+  - first:
+      213: -3833902242371025100
+    second: Tool_Dash_170
+  - first:
+      213: -6850754190253589436
+    second: Tool_Dash_171
+  - first:
+      213: 7578995869897529331
+    second: Tool_Dash_172
+  - first:
+      213: -1693458448869875366
+    second: Tool_Dash_173
+  - first:
+      213: -2632525031337524379
+    second: Tool_Dash_174
+  - first:
+      213: 8725710085007240993
+    second: Tool_Dash_175
+  - first:
+      213: 2962517981327880463
+    second: Tool_Dash_176
+  - first:
+      213: -1942483426367185240
+    second: Tool_Dash_177
+  - first:
+      213: -7082900569217552324
+    second: Tool_Dash_178
+  - first:
+      213: -7937713707537799149
+    second: Tool_Dash_179
+  - first:
+      213: -6177971141750972301
+    second: Tool_Dash_180
+  - first:
+      213: 1657309378544585927
+    second: Tool_Dash_181
+  - first:
+      213: 6501431297769304432
+    second: Tool_Dash_182
+  - first:
+      213: -2465419310663318633
+    second: Tool_Dash_183
+  - first:
+      213: 675424177685233667
+    second: Tool_Dash_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tool_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2903
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb3c32f63a9f05d0800000000000000
+      internalID: -3094084858197296178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2915
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8970f9ed75c3060800000000000000
+      internalID: 6934514139906152694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2915
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404a8f6eb7d4bca90800000000000000
+      internalID: -7292649977045015548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2913
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a6d40f4a8750b0800000000000000
+      internalID: -5739967128072182669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2915
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29cc43f21c72e0e0800000000000000
+      internalID: -2242093243643934417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2914
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cae862bc27dce0800000000000000
+      internalID: -1380585615989750950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2915
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa1df2754a30fb0800000000000000
+      internalID: -4682718493163802704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2913
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c47a0b8b071fb0800000000000000
+      internalID: -4677256996197187265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2915
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70153e92499dc6080800000000000000
+      internalID: -9192733508988874489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2913
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a85c7177e994bb10800000000000000
+      internalID: 1996389754152442019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2903
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6ba9b6b4ffd8810800000000000000
+      internalID: 1769350928019404484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2913
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab321a013200050800000000000000
+      internalID: 5764646077364157038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2891
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e1ec8154ef22c0800000000000000
+      internalID: -4454090467539031722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2913
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8941c05439d40a0800000000000000
+      internalID: -6895693529669658427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2913
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021c1c707249d8d10800000000000000
+      internalID: 2129521094170886432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2891
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb9017282b1f4e50800000000000000
+      internalID: 6795680221993409516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2913
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e54d70e7d69eba90800000000000000
+      internalID: -7296228492365183514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2913
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db8356638d3362d0800000000000000
+      internalID: -3286715668483568688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2913
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a3823ab56faee30800000000000000
+      internalID: 4533706848341604898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2913
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd80f2620056f500800000000000000
+      internalID: 429618785640549826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_20
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2913
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ed7a37b2b7f2b0800000000000000
+      internalID: -5550771515680757773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_21
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2915
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d1605ec33c549f0800000000000000
+      internalID: -484766718564622993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_22
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 2964
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59dca60373e5feb0800000000000000
+      internalID: -4686589754036397729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_23
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2930
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4664e2fb9f24e7a50800000000000000
+      internalID: 6520722950900827748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2819
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862546efd16efff80800000000000000
+      internalID: -8070478990728211864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2819
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba75aea7c81ac920800000000000000
+      internalID: 3011246546758236862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2820
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89482f3dddb113780800000000000000
+      internalID: -8705145965172849512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2819
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9906354acba9dcf0800000000000000
+      internalID: -226961420972586595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2820
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143c89f47b2dfbc0800000000000000
+      internalID: -3747791533499468775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2819
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c560c3eca7dfe4fe0800000000000000
+      internalID: -1202745346573466020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2819
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741e0428c8e4ddd70800000000000000
+      internalID: 9069491589981724999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2808
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb69973b068b4c20800000000000000
+      internalID: 3191792143657692084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666818f5bca6f9d90800000000000000
+      internalID: -7088829866744641946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2820
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6cc3c39226c80c0800000000000000
+      internalID: -4572171592444098864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2820
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea62b828a354f38c0800000000000000
+      internalID: -4017416224990615890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2819
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99920785b6a9f27b0800000000000000
+      internalID: -5246805255027414631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2820
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401118b50a0cbf850800000000000000
+      internalID: 6411930289454518532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2820
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1099e0821c6666270800000000000000
+      internalID: 8243389147735038209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_38
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2819
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e92ddf18186cf360800000000000000
+      internalID: 7204747956709042657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2820
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fa3d4203ed41a50800000000000000
+      internalID: 6491057261305376647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2819
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e2a5f2282ce5bb0800000000000000
+      internalID: -4945301476410249650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_41
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7444901eacc01e0800000000000000
+      internalID: -2230184647583316040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_42
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b08e566cc1265d0800000000000000
+      internalID: -3070860357474448553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_43
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2839
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db43a62cef5b94ca0800000000000000
+      internalID: -6032090120098007875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_44
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9586b7ef8e9e21000800000000000000
+      internalID: 5323736491976793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_45
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c74d67bcb997200800000000000000
+      internalID: 178344958432148497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_46
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2819
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040ed9255f71eca50800000000000000
+      internalID: 6543193651036414016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_47
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2820
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d412c4196e6d22600800000000000000
+      internalID: 442151999204237645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2820
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e315abad6e1759b0800000000000000
+      internalID: -5091567397339065368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_49
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2827
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49964dcbda778a80800000000000000
+      internalID: -8464661890159175347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6909628dc5dbac1a0800000000000000
+      internalID: -6788405281846554474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_51
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2820
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be88052d3db3dcd0800000000000000
+      internalID: -2534474094967484749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_52
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2839
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d96149ddb12dbb50800000000000000
+      internalID: 6610476927327234514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_53
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df612225afde3080800000000000000
+      internalID: -9205674687963500590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_54
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2819
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f45e65a14321450800000000000000
+      internalID: 6057961736498401145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2811
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef7d2c6692b9370800000000000000
+      internalID: 8330297457084202595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_56
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2819
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd53b5dd756fb940800000000000000
+      internalID: 5314077676451094009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_57
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2819
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc7e3a714b4bd60800000000000000
+      internalID: 7905141259569188191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2733
+        width: 104
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab12cc5dfdd144d10800000000000000
+      internalID: 2108843372718072250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2678
+        width: 4746
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3a1dbf2b5497620800000000000000
+      internalID: 2772323680654566313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2741
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4da7399d7c76120800000000000000
+      internalID: 2407112263148950738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2733
+        width: 247
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91bf773d1bc7c160800000000000000
+      internalID: 7045823468390035867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_62
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2733
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76adbaf8464c1500800000000000000
+      internalID: 368246548795860605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2735
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863742c23243f6150800000000000000
+      internalID: 5867966165156131688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_64
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2740
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eee59e89940f140800000000000000
+      internalID: 4751378527975042570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2741
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb43d4cb940f91c0800000000000000
+      internalID: -4494868836023841822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_66
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2741
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542842de889af5c0800000000000000
+      internalID: -4180861564879362984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_67
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2741
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc54c93073bb7ad90800000000000000
+      internalID: -7086489643686017585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2733
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2337a87d8e0714730800000000000000
+      internalID: 3981587690923127602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2733
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f5e7283c58d0170800000000000000
+      internalID: 8146314375737532306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_70
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2740
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7795fd063f7eddf0800000000000000
+      internalID: -153545467144857731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_71
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2741
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f865718bddb980800000000000000
+      internalID: -8521413570848034761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_72
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2740
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9070f14a7ee1afa30800000000000000
+      internalID: 4249743178617259785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_73
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2741
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9619d5d4f53939860800000000000000
+      internalID: 7535528639050125673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_74
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2740
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0226cd069ed2dd0800000000000000
+      internalID: -2509092815151947566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_75
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2741
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c04959acc57bc40800000000000000
+      internalID: 5527989092783230046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_76
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 2715
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb8bed412bf808a0800000000000000
+      internalID: -6338540355064198194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_77
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 2714
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd8bb4cb539cf30800000000000000
+      internalID: 4596263977548832751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_78
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 2714
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2977b679ffe79d930800000000000000
+      internalID: 4168502566330267538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_79
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 2715
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbdb3fd73fb67120800000000000000
+      internalID: 2411324897192827852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_80
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 2714
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca58df8b0769d690800000000000000
+      internalID: -7576911598718526783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2579
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252456a6e4e1e1b90800000000000000
+      internalID: -7269339426388098478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_82
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2597
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a58bdde84314d120800000000000000
+      internalID: 2437594502263440802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2596
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485814bdd4043a330800000000000000
+      internalID: 3720888420273325444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2596
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e783723cbcbb0280800000000000000
+      internalID: -9075953107548796952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_85
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2597
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2954d5796d79913d0800000000000000
+      internalID: -3235387909370722926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_86
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2621
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2541cbb7a2f91bd0800000000000000
+      internalID: -2658827302762101459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_87
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2579
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fe67b813c05e6e0800000000000000
+      internalID: -1809026268386627730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_88
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2cc266230aa560800000000000000
+      internalID: 7325671207272720918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_89
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2597
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa6838f0ce01aeb0800000000000000
+      internalID: -4710467513291871496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_90
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2577
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2ae5c215c5c76f0800000000000000
+      internalID: -685571539560652085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_91
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2596
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a293d4f1bc78f0800000000000000
+      internalID: -541362190111561725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_92
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2579
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007c0e6a37e400fd0800000000000000
+      internalID: -2377814344623667456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_93
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f6a78800b90680800000000000000
+      internalID: -8788299647154719371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_94
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2596
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc225d88c9b735d0800000000000000
+      internalID: -3082791148896244560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_95
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2596
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f91a03ec7851d0800000000000000
+      internalID: -3361799807263181802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_96
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2579
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60892cd492d4dcfa0800000000000000
+      internalID: -5778877907052881914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_97
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2584
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84bae258175d3120800000000000000
+      internalID: 2395166338812916875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_98
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 2597
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0944601ab98c11c0800000000000000
+      internalID: -4531595692809631475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_99
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2596
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4ee37e6ea18ca00800000000000000
+      internalID: 776900514745869500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_100
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2597
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cc2b06180c0450800000000000000
+      internalID: 6056224489676260719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_101
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2597
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e4324d7344b3a0800000000000000
+      internalID: -6650616544458643974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_102
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ba22c5c9ffcfd0800000000000000
+      internalID: -2319360655311063465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_103
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce418f91b036f8470800000000000000
+      internalID: 8399040729400743148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_104
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2584
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a98f7f6633369350800000000000000
+      internalID: 6023057860546496928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_105
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2597
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4df900f27925db0800000000000000
+      internalID: -4804611624321166105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_106
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2596
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937f37ede722ad00800000000000000
+      internalID: 982391571460617113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_107
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 2587
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2b90747f017a0d0800000000000000
+      internalID: -3411739538475076950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_108
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2596
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e9d337aab91480800000000000000
+      internalID: -8927899558993075160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_109
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2597
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c314aba79de9600800000000000000
+      internalID: 477057731681926161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_110
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2597
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06401261ada599bf0800000000000000
+      internalID: -317122406032276384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_111
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2596
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9668fba847a8d1a0800000000000000
+      internalID: -6784488908068985189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_112
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2596
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e56637b63f43b80800000000000000
+      internalID: -8415834160825475451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_113
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6799eee8d905c4b0800000000000000
+      internalID: -5420915749144651926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_114
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2597
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73795112c8039f5b0800000000000000
+      internalID: -5334178905235024073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_115
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2597
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9836b60e0d67aa120800000000000000
+      internalID: 2425881988782842761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2596
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83000b64056240b00800000000000000
+      internalID: 793801560549228600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_117
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7731afcb779935bc0800000000000000
+      internalID: -3795521321392532617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f1ac5d5ad987060800000000000000
+      internalID: 6951479360428318552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2597
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fee1ae42d4a10a0800000000000000
+      internalID: -6910125857304547459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_120
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d246a21dc087703d0800000000000000
+      internalID: -3240489410425625555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_121
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a17e8db0a4aad0800000000000000
+      internalID: -2691849941261638932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_122
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ae321df419bae0800000000000000
+      internalID: -1533171120977567267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_123
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2589
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76d701665a7d490800000000000000
+      internalID: -7721521178321524819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_124
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068525f9728d8d40800000000000000
+      internalID: 5588266172952184328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_125
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a404e5a6351819b0800000000000000
+      internalID: -5109310452796226393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_126
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2596
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff33e06934396c1a0800000000000000
+      internalID: -6789577469724838913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_127
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd85824286d1901e0800000000000000
+      internalID: -2231219807264941861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_128
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2596
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19814937d05b90580800000000000000
+      internalID: -8860351722496452463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_129
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a640e86647ab33a0800000000000000
+      internalID: -6684565301052291415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_130
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2597
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196866132a71d57e0800000000000000
+      internalID: -1775236692733163887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_131
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd5a6b76065ca3d0800000000000000
+      internalID: -3194083449872163396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_132
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2596
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99803f58c06b86af0800000000000000
+      internalID: -402872001746499431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_133
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2596
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47fb30f0a9a40730800000000000000
+      internalID: 3964480080683202383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_134
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0389b3b7c2aa7d0800000000000000
+      internalID: -2906461701721804612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_135
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2596
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c263a2e393e920800000000000000
+      internalID: 3018418776881415151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_136
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880602fb31bf66a0800000000000000
+      internalID: -6453744869976962936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_137
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a3c2019b484020800000000000000
+      internalID: 2326192293725578368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_138
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2589
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de29a7eda0b41040800000000000000
+      internalID: 4617509778924056272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_139
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a5debb4a4ddb640800000000000000
+      internalID: 5097464157245889135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_140
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2597
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb1655a70c9bdfe0800000000000000
+      internalID: -1163164522092553236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_141
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2596
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b167eebbe97d05140800000000000000
+      internalID: 4706498687359940123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_142
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cfbe8e44ad912a0800000000000000
+      internalID: -6766136975647048621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_143
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2596
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e2518bfd68cb390800000000000000
+      internalID: -7801212159088316878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_144
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2596
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d4b7a70817c9a0800000000000000
+      internalID: -6212970739776825682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2532
+        width: 4746
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a43f2672c461a0800000000000000
+      internalID: -6817110123078180207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_146
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2426
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e37c135e6d05d0800000000000000
+      internalID: -3094696065694964914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2426
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e337f7edf6c505b0800000000000000
+      internalID: -5402693384140278811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_148
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2426
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb93818bf8d844020800000000000000
+      internalID: 2325138956038453695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_149
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2426
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b84c5886f1420e0800000000000000
+      internalID: -2295675376270799985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_150
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2426
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef2d3067ab89780800000000000000
+      internalID: -8675979666096193910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_151
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2426
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244c1ce7cde5f3390800000000000000
+      internalID: -7836440525488929726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_152
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2426
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc28ffc75f78266d0800000000000000
+      internalID: -2998684913441471795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_153
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2426
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154b09c2907a8e420800000000000000
+      internalID: 2659559237806502993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_154
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2419
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf37c95f34ed1ce40800000000000000
+      internalID: 5675061388928381948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_155
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2419
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d6f5a84fe5cad0800000000000000
+      internalID: -2682474907728160620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_156
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2426
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e46a74a446f0150800000000000000
+      internalID: 5840997511915261517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_157
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2391
+        width: 1056
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a6a44f9022327c0800000000000000
+      internalID: -4097393809828451809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_158
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2428
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab47d324b938dce0800000000000000
+      internalID: -1380289839930848351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_159
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2428
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128f53f78a1a9d80800000000000000
+      internalID: -8243246996742241764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_160
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2428
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147afefa6a7b5e170800000000000000
+      internalID: 8207167822496769857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_161
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2428
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c267f1145e0ce61d0800000000000000
+      internalID: -3355532581471816148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_162
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2428
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295a2d5b0819bd60800000000000000
+      internalID: 7906377057912379692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_163
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2428
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f9de36dbddfb70800000000000000
+      internalID: 8934538948996887460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_164
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2391
+        width: 1056
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189c9a629fa97bbd0800000000000000
+      internalID: -2614450663779087999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1894
+        width: 1813
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9464291d32be65d0800000000000000
+      internalID: -3067318320708164451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_166
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1894
+        width: 1813
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e890b173aa0579d0800000000000000
+      internalID: -2777301898100696860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_167
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1734
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003cdd43420ff3010800000000000000
+      internalID: 1170918466436055808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_168
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9884595f47403db0800000000000000
+      internalID: -4814269595532359522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_169
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1735
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d9406a890d7740800000000000000
+      internalID: 5151284038707303006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_170
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c6e3393e3bcac0800000000000000
+      internalID: -3833902242371025100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_171
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1734
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c7a6e5c5b3de0a0800000000000000
+      internalID: -6850754190253589436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_172
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1767
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f71563a6900e2960800000000000000
+      internalID: 7578995869897529331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_173
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1735
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a512a395380af78e0800000000000000
+      internalID: -1693458448869875366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_174
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1735
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638dc48e64677bd0800000000000000
+      internalID: -2632525031337524379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_175
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1735
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f66ed6713f71970800000000000000
+      internalID: 8725710085007240993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_176
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1734
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0171cd686afc1920800000000000000
+      internalID: 2962517981327880463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_177
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1734
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aedc4d8d99ea05e0800000000000000
+      internalID: -1942483426367185240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_178
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1735
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c303068857b74bd90800000000000000
+      internalID: -7082900569217552324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_179
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1735
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318e575507397d190800000000000000
+      internalID: -7937713707537799149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_180
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370a1579aff634aa0800000000000000
+      internalID: -6177971141750972301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_181
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1734
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc2175912fff610800000000000000
+      internalID: 1657309378544585927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_182
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1735
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071752bb159b93a50800000000000000
+      internalID: 6501431297769304432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_183
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1734
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7934685033219cdd0800000000000000
+      internalID: -2465419310663318633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Dash_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4745
+        height: 1700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30083a706b69f5900800000000000000
+      internalID: 675424177685233667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tool_Dash_0: -3094084858197296178
+      Tool_Dash_1: 6934514139906152694
+      Tool_Dash_10: 1769350928019404484
+      Tool_Dash_100: 6056224489676260719
+      Tool_Dash_101: -6650616544458643974
+      Tool_Dash_102: -2319360655311063465
+      Tool_Dash_103: 8399040729400743148
+      Tool_Dash_104: 6023057860546496928
+      Tool_Dash_105: -4804611624321166105
+      Tool_Dash_106: 982391571460617113
+      Tool_Dash_107: -3411739538475076950
+      Tool_Dash_108: -8927899558993075160
+      Tool_Dash_109: 477057731681926161
+      Tool_Dash_11: 5764646077364157038
+      Tool_Dash_110: -317122406032276384
+      Tool_Dash_111: -6784488908068985189
+      Tool_Dash_112: -8415834160825475451
+      Tool_Dash_113: -5420915749144651926
+      Tool_Dash_114: -5334178905235024073
+      Tool_Dash_115: 2425881988782842761
+      Tool_Dash_116: 793801560549228600
+      Tool_Dash_117: -3795521321392532617
+      Tool_Dash_118: 6951479360428318552
+      Tool_Dash_119: -6910125857304547459
+      Tool_Dash_12: -4454090467539031722
+      Tool_Dash_120: -3240489410425625555
+      Tool_Dash_121: -2691849941261638932
+      Tool_Dash_122: -1533171120977567267
+      Tool_Dash_123: -7721521178321524819
+      Tool_Dash_124: 5588266172952184328
+      Tool_Dash_125: -5109310452796226393
+      Tool_Dash_126: -6789577469724838913
+      Tool_Dash_127: -2231219807264941861
+      Tool_Dash_128: -8860351722496452463
+      Tool_Dash_129: -6684565301052291415
+      Tool_Dash_13: -6895693529669658427
+      Tool_Dash_130: -1775236692733163887
+      Tool_Dash_131: -3194083449872163396
+      Tool_Dash_132: -402872001746499431
+      Tool_Dash_133: 3964480080683202383
+      Tool_Dash_134: -2906461701721804612
+      Tool_Dash_135: 3018418776881415151
+      Tool_Dash_136: -6453744869976962936
+      Tool_Dash_137: 2326192293725578368
+      Tool_Dash_138: 4617509778924056272
+      Tool_Dash_139: 5097464157245889135
+      Tool_Dash_14: 2129521094170886432
+      Tool_Dash_140: -1163164522092553236
+      Tool_Dash_141: 4706498687359940123
+      Tool_Dash_142: -6766136975647048621
+      Tool_Dash_143: -7801212159088316878
+      Tool_Dash_144: -6212970739776825682
+      Tool_Dash_145: -6817110123078180207
+      Tool_Dash_146: -3094696065694964914
+      Tool_Dash_147: -5402693384140278811
+      Tool_Dash_148: 2325138956038453695
+      Tool_Dash_149: -2295675376270799985
+      Tool_Dash_15: 6795680221993409516
+      Tool_Dash_150: -8675979666096193910
+      Tool_Dash_151: -7836440525488929726
+      Tool_Dash_152: -2998684913441471795
+      Tool_Dash_153: 2659559237806502993
+      Tool_Dash_154: 5675061388928381948
+      Tool_Dash_155: -2682474907728160620
+      Tool_Dash_156: 5840997511915261517
+      Tool_Dash_157: -4097393809828451809
+      Tool_Dash_158: -1380289839930848351
+      Tool_Dash_159: -8243246996742241764
+      Tool_Dash_16: -7296228492365183514
+      Tool_Dash_160: 8207167822496769857
+      Tool_Dash_161: -3355532581471816148
+      Tool_Dash_162: 7906377057912379692
+      Tool_Dash_163: 8934538948996887460
+      Tool_Dash_164: -2614450663779087999
+      Tool_Dash_165: -3067318320708164451
+      Tool_Dash_166: -2777301898100696860
+      Tool_Dash_167: 1170918466436055808
+      Tool_Dash_168: -4814269595532359522
+      Tool_Dash_169: 5151284038707303006
+      Tool_Dash_17: -3286715668483568688
+      Tool_Dash_170: -3833902242371025100
+      Tool_Dash_171: -6850754190253589436
+      Tool_Dash_172: 7578995869897529331
+      Tool_Dash_173: -1693458448869875366
+      Tool_Dash_174: -2632525031337524379
+      Tool_Dash_175: 8725710085007240993
+      Tool_Dash_176: 2962517981327880463
+      Tool_Dash_177: -1942483426367185240
+      Tool_Dash_178: -7082900569217552324
+      Tool_Dash_179: -7937713707537799149
+      Tool_Dash_18: 4533706848341604898
+      Tool_Dash_180: -6177971141750972301
+      Tool_Dash_181: 1657309378544585927
+      Tool_Dash_182: 6501431297769304432
+      Tool_Dash_183: -2465419310663318633
+      Tool_Dash_184: 675424177685233667
+      Tool_Dash_19: 429618785640549826
+      Tool_Dash_2: -7292649977045015548
+      Tool_Dash_20: -5550771515680757773
+      Tool_Dash_21: -484766718564622993
+      Tool_Dash_22: -4686589754036397729
+      Tool_Dash_23: 6520722950900827748
+      Tool_Dash_24: -8070478990728211864
+      Tool_Dash_25: 3011246546758236862
+      Tool_Dash_26: -8705145965172849512
+      Tool_Dash_27: -226961420972586595
+      Tool_Dash_28: -3747791533499468775
+      Tool_Dash_29: -1202745346573466020
+      Tool_Dash_3: -5739967128072182669
+      Tool_Dash_30: 9069491589981724999
+      Tool_Dash_31: 3191792143657692084
+      Tool_Dash_32: -7088829866744641946
+      Tool_Dash_33: -4572171592444098864
+      Tool_Dash_34: -4017416224990615890
+      Tool_Dash_35: -5246805255027414631
+      Tool_Dash_36: 6411930289454518532
+      Tool_Dash_37: 8243389147735038209
+      Tool_Dash_38: 7204747956709042657
+      Tool_Dash_39: 6491057261305376647
+      Tool_Dash_4: -2242093243643934417
+      Tool_Dash_40: -4945301476410249650
+      Tool_Dash_41: -2230184647583316040
+      Tool_Dash_42: -3070860357474448553
+      Tool_Dash_43: -6032090120098007875
+      Tool_Dash_44: 5323736491976793
+      Tool_Dash_45: 178344958432148497
+      Tool_Dash_46: 6543193651036414016
+      Tool_Dash_47: 442151999204237645
+      Tool_Dash_48: -5091567397339065368
+      Tool_Dash_49: -8464661890159175347
+      Tool_Dash_5: -1380585615989750950
+      Tool_Dash_50: -6788405281846554474
+      Tool_Dash_51: -2534474094967484749
+      Tool_Dash_52: 6610476927327234514
+      Tool_Dash_53: -9205674687963500590
+      Tool_Dash_54: 6057961736498401145
+      Tool_Dash_55: 8330297457084202595
+      Tool_Dash_56: 5314077676451094009
+      Tool_Dash_57: 7905141259569188191
+      Tool_Dash_58: 2108843372718072250
+      Tool_Dash_59: 2772323680654566313
+      Tool_Dash_6: -4682718493163802704
+      Tool_Dash_60: 2407112263148950738
+      Tool_Dash_61: 7045823468390035867
+      Tool_Dash_62: 368246548795860605
+      Tool_Dash_63: 5867966165156131688
+      Tool_Dash_64: 4751378527975042570
+      Tool_Dash_65: -4494868836023841822
+      Tool_Dash_66: -4180861564879362984
+      Tool_Dash_67: -7086489643686017585
+      Tool_Dash_68: 3981587690923127602
+      Tool_Dash_69: 8146314375737532306
+      Tool_Dash_7: -4677256996197187265
+      Tool_Dash_70: -153545467144857731
+      Tool_Dash_71: -8521413570848034761
+      Tool_Dash_72: 4249743178617259785
+      Tool_Dash_73: 7535528639050125673
+      Tool_Dash_74: -2509092815151947566
+      Tool_Dash_75: 5527989092783230046
+      Tool_Dash_76: -6338540355064198194
+      Tool_Dash_77: 4596263977548832751
+      Tool_Dash_78: 4168502566330267538
+      Tool_Dash_79: 2411324897192827852
+      Tool_Dash_8: -9192733508988874489
+      Tool_Dash_80: -7576911598718526783
+      Tool_Dash_81: -7269339426388098478
+      Tool_Dash_82: 2437594502263440802
+      Tool_Dash_83: 3720888420273325444
+      Tool_Dash_84: -9075953107548796952
+      Tool_Dash_85: -3235387909370722926
+      Tool_Dash_86: -2658827302762101459
+      Tool_Dash_87: -1809026268386627730
+      Tool_Dash_88: 7325671207272720918
+      Tool_Dash_89: -4710467513291871496
+      Tool_Dash_9: 1996389754152442019
+      Tool_Dash_90: -685571539560652085
+      Tool_Dash_91: -541362190111561725
+      Tool_Dash_92: -2377814344623667456
+      Tool_Dash_93: -8788299647154719371
+      Tool_Dash_94: -3082791148896244560
+      Tool_Dash_95: -3361799807263181802
+      Tool_Dash_96: -5778877907052881914
+      Tool_Dash_97: 2395166338812916875
+      Tool_Dash_98: -4531595692809631475
+      Tool_Dash_99: 776900514745869500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
